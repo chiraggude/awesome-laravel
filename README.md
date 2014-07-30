@@ -80,6 +80,7 @@ A curated list of awesome Laravel 4 resources
 
 ## Jobs
 * [LaraJobs](https://larajobs.com/)
+* [Laravel Gurus](http://laravelgurus.com/)
 * [With Laravel](http://withlaravel.com/)
 
 ## Miscelleanous
