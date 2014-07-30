@@ -7,6 +7,7 @@ A curated list of awesome Laravel 4 resources
 * [Quickstart](http://laravel.com/docs/quick)
 * [Documentation](http://laravel.com/docs)
 * [API](http://laravel.com/api/4.2/)
+* [Archive of Tutorials](http://laravel-news.com/category/laravel-tutorials)
 
 ## Code 
 * [Laravel Cheat Sheet](http://cheats.jesse-obrien.ca)
@@ -24,6 +25,9 @@ A curated list of awesome Laravel 4 resources
 * [Fideloper](http://fideloper.com/tag/laravel)
 * [Maxoffsky](http://maxoffsky.com/tag/laravel/)
 * [CodeForest](http://www.codeforest.net/tag/laravel)
+* [Taylor Otwell](http://taylorotwell.com/)
+* [RTFM](http://matthewhailwood.co.nz/tag/laravel/)
+* [Matt Stauffer](http://mattstauffer.co/tags/laravel)
 * [Creative Punch](http://creative-punch.net/articles/php-articles/laravel-tutorials/)
 * [Ryan Tablada](http://ryantablada.com/tag/Laravel)
 
@@ -31,6 +35,8 @@ A curated list of awesome Laravel 4 resources
 * [Laracasts](https://laracasts.com/) (Developer + Laracasts = God Mode on)
 * [PHP Academy](https://www.youtube.com/user/phpacademy/playlists)
 * [Fallendown2005](https://www.youtube.com/user/fallendown2005/playlists)
+* [Userscape](http://vimeo.com/userscape/videos)
+* [Treehouse](http://teamtreehouse.com/library/laravel-basics)
 * [Anthony Vipond](https://www.youtube.com/user/anthonytrading81/playlists)
 * [Arjun Yojan](https://www.youtube.com/playlist?list=PLGRfjzkRfBBN3Xy22KdWStOCLEu5jia7R)
 * [Creating a Laravel/AngularJS Webapp (MyMovieDB)](http://www.formatccolon.com/blog/category/code-web-development/mymoviedb-tutorial-series/)
@@ -64,7 +70,7 @@ A curated list of awesome Laravel 4 resources
 * [Laravel Packages Registry](http://registry.autopergamene.eu/)
 
 ## Newsletters
-* [Laravel News](http://laravel-news.com/)
+* [Laravel News](http://laravel-news.com/) ([archive](http://laravel-news.com/archive))
 * [Laravel Weekly](http://laravelweekly.com/)
 
 ## Community
