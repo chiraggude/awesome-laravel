@@ -1,7 +1,7 @@
 Awesome Laravel
 ===============
 
-A curated list of awesome Laravel resources
+A curated list of awesome Laravel 4 resources
 
 ## Essentials
 * [Quickstart](http://laravel.com/docs/quick)
@@ -18,6 +18,7 @@ A curated list of awesome Laravel resources
 * [Tuts+](http://code.tutsplus.com/categories/laravel)
 * [SitePoint](http://www.sitepoint.com/php/page/0/?filter[4047]=on)
 * [Scotch](http://scotch.io/tag/laravel)
+* [Christopher Pitt](https://medium.com/laravel-4)
 * [KodeInfo](http://kodeinfo.com/category/laravel/)
 * [Culttt](http://culttt.com/code)
 * [Fideloper](http://fideloper.com/tag/laravel)
@@ -26,8 +27,8 @@ A curated list of awesome Laravel resources
 * [Creative Punch](http://creative-punch.net/articles/php-articles/laravel-tutorials/)
 * [Ryan Tablada](http://ryantablada.com/tag/Laravel)
 
-## Videos
-* [Laracasts](https://laracasts.com/)
+## Video Tutorials
+* [Laracasts](https://laracasts.com/) (Developer + Laracasts = God Mode on)
 * [PHP Academy](https://www.youtube.com/user/phpacademy/playlists)
 * [Fallendown2005](https://www.youtube.com/user/fallendown2005/playlists)
 * [Anthony Vipond](https://www.youtube.com/user/anthonytrading81/playlists)
