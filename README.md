@@ -7,6 +7,7 @@ A curated list of awesome Laravel 4 resources
 * [Quickstart](http://laravel.com/docs/quick)
 * [Documentation](http://laravel.com/docs)
 * [API](http://laravel.com/api/4.2/)
+* [Code Bright web edition](http://daylerees.com/codebright/codebright) (an extention to the official documentation)
 * [Archive of Tutorials](http://laravel-news.com/category/laravel-tutorials)
 
 ## Code 
@@ -15,7 +16,7 @@ A curated list of awesome Laravel 4 resources
 * [Laravel Recipies](http://laravel-recipes.com/)
 * [Laravel Snippets](http://laravelsnippets.com/)
 
-## Articles, Tutorials, Blog posts etc.
+## Articles, Tutorials, Blogs etc.
 * [Tuts+](http://code.tutsplus.com/categories/laravel)
 * [SitePoint](http://www.sitepoint.com/php/page/0/?filter[4047]=on)
 * [Scotch](http://scotch.io/tag/laravel)
@@ -26,6 +27,7 @@ A curated list of awesome Laravel 4 resources
 * [Maxoffsky](http://maxoffsky.com/tag/laravel/)
 * [CodeForest](http://www.codeforest.net/tag/laravel)
 * [Taylor Otwell](http://taylorotwell.com/)
+* [Digital Ocean](https://www.digitalocean.com/community/search?primary_filter=tutorials&query=laravel)
 * [RTFM](http://matthewhailwood.co.nz/tag/laravel/)
 * [Matt Stauffer](http://mattstauffer.co/tags/laravel)
 * [Creative Punch](http://creative-punch.net/articles/php-articles/laravel-tutorials/)
@@ -36,6 +38,12 @@ A curated list of awesome Laravel 4 resources
 * [Sheikh Heera](http://heera.it/tag/laravel-2)
 * [Vegi Bit](http://vegibit.com/tag/laravel/)
 * [WSnippets](http://wsnippets.com/category/laravel/)
+* [Ed Zynda](http://www.edzynda.com/category/laravel-2/)
+* [Kirk Bushell](http://kirkbushell.me/)
+* [Andrews Ang](http://blog.kongnir.com/)
+* [DeveloPHP](http://www.develophp.org/category/web/laravel/)
+* [Jason Lewis](http://jasonlewis.me/category/laravel)
+* [Eric Barnes](http://ericlbarnes.com/blog/tags/laravel)
 
 
 ## Video Tutorials
