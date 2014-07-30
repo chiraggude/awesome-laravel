@@ -35,6 +35,7 @@ A curated list of awesome Laravel 4 resources
 * [Mohammad Gufran](http://www.gufran.me/tag/Laravel)
 * [Adam Engebretson](http://blog.enge.me/tag/Laravel)
 * [CodeHeaps](http://www.codeheaps.com/)
+* [Laravel India](http://blog.laravel.in/)
 * [Sheikh Heera](http://heera.it/tag/laravel-2)
 * [Vegi Bit](http://vegibit.com/tag/laravel/)
 * [WSnippets](http://wsnippets.com/category/laravel/)
@@ -55,8 +56,9 @@ A curated list of awesome Laravel 4 resources
 * [Anthony Vipond](https://www.youtube.com/user/anthonytrading81/playlists)
 * [Arjun Yojan](https://www.youtube.com/playlist?list=PLGRfjzkRfBBN3Xy22KdWStOCLEu5jia7R)
 * [Creating a Laravel/AngularJS Webapp (MyMovieDB)](http://www.formatccolon.com/blog/category/code-web-development/mymoviedb-tutorial-series/)
-* [Multipage Sites with Laravel and AngularJS](https://www.youtube.com/watch?v=QBdudSQ1aLg&list=UU2hi12ngz1aiGv_vditVHGw)
-* [Laravel + Angular Architecture](https://www.youtube.com/watch?v=BtbB26VWTBI&list=UUNwOyC90JfHehrRZzA1dBoA)
+* [Multipage Sites with Laravel and AngularJS](https://www.youtube.com/watch?v=QBdudSQ1aLg)
+* [Laravel + Angular Architecture](https://www.youtube.com/watch?v=BtbB26VWTBI)
+* [End to End with Angular JS](https://www.youtube.com/watch?v=hqAyiqUs93c)
 
 ## Laracon Videos
 * [Laracon US 2013](http://wiki.laravel.io/Laracon_2013)
