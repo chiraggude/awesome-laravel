@@ -30,6 +30,13 @@ A curated list of awesome Laravel 4 resources
 * [Matt Stauffer](http://mattstauffer.co/tags/laravel)
 * [Creative Punch](http://creative-punch.net/articles/php-articles/laravel-tutorials/)
 * [Ryan Tablada](http://ryantablada.com/tag/Laravel)
+* [Mohammad Gufran](http://www.gufran.me/tag/Laravel)
+* [Adam Engebretson](http://blog.enge.me/tag/Laravel)
+* [CodeHeaps](http://www.codeheaps.com/)
+* [Sheikh Heera](http://heera.it/tag/laravel-2)
+* [Vegi Bit](http://vegibit.com/tag/laravel/)
+* [WSnippets](http://wsnippets.com/category/laravel/)
+
 
 ## Video Tutorials
 * [Laracasts](https://laracasts.com/) (Developer + Laracasts = God Mode on)
