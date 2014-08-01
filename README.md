@@ -118,6 +118,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Packagist](https://packagist.org/)
 * [Packalyst](http://packalyst.com/)
 * [Laravel Packages Registry](http://registry.autopergamene.eu/)
+* [Cartalyst](https://cartalyst.com/)
 
 
 ## Newsletters
