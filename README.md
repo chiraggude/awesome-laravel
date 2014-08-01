@@ -1,7 +1,7 @@
 Awesome Laravel
 ===============
 
-A curated list of awesome bookmarks, tutorials, videos and other cool resources. The aim is to make it easier for beginners and veterans to discover the length and breadth of the Laravel ecosystem. 
+A curated list of awesome bookmarks, tutorials, videos and other cool resources. The aim is to make it easier for beginners and veterans to discover the length and breadth of Laravel's ecosystem. 
 
 Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
@@ -17,6 +17,13 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel Tricks](http://www.laravel-tricks.com/)
 * [Laravel Recipies](http://laravel-recipes.com/)
 * [Laravel Snippets](http://laravelsnippets.com/)
+
+
+## Package Repositories
+* [Packagist](https://packagist.org/)
+* [Packalyst](http://packalyst.com/)
+* [Laravel Packages Registry](http://registry.autopergamene.eu/)
+* [Cartalyst](https://cartalyst.com/)
 
 
 ## Development Setup 
@@ -112,13 +119,6 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [octobercms/october](https://github.com/octobercms/october)
 * [hillelcoren/invoice-ninja](https://github.com/hillelcoren/invoice-ninja)
 * [wardrobecms/wardrobe](https://github.com/wardrobecms/wardrobe)
-
-
-## Packages
-* [Packagist](https://packagist.org/)
-* [Packalyst](http://packalyst.com/)
-* [Laravel Packages Registry](http://registry.autopergamene.eu/)
-* [Cartalyst](https://cartalyst.com/)
 
 
 ## Newsletters
