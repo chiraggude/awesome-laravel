@@ -3,6 +3,8 @@ Awesome Laravel
 
 A curated list of awesome bookmarks, tutorials, videos and other cool resources from the Laravel ecosystem
 
+Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
+
 ## Essentials
 * [Quickstart Guide](http://laravel.com/docs/quick)
 * [Documentation](http://laravel.com/docs) ([API](http://laravel.com/api/4.2/))
@@ -25,7 +27,7 @@ A curated list of awesome bookmarks, tutorials, videos and other cool resources 
 
 ## Application Hosting 
 * [Forge](https://forge.laravel.com/)
-  * [Server Management With Forge - Laracasts] (https://laracasts.com/series/server-management-with-forge)
+  * [Server Management With Forge] (https://laracasts.com/series/server-management-with-forge)
   * [Getting your first site up and running in Laravel Forge](http://mattstauffer.co/blog/getting-your-first-site-up-and-running-in-laravel-forge)
   * [ForgeRecipes](http://forgerecipes.com/)
 
