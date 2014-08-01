@@ -1,7 +1,7 @@
 Awesome Laravel
 ===============
 
-A curated list of awesome bookmarks, tutorials, videos and other cool resources from the Laravel ecosystem
+A curated list of awesome bookmarks, tutorials, videos and other cool resources. The aim is to make it easier for beginners and veterans to discover the length and breadth of the Laravel ecosystem. 
 
 Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
@@ -27,7 +27,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 ## Application Hosting 
 * [Forge](https://forge.laravel.com/)
-  * [Server Management With Forge] (https://laracasts.com/series/server-management-with-forge)
+  * [Server Management With Forge](https://laracasts.com/series/server-management-with-forge)
   * [Getting your first site up and running in Laravel Forge](http://mattstauffer.co/blog/getting-your-first-site-up-and-running-in-laravel-forge)
   * [ForgeRecipes](http://forgerecipes.com/)
 
@@ -129,6 +129,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel.io Forum](http://laravel.io/) ([Old Forum Archive](http://forumsarchive.laravel.io/))
 * [Laravel.io Podcast](http://www.buzzsprout.com/11908)
 * [IRC Channel](http://laravel.io/chat)
+* [Meetups](http://laravel.meetup.com/)
 * [Twiiter](https://twitter.com/laravelphp)
 * [Google+](https://plus.google.com/communities/106838454910116161868)
 * [Reddit](http://www.reddit.com/r/laravel)
