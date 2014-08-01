@@ -144,7 +144,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 ## Miscelleanous
 * [Laravel Schema Designer](http://laravelsd.com/)
 * [Laragen](http://makzumi.com/laragen/)
-* [Buit with Laravel](http://builtwithlaravel.com/)
+* [Built with Laravel](http://builtwithlaravel.com/)
 
 ## Contributing
 Got new ideas or resources? Send me a PR!
