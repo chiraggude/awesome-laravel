@@ -105,10 +105,10 @@ A curated list of awesome bookmarks, tutorials, videos and other cool resources 
 
 
 ## Codebases for Reference
-* [Laravel.io](https://github.com/LaravelIO/laravel.io)
-* [October CMS](https://github.com/octobercms/october)
-* [Invoice Ninja](https://github.com/hillelcoren/invoice-ninja)
-* [Wardrobe](https://github.com/wardrobecms/wardrobe)
+* [laravelio/laravel.io](https://github.com/LaravelIO/laravel.io)
+* [octobercms/october](https://github.com/octobercms/october)
+* [hillelcoren/invoice-ninja](https://github.com/hillelcoren/invoice-ninja)
+* [wardrobecms/wardrobe](https://github.com/wardrobecms/wardrobe)
 
 
 ## Packages
