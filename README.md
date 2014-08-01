@@ -104,6 +104,13 @@ A curated list of awesome bookmarks, tutorials, videos and other cool resources 
 * [Building Web Applications Using Parse REST API](https://leanpub.com/building-web-applications-using-parse-rest-api)
 
 
+## Application Codebases for Reference
+* [Laravel.io](https://github.com/LaravelIO/laravel.io)
+* [October CMS](https://github.com/octobercms/october)
+* [Invoice Ninja](https://github.com/hillelcoren/invoice-ninja)
+* [Wardrobe](https://github.com/wardrobecms/wardrobe)
+
+
 ## Packages
 * [Packagist](https://packagist.org/)
 * [Packalyst](http://packalyst.com/)
