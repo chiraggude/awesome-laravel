@@ -17,6 +17,12 @@ A curated list of awesome bookmarks, tutorials, videos and other cool resources 
 * [Laravel Snippets](http://laravelsnippets.com/)
 
 
+## Development Setup 
+* [Homestead](http://laravel.com/docs/homestead)
+  * [6 Reasons to Move to Laravel Homestead](http://www.sitepoint.com/6-reasons-move-laravel-homestead/)
+  * [Getting Started with Laravel Homestead](http://scotch.io/tutorials/php/getting-started-with-laravel-homestead)
+
+
 ## Articles, Tutorials, Blogs etc.
 * [Tuts+](http://code.tutsplus.com/categories/laravel)
 * [SitePoint](http://www.sitepoint.com/php/page/0/?filter[4047]=on)
