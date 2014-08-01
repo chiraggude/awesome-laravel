@@ -104,6 +104,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Getting Started with Laravel 4](http://www.packtpub.com/getting-started-with-laravel-4/book)
 * [Laravel Application Development Cookbook](http://www.packtpub.com/laravel-application-development-cookbook/book)
 * [Building Web Applications Using Parse REST API](https://leanpub.com/building-web-applications-using-parse-rest-api)
+* [Laravel - My First Framework](https://leanpub.com/laravel-first-framework)
 
 
 ## Codebases for Reference
