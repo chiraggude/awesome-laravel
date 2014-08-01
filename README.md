@@ -21,6 +21,13 @@ A curated list of awesome bookmarks, tutorials, videos and other cool resources 
 * [Homestead](http://laravel.com/docs/homestead)
   * [6 Reasons to Move to Laravel Homestead](http://www.sitepoint.com/6-reasons-move-laravel-homestead/)
   * [Getting Started with Laravel Homestead](http://scotch.io/tutorials/php/getting-started-with-laravel-homestead)
+ 
+
+## Application Hosting 
+* [Forge](https://forge.laravel.com/)
+  * [Server Management With Forge - Laracasts] (https://laracasts.com/series/server-management-with-forge)
+  * [Getting your first site up and running in Laravel Forge](http://mattstauffer.co/blog/getting-your-first-site-up-and-running-in-laravel-forge)
+  * [ForgeRecipes](http://forgerecipes.com/)
 
 
 ## Articles, Tutorials, Blogs etc.
