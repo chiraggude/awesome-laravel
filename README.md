@@ -136,3 +136,6 @@ A curated list of awesome bookmarks, tutorials, videos and other cool resources 
 * [Laravel Schema Designer](http://laravelsd.com/)
 * [Laragen](http://makzumi.com/laragen/)
 * [Buit with Laravel](http://builtwithlaravel.com/)
+
+## Contributing
+Got new ideas or resources? Send me a PR!
