@@ -112,6 +112,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [octobercms/october](https://github.com/octobercms/october)
 * [hillelcoren/invoice-ninja](https://github.com/hillelcoren/invoice-ninja)
 * [wardrobecms/wardrobe](https://github.com/wardrobecms/wardrobe)
+* [Anahkiasen/registry](https://github.com/Anahkiasen/registry)
 
 
 ## Packages
