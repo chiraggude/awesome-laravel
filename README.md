@@ -156,3 +156,8 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 ## Contributing
 Got new ideas or resources? Send me a PR!
+
+### Guidelines
+* Please make an individual pull request for each suggestion
+* Use the following format for links: \[Resource\]\(LINK\)
+* New categories, or improvements to the existing categorisation are welcome
