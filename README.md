@@ -30,6 +30,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
   * [Server Management With Forge] (https://laracasts.com/series/server-management-with-forge)
   * [Getting your first site up and running in Laravel Forge](http://mattstauffer.co/blog/getting-your-first-site-up-and-running-in-laravel-forge)
   * [ForgeRecipes](http://forgerecipes.com/)
+* [Hosting Laravel](http://hostinglaravel.com/)
 
 
 ## Articles, Tutorials, Blogs etc.
