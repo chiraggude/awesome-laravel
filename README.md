@@ -119,6 +119,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [octobercms/october](https://github.com/octobercms/october)
 * [hillelcoren/invoice-ninja](https://github.com/hillelcoren/invoice-ninja)
 * [wardrobecms/wardrobe](https://github.com/wardrobecms/wardrobe)
+* [andrewelkins/Laravel-4-Bootstrap-Starter-Site](https://github.com/andrewelkins/Laravel-4-Bootstrap-Starter-Site)
 
 
 ## Newsletters
