@@ -28,8 +28,8 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 ## Development Setup 
 * [Homestead](http://laravel.com/docs/homestead)
-  * [6 Reasons to Move to Laravel Homestead](http://www.sitepoint.com/6-reasons-move-laravel-homestead/)
   * [Getting Started with Laravel Homestead](http://scotch.io/tutorials/php/getting-started-with-laravel-homestead)
+  * Video tutorials - [Installation](https://www.youtube.com/watch?v=WDU1TYe3zGU), [Multiple Sites](https://www.youtube.com/watch?v=Zx3heatCy9E) and [Accessing MySQL](https://www.youtube.com/watch?v=X-_e4GXS8ko)
  
 
 ## Application Hosting 
