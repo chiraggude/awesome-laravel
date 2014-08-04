@@ -120,6 +120,9 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [hillelcoren/invoice-ninja](https://github.com/hillelcoren/invoice-ninja)
 * [wardrobecms/wardrobe](https://github.com/wardrobecms/wardrobe)
 * [andrewelkins/Laravel-4-Bootstrap-Starter-Site](https://github.com/andrewelkins/Laravel-4-Bootstrap-Starter-Site)
+* [GrahamCampbell/Bootstrap-CMS](https://github.com/GrahamCampbell/Bootstrap-CMS)
+* [CodepadME/laravel-tricks](https://github.com/CodepadME/laravel-tricks)
+* [sdebacker/TypiCMS](https://github.com/sdebacker/TypiCMS)
 
 
 ## Newsletters
