@@ -154,10 +154,12 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [With Laravel](http://withlaravel.com/)
 
 
-## Miscelleanous
+## Miscellaneous
 * [Laravel Schema Designer](http://laravelsd.com/)
 * [Laragen](http://makzumi.com/laragen/)
 * [Built with Laravel](http://builtwithlaravel.com/)
+* [Understand.io](https://www.understand.io/)
+* [CodeCanyon](http://codecanyon.net/search?utf8=%E2%9C%93&term=laravel)
 
 ## Contributing
 Got new ideas or resources? Send me a PR!
