@@ -139,6 +139,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laracon US](https://conference.laravel.com/)
 * [Laracon EU](http://laracon.eu/)
 * [Laravel Myanmar](http://laravelmyanmar.com)
+* [Laravel Russia] (http://laravel.ru/)
 * [Laravel France](http://laravel.fr/)
 * [Meetups](http://laravel.meetup.com/)
 * [Twitter](https://twitter.com/laravelphp)
@@ -147,6 +148,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Quora](http://www.quora.com/Laravel)
 * [Facebook](https://www.facebook.com/LaravelCommunity)
 * [LinkedIn](https://www.linkedin.com/groups/Laravel-PHP-Framework-4419933)
+* [VK] (http://vk.com/laravel_rus)
 
 
 ## Jobs
