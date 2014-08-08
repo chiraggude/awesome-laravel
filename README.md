@@ -90,7 +90,11 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Lynda](http://www.lynda.com/Laravel-tutorials/Up-Running-Laravel/166513-2.html)
 
 
-## Laracon Videos
+## Laracon 
+* [Laracon US](https://conference.laravel.com/)
+* [Laracon EU](http://laracon.eu/)
+
+#### Videos
 * [Laracon US 2014](http://userscape.com/laracon/2014/)
 * [Laracon EU 2013](http://laracon.eu/2013/talks/)
 * [Laracon US 2013](http://wiki.laravel.io/Laracon_2013)
@@ -136,11 +140,6 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel.io Podcast](http://www.buzzsprout.com/11908)
 * [IRC Channel](http://laravel.io/chat)
 * [Laracasts Forum](https://www.laracasts.com/forum/)
-* [Laracon US](https://conference.laravel.com/)
-* [Laracon EU](http://laracon.eu/)
-* [Laravel Myanmar](http://laravelmyanmar.com)
-* [Laravel Russia] (http://laravel.ru/)
-* [Laravel France](http://laravel.fr/)
 * [Meetups](http://laravel.meetup.com/)
 * [Twitter](https://twitter.com/laravelphp)
 * [Google+](https://plus.google.com/communities/106838454910116161868)
@@ -148,8 +147,12 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Quora](http://www.quora.com/Laravel)
 * [Facebook](https://www.facebook.com/LaravelCommunity)
 * [LinkedIn](https://www.linkedin.com/groups/Laravel-PHP-Framework-4419933)
-* [VK] (http://vk.com/laravel_rus)
 
+#### Local User Groups
+* [Laravel Russia](http://laravel.ru/) 
+* [VK](http://vk.com/laravel_rus)
+* [Laravel France](http://laravel.fr/)
+* [Laravel Myanmar](http://laravelmyanmar.com)
 
 ## Jobs
 * [LaraJobs](https://larajobs.com/)
@@ -167,7 +170,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 ## Contributing
 Got new ideas or resources? Send me a PR!
 
-### Guidelines
+#### Guidelines
 * Please make an individual pull request for each suggestion
 * Use the following format for links: \[Resource\]\(LINK\)
 * New categories, or improvements to the existing categorisation are welcome
