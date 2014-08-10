@@ -71,6 +71,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Jens Segers](http://jenssegers.be/)
 * [Neon Tsunami](http://www.neontsunami.com/tag/laravel)
 * [Amitav Roy](http://amitavroy.com/justread/content/term/laravel-4)
+* [Into Laravel](http://www.intolaravel.com/)
 
 
 ## Video Tutorials
