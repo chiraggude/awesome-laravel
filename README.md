@@ -34,6 +34,10 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Debug Bar](https://github.com/barryvdh/laravel-debugbar) - Integrates PHP Debug Bar with Laravel
 * [IDE Helper](https://github.com/barryvdh/laravel-ide-helper) - Generates a helper file for IDE auto-completion
 
+#### Working with Javascript 
+* [Transform PHP Vars to JavaScript](https://github.com/laracasts/PHP-Vars-To-Js-Transformer) -  Pass some server-side string/array/collection/whatever to your JavaScript
+* [Laroute](https://github.com/aaronlord/laroute) - Generate Laravel route URLs from JavaScript
+
 #### Tasks & Deployment
 * [Envoy](https://github.com/laravel/envoy) - SSH Task Runner
 * [Rocketeer](https://github.com/Anahkiasen/rocketeer) - Task runner and deployment package
