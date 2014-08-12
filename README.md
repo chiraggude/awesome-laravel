@@ -32,9 +32,11 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 #### Developer Tools
 * [Generators](https://github.com/JeffreyWay/Laravel-4-Generators) - Speeds up development workflow
 * [Debug Bar](https://github.com/barryvdh/laravel-debugbar) - Integrates PHP Debug Bar with Laravel
-* [Envoy](https://github.com/laravel/envoy) - SSH Task Runner
 * [IDE Helper](https://github.com/barryvdh/laravel-ide-helper) - Generates a helper file for IDE auto-completion
 
+#### Tasks & Deployment
+* [Envoy](https://github.com/laravel/envoy) - SSH Task Runner
+* [Rocketeer](https://github.com/Anahkiasen/rocketeer) - Task runner and deployment package
 
 ## Development Setup 
 * [Homestead](http://laravel.com/docs/homestead)
