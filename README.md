@@ -34,6 +34,10 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Debug Bar](https://github.com/barryvdh/laravel-debugbar) - Integrates PHP Debug Bar with Laravel
 * [IDE Helper](https://github.com/barryvdh/laravel-ide-helper) - Generates a helper file for IDE auto-completion
 
+#### Authentication & Authorisation
+* [Confide](https://github.com/Zizaco/confide) - Authentication solution to cut repetitive work involving the management of users
+* [Entrust](https://github.com/Zizaco/entrust) - Role-based Permissions
+
 #### Utilities
 * [Eloquent Sluggable](https://github.com/cviebrock/eloquent-sluggable) - Creation of slugs for your Eloquent models
 * [Laravel Stapler](https://github.com/CodeSleeve/laravel-stapler) - ORM-based file upload manager
