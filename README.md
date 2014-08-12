@@ -29,25 +29,29 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 ## Packages
 *This is a list of well-documented, tested packages that are frequently used in most Laravel projects. If your looking for an exhaustive list of Laravel packages, then look at the Package Repositories mentioned above.*  
 
-#### Developer Tools
+##### Developer Tools
 * [Generators](https://github.com/JeffreyWay/Laravel-4-Generators) - Speeds up development workflow
 * [Debug Bar](https://github.com/barryvdh/laravel-debugbar) - Integrates PHP Debug Bar with Laravel
 * [IDE Helper](https://github.com/barryvdh/laravel-ide-helper) - Generates a helper file for IDE auto-completion
 
-#### Authentication & Authorisation
+##### Authentication & Authorisation
 * [Confide](https://github.com/Zizaco/confide) - Authentication solution to cut repetitive work involving the management of users
 * [Entrust](https://github.com/Zizaco/entrust) - Role-based Permissions
 
-#### Utilities
+##### Utilities
 * [Eloquent Sluggable](https://github.com/cviebrock/eloquent-sluggable) - Creation of slugs for your Eloquent models
 * [Laravel Stapler](https://github.com/CodeSleeve/laravel-stapler) - ORM-based file upload manager
 * [Laravel DOMPDF](https://github.com/barryvdh/laravel-dompdf) - HTML to PDF generator
 
-#### Working with Javascript 
+##### Working with Javascript 
 * [Transform PHP Vars to JavaScript](https://github.com/laracasts/PHP-Vars-To-Js-Transformer) -  Pass some server-side string/array/collection/whatever to your JavaScript
 * [Laroute](https://github.com/aaronlord/laroute) - Generate Laravel route URLs from JavaScript
 
-#### Tasks & Deployment
+#### Database, Migrations & Seeding
+* [Laravel MongoDB](https://github.com/jenssegers/laravel-mongodb) - Eloquent model and Query builder with support for MongoDB
+* [Laravel Flysystem](https://github.com/GrahamCampbell/Laravel-Flysystem) - Abstraction to swap out a local file-system for a remote one (AWS S3, Dropbox etc.)
+
+##### Tasks & Deployment
 * [Envoy](https://github.com/laravel/envoy) - SSH Task Runner
 * [Rocketeer](https://github.com/Anahkiasen/rocketeer) - Task runner and deployment package
 
