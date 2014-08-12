@@ -34,6 +34,11 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Debug Bar](https://github.com/barryvdh/laravel-debugbar) - Integrates PHP Debug Bar with Laravel
 * [IDE Helper](https://github.com/barryvdh/laravel-ide-helper) - Generates a helper file for IDE auto-completion
 
+#### Utilities
+* [Eloquent Sluggable](https://github.com/cviebrock/eloquent-sluggable) - Creation of slugs for your Eloquent models
+* [Laravel Stapler](https://github.com/CodeSleeve/laravel-stapler) - ORM-based file upload manager
+* [Laravel DOMPDF](https://github.com/barryvdh/laravel-dompdf) - HTML to PDF generator
+
 #### Working with Javascript 
 * [Transform PHP Vars to JavaScript](https://github.com/laracasts/PHP-Vars-To-Js-Transformer) -  Pass some server-side string/array/collection/whatever to your JavaScript
 * [Laroute](https://github.com/aaronlord/laroute) - Generate Laravel route URLs from JavaScript
