@@ -26,6 +26,16 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Cartalyst](https://cartalyst.com/)
 
 
+## Packages
+This is a list of well-documented, tested packages that are frequently used in most Laravel projects. If your looking for an exhaustive list of Laravel packages, then look at the Package Repositories mentioned above.  
+
+#### Developer Tools
+* [Generators](https://github.com/JeffreyWay/Laravel-4-Generators) - Speeds up development workflow
+* [Debug Bar](https://github.com/barryvdh/laravel-debugbar) - Integrates PHP Debug Bar with Laravel
+* [Envoy](https://github.com/laravel/envoy) - SSH Task Runner
+* [IDE Helper](https://github.com/barryvdh/laravel-ide-helper) - Generates a helper file for IDE auto-completion
+
+
 ## Development Setup 
 * [Homestead](http://laravel.com/docs/homestead)
   * [Getting Started with Laravel Homestead](http://scotch.io/tutorials/php/getting-started-with-laravel-homestead)
