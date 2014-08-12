@@ -27,7 +27,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 
 ## Packages
-This is a list of well-documented, tested packages that are frequently used in most Laravel projects. If your looking for an exhaustive list of Laravel packages, then look at the Package Repositories mentioned above.  
+*This is a list of well-documented, tested packages that are frequently used in most Laravel projects. If your looking for an exhaustive list of Laravel packages, then look at the Package Repositories mentioned above.*  
 
 #### Developer Tools
 * [Generators](https://github.com/JeffreyWay/Laravel-4-Generators) - Speeds up development workflow
@@ -136,10 +136,10 @@ This is a list of well-documented, tested packages that are frequently used in m
 * [octobercms/october](https://github.com/octobercms/october)
 * [hillelcoren/invoice-ninja](https://github.com/hillelcoren/invoice-ninja)
 * [wardrobecms/wardrobe](https://github.com/wardrobecms/wardrobe)
-* [andrewelkins/Laravel-4-Bootstrap-Starter-Site](https://github.com/andrewelkins/Laravel-4-Bootstrap-Starter-Site)
-* [GrahamCampbell/Bootstrap-CMS](https://github.com/GrahamCampbell/Bootstrap-CMS)
-* [CodepadME/laravel-tricks](https://github.com/CodepadME/laravel-tricks)
-* [sdebacker/TypiCMS](https://github.com/sdebacker/TypiCMS)
+* [andrewelkins/laravel-4-bootstrap-starter-site](https://github.com/andrewelkins/Laravel-4-Bootstrap-Starter-Site)
+* [grahamcampbell/bootstrap-cms](https://github.com/GrahamCampbell/Bootstrap-CMS)
+* [codepadme/laravel-tricks](https://github.com/CodepadME/laravel-tricks)
+* [sdebacker/typicms](https://github.com/sdebacker/TypiCMS)
 
 
 ## Newsletters
@@ -185,4 +185,5 @@ Got new ideas or resources? Send me a PR!
 #### Guidelines
 * Please make an individual pull request for each suggestion
 * Use the following format for links: \[Resource\]\(LINK\)
-* New categories, or improvements to the existing categorisation are welcome
+* Use the following format for packages: \[Package\]\(LINK\) - Short description
+* New categories or improvements to the existing categorisation are welcome
