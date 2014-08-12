@@ -72,6 +72,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Neon Tsunami](http://www.neontsunami.com/tag/laravel)
 * [Amitav Roy](http://amitavroy.com/justread/content/term/laravel-4)
 * [Into Laravel](http://www.intolaravel.com/)
+* [Stidges](http://blog.stidges.com/)
 
 
 ## Video Tutorials
@@ -140,7 +141,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel.io Forum](http://laravel.io/) ([Old Forum Archive](http://forumsarchive.laravel.io/))
 * [Laravel.io Podcast](http://www.buzzsprout.com/11908)
 * [IRC Channel](http://laravel.io/chat)
-* [Laracasts Forum](https://www.laracasts.com/forum/)
+* [Laracasts Forum](https://laracasts.com/discuss) ([Old Forum Archive](https://www.laracasts.com/forum/))
 * [Meetups](http://laravel.meetup.com/)
 * [Twitter](https://twitter.com/laravelphp)
 * [Google+](https://plus.google.com/communities/106838454910116161868)
@@ -150,8 +151,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [LinkedIn](https://www.linkedin.com/groups/Laravel-PHP-Framework-4419933)
 
 #### Local User Groups
-* [Laravel Russia](http://laravel.ru/) 
-* [VK](http://vk.com/laravel_rus)
+* [Laravel Russia](http://laravel.ru/) ([VK group](http://vk.com/laravel_rus))
 * [Laravel France](http://laravel.fr/)
 * [Laravel Myanmar](http://laravelmyanmar.com)
 * [Laravel Brasil](http://www.laravel.com.br/) ([Facebook group](https://www.facebook.com/groups/laravelbrasil/))
