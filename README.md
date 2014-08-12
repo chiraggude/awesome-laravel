@@ -47,7 +47,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Transform PHP Vars to JavaScript](https://github.com/laracasts/PHP-Vars-To-Js-Transformer) -  Pass some server-side string/array/collection/whatever to your JavaScript
 * [Laroute](https://github.com/aaronlord/laroute) - Generate Laravel route URLs from JavaScript
 
-#### Database, Migrations & Seeding
+##### Database, Migrations & Seeding
 * [Laravel MongoDB](https://github.com/jenssegers/laravel-mongodb) - Eloquent model and Query builder with support for MongoDB
 * [Laravel Flysystem](https://github.com/GrahamCampbell/Laravel-Flysystem) - Abstraction to swap out a local file-system for a remote one (AWS S3, Dropbox etc.)
 
@@ -55,17 +55,22 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Envoy](https://github.com/laravel/envoy) - SSH Task Runner
 * [Rocketeer](https://github.com/Anahkiasen/rocketeer) - Task runner and deployment package
 
+
 ## Development Setup 
-* [Homestead](http://laravel.com/docs/homestead)
+* [Homestead](http://laravel.com/docs/homestead) - Official Vagrant box for Laravel
   * [Getting Started with Laravel Homestead](http://scotch.io/tutorials/php/getting-started-with-laravel-homestead)
   * Video tutorials - [Installation](https://www.youtube.com/watch?v=WDU1TYe3zGU), [Multiple Sites](https://www.youtube.com/watch?v=Zx3heatCy9E) and [Accessing MySQL](https://www.youtube.com/watch?v=X-_e4GXS8ko)
- 
+* Install Laravel with Composer 
+ * [Windows](https://www.youtube.com/watch?v=m3D894qZKws) 
+ * [Mac OSX or Linux](https://laracasts.com/lessons/laravel-installation-for-newbs)
+
 
 ## Application Hosting 
 * [Forge](https://forge.laravel.com/)
   * [Server Management With Forge](https://laracasts.com/series/server-management-with-forge)
   * [Getting your first site up and running in Laravel Forge](http://mattstauffer.co/blog/getting-your-first-site-up-and-running-in-laravel-forge)
   * [ForgeRecipes](http://forgerecipes.com/)
+* [FortRabbit](http://fortrabbit.com/solutions/laravel-hosting)
 
 
 ## Articles, Tutorials, Blogs etc.
@@ -185,6 +190,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel Myanmar](http://laravelmyanmar.com)
 * [Laravel Brasil](http://www.laravel.com.br/) ([Facebook group](https://www.facebook.com/groups/laravelbrasil/))
 
+
 ## Jobs
 * [LaraJobs](https://larajobs.com/)
 * [Laravel Gurus](http://laravelgurus.com/)
@@ -197,6 +203,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Built with Laravel](http://builtwithlaravel.com/)
 * [Understand.io](https://www.understand.io/)
 * [CodeCanyon](http://codecanyon.net/search?utf8=%E2%9C%93&term=laravel)
+
 
 ## Contributing
 Got new ideas or resources? Send me a PR!
