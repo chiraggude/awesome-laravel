@@ -74,11 +74,13 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 
 ## Application Hosting 
-* [Forge](https://forge.laravel.com/)
+* [Forge](https://forge.laravel.com/) - PHP PaaS optimized for Laravel on servers of your choice
   * [Server Management With Forge](https://laracasts.com/series/server-management-with-forge)
   * [Getting your first site up and running in Laravel Forge](http://mattstauffer.co/blog/getting-your-first-site-up-and-running-in-laravel-forge)
   * [ForgeRecipes](http://forgerecipes.com/)
-* [FortRabbit](http://fortrabbit.com/solutions/laravel-hosting)
+* [FortRabbit](http://fortrabbit.com/solutions/laravel-hosting) ([Video](https://laracasts.com/lessons/from-zero-to-deploy-with-fortrabbit))
+* [PagodaBox](https://pagodabox.com/) ([Quickstart app](https://pagodabox.com/cafe/briankiewel/laravel-4))
+* [Heroku](https://www.heroku.com/) ([Tutorial](http://mattstauffer.co/blog/installing-a-laravel-app-on-heroku))
 
 
 ## Articles, Tutorials, Blogs etc.
