@@ -30,13 +30,16 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 *This is a list of well-documented, tested packages that are frequently used in most Laravel projects. If your looking for an exhaustive list of Laravel packages, then look at the Package Repositories mentioned above.*  
 
 ##### Developer Tools
-* [Generators](https://github.com/JeffreyWay/Laravel-4-Generators) - Speeds up development workflow
+* [Generators](https://github.com/JeffreyWay/Laravel-4-Generators) - Automatic code generator that helps to speed up development workflow
 * [Debug Bar](https://github.com/barryvdh/laravel-debugbar) - Integrates PHP Debug Bar with Laravel
 * [IDE Helper](https://github.com/barryvdh/laravel-ide-helper) - Generates a helper file for IDE auto-completion
 
 ##### Authentication & Authorisation
 * [Confide](https://github.com/Zizaco/confide) - Authentication solution to cut repetitive work involving the management of users
 * [Entrust](https://github.com/Zizaco/entrust) - Role-based Permissions
+* [OAuth 4 Laravel](https://github.com/artdarek/oauth-4-laravel) - OAuth client wrapper for Laravel that supports Facebook, Twitter, Google etc.
+* [OAuth2 Server Laravel](https://github.com/lucadegasperi/oauth2-server-laravel) - Wrapper for OAuth 2.0 authorization server and resource server 
+* [Sentry](https://github.com/cartalyst/sentry) - Framework agnostic authentication & authorization system
 
 ##### Utilities
 * [Eloquent Sluggable](https://github.com/cviebrock/eloquent-sluggable) - Creation of slugs for your Eloquent models
@@ -44,7 +47,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel DOMPDF](https://github.com/barryvdh/laravel-dompdf) - HTML to PDF generator
 
 ##### Working with Javascript 
-* [Transform PHP Vars to JavaScript](https://github.com/laracasts/PHP-Vars-To-Js-Transformer) -  Pass some server-side string/array/collection/whatever to your JavaScript
+* [PHP Vars to JavaScript Transformer](https://github.com/laracasts/PHP-Vars-To-Js-Transformer) -  Pass some server-side string/array/collection/whatever to your JavaScript
 * [Laroute](https://github.com/aaronlord/laroute) - Generate Laravel route URLs from JavaScript
 
 ##### Database, Migrations & Seeding
@@ -103,7 +106,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [WSnippets](http://wsnippets.com/category/laravel/)
 * [Ed Zynda](http://www.edzynda.com/category/laravel-2/)
 * [Kirk Bushell](http://kirkbushell.me/)
-* [Andrews Ang](http://blog.kongnir.com/)
+* [Andrews Ang](http://blog.kongnir.com/category/laravel-2/)
 * [DeveloPHP](http://www.develophp.org/category/web/laravel/)
 * [Jason Lewis](http://jasonlewis.me/category/laravel)
 * [Eric Barnes](http://ericlbarnes.com/blog/tags/laravel)
