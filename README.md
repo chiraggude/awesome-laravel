@@ -26,7 +26,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Cartalyst](https://cartalyst.com/)
 
 
-## Packages
+## Popular Packages
 *This is a list of well-documented, tested packages that are frequently used in most Laravel projects. If your looking for an exhaustive list of Laravel packages, then look at the Package Repositories mentioned above.*  
 
 ##### Developer Tools
@@ -50,6 +50,11 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 ##### Database, Migrations & Seeding
 * [Laravel MongoDB](https://github.com/jenssegers/laravel-mongodb) - Eloquent model and Query builder with support for MongoDB
 * [Laravel Flysystem](https://github.com/GrahamCampbell/Laravel-Flysystem) - Abstraction to swap out a local file-system for a remote one (AWS S3, Dropbox etc.)
+* [Laravel Doctrine](https://github.com/mitchellvanw/laravel-doctrine) - Doctrine 2 ORM implementation that melts with Laravel
+* [Migrations Generator](https://github.com/Xethron/migrations-generator) - Generate Migrations from an existing database
+* [iSeed](https://github.com/orangehill/iseed) - Generate a new seed file based on data from the existing database table
+* [Backup Manager](https://github.com/heybigname/backup-manager) - Database backup and restoration
+* [Tenanti](https://github.com/orchestral/tenanti) - Multi-tenant database schema manager
 
 ##### Tasks & Deployment
 * [Envoy](https://github.com/laravel/envoy) - SSH Task Runner
