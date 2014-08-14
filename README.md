@@ -31,6 +31,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 ##### Developer Tools
 * [Generators](https://github.com/JeffreyWay/Laravel-4-Generators) - Automatic code generator that helps to speed up development workflow
+* [Blacksmith](https://github.com/Indatus/blacksmith) - Flexible code generation tool 
 * [Debug Bar](https://github.com/barryvdh/laravel-debugbar) - Integrates PHP Debug Bar with Laravel
 * [Clockwork](https://github.com/itsgoingd/clockwork) - Integrates Clockwork Chrome extension for debugging and profiling apps
 * [IDE Helper](https://github.com/barryvdh/laravel-ide-helper) - Generates a helper file for IDE auto-completion
@@ -61,8 +62,8 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 ##### Tasks & Deployment
 * [Envoy](https://github.com/laravel/envoy) - SSH Task Runner
+* [Dispatcher](https://github.com/indatus/dispatcher) - Schedule your Artisan commands
 * [Rocketeer](https://github.com/Anahkiasen/rocketeer) - Task runner and deployment package
-
 
 ## Development Setup 
 * [Homestead](http://laravel.com/docs/homestead) - Official Vagrant box for Laravel
