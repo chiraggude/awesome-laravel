@@ -175,6 +175,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [grahamcampbell/bootstrap-cms](https://github.com/GrahamCampbell/Bootstrap-CMS)
 * [codepadme/laravel-tricks](https://github.com/CodepadME/laravel-tricks)
 * [sdebacker/typicms](https://github.com/sdebacker/TypiCMS)
+* [chintanbanugaria/92five](https://github.com/chintanbanugaria/92five)
 
 
 ## Newsletters
