@@ -1,7 +1,7 @@
 Awesome Laravel
 ===============
 
-A curated list of awesome bookmarks, tutorials, videos and other cool resources. The aim is to make it easier for beginners and veterans to discover the length and breadth of Laravel's ecosystem. 
+A curated list of awesome bookmarks, packages, tutorials, videos and other cool resources. The aim is to make it easier for beginners and veterans to discover the Laravel ecosystem. 
 
 Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
@@ -43,6 +43,8 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [OAuth2 Server Laravel](https://github.com/lucadegasperi/oauth2-server-laravel) - Wrapper for OAuth 2.0 authorization server and resource server 
 
 ##### Utilities
+* [Intervention Image](https://github.com/Intervention/image) - Image handling and manipulation library for creating, editing and composing images
+* [Validating](https://github.com/dwightwatson/validating) - Trait for validating Eloquent models on save
 * [Eloquent Sluggable](https://github.com/cviebrock/eloquent-sluggable) - Creation of slugs for your Eloquent models
 * [Laravel Stapler](https://github.com/CodeSleeve/laravel-stapler) - ORM-based file upload manager
 * [Laravel DOMPDF](https://github.com/barryvdh/laravel-dompdf) - HTML to PDF generator
