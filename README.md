@@ -48,9 +48,12 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Eloquent Sluggable](https://github.com/cviebrock/eloquent-sluggable) - Creation of slugs for your Eloquent models
 * [Laravel Stapler](https://github.com/CodeSleeve/laravel-stapler) - ORM-based file upload manager
 * [Laravel DOMPDF](https://github.com/barryvdh/laravel-dompdf) - HTML to PDF generator
+* [Laravel Markdown](https://github.com/GrahamCampbell/Laravel-Markdown) - Parsedown-Extra wrapper for Laravel
+* [Recaptcha](https://github.com/greggilbert/recaptcha) - Adds reCaptcha validator
+* [Datatable](https://github.com/Chumper/Datatable) - Server-side and client-side integration for jQuery Datatables plugin
 
 ##### Working with Javascript 
-* [PHP Vars to JavaScript Transformer](https://github.com/laracasts/PHP-Vars-To-Js-Transformer) -  Pass some server-side string/array/collection/whatever to your JavaScript
+* [PHP Vars to JavaScript Transformer](https://github.com/laracasts/PHP-Vars-To-Js-Transformer) -  Pass server-side string/array/collection/whatever to your JavaScript
 * [Laroute](https://github.com/aaronlord/laroute) - Generate Laravel route URLs from JavaScript
 
 ##### Database, Migrations & Seeding
@@ -66,6 +69,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Envoy](https://github.com/laravel/envoy) - SSH Task Runner
 * [Dispatcher](https://github.com/indatus/dispatcher) - Schedule your Artisan commands
 * [Rocketeer](https://github.com/Anahkiasen/rocketeer) - Task runner and deployment package
+
 
 ## Development Setup 
 * [Homestead](http://laravel.com/docs/homestead) - Official Vagrant box for Laravel
