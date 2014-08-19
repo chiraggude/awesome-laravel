@@ -70,6 +70,9 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Dispatcher](https://github.com/indatus/dispatcher) - Schedule your Artisan commands
 * [Rocketeer](https://github.com/Anahkiasen/rocketeer) - Task runner and deployment package
 
+##### Optimization
+* [Laravel HTML Minify](https://github.com/fitztrev/laravel-html-minify) - Minifies the HTML output
+* [Intervention Image Cache](https://github.com/Intervention/imagecache) - Caching extension for the Intervention Image Class 
 
 ## Development Setup 
 * [Homestead](http://laravel.com/docs/homestead) - Official Vagrant box for Laravel
