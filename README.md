@@ -99,7 +99,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 
 ## Articles, Tutorials, Blogs etc.
-* [Tuts+](http://code.tutsplus.com/categories/laravel) - [Courses](http://code.tutsplus.com/categories/laravel/courses)
+* [Tuts+](http://code.tutsplus.com/categories/laravel)
 * [SitePoint](http://www.sitepoint.com/php/page/0/?filter[4047]=on)
 * [Christopher Pitt](https://medium.com/laravel-4)
 * [Culttt](http://culttt.com/tag/cribbb/)
@@ -149,6 +149,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Maarten (muukrls)](https://www.youtube.com/channel/UCrehvx9t0p_TFAIw6YLtzDQ/videos) 
 * [Yavor Kirov](https://www.youtube.com/playlist?list=PL2uFHrRTF1xxC4nG9gMUmwONI3d_vJEJf)
 * [Lynda](http://www.lynda.com/Laravel-tutorials/Up-Running-Laravel/166513-2.html)
+* [Tuts+](http://code.tutsplus.com/categories/laravel/courses)
 
 
 ## Laracon 
