@@ -65,14 +65,19 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Backup Manager](https://github.com/heybigname/backup-manager) - Database backup and restoration
 * [Tenanti](https://github.com/orchestral/tenanti) - Multi-tenant database schema manager
 
-##### Tasks & Deployment
+##### Tasks & Commands 
 * [Envoy](https://github.com/laravel/envoy) - SSH Task Runner
 * [Dispatcher](https://github.com/indatus/dispatcher) - Schedule your Artisan commands
-* [Rocketeer](https://github.com/Anahkiasen/rocketeer) - Task runner and deployment package
+
+##### Asset Management
+* [Asset Pipeline](https://github.com/CodeSleeve/asset-pipeline)
 
 ##### Optimization
 * [Laravel HTML Minify](https://github.com/fitztrev/laravel-html-minify) - Minifies the HTML output
 * [Intervention Image Cache](https://github.com/Intervention/imagecache) - Caching extension for the Intervention Image Class 
+##### Deployment
+* [Rocketeer](https://github.com/Anahkiasen/rocketeer) - Task runner and deployment package
+
 
 ## Development Setup 
 * [Homestead](http://laravel.com/docs/homestead) - Official Vagrant box for Laravel
