@@ -43,7 +43,6 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [OAuth2 Server Laravel](https://github.com/lucadegasperi/oauth2-server-laravel) - Wrapper for OAuth 2.0 authorization server and resource server 
 
 ##### Utilities
-* [Intervention Image](https://github.com/Intervention/image) - Image handling and manipulation library for creating, editing and composing images
 * [Validating](https://github.com/dwightwatson/validating) - Trait for validating Eloquent models on save
 * [Eloquent Sluggable](https://github.com/cviebrock/eloquent-sluggable) - Creation of slugs for your Eloquent models
 * [Laravel Stapler](https://github.com/CodeSleeve/laravel-stapler) - ORM-based file upload manager
@@ -51,6 +50,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel Markdown](https://github.com/GrahamCampbell/Laravel-Markdown) - Parsedown-Extra wrapper for Laravel
 * [Recaptcha](https://github.com/greggilbert/recaptcha) - Adds reCaptcha validator
 * [Datatable](https://github.com/Chumper/Datatable) - Server-side and client-side integration for jQuery Datatables plugin
+* [Laravel Breadcrumbs](https://github.com/davejamesmiller/laravel-breadcrumbs) - Create and manage breadcrumbs
 
 ##### Working with Javascript 
 * [PHP Vars to JavaScript Transformer](https://github.com/laracasts/PHP-Vars-To-Js-Transformer) -  Pass server-side string/array/collection/whatever to your JavaScript
@@ -65,18 +65,18 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Backup Manager](https://github.com/heybigname/backup-manager) - Database backup and restoration
 * [Tenanti](https://github.com/orchestral/tenanti) - Multi-tenant database schema manager
 
-##### Tasks & Commands 
+##### Tasks, Commands and Deployment
 * [Envoy](https://github.com/laravel/envoy) - SSH Task Runner
 * [Dispatcher](https://github.com/indatus/dispatcher) - Schedule your Artisan commands
+* [Rocketeer](https://github.com/Anahkiasen/rocketeer) - Task runner and deployment package
 
 ##### Asset Management
+* [Intervention Image](https://github.com/Intervention/image) - Image handling and manipulation library for creating, editing and composing images
 * [Asset Pipeline](https://github.com/CodeSleeve/asset-pipeline)
 
 ##### Optimization
 * [Laravel HTML Minify](https://github.com/fitztrev/laravel-html-minify) - Minifies the HTML output
-* [Intervention Image Cache](https://github.com/Intervention/imagecache) - Caching extension for the Intervention Image Class 
-##### Deployment
-* [Rocketeer](https://github.com/Anahkiasen/rocketeer) - Task runner and deployment package
+* [Intervention Image Cache](https://github.com/Intervention/imagecache) - Caching extension for the Intervention Image Class
 
 
 ## Development Setup 
