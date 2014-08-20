@@ -99,14 +99,14 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 
 ## Articles, Tutorials, Blogs etc.
-* [Tuts+](http://code.tutsplus.com/categories/laravel)
+* [Tuts+](http://code.tutsplus.com/categories/laravel) - [Courses](http://code.tutsplus.com/categories/laravel/courses)
 * [SitePoint](http://www.sitepoint.com/php/page/0/?filter[4047]=on)
-* [Scotch](http://scotch.io/tag/laravel)
 * [Christopher Pitt](https://medium.com/laravel-4)
-* [KodeInfo](http://kodeinfo.com/category/laravel/)
-* [Culttt](http://culttt.com/code)
+* [Culttt](http://culttt.com/tag/cribbb/)
+* [Scotch](http://scotch.io/tag/laravel)
 * [Fideloper](http://fideloper.com/tag/laravel)
 * [Maxoffsky](http://maxoffsky.com/tag/laravel/)
+* [KodeInfo](http://kodeinfo.com/category/laravel/)
 * [CodeForest](http://www.codeforest.net/tag/laravel)
 * [Taylor Otwell](http://taylorotwell.com/)
 * [Digital Ocean](https://www.digitalocean.com/community/search?primary_filter=tutorials&query=laravel)
