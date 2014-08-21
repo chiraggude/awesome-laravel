@@ -1,7 +1,7 @@
 Awesome Laravel
 ===============
 
-A curated list of awesome bookmarks, packages, tutorials, videos and other cool resources. The aim is to make it easier for beginners and veterans to discover the Laravel ecosystem. 
+A curated list of awesome bookmarks, packages, tutorials, videos and other cool resources from the Laravel ecosystem. 
 
 Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
@@ -64,6 +64,10 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [iSeed](https://github.com/orangehill/iseed) - Generate a new seed file based on data from the existing database table
 * [Backup Manager](https://github.com/heybigname/backup-manager) - Database backup and restoration
 * [Tenanti](https://github.com/orchestral/tenanti) - Multi-tenant database schema manager
+
+#### RESTful APIs
+* [API for Laravel](https://github.com/dingo/api) - Build flexible RESTful APIs that can be consumed externally and by your own application
+* [Trucker](https://github.com/Indatus/trucker) - Map remote API resources (usually RESTful) as models in an ActiveResource style
 
 ##### Tasks, Commands and Deployment
 * [Envoy](https://github.com/laravel/envoy) - SSH Task Runner
