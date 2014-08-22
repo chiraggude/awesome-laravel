@@ -77,7 +77,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 ##### Asset Management
 * [Intervention Image](https://github.com/Intervention/image) - Image handling and manipulation library for creating, editing and composing images
-* [Asset Pipeline](https://github.com/CodeSleeve/asset-pipeline)
+* [Asset Pipeline](https://github.com/CodeSleeve/asset-pipeline) - Concatenate and minify/compress JavaScript and CSS assets
 
 ##### Optimization
 * [Laravel HTML Minify](https://github.com/fitztrev/laravel-html-minify) - Minifies the HTML output
