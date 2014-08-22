@@ -220,6 +220,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel Russia](http://laravel.ru/) ([VK group](http://vk.com/laravel_rus))
 * [Laravel France](http://laravel.fr/)
 * [Laravel Myanmar](http://laravelmyanmar.com)
+* [Laravel Indonesia](http://id-laravel.com/) ([Facebook group](https://www.facebook.com/groups/laravel/))
 * [Laravel Brasil](http://www.laravel.com.br/) ([Facebook group](https://www.facebook.com/groups/laravelbrasil/))
 * [Laravel Turkey](http://www.laravel.gen.tr/) ([Facebook group](https://www.facebook.com/groups/laravelturkiye/))
 
