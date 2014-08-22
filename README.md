@@ -51,6 +51,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Recaptcha](https://github.com/greggilbert/recaptcha) - Adds reCaptcha validator
 * [Datatable](https://github.com/Chumper/Datatable) - Server-side and client-side integration for jQuery Datatables plugin
 * [Laravel Breadcrumbs](https://github.com/davejamesmiller/laravel-breadcrumbs) - Create and manage breadcrumbs
+* [Laravel Stats Tracker](https://github.com/antonioribeiro/tracker) - Gathers information from requests to identify and store
 
 ##### Working with Javascript 
 * [PHP Vars to JavaScript Transformer](https://github.com/laracasts/PHP-Vars-To-Js-Transformer) -  Pass server-side string/array/collection/whatever to your JavaScript
@@ -65,7 +66,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Backup Manager](https://github.com/heybigname/backup-manager) - Database backup and restoration
 * [Tenanti](https://github.com/orchestral/tenanti) - Multi-tenant database schema manager
 
-#### RESTful APIs
+##### RESTful APIs
 * [API for Laravel](https://github.com/dingo/api) - Build flexible RESTful APIs that can be consumed externally and by your own application
 * [Trucker](https://github.com/Indatus/trucker) - Map remote API resources (usually RESTful) as models in an ActiveResource style
 
