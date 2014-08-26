@@ -79,6 +79,10 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Intervention Image](https://github.com/Intervention/image) - Image handling and manipulation library for creating, editing and composing images
 * [Asset Pipeline](https://github.com/CodeSleeve/asset-pipeline) - Concatenate and minify/compress JavaScript and CSS assets
 
+##### Payments
+* [Cashier](https://github.com/laravel/cashier) - Subscription billing with Stripe
+* [Omnipay for Laravel](https://github.com/ignited/laravel-omnipay) - Integrates the [Omnipay](https://github.com/omnipay/omnipay) PHP library
+
 ##### Optimization
 * [Laravel HTML Minify](https://github.com/fitztrev/laravel-html-minify) - Minifies the HTML output
 * [Intervention Image Cache](https://github.com/Intervention/imagecache) - Caching extension for the Intervention Image Class
