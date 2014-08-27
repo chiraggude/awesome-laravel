@@ -52,6 +52,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Datatable](https://github.com/Chumper/Datatable) - Server-side and client-side integration for jQuery Datatables plugin
 * [Laravel Breadcrumbs](https://github.com/davejamesmiller/laravel-breadcrumbs) - Create and manage breadcrumbs
 * [Laravel Stats Tracker](https://github.com/antonioribeiro/tracker) - Gathers information from requests to identify and store
+* [Bootstrapper](https://github.com/patricktalmadge/bootstrapper/) - Set of classes to quickly create Twitter Bootstrap 3 markup
 
 ##### Working with Javascript 
 * [PHP Vars to JavaScript Transformer](https://github.com/laracasts/PHP-Vars-To-Js-Transformer) -  Pass server-side string/array/collection/whatever to your JavaScript
