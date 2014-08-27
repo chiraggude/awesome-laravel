@@ -30,29 +30,29 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 *This is a list of well-documented, tested packages that are frequently used in most Laravel projects. If your looking for an exhaustive list of Laravel packages, then look at the Package Repositories mentioned above.*  
 
 ##### Developer Tools
-* [Generators](https://github.com/JeffreyWay/Laravel-4-Generators) - Automatic code generator that helps to speed up development workflow
+* [Generators](https://github.com/JeffreyWay/Laravel-4-Generators) - Defacto code generator for Laravel 
 * [Blacksmith](https://github.com/Indatus/blacksmith) - Flexible code generation tool 
 * [Debug Bar](https://github.com/barryvdh/laravel-debugbar) - Integrates PHP Debug Bar with Laravel
 * [Clockwork](https://github.com/itsgoingd/clockwork) - Integrates Clockwork Chrome extension for debugging and profiling apps
 * [IDE Helper](https://github.com/barryvdh/laravel-ide-helper) - Generates a helper file for IDE auto-completion
 
 ##### Authentication & Authorisation
-* [Confide](https://github.com/Zizaco/confide) - Authentication solution to cut repetitive work involving the management of users
+* [Confide](https://github.com/Zizaco/confide) - Authentication solution to cut repetitive work involving user management
 * [Entrust](https://github.com/Zizaco/entrust) - Role-based Permissions
 * [OAuth 4 Laravel](https://github.com/artdarek/oauth-4-laravel) - OAuth client wrapper that supports Facebook, Twitter, Google etc.
 * [OAuth2 Server Laravel](https://github.com/lucadegasperi/oauth2-server-laravel) - Wrapper for OAuth 2.0 authorization server and resource server 
 
 ##### Utilities
 * [Validating](https://github.com/dwightwatson/validating) - Trait for validating Eloquent models on save
-* [Eloquent Sluggable](https://github.com/cviebrock/eloquent-sluggable) - Creation of slugs for your Eloquent models
+* [Eloquent Sluggable](https://github.com/cviebrock/eloquent-sluggable) - Creates slugs for your Eloquent models
 * [Laravel Stapler](https://github.com/CodeSleeve/laravel-stapler) - ORM-based file upload manager
 * [Laravel DOMPDF](https://github.com/barryvdh/laravel-dompdf) - HTML to PDF generator
-* [Laravel Markdown](https://github.com/GrahamCampbell/Laravel-Markdown) - Parsedown-Extra wrapper for Laravel
-* [Recaptcha](https://github.com/greggilbert/recaptcha) - Adds reCaptcha validator
+* [Laravel Markdown](https://github.com/GrahamCampbell/Laravel-Markdown) - Parsedown-Extra wrapper 
+* [Recaptcha](https://github.com/greggilbert/recaptcha) - reCaptcha validator
 * [Datatable](https://github.com/Chumper/Datatable) - Server-side and client-side integration for jQuery Datatables plugin
 * [Laravel Breadcrumbs](https://github.com/davejamesmiller/laravel-breadcrumbs) - Create and manage breadcrumbs
-* [Laravel Stats Tracker](https://github.com/antonioribeiro/tracker) - Gathers information from requests to identify and store
-* [Bootstrapper](https://github.com/patricktalmadge/bootstrapper/) - Set of classes to quickly create Twitter Bootstrap 3 markup
+* [Laravel Stats Tracker](https://github.com/antonioribeiro/tracker) - Gather information from requests to identify and store
+* [Bootstrapper](https://github.com/patricktalmadge/bootstrapper/) - Set of classes to create Bootstrap 3 markup
 
 ##### Working with Javascript 
 * [PHP Vars to JavaScript Transformer](https://github.com/laracasts/PHP-Vars-To-Js-Transformer) -  Pass server-side string/array/collection/whatever to your JavaScript
@@ -61,14 +61,14 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 ##### Database, Migrations & Seeding
 * [Laravel MongoDB](https://github.com/jenssegers/laravel-mongodb) - Eloquent model and Query builder with support for MongoDB
 * [Laravel Flysystem](https://github.com/GrahamCampbell/Laravel-Flysystem) - Abstraction to swap out a local file-system for a remote one (AWS S3, Dropbox etc.)
-* [Laravel Doctrine](https://github.com/mitchellvanw/laravel-doctrine) - Doctrine 2 ORM implementation that melts with Laravel
+* [Laravel Doctrine](https://github.com/mitchellvanw/laravel-doctrine) - Doctrine 2 ORM implementation 
 * [Migrations Generator](https://github.com/Xethron/migrations-generator) - Generate Migrations from an existing database
-* [iSeed](https://github.com/orangehill/iseed) - Generate a new seed file based on data from the existing database table
-* [Backup Manager](https://github.com/heybigname/backup-manager) - Database backup and restoration
+* [iSeed](https://github.com/orangehill/iseed) - Generate a new seed file from existing database table
+* [Backup Manager](https://github.com/heybigname/backup-manager) - Backup to and restore database from S3, Dropbox, SFTP etc.
 * [Tenanti](https://github.com/orchestral/tenanti) - Multi-tenant database schema manager
 
 ##### RESTful APIs
-* [API for Laravel](https://github.com/dingo/api) - Build flexible RESTful APIs that can be consumed externally and by your own application
+* [API for Laravel](https://github.com/dingo/api) - Build RESTful APIs that can be consumed externally and by your own application
 * [Trucker](https://github.com/Indatus/trucker) - Map remote API resources (usually RESTful) as models in an ActiveResource style
 
 ##### Tasks, Commands and Deployment
@@ -82,10 +82,10 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 ##### Payments
 * [Cashier](https://github.com/laravel/cashier) - Subscription billing with Stripe
-* [Omnipay for Laravel](https://github.com/ignited/laravel-omnipay) - Integrates the [Omnipay](https://github.com/omnipay/omnipay) PHP library
+* [Omnipay for Laravel](https://github.com/ignited/laravel-omnipay) - Integrate the [Omnipay](https://github.com/omnipay/omnipay) PHP library
 
 ##### Optimization
-* [Laravel HTML Minify](https://github.com/fitztrev/laravel-html-minify) - Minifies the HTML output
+* [Laravel HTML Minify](https://github.com/fitztrev/laravel-html-minify) - Minify your HTML output
 * [Intervention Image Cache](https://github.com/Intervention/imagecache) - Caching extension for the Intervention Image Class
 
 
