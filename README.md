@@ -207,6 +207,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [codepadme/laravel-tricks](https://github.com/CodepadME/laravel-tricks)
 * [sdebacker/typicms](https://github.com/sdebacker/TypiCMS)
 * [chintanbanugaria/92five](https://github.com/chintanbanugaria/92five)
+* [summerblue/phphub](https://github.com/summerblue/phphub)
 
 
 ## Newsletters
