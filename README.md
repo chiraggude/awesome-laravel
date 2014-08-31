@@ -175,7 +175,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 #### Videos
 * [Laracon US 2014](http://userscape.com/laracon/2014/)
 * [Laracon EU 2013](http://laracon.eu/2013/talks/)
-* [Laracon US 2013](http://wiki.laravel.io/Laracon_2013)
+* [Laracon US 2013](https://www.youtube.com/playlist?list=PLkwAlZpjHQbLcox_S_AgGU24QUfKgXayN)
 
 
 ## Books
