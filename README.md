@@ -70,10 +70,11 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 ##### RESTful APIs
 * [API for Laravel](https://github.com/dingo/api) - Build RESTful APIs that can be consumed externally and by your own application
 * [Trucker](https://github.com/Indatus/trucker) - Map remote API resources (usually RESTful) as models in an ActiveResource style
+* [Laravel CORS](https://github.com/barryvdh/laravel-cors) - Add CORS (Cross-Origin Resource Sharing) headers support
 
 ##### Tasks, Commands and Deployment
 * [Envoy](https://github.com/laravel/envoy) - SSH Task Runner
-* [Dispatcher](https://github.com/indatus/dispatcher) - Schedule your Artisan commands
+* [Dispatcher](https://github.com/indatus/dispatcher) - Scheduler for Artisan commands
 * [Rocketeer](https://github.com/Anahkiasen/rocketeer) - Task runner and deployment package
 
 ##### Asset Management
