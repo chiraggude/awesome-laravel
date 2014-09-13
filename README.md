@@ -53,6 +53,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel Breadcrumbs](https://github.com/davejamesmiller/laravel-breadcrumbs) - Create and manage breadcrumbs
 * [Laravel Stats Tracker](https://github.com/antonioribeiro/tracker) - Gather information from requests to identify and store
 * [Bootstrapper](https://github.com/patricktalmadge/bootstrapper/) - Set of classes to create Bootstrap 3 markup
+* [Setting](https://github.com/Phil-F/Setting) - Persistent configuration settings for Laravel - Create, Read, Update and Delete settings stored in files using JSON
 
 ##### Working with Javascript 
 * [PHP Vars to JavaScript Transformer](https://github.com/laracasts/PHP-Vars-To-Js-Transformer) -  Pass server-side string/array/collection/whatever to your JavaScript
