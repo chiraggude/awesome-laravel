@@ -223,7 +223,6 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel.io Podcast](http://www.buzzsprout.com/11908)
 * [IRC Channel](http://laravel.io/chat)
 * [Laracasts Forum](https://laracasts.com/discuss) ([Old Forum Archive](https://www.laracasts.com/forum/))
-* [Meetups](http://laravel.meetup.com/)
 * [Twitter](https://twitter.com/laravelphp)
 * [Google+](https://plus.google.com/communities/106838454910116161868)
 * [Reddit](http://www.reddit.com/r/laravel)
@@ -240,6 +239,9 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel Turkey](http://www.laravel.gen.tr/) ([Facebook group](https://www.facebook.com/groups/laravelturkiye/))
 * [Laravel China](http://phphub.org)
 * [Laravel Taiwan](http://laravel.tw/) ([Facebook group](https://www.facebook.com/groups/laravel.tw/))
+
+#### Meetups
+* [All Meetups](http://laravel.meetup.com/)
 
 ## Jobs
 * [LaraJobs](https://larajobs.com/)
