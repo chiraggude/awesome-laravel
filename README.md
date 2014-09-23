@@ -31,10 +31,13 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 ##### Developer Tools
 * [Generators](https://github.com/JeffreyWay/Laravel-4-Generators) - Defacto code generator for Laravel 
-* [Blacksmith](https://github.com/Indatus/blacksmith) - Flexible code generation tool 
+* [Blacksmith](https://github.com/Indatus/blacksmith) - Flexible code generation tool
+* [IDE Helper](https://github.com/barryvdh/laravel-ide-helper) - Generates a helper file for IDE auto-completion
+
+##### Debugging
+* [Anbu](https://github.com/daylerees/anbu) - Profiler & debugger
 * [Debug Bar](https://github.com/barryvdh/laravel-debugbar) - Integrates PHP Debug Bar with Laravel
 * [Clockwork](https://github.com/itsgoingd/clockwork) - Integrates Clockwork Chrome extension for debugging and profiling apps
-* [IDE Helper](https://github.com/barryvdh/laravel-ide-helper) - Generates a helper file for IDE auto-completion
 
 ##### Authentication & Authorisation
 * [Confide](https://github.com/Zizaco/confide) - Authentication solution to cut repetitive work involving user management
@@ -44,7 +47,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 ##### Utilities
 * [Validating](https://github.com/dwightwatson/validating) - Trait for validating Eloquent models on save
-* [Eloquent Sluggable](https://github.com/cviebrock/eloquent-sluggable) - Creates slugs for your Eloquent models
+* [Eloquent Sluggable](https://github.com/cviebrock/eloquent-sluggable) - Creates slugs for Eloquent models
 * [Laravel Stapler](https://github.com/CodeSleeve/laravel-stapler) - ORM-based file upload manager
 * [Laravel DOMPDF](https://github.com/barryvdh/laravel-dompdf) - HTML to PDF generator
 * [Laravel Markdown](https://github.com/GrahamCampbell/Laravel-Markdown) - Parsedown-Extra wrapper 
