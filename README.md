@@ -8,7 +8,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 ## Essentials
 * [Quickstart Guide](http://laravel.com/docs/quick)
 * [Documentation](http://laravel.com/docs) ([API](http://laravel.com/api/4.2/))
-* [Code Bright web edition](http://daylerees.com/codebright/codebright) (introductory extention to the documentation)
+* [Code Bright web edition](http://daylerees.com/codebright/codebright) (beginner-level extention to the documentation)
 * [Archive of Tutorials](http://laravel-news.com/category/laravel-tutorials) (via Laravel News)
 * [Laravel Cheat Sheet](http://cheats.jesse-obrien.ca)
 
@@ -56,7 +56,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel Breadcrumbs](https://github.com/davejamesmiller/laravel-breadcrumbs) - Create and manage breadcrumbs
 * [Laravel Stats Tracker](https://github.com/antonioribeiro/tracker) - Gather information from requests to identify and store
 * [Bootstrapper](https://github.com/patricktalmadge/bootstrapper/) - Set of classes to create Bootstrap 3 markup
-* [Setting](https://github.com/Phil-F/Setting) - Persistent configuration settings for Laravel - Create, Read, Update and Delete settings stored in files using JSON
+* [Setting](https://github.com/Phil-F/Setting) - Persistent configuration settings that are stored in JSON files
 
 ##### Working with Javascript 
 * [PHP Vars to JavaScript Transformer](https://github.com/laracasts/PHP-Vars-To-Js-Transformer) -  Pass server-side string/array/collection/whatever to your JavaScript
@@ -72,7 +72,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Tenanti](https://github.com/orchestral/tenanti) - Multi-tenant database schema manager
 
 ##### RESTful APIs
-* [API for Laravel](https://github.com/dingo/api) - Build RESTful APIs that can be consumed externally and by your own application
+* [API for Laravel](https://github.com/dingo/api) - Build RESTful APIs that can be consumed externally and by your application
 * [Trucker](https://github.com/Indatus/trucker) - Map remote API resources (usually RESTful) as models in an ActiveResource style
 * [Laravel CORS](https://github.com/barryvdh/laravel-cors) - Add CORS (Cross-Origin Resource Sharing) headers support
 
@@ -90,7 +90,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Omnipay for Laravel](https://github.com/ignited/laravel-omnipay) - Integrate the [Omnipay](https://github.com/omnipay/omnipay) PHP library
 
 ##### Optimization
-* [Laravel HTML Minify](https://github.com/fitztrev/laravel-html-minify) - Minify your HTML output
+* [Laravel HTML Minify](https://github.com/fitztrev/laravel-html-minify) - Minify the HTML output
 * [Intervention Image Cache](https://github.com/Intervention/imagecache) - Caching extension for the Intervention Image Class
 
 ##### Localization
