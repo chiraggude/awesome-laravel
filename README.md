@@ -255,12 +255,10 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 
 ## Miscellaneous
-* [Laravel Schema Designer](http://laravelsd.com/)
-* [Laragen](http://makzumi.com/laragen/)
-* [Built with Laravel](http://builtwithlaravel.com/)
-* [Understand.io](https://www.understand.io/)
+* [Laravel Schema Designer](http://laravelsd.com/) - Repository of database schemas
+* [Laragen](http://makzumi.com/laragen/) - View generator
+* [Built with Laravel](http://builtwithlaravel.com/) - Gallery of websites and projects built with Laravel
 * [CodeCanyon](http://codecanyon.net/search?utf8=%E2%9C%93&term=laravel)
-* [Gitgo](https://gitgo.io/)
 
 
 ## Contributing
