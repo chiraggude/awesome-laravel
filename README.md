@@ -103,7 +103,8 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 ## Development Setup 
 * [Homestead](http://laravel.com/docs/homestead) - Official Vagrant box for Laravel
   * [Getting Started with Laravel Homestead](http://scotch.io/tutorials/php/getting-started-with-laravel-homestead)
-  * Video tutorials - [Installation](https://www.youtube.com/watch?v=WDU1TYe3zGU), [Multiple Sites](https://www.youtube.com/watch?v=Zx3heatCy9E) and [Accessing MySQL](https://www.youtube.com/watch?v=X-_e4GXS8ko)
+  * [Installation on OSx and Linux](https://laracasts.com/series/laravel-5-from-scratch/episodes/3)
+  * [Installation on  Windows](http://blog.teamtreehouse.com/laravel-homestead-on-windows)
 * Install Laravel with Composer 
  * [Windows](https://www.youtube.com/watch?v=m3D894qZKws) 
  * [Mac OSX or Linux](https://laracasts.com/lessons/laravel-installation-for-newbs)
