@@ -155,6 +155,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Into Laravel](http://www.intolaravel.com/)
 * [Stidges](http://blog.stidges.com/)
 * [Scott Wilcox](http://dor.ky/tag/laravel/)
+* [Clivern](http://clivern.com/tag/laravel/)
 
 
 ## Video Tutorials
