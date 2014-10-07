@@ -119,6 +119,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Heroku](https://www.heroku.com/) ([Tutorial](http://mattstauffer.co/blog/installing-a-laravel-app-on-heroku))
 * [IBM BlueMix](https://ace.ng.bluemix.net/) ([Tutorial](https://developer.ibm.com/bluemix/2014/06/17/getting-started-laravel-bluemix/))
 
+
 ## Articles, Tutorials, Blogs etc.
 * [Tuts+](http://code.tutsplus.com/categories/laravel)
 * [SitePoint](http://www.sitepoint.com/php/page/0/?filter[4047]=on)
@@ -257,10 +258,12 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel Gurus](http://laravelgurus.com/)
 * [With Laravel](http://withlaravel.com/)
 
+### Hosted Development Tools
+* [Laragen](http://makzumi.com/laragen/) - View generator
+* [Laravel Schema Designer](http://laravelsd.com/) - Create, export and share database schemas
+* [Laravel Database Designer](http://biodesignrealworld.github.io/LaravelDatabaseDesigner/) - Graphical tool to create database schemas
 
 ## Miscellaneous
-* [Laravel Schema Designer](http://laravelsd.com/) - Repository of database schemas
-* [Laragen](http://makzumi.com/laragen/) - View generator
 * [Built with Laravel](http://builtwithlaravel.com/) - Gallery of websites and projects built with Laravel
 * [CodeCanyon](http://codecanyon.net/search?utf8=%E2%9C%93&term=laravel)
 
