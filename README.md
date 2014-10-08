@@ -269,10 +269,10 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 
 ## Contributing
-Got new ideas or resources? Send me a PR!
+Found an awesome package, blog, video etc.? Send me a PR!
 
 #### Guidelines
 * Please make an individual pull request for each suggestion
-* Use the following format for links: \[Resource\]\(LINK\)
-* Use the following format for packages: \[Package\]\(LINK\) - Short description
+* Use the following format for resources: \[Resource\]\(URL\)
+* Use the following format for packages: \[Package\]\(URL\) - Short description
 * New categories or improvements to the existing categorisation are welcome
