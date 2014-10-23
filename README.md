@@ -8,6 +8,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 ## Essentials
 * [Quickstart Guide](http://laravel.com/docs/quick)
 * [Documentation](http://laravel.com/docs) ([API](http://laravel.com/api/4.2/))
+* [Laracasts](http://laracasts.com) (Developer + Laracasts = God Mode on)
 * [Code Bright web edition](http://daylerees.com/codebright/codebright) (beginner-level extention to the documentation)
 * [Archive of Tutorials](http://laravel-news.com/category/laravel-tutorials) (via Laravel News)
 * [Laravel Cheat Sheet](http://cheats.jesse-obrien.ca)
@@ -164,7 +165,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 
 ## Video Tutorials
-* [Laracasts](https://laracasts.com/) (Developer + Laracasts = God Mode on)
+* [Laracasts](https://laracasts.com/) 
 * [PHP Academy](https://www.youtube.com/user/phpacademy/playlists)
 * [Fallendown2005](https://www.youtube.com/user/fallendown2005/playlists)
 * [Userscape](http://vimeo.com/userscape/videos)
