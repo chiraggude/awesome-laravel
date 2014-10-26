@@ -30,7 +30,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 
 ## Popular Packages
-*This is a list of well-documented, tested packages that are frequently used in most Laravel projects. If your looking for an exhaustive list of Laravel packages, then look at the Package Repositories mentioned above.*  
+*This is a list of well-documented, tested packages that are frequently used in most Laravel projects. If you are looking for an exhaustive list of Laravel packages, then check out the Package Repositories mentioned above.*  
 
 ##### Developer Tools
 * [Generators](https://github.com/JeffreyWay/Laravel-4-Generators) - Defacto code generator for Laravel 
