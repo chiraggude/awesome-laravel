@@ -71,6 +71,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 ##### Database, Migrations & Seeding
 * [Laravel MongoDB](https://github.com/jenssegers/laravel-mongodb) - Eloquent model and Query builder with support for MongoDB
+* [Mongolid Laravel](https://github.com/leroy-merlin-br/mongolid-laravel) - Easy, powerful and ultrafast MongoDB ODM for Laravel.
 * [Laravel Flysystem](https://github.com/GrahamCampbell/Laravel-Flysystem) - Abstraction to swap out a local file-system for a remote one (AWS S3, Dropbox etc.)
 * [Laravel Doctrine](https://github.com/mitchellvanw/laravel-doctrine) - Doctrine 2 ORM implementation 
 * [Migrations Generator](https://github.com/Xethron/migrations-generator) - Generate Migrations from an existing database
