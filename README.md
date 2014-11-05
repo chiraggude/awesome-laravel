@@ -33,7 +33,8 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 *This is a list of well-documented, tested packages that are frequently used in most Laravel projects. If you are looking for an exhaustive list of Laravel packages, then check out the Package Repositories mentioned above.*  
 
 ##### Developer Tools
-* [Generators](https://github.com/JeffreyWay/Laravel-4-Generators) - Defacto code generator for Laravel 
+* [Generators](https://github.com/JeffreyWay/Laravel-4-Generators) - Defacto code generator for Laravel
+* [Elixr](https://github.com/laravel/elixir) - Node(NPM) package to run Gulp tasks that watch files, run tests, minify CSS, concatenate scripts etc. 
 * [Blacksmith](https://github.com/Indatus/blacksmith) - Flexible code generation tool
 * [IDE Helper](https://github.com/barryvdh/laravel-ide-helper) - Generates a helper file for IDE auto-completion
 
