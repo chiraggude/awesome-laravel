@@ -13,7 +13,8 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Tips & Tutorials](http://laravel-news.com/category/laravel-tips-tutorials/) (via Laravel News)
 * [Laravel Cheat Sheet](http://cheats.jesse-obrien.ca)
 
-## Laravel 5 (ETA - early December)
+## Laravel 5 
+*ETA - January, 2015*
 * Learn Laravel 5 From Scratch - [Laracasts](https://laracasts.com/series/laravel-5-from-scratch)
 * New Features in Laravel 5 - [Laracasts](https://laracasts.com/series/whats-new-in-laravel-5) and [Matt Stauffer's blog](http://mattstauffer.co/blog/laravel-5.0-form-requests)
 
