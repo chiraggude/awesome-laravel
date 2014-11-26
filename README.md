@@ -1,7 +1,7 @@
 Awesome Laravel
 ===============
 
-A curated list of awesome bookmarks, packages, tutorials, videos and other cool resources from the Laravel ecosystem. 
+> A curated list of awesome bookmarks, packages, tutorials, videos and other cool resources from the Laravel ecosystem. 
 
 Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
@@ -31,7 +31,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 
 ## Popular Packages
-*This is a list of well-documented, tested packages that are frequently used in most Laravel projects. If you are looking for an exhaustive list of Laravel packages, then check out the Package Repositories mentioned above.*  
+> This is a list of well-documented, tested packages that are frequently used in most Laravel projects. If you're looking for an exhaustive list of Laravel packages, then check out the Package Repositories mentioned above.  
 
 ##### Developer Tools
 * [Generators](https://github.com/JeffreyWay/Laravel-4-Generators) - Defacto code generator for Laravel
