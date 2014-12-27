@@ -127,6 +127,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Amitav Roy](http://amitavroy.com/justread/content/term/laravel-4)
 * [Into Laravel](http://www.intolaravel.com/)
 * [Stidges](http://blog.stidges.com/)
+* [Laravel Myanmar on Medium](https://medium.com/laravel-myanmar)
 
 
 ## Video Tutorials
