@@ -23,6 +23,9 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel Recipies](http://laravel-recipes.com/)
 * [Laravel Snippets](http://laravelsnippets.com/)
 
+## Database
+* [Laravel SD](http://laravelsd.com)
+
 
 ## Package Repositories
 * [Packagist](https://packagist.org/)
