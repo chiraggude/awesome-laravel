@@ -1,7 +1,7 @@
 Awesome Laravel
 ===============
 
-> A curated list of awesome bookmarks, packages, tutorials, videos and other cool resources from the Laravel ecosystem. 
+> A curated list of awesome bookmarks, packages, tutorials, videos and other cool resources from the Laravel ecosystem.
 
 Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
@@ -13,12 +13,12 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Tips & Tutorials](http://laravel-news.com/category/laravel-tips-tutorials/) (via Laravel News)
 * [Laravel Cheat Sheet](http://cheats.jesse-obrien.ca)
 
-## Laravel 5 
+## Laravel 5
 *ETA - January, 2015*
 * Learn Laravel 5 From Scratch - [Laracasts](https://laracasts.com/series/laravel-5-from-scratch)
 * New Features in Laravel 5 - [Laracasts](https://laracasts.com/series/whats-new-in-laravel-5) and [Matt Stauffer's blog](http://mattstauffer.co/blog/laravel-5.0-form-requests)
 
-## Code 
+## Code
 * [Laravel Tricks](http://www.laravel-tricks.com/)
 * [Laravel Recipies](http://laravel-recipes.com/)
 * [Laravel Snippets](http://laravelsnippets.com/)
@@ -31,11 +31,11 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 
 ## Popular Packages
-> This is a list of well-documented, tested packages that are frequently used in most Laravel projects. If you're looking for an exhaustive list of Laravel packages, then check out the Package Repositories mentioned above.  
+> This is a list of well-documented, tested packages that are frequently used in most Laravel projects. If you're looking for an exhaustive list of Laravel packages, then check out the Package Repositories mentioned above.
 
 ##### Developer Tools
 * [Generators](https://github.com/JeffreyWay/Laravel-4-Generators) - Defacto code generator for Laravel
-* [Elixr](https://github.com/laravel/elixir) - Node(NPM) package to run Gulp tasks that watch files, run tests, minify CSS, concatenate scripts etc. 
+* [Elixr](https://github.com/laravel/elixir) - Node(NPM) package to run Gulp tasks that watch files, run tests, minify CSS, concatenate scripts etc.
 * [Blacksmith](https://github.com/Indatus/blacksmith) - Flexible code generation tool
 * [IDE Helper](https://github.com/barryvdh/laravel-ide-helper) - Generates a helper file for IDE auto-completion
 
@@ -47,10 +47,10 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 ##### Authentication & Authorisation
 * [Confide](https://github.com/Zizaco/confide) - Authentication solution to cut repetitive work involving user management
 * [Entrust](https://github.com/Zizaco/entrust) - Role-based Permissions
-* [OAuth2 Server Laravel](https://github.com/lucadegasperi/oauth2-server-laravel) - Wrapper for OAuth 2.0 authorization server and resource server 
+* [OAuth2 Server Laravel](https://github.com/lucadegasperi/oauth2-server-laravel) - Wrapper for OAuth 2.0 authorization server and resource server
 
 ##### Social Authentication
-* [Socialite](https://github.com/laravel/socialite) - Social authentication wrapper for Facebook, Google, Twitter etc. 
+* [Socialite](https://github.com/laravel/socialite) - Social authentication wrapper for Facebook, Google, Twitter etc.
 * [OAuth 4 Laravel](https://github.com/artdarek/oauth-4-laravel) - OAuth client wrapper that supports Facebook, Twitter, Google etc.
 
 ##### Utilities
@@ -58,24 +58,24 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Eloquent Sluggable](https://github.com/cviebrock/eloquent-sluggable) - Creates slugs for Eloquent models
 * [Laravel Stapler](https://github.com/CodeSleeve/laravel-stapler) - ORM-based file upload manager
 * [Laravel DOMPDF](https://github.com/barryvdh/laravel-dompdf) - HTML to PDF generator
-* [Laravel Markdown](https://github.com/GrahamCampbell/Laravel-Markdown) - Parsedown-Extra wrapper 
+* [Laravel Markdown](https://github.com/GrahamCampbell/Laravel-Markdown) - Parsedown-Extra wrapper
 * [Recaptcha](https://github.com/greggilbert/recaptcha) - reCaptcha validator
 * [Datatable](https://github.com/Chumper/Datatable) - Server-side and client-side integration for jQuery Datatables plugin
 * [Laravel Breadcrumbs](https://github.com/davejamesmiller/laravel-breadcrumbs) - Create and manage breadcrumbs
 * [Laravel Stats Tracker](https://github.com/antonioribeiro/tracker) - Gather information from requests to identify and store
 * [Bootstrapper](https://github.com/patricktalmadge/bootstrapper/) - Set of classes to create Bootstrap 3 markup
 * [Setting](https://github.com/Phil-F/Setting) - Persistent configuration settings that are stored in JSON files
-* [Laravel Excel](https://github.com/Maatwebsite/Laravel-Excel) - Import and export Excel and CSV files 
+* [Laravel Excel](https://github.com/Maatwebsite/Laravel-Excel) - Import and export Excel and CSV files
 * [Revisionable](https://github.com/VentureCraft/revisionable) - Create a revision history for Eloquent models
 
-##### Working with Javascript 
+##### Working with Javascript
 * [PHP Vars to JavaScript Transformer](https://github.com/laracasts/PHP-Vars-To-Js-Transformer) -  Pass server-side string/array/collection/whatever to your JavaScript
 * [Laroute](https://github.com/aaronlord/laroute) - Generate Laravel route URLs from JavaScript
 
 ##### Database, Migrations & Seeding
 * [Laravel MongoDB](https://github.com/jenssegers/laravel-mongodb) - Eloquent model and Query builder with support for MongoDB
 * [Laravel Flysystem](https://github.com/GrahamCampbell/Laravel-Flysystem) - Abstraction to swap out a local file-system for a remote one (AWS S3, Dropbox etc.)
-* [Laravel Doctrine](https://github.com/mitchellvanw/laravel-doctrine) - Doctrine 2 ORM implementation 
+* [Laravel Doctrine](https://github.com/mitchellvanw/laravel-doctrine) - Doctrine 2 ORM implementation
 * [Migrations Generator](https://github.com/Xethron/migrations-generator) - Generate Migrations from an existing database
 * [iSeed](https://github.com/orangehill/iseed) - Generate a new seed file from existing database table
 * [Backup Manager](https://github.com/heybigname/backup-manager) - Backup to and restore database from S3, Dropbox, SFTP etc.
@@ -106,20 +106,20 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 ##### Localization
 * [Laravel Localization](https://github.com/mcamara/laravel-localization) - Add i18n support via routes
 * [Laravel Translatable](https://github.com/dimsav/laravel-translatable) - Retrieve and store translatable Eloquent model instances
-* [Language Files](https://github.com/caouecs/Laravel4-lang) - Validation, Pagination and Reminders language lines in 37 languages 
+* [Language Files](https://github.com/caouecs/Laravel4-lang) - Validation, Pagination and Reminders language lines in 37 languages
 
 
-## Development Setup 
+## Development Setup
 * [Homestead](http://laravel.com/docs/homestead) - Official Vagrant box for Laravel
   * [Getting Started with Laravel Homestead](http://scotch.io/tutorials/php/getting-started-with-laravel-homestead)
   * [Installation on OSx and Linux](https://laracasts.com/series/laravel-5-from-scratch/episodes/3)
   * [Installation on  Windows](http://blog.teamtreehouse.com/laravel-homestead-on-windows)
-* Install Laravel with Composer 
- * [Windows](https://www.youtube.com/watch?v=m3D894qZKws) 
+* Install Laravel with Composer
+ * [Windows](https://www.youtube.com/watch?v=m3D894qZKws)
  * [Mac OSX or Linux](https://laracasts.com/lessons/laravel-installation-for-newbs)
 
 
-## Application Hosting 
+## Application Hosting
 * [Forge](https://forge.laravel.com/) - PHP PaaS optimized for Laravel on servers of your choice
   * [Server Management With Forge](https://laracasts.com/series/server-management-with-forge)
   * [Getting your first site up and running in Laravel Forge](http://mattstauffer.co/blog/getting-your-first-site-up-and-running-in-laravel-forge)
@@ -171,7 +171,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 
 ## Video Tutorials
-* [Laracasts](https://laracasts.com/) 
+* [Laracasts](https://laracasts.com/)
 * [PHP Academy](https://www.youtube.com/user/phpacademy/playlists)
 * [Fallendown2005](https://www.youtube.com/user/fallendown2005/playlists)
 * [Userscape](http://vimeo.com/userscape/videos)
@@ -182,14 +182,14 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Brandon Boswell](https://www.youtube.com/watch?v=QBdudSQ1aLg)
 * [Jason Chaney](https://www.youtube.com/watch?v=BtbB26VWTBI)
 * [David Mosher](https://www.youtube.com/watch?v=hqAyiqUs93c)
-* [Maarten (muukrls)](https://www.youtube.com/channel/UCrehvx9t0p_TFAIw6YLtzDQ/videos) 
+* [Maarten (muukrls)](https://www.youtube.com/channel/UCrehvx9t0p_TFAIw6YLtzDQ/videos)
 * [Yavor Kirov](https://www.youtube.com/playlist?list=PL2uFHrRTF1xxC4nG9gMUmwONI3d_vJEJf)
 * [Lynda](http://www.lynda.com/Laravel-tutorials/Up-Running-Laravel/166513-2.html)
 * [Tuts+](http://code.tutsplus.com/categories/laravel/courses)
 * [Novica Vukobratovic](http://www.youtube.com/playlist?list=PLaWzibV7A82RMFW58Iq2gZHpB_TLrixFY)
 
 
-## Laracon 
+## Laracon
 * [Laracon US](https://conference.laravel.com/)
 * [Laracon EU](http://laracon.eu/)
 
@@ -201,7 +201,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 
 ## Books
-* [Laravel: Code Bright](https://leanpub.com/codebright) 
+* [Laravel: Code Bright](https://leanpub.com/codebright)
 * [Laravel: From Apprentice To Artisan](https://leanpub.com/laravel)
 * [Laravel 4 Cookbook](https://leanpub.com/laravel4cookbook)
 * [Laravel Testing Decoded](https://leanpub.com/laravel-testing-decoded)
