@@ -23,6 +23,9 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel Recipies](http://laravel-recipes.com/)
 * [Laravel Snippets](http://laravelsnippets.com/)
 
+## Database
+* [Laravel SD](http://laravelsd.com)
+
 
 ## Package Repositories
 * [Packagist](https://packagist.org/)
@@ -249,6 +252,8 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Quora](http://www.quora.com/Laravel)
 * [Facebook](https://www.facebook.com/LaravelCommunity)
 * [LinkedIn](https://www.linkedin.com/groups/Laravel-PHP-Framework-4419933)
+* [Larachat Slack Signup](https://larachat.typeform.com/to/wqvupv) 
+* [Larachat Messaging](https://larachat.slack.com/) 
 
 #### Local User Groups
 * [Laravel Russia](http://laravel.ru/) ([VK group](http://vk.com/laravel_rus))
