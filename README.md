@@ -15,8 +15,10 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 ## Laravel 5
 *ETA - January, 2015*
+* Laravel 5 Fundamentals - [Laracasts](https://laracasts.com/series/laravel-5-fundamentals)
 * Learn Laravel 5 From Scratch - [Laracasts](https://laracasts.com/series/laravel-5-from-scratch)
 * New Features in Laravel 5 - [Laracasts](https://laracasts.com/series/whats-new-in-laravel-5) and [Matt Stauffer's blog](http://mattstauffer.co/blog/laravel-5.0-form-requests)
+
 
 ## Code
 * [Laravel Tricks](http://www.laravel-tricks.com/)
