@@ -234,6 +234,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [chintanbanugaria/92five](https://github.com/chintanbanugaria/92five)
 * [summerblue/phphub](https://github.com/summerblue/phphub)
 * [cachethq/Cachet](https://github.com/cachethq/Cachet)
+* [twostairs/paperwork](https://github.com/twostairs/paperwork)
 
 
 ## Newsletters
