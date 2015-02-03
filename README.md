@@ -171,6 +171,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Code Gains](http://codegains.com/tag/laravel-2/)
 * [Stillat](http://www.stillat.com/blog/category/programming/laravel/)
 * [Easy Laravel Book Blog](http://www.easylaravelbook.com/blog/)
+* [Bosnadev](https://bosnadev.com/tag/laravel-2/)
 
 
 ## Video Tutorials
