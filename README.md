@@ -14,10 +14,12 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel Cheat Sheet](http://cheats.jesse-obrien.ca)
 
 ## Laravel 5
-*ETA - January, 2015*
+*Released on 4th February, 2015*
 * Laravel 5 Fundamentals - [Laracasts](https://laracasts.com/series/laravel-5-fundamentals)
+* New Features in Laravel 5 - [Laracasts](https://laracasts.com/series/whats-new-in-laravel-5) and [Matt Stauffer's blog](http://mattstauffer.co/tags/laravel+5)
+* Release Notes - [Laravel.com](http://laravel.com/docs/master/releases) [Laravel News](https://laravel-news.com/2015/01/laravel-5/)
+* Upgrade Guide - [Laravel.com](http://laravel.com/docs/master/upgrade) [Matt Stauffer](http://mattstauffer.co/blog/upgrading-from-laravel-4-to-laravel-5)
 * Learn Laravel 5 From Scratch - [Laracasts](https://laracasts.com/series/laravel-5-from-scratch)
-* New Features in Laravel 5 - [Laracasts](https://laracasts.com/series/whats-new-in-laravel-5) and [Matt Stauffer's blog](http://mattstauffer.co/blog/laravel-5.0-form-requests)
 
 
 ## Code
