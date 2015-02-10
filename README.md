@@ -84,6 +84,8 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [iSeed](https://github.com/orangehill/iseed) - Generate a new seed file from existing database table
 * [Backup Manager](https://github.com/heybigname/backup-manager) - Backup to and restore database from S3, Dropbox, SFTP etc.
 * [Tenanti](https://github.com/orchestral/tenanti) - Multi-tenant database schema manager
+* [Baum](https://github.com/etrepat/baum) - Nested Sets pattern implementation for Laravel
+* [ClosureTable](https://github.com/franzose/ClosureTable) - Closure Table pattern implementation for Laravel
 
 ##### RESTful APIs
 * [API for Laravel](https://github.com/dingo/api) - Build RESTful APIs that can be consumed externally and by your application
