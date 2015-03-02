@@ -20,6 +20,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * Release Notes - [Laravel.com](http://laravel.com/docs/master/releases) and [Laravel News](https://laravel-news.com/2015/01/laravel-5/)
 * Upgrade Guide - [Laravel.com](http://laravel.com/docs/master/upgrade) and [Matt Stauffer](http://mattstauffer.co/blog/upgrading-from-laravel-4-to-laravel-5)
 * Learn Laravel 5 From Scratch - [Laracasts](https://laracasts.com/series/laravel-5-from-scratch)
+* Learn Laravel 5 in Spanish [duilio.me](http://duilio.me/laravel-5/)
 
 
 ## Code
@@ -270,6 +271,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel Turkey](http://www.laravel.gen.tr/) ([Facebook group](https://www.facebook.com/groups/laravelturkiye/))
 * [Laravel China](http://phphub.org)
 * [Laravel Taiwan](http://laravel.tw/) ([Facebook group](https://www.facebook.com/groups/laravel.tw/))
+* [Laravel Spanish](http://laraveles.com/foro/)
 
 #### Meetups
 * [All Meetups](http://laravel.meetup.com/)
