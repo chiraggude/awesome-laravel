@@ -96,6 +96,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Envoy](https://github.com/laravel/envoy) - SSH Task Runner
 * [Dispatcher](https://github.com/indatus/dispatcher) - Scheduler for Artisan commands
 * [Rocketeer](https://github.com/Anahkiasen/rocketeer) - Task runner and deployment package
+* [LaravelDotEnvGen](https://github.com/mathiasgrimm/laravel-dot-env-gen)] - Generate .env.gen file based on the project source code 
 
 ##### Asset Management
 * [Intervention Image](https://github.com/Intervention/image) - Image handling and manipulation library for creating, editing and composing images
