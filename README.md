@@ -52,10 +52,9 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Confide](https://github.com/Zizaco/confide) - Authentication solution to cut repetitive work involving user management
 * [Entrust](https://github.com/Zizaco/entrust) - Role-based Permissions
 * [OAuth2 Server Laravel](https://github.com/lucadegasperi/oauth2-server-laravel) - Wrapper for OAuth 2.0 authorization server and resource server
-
-##### Social Authentication
 * [Socialite](https://github.com/laravel/socialite) - Social authentication wrapper for Facebook, Google, Twitter etc.
 * [OAuth 4 Laravel](https://github.com/artdarek/oauth-4-laravel) - OAuth client wrapper that supports Facebook, Twitter, Google etc.
+* [JWT Auth](https://github.com/tymondesigns/jwt-auth) - JSON Web Token authentication for APIs
 
 ##### Utilities
 * [Validating](https://github.com/dwightwatson/validating) - Trait for validating Eloquent models on save
