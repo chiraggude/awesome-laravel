@@ -126,10 +126,12 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 
 ## Application Hosting
-* [Forge](https://forge.laravel.com/) - PHP PaaS optimized for Laravel on servers of your choice
-  * [Server Management With Forge](https://laracasts.com/series/server-management-with-forge)
-  * [Getting your first site up and running in Laravel Forge](http://mattstauffer.co/blog/getting-your-first-site-up-and-running-in-laravel-forge)
+* [Forge](https://forge.laravel.com/) - Provision optimized PHP servers on Linode, DigitalOcean etc.
+  * [Server Management with Forge](https://laracasts.com/series/server-management-with-forge) (Laracasts)
+  * [Getting your first site up and running in Laravel Forge](http://mattstauffer.co/blog/getting-your-first-site-up-and-running-in-laravel-forge) (Matt Stauffer)
   * [ForgeRecipes](http://forgerecipes.com/)
+* [Envoyer](https://envoyer.io/) - Zero down-time Deployer for PHP & Laravel projects
+ * [Deployments with Envoyer](https://laracasts.com/series/envoyer) (Laracasts)
 * [FortRabbit](http://fortrabbit.com/solutions/laravel-hosting) ([Video](https://laracasts.com/lessons/from-zero-to-deploy-with-fortrabbit))
 * [PagodaBox](https://pagodabox.com/) ([Quickstart app](https://pagodabox.com/cafe/briankiewel/laravel-4))
 * [Heroku](https://www.heroku.com/) ([Tutorial](http://mattstauffer.co/blog/installing-a-laravel-app-on-heroku))
