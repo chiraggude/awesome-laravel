@@ -91,6 +91,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [API for Laravel](https://github.com/dingo/api) - Build RESTful APIs that can be consumed externally and by your application
 * [Trucker](https://github.com/Indatus/trucker) - Map remote API resources (usually RESTful) as models in an ActiveResource style
 * [Laravel CORS](https://github.com/barryvdh/laravel-cors) - Add CORS (Cross-Origin Resource Sharing) headers support
+* [Laravel API Generator](https://github.com/mitulgolakiya/laravel-api-generator) - Laravel API/Scaffold/CRUD Generator including Controller, Repository, Model, Migrations, routes.php.
 
 ##### Tasks, Commands and Deployment
 * [Envoy](https://github.com/laravel/envoy) - SSH Task Runner
