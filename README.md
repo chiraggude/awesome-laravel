@@ -47,6 +47,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 ##### Debugging & Profiling
 * [Debug Bar](https://github.com/barryvdh/laravel-debugbar) - Integrates PHP Debug Bar with Laravel
 * [Clockwork](https://github.com/itsgoingd/clockwork) - Integrates Clockwork Chrome extension for debugging and profiling apps
+* [Log Viewer](https://github.com/rap2hpoutre/laravel-log-viewer) - View Laravel logs in the browser
 
 ##### Authentication & Authorisation
 * [Confide](https://github.com/Zizaco/confide) - Authentication solution to cut repetitive work involving user management
