@@ -71,6 +71,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Setting](https://github.com/Phil-F/Setting) - Persistent configuration settings that are stored in JSON files
 * [Laravel Excel](https://github.com/Maatwebsite/Laravel-Excel) - Import and export Excel and CSV files
 * [Revisionable](https://github.com/VentureCraft/revisionable) - Create a revision history for Eloquent models
+* [Laravel Messenger](https://github.com/cmgmyr/laravel-messenger) - Allow you to add a full user messaging system into your Laravel application
 
 ##### Working with Javascript
 * [PHP Vars to JavaScript Transformer](https://github.com/laracasts/PHP-Vars-To-Js-Transformer) -  Pass server-side string/array/collection/whatever to your JavaScript
