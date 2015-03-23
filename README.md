@@ -232,18 +232,19 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 
 ## Codebases for Reference
-* [laravelio/laravel.io](https://github.com/LaravelIO/laravel.io)
-* [octobercms/october](https://github.com/octobercms/october)
-* [hillelcoren/invoice-ninja](https://github.com/hillelcoren/invoice-ninja)
-* [wardrobecms/wardrobe](https://github.com/wardrobecms/wardrobe)
-* [andrewelkins/laravel-4-bootstrap-starter-site](https://github.com/andrewelkins/Laravel-4-Bootstrap-Starter-Site)
-* [grahamcampbell/bootstrap-cms](https://github.com/GrahamCampbell/Bootstrap-CMS)
-* [codepadme/laravel-tricks](https://github.com/CodepadME/laravel-tricks)
-* [sdebacker/typicms](https://github.com/sdebacker/TypiCMS)
-* [chintanbanugaria/92five](https://github.com/chintanbanugaria/92five)
-* [summerblue/phphub](https://github.com/summerblue/phphub)
-* [cachethq/Cachet](https://github.com/cachethq/Cachet)
-* [twostairs/paperwork](https://github.com/twostairs/paperwork)
+* [Laravel.IO](https://github.com/LaravelIO/laravel.io)
+* [October](https://github.com/octobercms/october)
+* [Invoice Ninja](https://github.com/hillelcoren/invoice-ninja)
+* [Wardrobe](https://github.com/wardrobecms/wardrobe)
+* [Laravel 4 Bootstrap Starter Site](https://github.com/andrewelkins/Laravel-4-Bootstrap-Starter-Site)
+* [Bootstrap CMS](https://github.com/BootstrapCMS/CMS)
+* [Laravel Tricks](https://github.com/CodepadME/laravel-tricks)
+* [TypiCMS](https://github.com/TypiCMS/Base)
+* [92Five](https://github.com/chintanbanugaria/92five)
+* [PHPHub](https://github.com/summerblue/phphub)
+* [Cachet](https://github.com/cachethq/Cachet)
+* [Paperwork](https://github.com/twostairs/paperwork)
+* [StyleCI](https://github.com/StyleCI/StyleCI)
 
 
 ## Newsletters
