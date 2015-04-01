@@ -71,6 +71,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Setting](https://github.com/Phil-F/Setting) - Persistent configuration settings that are stored in JSON files
 * [Laravel Excel](https://github.com/Maatwebsite/Laravel-Excel) - Import and export Excel and CSV files
 * [Revisionable](https://github.com/VentureCraft/revisionable) - Create a revision history for Eloquent models
+* [Laravel Hashids](https://github.com/vinkla/hashids) - Laravel wrapper for the Hashids API
 * [Laravel DigitalOcean](https://github.com/GrahamCampbell/Laravel-DigitalOcean) A DigitalOceanV2 bridge
 * [Laravel GitHub](https://github.com/GrahamCampbell/Laravel-GitHub) A PHP GitHub API bridge
 * [Laravel Parse](https://github.com/GrahamCampbell/Laravel-Parse) A PHP Parse SDK bridge
