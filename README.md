@@ -22,10 +22,10 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * Learn Laravel 5 From Scratch - [Laracasts](https://laracasts.com/series/laravel-5-from-scratch)
 * Learn Laravel 5 in Spanish [duilio.me](http://duilio.me/laravel-5/)
 
-## Lumen - Fast micro-framework by Laravel
+## Lumen
 *Released on 14th April, 2015*
-* [Documentation](http://lumen.laravel.com/docs/installation)
 * [Introduction](https://laracasts.com/lessons/introducing-lumen) (Laracasts)
+* [Documentation](http://lumen.laravel.com/docs/installation)
 
 ## Code Snippets
 * [Laravel Tricks](http://www.laravel-tricks.com/)
