@@ -79,6 +79,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel Parse](https://github.com/GrahamCampbell/Laravel-Parse) A PHP Parse SDK bridge
 * [Laravel Dropbox](https://github.com/GrahamCampbell/Laravel-Dropbox) A Dropbox bridge
 * [Laravel Messenger](https://github.com/cmgmyr/laravel-messenger) - Create a user messaging system in your Laravel app
+* [Intervention Image](https://github.com/Intervention/image) - Image handling library for creating, editing and composing images
 
 ##### Working with Javascript
 * [PHP Vars to JavaScript Transformer](https://github.com/laracasts/PHP-Vars-To-Js-Transformer) -  Pass server-side string/array/collection/whatever to your JavaScript
@@ -106,10 +107,6 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Dispatcher](https://github.com/indatus/dispatcher) - Scheduler for Artisan commands
 * [Rocketeer](https://github.com/Anahkiasen/rocketeer) - Task runner and deployment package
 * [LaravelDotEnvGen](https://github.com/mathiasgrimm/laravel-dot-env-gen) - Generates .env.gen file based on the project source code 
-
-##### Asset Management
-* [Intervention Image](https://github.com/Intervention/image) - Image handling and manipulation library for creating, editing and composing images
-* [Asset Pipeline](https://github.com/CodeSleeve/asset-pipeline) - Concatenate and minify/compress JavaScript and CSS assets
 
 ##### Payments
 * [Cashier](https://github.com/laravel/cashier) - Subscription billing with Stripe
