@@ -41,7 +41,6 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 ##### Developer Tools
 * [Generators](https://github.com/JeffreyWay/Laravel-4-Generators) - Defacto code generator for Laravel
-* [Elixr](https://github.com/laravel/elixir) - Node(NPM) package to run Gulp tasks that watch files, run tests, minify CSS, concatenate scripts etc.
 * [Blacksmith](https://github.com/Indatus/blacksmith) - Flexible code generation tool
 * [IDE Helper](https://github.com/barryvdh/laravel-ide-helper) - Generates a helper file for IDE auto-completion
 
@@ -80,6 +79,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel Dropbox](https://github.com/GrahamCampbell/Laravel-Dropbox) A Dropbox bridge
 * [Laravel Messenger](https://github.com/cmgmyr/laravel-messenger) - Create a user messaging system in your Laravel app
 * [Intervention Image](https://github.com/Intervention/image) - Image handling library for creating, editing and composing images
+* [LaravelDotEnvGen](https://github.com/mathiasgrimm/laravel-dot-env-gen) - Generates .env.gen file based on the project source code 
 
 ##### Working with Javascript
 * [PHP Vars to JavaScript Transformer](https://github.com/laracasts/PHP-Vars-To-Js-Transformer) -  Pass server-side string/array/collection/whatever to your JavaScript
@@ -102,10 +102,10 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel CORS](https://github.com/barryvdh/laravel-cors) - Add CORS (Cross-Origin Resource Sharing) headers support
 * [APIGuard](https://github.com/chrisbjr/api-guard) - A simple way of authenticating your APIs with API keys using Laravel.
 
-##### Tasks, Commands and Deployment
+##### Tasks, Commands and Scheduling
+* [Elixr](https://github.com/laravel/elixir) - Node(NPM) package to run Gulp tasks that watch files, run tests, minify CSS, concatenate scripts etc.
 * [Envoy](https://github.com/laravel/envoy) - SSH Task Runner
 * [Dispatcher](https://github.com/indatus/dispatcher) - Scheduler for Artisan commands
-* [LaravelDotEnvGen](https://github.com/mathiasgrimm/laravel-dot-env-gen) - Generates .env.gen file based on the project source code 
 
 ##### Payments
 * [Cashier](https://github.com/laravel/cashier) - Subscription billing with Stripe
