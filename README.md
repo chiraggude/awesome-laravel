@@ -6,11 +6,10 @@ Awesome Laravel
 Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 ## Essentials
-* [Quickstart Guide](http://laravel.com/docs/quick)
-* [Documentation](http://laravel.com/docs) ([API](http://laravel.com/api/4.2/))
-* [Laracasts](http://laracasts.com) (Developer + Laracasts = God Mode on)
-* [Code Bright web edition](http://daylerees.com/codebright/codebright) (beginner-level extention to the documentation)
-* [Tips & Tutorials](http://laravel-news.com/category/laravel-tips-tutorials/) (via Laravel News)
+* [Documentation](http://laravel.com/docs)
+* [API](http://laravel.com/api/)
+* [Laracasts](http://laracasts.com)
+* [Laravel News](http://laravel-news.com/)
 * [Laravel Cheat Sheet](http://cheats.jesse-obrien.ca)
 
 ## Laravel 5
@@ -32,12 +31,10 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel Recipies](http://laravel-recipes.com/)
 * [Laravel Snippets](http://laravelsnippets.com/)
 
-
 ## Package Repositories
 * [Packagist](https://packagist.org/)
 * [Packalyst](http://packalyst.com/)
 * [Cartalyst](https://cartalyst.com/)
-
 
 ## Popular Packages
 > This is a list of well-documented, tested packages that are frequently used in most Laravel projects. If you're looking for an exhaustive list of Laravel packages, then check out the Package Repositories mentioned above.
@@ -128,7 +125,6 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Translator](https://github.com/vinkla/translator) - Laravel translator for multilingual Eloquent objects.
 * [Language Files](https://github.com/caouecs/Laravel4-lang) - Validation, Pagination and Reminders language lines in 37 languages
 
-
 ## Development Setup
 * [Homestead](http://laravel.com/docs/homestead) - Official Vagrant box for Laravel
   * [Getting Started with Laravel Homestead](http://scotch.io/tutorials/php/getting-started-with-laravel-homestead)
@@ -137,7 +133,6 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * Install Laravel with Composer
  * [Windows](https://www.youtube.com/watch?v=m3D894qZKws)
  * [Mac OSX or Linux](https://laracasts.com/lessons/laravel-installation-for-newbs)
-
 
 ## Application Hosting
 * [Forge](https://forge.laravel.com/) - Provision optimized PHP servers on Linode, DigitalOcean etc.
@@ -150,7 +145,6 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [PagodaBox](https://pagodabox.com/) ([Quickstart app](https://pagodabox.com/cafe/briankiewel/laravel-4))
 * [Heroku](https://www.heroku.com/) ([Tutorial](http://mattstauffer.co/blog/installing-a-laravel-app-on-heroku))
 * [IBM BlueMix](https://ace.ng.bluemix.net/) ([Tutorial](https://developer.ibm.com/bluemix/2014/06/17/getting-started-laravel-bluemix/))
-
 
 ## Articles, Tutorials, Blogs etc.
 * [Tuts+](http://code.tutsplus.com/categories/laravel)
@@ -193,7 +187,6 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Easy Laravel Book Blog](http://www.easylaravelbook.com/blog/)
 * [Bosnadev](https://bosnadev.com/tag/laravel-2/)
 
-
 ## Video Tutorials
 * [Laracasts](https://laracasts.com/)
 * [PHP Academy](https://www.youtube.com/user/phpacademy/playlists)
@@ -212,7 +205,6 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Tuts+](http://code.tutsplus.com/categories/laravel/courses)
 * [Novica Vukobratovic](http://www.youtube.com/playlist?list=PLaWzibV7A82RMFW58Iq2gZHpB_TLrixFY)
 
-
 ## Laracon
 * [Laracon US](https://conference.laravel.com/)
 * [Laracon EU](http://laracon.eu/)
@@ -222,7 +214,6 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laracon US 2014](http://userscape.com/laracon/2014/)
 * [Laracon EU 2013](http://laracon.eu/2013/talks/)
 * [Laracon US 2013](https://www.youtube.com/playlist?list=PLkwAlZpjHQbLcox_S_AgGU24QUfKgXayN)
-
 
 ## Books
 * [Laravel: Code Bright](https://leanpub.com/codebright)
@@ -243,7 +234,6 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel - My First Framework](https://leanpub.com/laravel-first-framework)
 * [Easy Laravel 5](https://leanpub.com/easylaravel/)
 
-
 ## Codebases for Reference
 * [Laravel.IO](https://github.com/LaravelIO/laravel.io)
 * [October](https://github.com/octobercms/october)
@@ -259,15 +249,14 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Paperwork](https://github.com/twostairs/paperwork)
 * [StyleCI](https://github.com/StyleCI/StyleCI)
 
-
 ## Newsletters
 * [Laravel News](http://laravel-news.com/) ([archive](http://laravel-news.com/archive))
 * [Laravel Weekly](http://laravelweekly.com/)
 
-
 ## Community
 * [Laravel.io Forum](http://laravel.io/) ([Old Forum Archive](http://forumsarchive.laravel.io/))
-* [Laravel.io Podcast](http://www.buzzsprout.com/11908)
+* [Laravel.io Podcast](http://www.laravelpodcast.com/)
+* [Larachat Slack](https://larachat.slack.com/) ([Signup](https://larachat.typeform.com/to/wqvupv))
 * [IRC Channel](http://laravel.io/chat)
 * [Laracasts Forum](https://laracasts.com/discuss) ([Old Forum Archive](https://www.laracasts.com/forum/))
 * [Twitter](https://twitter.com/laravelphp)
@@ -276,7 +265,6 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Quora](http://www.quora.com/Laravel)
 * [Facebook](https://www.facebook.com/LaravelCommunity)
 * [LinkedIn](https://www.linkedin.com/groups/Laravel-PHP-Framework-4419933)
-* [Larachat Slack](https://larachat.slack.com/) ([Signup](https://larachat.typeform.com/to/wqvupv))
 
 #### Local User Groups
 * [Laravel Russia](http://laravel.ru/) ([VK group](http://vk.com/laravel_rus))
@@ -306,8 +294,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 ## Miscellaneous
 * [Built with Laravel](http://builtwithlaravel.com/) - Gallery of websites and projects built with Laravel
-* [CodeCanyon](http://codecanyon.net/search?utf8=%E2%9C%93&term=laravel)
-
+* [CodeCanyon](http://codecanyon.net/tags/laravel?term=laravel) - Paid scripts and plugins
 
 ## Contributing
 Found an awesome package, blog, video etc.? Send me a PR!
