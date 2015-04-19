@@ -105,7 +105,6 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 ##### Tasks, Commands and Deployment
 * [Envoy](https://github.com/laravel/envoy) - SSH Task Runner
 * [Dispatcher](https://github.com/indatus/dispatcher) - Scheduler for Artisan commands
-* [Rocketeer](https://github.com/Anahkiasen/rocketeer) - Task runner and deployment package
 * [LaravelDotEnvGen](https://github.com/mathiasgrimm/laravel-dot-env-gen) - Generates .env.gen file based on the project source code 
 
 ##### Payments
@@ -136,12 +135,15 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
   * [Server Management with Forge](https://laracasts.com/series/server-management-with-forge) (Laracasts)
   * [Getting your first site up and running in Laravel Forge](http://mattstauffer.co/blog/getting-your-first-site-up-and-running-in-laravel-forge) (Matt Stauffer)
   * [ForgeRecipes](http://forgerecipes.com/)
-* [Envoyer](https://envoyer.io/) - Zero down-time Deployer for PHP & Laravel projects
- * [Deployments with Envoyer](https://laracasts.com/series/envoyer) (Laracasts)
 * [FortRabbit](http://fortrabbit.com/solutions/laravel-hosting) ([Video](https://laracasts.com/lessons/from-zero-to-deploy-with-fortrabbit))
 * [PagodaBox](https://pagodabox.com/) ([Quickstart app](https://pagodabox.com/cafe/briankiewel/laravel-4))
 * [Heroku](https://www.heroku.com/) ([Tutorial](http://mattstauffer.co/blog/installing-a-laravel-app-on-heroku))
 * [IBM BlueMix](https://ace.ng.bluemix.net/) ([Tutorial](https://developer.ibm.com/bluemix/2014/06/17/getting-started-laravel-bluemix/))
+
+## Application Deployment
+* [Envoyer](https://envoyer.io/) - Zero down-time Deployer for PHP & Laravel projects
+ * [Deployments with Envoyer](https://laracasts.com/series/envoyer) (Laracasts)
+* [Rocketeer](https://github.com/Anahkiasen/rocketeer) - Task runner and deployment package
 
 ## Articles, Tutorials, Blogs etc.
 * [Tuts+](http://code.tutsplus.com/categories/laravel)
