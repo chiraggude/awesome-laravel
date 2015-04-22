@@ -274,6 +274,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel China](http://phphub.org)
 * [Laravel Taiwan](http://laravel.tw/) ([Facebook group](https://www.facebook.com/groups/laravel.tw/))
 * [Laravel Spanish](http://laraveles.com/foro/)
+* [Laravel Korea](http://laravel.co.kr/)
 
 #### Meetups
 * [All Meetups](http://laravel.meetup.com/)
