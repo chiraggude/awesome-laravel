@@ -31,8 +31,9 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel Recipies](http://laravel-recipes.com/)
 * [Laravel Snippets](http://laravelsnippets.com/)
 
-## Package Repositories
+## Packages
 * [Packagist](https://packagist.org/)
+* [Laravel Collective](http://laravelcollective.com/)
 * [Packalyst](http://packalyst.com/)
 * [Cartalyst](https://cartalyst.com/)
 
@@ -58,6 +59,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [JWT Auth](https://github.com/tymondesigns/jwt-auth) - JSON Web Token authentication for APIs
 
 ##### Utilities
+* [HTML](https://github.com/LaravelCollective/html) - Official HTML and Form Builders for Laravel 
 * [Validating](https://github.com/dwightwatson/validating) - Trait for validating Eloquent models on save
 * [Eloquent Sluggable](https://github.com/cviebrock/eloquent-sluggable) - Creates slugs for Eloquent models
 * [Laravel Stapler](https://github.com/CodeSleeve/laravel-stapler) - ORM-based file upload manager
