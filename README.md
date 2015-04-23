@@ -119,10 +119,15 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Language Files](https://github.com/caouecs/Laravel4-lang) - Validation, Pagination and Reminders language lines in 37 languages
 
 ##### Third party APIs
+* [Laravel Algolia](https://github.com/vinkla/algolia) A Algolia API bridge
 * [Laravel DigitalOcean](https://github.com/GrahamCampbell/Laravel-DigitalOcean) A DigitalOceanV2 bridge
-* [Laravel GitHub](https://github.com/GrahamCampbell/Laravel-GitHub) A PHP GitHub API bridge
-* [Laravel Parse](https://github.com/GrahamCampbell/Laravel-Parse) A PHP Parse SDK bridge
 * [Laravel Dropbox](https://github.com/GrahamCampbell/Laravel-Dropbox) A Dropbox bridge
+* [Laravel GitHub](https://github.com/GrahamCampbell/Laravel-GitHub) A PHP GitHub API bridge
+* [Laravel GitLab](https://github.com/vinkla/gitlab) A GitLab API bridge
+* [Laravel Instagram](https://github.com/vinkla/instagram) A Instagram API bridge
+* [Laravel Parse](https://github.com/GrahamCampbell/Laravel-Parse) A PHP Parse SDK bridge
+* [Laravel Pusher](https://github.com/vinkla/pusher) A Pusher API bridge
+* [Laravel Vimeo](https://github.com/vinkla/vimeo) A Vimeo API bridge
 
 ## Development Setup
 * [Homestead](http://laravel.com/docs/homestead) - Official Vagrant box for Laravel
