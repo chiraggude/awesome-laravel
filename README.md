@@ -203,11 +203,12 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Tuts+](http://code.tutsplus.com/categories/laravel/courses)
 * [Novica Vukobratovic](http://www.youtube.com/playlist?list=PLaWzibV7A82RMFW58Iq2gZHpB_TLrixFY)
 
-## Laracon
-* [Laracon US](https://conference.laravel.com/)
+## Conferences
+* [Laracon US](http://laracon.us/)
 * [Laracon EU](http://laracon.eu/)
+* [ArtisanConf](https://www.artisanconf.com/)
 
-#### Videos
+#### Conference Videos
 * [Laracon EU 2014](http://laracon.eu/2014/#schedule)
 * [Laracon US 2014](http://userscape.com/laracon/2014/)
 * [Laracon EU 2013](http://laracon.eu/2013/talks/)
