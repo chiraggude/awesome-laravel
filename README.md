@@ -118,7 +118,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Translator](https://github.com/vinkla/translator) - Laravel translator for multilingual Eloquent objects.
 * [Language Files](https://github.com/caouecs/Laravel4-lang) - Validation, Pagination and Reminders language lines in 37 languages
 
-##### Third party APIs
+##### Third-party Service Integration
 * [Laravel Algolia](https://github.com/vinkla/algolia) A Algolia API bridge
 * [Laravel DigitalOcean](https://github.com/GrahamCampbell/Laravel-DigitalOcean) A DigitalOceanV2 bridge
 * [Laravel Dropbox](https://github.com/GrahamCampbell/Laravel-Dropbox) A Dropbox bridge
