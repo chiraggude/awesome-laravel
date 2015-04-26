@@ -10,7 +10,6 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [API Reference](http://laravel.com/api/)
 * [Laracasts](http://laracasts.com)
 * [Laravel News](http://laravel-news.com/)
-* [Laravel Cheat Sheet](http://cheats.jesse-obrien.ca)
 
 ## Laravel 5
 *Released on 4th February, 2015*
@@ -27,6 +26,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Documentation](http://lumen.laravel.com/docs/installation)
 
 ## Code Snippets
+* [Laravel Cheat Sheet](http://cheats.jesse-obrien.ca)
 * [Laravel Tricks](http://www.laravel-tricks.com/)
 * [Laravel Recipies](http://laravel-recipes.com/)
 * [Laravel Snippets](http://laravelsnippets.com/)
