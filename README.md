@@ -7,7 +7,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 ## Essentials
 * [Documentation](http://laravel.com/docs)
-* [API](http://laravel.com/api/)
+* [API Reference](http://laravel.com/api/)
 * [Laracasts](http://laracasts.com)
 * [Laravel News](http://laravel-news.com/)
 * [Laravel Cheat Sheet](http://cheats.jesse-obrien.ca)
