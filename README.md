@@ -263,10 +263,11 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 ## Community
 * [Laravel.io Forum](http://laravel.io/) ([Old Forum Archive](http://forumsarchive.laravel.io/))
-* [Laravel.io Podcast](http://www.laravelpodcast.com/)
+* [Laracasts Forum](https://laracasts.com/discuss) ([Old Forum Archive](https://www.laracasts.com/forum/))
+* [Laravel Podcast](http://www.laravelpodcast.com/)
 * [Larachat Slack](https://larachat.slack.com/) ([Signup](https://larachat.typeform.com/to/wqvupv))
 * [IRC Channel](http://laravel.io/chat)
-* [Laracasts Forum](https://laracasts.com/discuss) ([Old Forum Archive](https://www.laracasts.com/forum/))
+* [StackOverflow](http://stackoverflow.com/questions/tagged/laravel)
 * [Twitter](https://twitter.com/laravelphp)
 * [Google+](https://plus.google.com/communities/106838454910116161868)
 * [Reddit](http://www.reddit.com/r/laravel)
