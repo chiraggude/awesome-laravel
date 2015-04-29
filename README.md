@@ -241,6 +241,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Building Web Applications Using Parse REST API](https://leanpub.com/building-web-applications-using-parse-rest-api)
 * [Laravel - My First Framework](https://leanpub.com/laravel-first-framework)
 * [Easy Laravel 5](https://leanpub.com/easylaravel/)
+* [Laravel 5 Essentials](https://www.packtpub.com/web-development/laravel-5-essentials)
 
 ## Codebases for Reference
 * [Laravel.IO](https://github.com/LaravelIO/laravel.io)
