@@ -211,6 +211,11 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Lynda](http://www.lynda.com/Laravel-tutorials/Up-Running-Laravel/166513-2.html)
 * [Tuts+](http://code.tutsplus.com/categories/laravel/courses)
 * [Novica Vukobratovic](http://www.youtube.com/playlist?list=PLaWzibV7A82RMFW58Iq2gZHpB_TLrixFY)
+* [Andrew Perkins] (http://andrewperkins.net/laravel)
+
+## OpenSource Apps
+* [Invoice Ninja] (https://github.com/hillelcoren/invoice-ninja) Invoicing site
+* [Laravel.IO] (https://github.com/LaravelIO/laravel.io) Community Portal
 
 ## Conferences
 * [Laracon US](http://laracon.us/)
