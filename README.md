@@ -193,6 +193,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Stillat](http://www.stillat.com/blog/category/programming/laravel/)
 * [Easy Laravel Book Blog](http://www.easylaravelbook.com/blog/)
 * [Bosnadev](https://bosnadev.com/tag/laravel-2/)
+* [Blog do Vluzrmos (PT-BR)](http://blog.vluzrmos.com.br/category/laravel)
 
 ## Video Tutorials
 * [Laracasts](https://laracasts.com/)
