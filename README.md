@@ -144,7 +144,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
   * [Getting your first site up and running in Laravel Forge](http://mattstauffer.co/blog/getting-your-first-site-up-and-running-in-laravel-forge) (Matt Stauffer)
   * [ForgeRecipes](http://forgerecipes.com/)
 * [FortRabbit](http://fortrabbit.com/solutions/laravel-hosting) ([Video](https://laracasts.com/lessons/from-zero-to-deploy-with-fortrabbit))
-* [PagodaBox](https://pagodabox.com/) ([Quickstart app](https://pagodabox.com/cafe/briankiewel/laravel-4))
+* [PagodaBox](https://pagodabox.io/) ([Documentation](https://pagodabox.io/docs/framework_laravel))
 * [Heroku](https://www.heroku.com/) ([Tutorial](http://mattstauffer.co/blog/installing-a-laravel-app-on-heroku))
 * [IBM BlueMix](https://ace.ng.bluemix.net/) ([Tutorial](https://developer.ibm.com/bluemix/2014/06/17/getting-started-laravel-bluemix/))
 
