@@ -259,6 +259,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Cachet](https://github.com/cachethq/Cachet)
 * [Paperwork](https://github.com/twostairs/paperwork)
 * [StyleCI](https://github.com/StyleCI/StyleCI)
+* [Laravel 5 Boilerplate](https://github.com/rappasoft/laravel-5-boilerplate)
 
 ## Newsletters
 * [Laravel News](http://laravel-news.com/) ([archive](http://laravel-news.com/archive))
