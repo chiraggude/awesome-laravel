@@ -55,6 +55,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Entrust](https://github.com/Zizaco/entrust) - Role-based Permissions
 * [OAuth2 Server Laravel](https://github.com/lucadegasperi/oauth2-server-laravel) - Wrapper for OAuth 2.0 authorization server and resource server
 * [Socialite](https://github.com/laravel/socialite) - Social authentication wrapper for Facebook, Google, Twitter etc.
+* [Socialite Providers](http://socialiteproviders.github.io/) - Over 70 providers for Socialite. 
 * [OAuth 4 Laravel](https://github.com/artdarek/oauth-4-laravel) - OAuth client wrapper that supports Facebook, Twitter, Google etc.
 * [JWT Auth](https://github.com/tymondesigns/jwt-auth) - JSON Web Token authentication for APIs
 * [Vault](https://github.com/rappasoft/vault) - Roles & Permissions for the Laravel 5 Framework
