@@ -247,6 +247,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel - My First Framework](https://leanpub.com/laravel-first-framework)
 * [Easy Laravel 5](https://leanpub.com/easylaravel/)
 * [Laravel 5 Essentials](https://www.packtpub.com/web-development/laravel-5-essentials)
+* [Easy E-Commerce Using Laravel and Stripe](https://leanpub.com/easyecommerce)
 
 ## Codebases for Reference
 * [Laravel.IO](https://github.com/LaravelIO/laravel.io)
