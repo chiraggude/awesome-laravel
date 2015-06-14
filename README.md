@@ -5,6 +5,25 @@ Awesome Laravel
 
 Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
+## Table of Contents
+
+- [Essentials](#essentials)
+- [Laravel 5](#laravel-5)
+- [Lumen](#lumen)
+- [Code Snippets](#code-snippets)
+- [Packages](#packages)
+- [Popular Packages](#popular-packages)
+- [Development Setup](#development-setup)
+- [Application Hosting](#application-hosting)
+- [Application Deployment](#application-deployment)
+- [Articles, Tutorials, Blogs etc.](#articles-tutorials-blogs-etc)
+- [Video Tutorials](#video-tutorials)
+- [Conferences](#conferences)
+- [Books](#books)
+- [Codebases for Reference](#codebases-for-reference)
+- [Jobs](#jobs)
+- [Miscellaneous](#miscellaneous)
+
 ## Essentials
 * [Documentation](http://laravel.com/docs)
 * [API Reference](http://laravel.com/api/)
@@ -55,13 +74,13 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Entrust](https://github.com/Zizaco/entrust) - Role-based Permissions
 * [OAuth2 Server Laravel](https://github.com/lucadegasperi/oauth2-server-laravel) - Wrapper for OAuth 2.0 authorization server and resource server
 * [Socialite](https://github.com/laravel/socialite) - Social authentication wrapper for Facebook, Google, Twitter etc.
-* [Socialite Providers](http://socialiteproviders.github.io/) - Over 70 providers for Socialite. 
+* [Socialite Providers](http://socialiteproviders.github.io/) - Over 70 providers for Socialite.
 * [OAuth 4 Laravel](https://github.com/artdarek/oauth-4-laravel) - OAuth client wrapper that supports Facebook, Twitter, Google etc.
 * [JWT Auth](https://github.com/tymondesigns/jwt-auth) - JSON Web Token authentication for APIs
 * [Vault](https://github.com/rappasoft/vault) - Roles & Permissions for the Laravel 5 Framework
 
 ##### Utilities
-* [HTML](https://github.com/LaravelCollective/html) - Official HTML and Form Builders for Laravel 
+* [HTML](https://github.com/LaravelCollective/html) - Official HTML and Form Builders for Laravel
 * [Validating](https://github.com/dwightwatson/validating) - Trait for validating Eloquent models on save
 * [Eloquent Sluggable](https://github.com/cviebrock/eloquent-sluggable) - Creates slugs for Eloquent models
 * [Laravel Stapler](https://github.com/CodeSleeve/laravel-stapler) - ORM-based file upload manager
