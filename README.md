@@ -5,6 +5,9 @@ Awesome Laravel
 
 Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
+##Laravel Tutorials
+[Build a link sharing website](http://vegibit.com/build-a-link-sharing-website-with-laravel/)
+
 ## Essentials
 * [Documentation](http://laravel.com/docs)
 * [API](http://laravel.com/api/)
