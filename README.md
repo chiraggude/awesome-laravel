@@ -5,6 +5,9 @@ Awesome Laravel
 
 Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
+##Laravel Tutorials
+[Build a link sharing website](http://vegibit.com/build-a-link-sharing-website-with-laravel/)
+
 ## Essentials
 * [Documentation](http://laravel.com/docs)
 * [API Reference](http://laravel.com/api/)
@@ -110,6 +113,9 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 ##### Payments
 * [Cashier](https://github.com/laravel/cashier) - Subscription billing with Stripe
 * [Omnipay for Laravel](https://github.com/ignited/laravel-omnipay) - Integrate the [Omnipay](https://github.com/omnipay/omnipay) PHP library
+
+##### Ecommerce
+* [Aimeos](https://github.com/aimeos/aimeos-laravel) - Ecommerce package for a complete customizable web shop
 
 ##### Optimization
 * [Laravel HTMLMin](https://github.com/GrahamCampbell/Laravel-HTMLMin) - A blade/html/css/js Minifier
