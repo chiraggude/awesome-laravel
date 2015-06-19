@@ -60,7 +60,8 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 > This is a list of well-documented, tested packages that are frequently used in Laravel projects. If you're looking for an exhaustive list of PHP packages, then check out the Package Repositories mentioned above.
 
 ##### Developer Tools
-* [Generators](https://github.com/JeffreyWay/Laravel-4-Generators) - Defacto code generator for Laravel
+* [Generators - Laravel 4](https://github.com/JeffreyWay/Laravel-4-Generators) - Defacto code generator for Laravel 4
+* [Generators - Laravel 5](https://github.com/laracasts/Laravel-5-Generators-Extended) - Defacto code generator for Laravel 5
 * [Blacksmith](https://github.com/Indatus/blacksmith) - Flexible code generation tool
 * [IDE Helper](https://github.com/barryvdh/laravel-ide-helper) - Generates a helper file for IDE auto-completion
 
