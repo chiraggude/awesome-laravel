@@ -79,6 +79,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [OAuth 4 Laravel](https://github.com/artdarek/oauth-4-laravel) - OAuth client wrapper that supports Facebook, Twitter, Google etc.
 * [JWT Auth](https://github.com/tymondesigns/jwt-auth) - JSON Web Token authentication for APIs
 * [Vault](https://github.com/rappasoft/vault) - Roles & Permissions for the Laravel 5 Framework
+* [Sentinel](https://github.com/cartalyst/sentinel) - A framework agnostic authentication & authorization system.
 
 ##### Utilities
 * [HTML](https://github.com/LaravelCollective/html) - Official HTML and Form Builders for Laravel
