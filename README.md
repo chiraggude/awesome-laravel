@@ -221,6 +221,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [CodeTutorial](http://www.codetutorial.io/tag/laravel/)
 * [Ryan Chenkie](http://ryanchenkie.com/tag/laravel/)
 * [Laravelista](http://laravelista.com/tag/laravel/)
+* [Laravel Tips](https://laraveltips.wordpress.com/)
 
 ## Video Tutorials
 * [Laracasts](https://laracasts.com/)
