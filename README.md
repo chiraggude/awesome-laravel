@@ -222,6 +222,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Ryan Chenkie](http://ryanchenkie.com/tag/laravel/)
 * [Laravelista](http://laravelista.com/tag/laravel/)
 * [Laravel Tips](https://laraveltips.wordpress.com/)
+* [Codingo Tuts](http://tuts.codingo.me/category/web-development/laravel/)
 
 ## Video Tutorials
 * [Laracasts](https://laracasts.com/)
