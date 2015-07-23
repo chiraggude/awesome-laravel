@@ -117,6 +117,11 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Baum](https://github.com/etrepat/baum) - Nested Sets pattern implementation for Laravel
 * [ClosureTable](https://github.com/franzose/ClosureTable) - Closure Table pattern implementation for Laravel
 
+##### Search
+* [Searchy](https://github.com/TomLingham/Laravel-Searchy) - MySQL only package for user driven searches on data in models
+* [Elasticquent](https://github.com/elasticquent/Elasticquent) - Elasticsearch for Eloquent Laravel Models
+
+
 ##### RESTful APIs
 * [API for Laravel](https://github.com/dingo/api) - Build RESTful APIs that can be consumed externally and by your application
 * [Trucker](https://github.com/Indatus/trucker) - Map remote API resources (usually RESTful) as models in an ActiveResource style
