@@ -120,6 +120,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [ClosureTable](https://github.com/franzose/ClosureTable) - Closure Table pattern implementation for Laravel
 
 ##### Search
+* [Algolia Search](https://github.com/algolia/algoliasearch-laravel) - Integrates the Algolia Search API to the Laravel Eloquent ORM
 * [Elasticquent](https://github.com/elasticquent/Elasticquent) - Elasticsearch for Eloquent Laravel Models
 * [Search Package for Laravel](https://github.com/mmanos/laravel-search) - Unified API across a variety of search services. Supports Elasticsearch, Algolia, and ZendSearch
 * [Searchable](https://github.com/nicolaslopezj/searchable) - a trait for Laravel that adds a simple search function to Eloquent Models.
