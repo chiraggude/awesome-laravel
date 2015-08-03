@@ -153,6 +153,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel Algolia](https://github.com/vinkla/algolia) A Algolia API bridge
 * [Laravel DigitalOcean](https://github.com/GrahamCampbell/Laravel-DigitalOcean) A DigitalOceanV2 bridge
 * [Laravel Dropbox](https://github.com/GrahamCampbell/Laravel-Dropbox) A Dropbox bridge
+* [Laravel Facebook](https://github.com/schimpanz/Laravel-Facebook) A Facebook API bridge
 * [Laravel GitHub](https://github.com/GrahamCampbell/Laravel-GitHub) A PHP GitHub API bridge
 * [Laravel GitLab](https://github.com/vinkla/gitlab) A GitLab API bridge
 * [Laravel Instagram](https://github.com/vinkla/instagram) A Instagram API bridge
