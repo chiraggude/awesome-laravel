@@ -351,10 +351,5 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [CodeCanyon](http://codecanyon.net/tags/laravel?term=laravel) - Paid scripts and plugins
 
 ## Contributing
-Found an awesome package, blog, video etc.? Send me a PR!
+Found an awesome package, blog, video etc.? Send me a PR! Please review [CONTRIBUTING guidelines](CONTRIBUTING.md) first.
 
-#### Guidelines
-* Please make an individual pull request for each suggestion
-* Use the following format for resources: \[Resource\]\(URL\)
-* Use the following format for packages: \[Package\]\(URL\) - Short description
-* New categories or improvements to the existing categorisation are welcome
