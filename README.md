@@ -359,3 +359,8 @@ Found an awesome package, blog, video etc.? Send me a PR!
 * Use the following format for resources: \[Resource\]\(URL\)
 * Use the following format for packages: \[Package\]\(URL\) - Short description
 * New categories or improvements to the existing categorisation are welcome
+
+
+## License
+
+Awesome Laravel is licensed under [The MIT License (MIT)](LICENSE).
