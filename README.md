@@ -159,6 +159,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel Instagram](https://github.com/vinkla/instagram) A Instagram API bridge
 * [Laravel Parse](https://github.com/GrahamCampbell/Laravel-Parse) A PHP Parse SDK bridge
 * [Laravel Pusher](https://github.com/vinkla/pusher) A Pusher API bridge
+* [Laravel Pushwoosh](https://github.com/schimpanz/Laravel-Pushwoosh) A Pushwoosh API bridge
 * [Laravel Vimeo](https://github.com/vinkla/vimeo) A Vimeo API bridge
 
 ## Development Setup
