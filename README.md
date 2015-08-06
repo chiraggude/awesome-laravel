@@ -236,6 +236,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Codingo Tuts](http://tuts.codingo.me/category/web-development/laravel/)
 * [Antonio Carlos Ribeiro](https://antoniocarlosribeiro.com/technology)
 * [Laravel Coding](http://laravelcoding.com/)
+* [Styde](https://styde.net/proyectos/) (ES)
 
 ## Video Tutorials
 * [Laracasts](https://laracasts.com/)
@@ -254,6 +255,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Lynda](http://www.lynda.com/Laravel-tutorials/Up-Running-Laravel/166513-2.html)
 * [Tuts+](http://code.tutsplus.com/categories/laravel/courses)
 * [Novica Vukobratovic](http://www.youtube.com/playlist?list=PLaWzibV7A82RMFW58Iq2gZHpB_TLrixFY)
+* [Duilio Palacios](https://www.youtube.com/user/silencedsg/videos)
 
 ## Conferences
 * [Laracon US](http://laracon.us/)
