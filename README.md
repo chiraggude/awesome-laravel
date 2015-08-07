@@ -64,6 +64,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Generators - Laravel 5](https://github.com/laracasts/Laravel-5-Generators-Extended) - Defacto code generator for Laravel 5
 * [Blacksmith](https://github.com/Indatus/blacksmith) - Flexible code generation tool
 * [IDE Helper](https://github.com/barryvdh/laravel-ide-helper) - Generates a helper file for IDE auto-completion
+* [Larasupport](https://github.com/irazasyed/larasupport) - Adds Package Support in Lumen
 
 ##### Debugging & Profiling
 * [Debug Bar](https://github.com/barryvdh/laravel-debugbar) - Integrates PHP Debug Bar with Laravel
