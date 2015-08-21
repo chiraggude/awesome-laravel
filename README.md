@@ -238,6 +238,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Antonio Carlos Ribeiro](https://antoniocarlosribeiro.com/technology)
 * [Laravel Coding](http://laravelcoding.com/)
 * [Styde](https://styde.net/proyectos/) (ES)
+* [Laravel Daily](http://laraveldaily.com/)
 
 ## Video Tutorials
 * [Laracasts](https://laracasts.com/)
