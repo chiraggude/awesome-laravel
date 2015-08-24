@@ -293,6 +293,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel 5.1 Beauty](https://leanpub.com/l5-beauty)
 * [Design Patterns with PHP and Laravel](https://leanpub.com/larasign)
 * [Laravel 5 Learn Easy](https://leanpub.com/laravel5learneasy)
+* [Mastering Laravel](https://www.packtpub.com/web-development/mastering-laravel)
 
 ## Codebases for Reference
 * [92Five](https://github.com/chintanbanugaria/92five)
