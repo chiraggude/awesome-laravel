@@ -363,8 +363,10 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel Database Designer](http://biodesignrealworld.github.io/LaravelDatabaseDesigner/) - Graphical tool to create database schemas
 
 ## Miscellaneous
-* [Built with Laravel](http://builtwithlaravel.com/) - Gallery of websites and projects built with Laravel
+* [Larasites](https://www.larasites.com/) - Collection of projects built with Laravel
+* [Built with Laravel](http://builtwithlaravel.com/) - Collection of open source projects built with Laravel
 * [CodeCanyon](http://codecanyon.net/tags/laravel?term=laravel) - Paid scripts and plugins
+* [Laramap](https://laramap.com/) - Interactive map of Laravel developers
 
 ## Contributing
 Found an awesome package, blog, video etc.? Send me a PR!
@@ -374,7 +376,6 @@ Found an awesome package, blog, video etc.? Send me a PR!
 * Use the following format for resources: \[Resource\]\(URL\)
 * Use the following format for packages: \[Package\]\(URL\) - Short description
 * New categories or improvements to the existing categorisation are welcome
-
 
 ## License
 
