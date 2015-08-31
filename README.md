@@ -110,6 +110,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laroute](https://github.com/aaronlord/laroute) - Generate Laravel route URLs from JavaScript
 
 ##### Database, Migrations & Seeding
+* [Eloquence](https://github.com/jarektkaczyk/eloquence) - Easy and flexible extensions for the Eloquent ORM (Laravel 5+)
 * [Laravel MongoDB](https://github.com/jenssegers/laravel-mongodb) - Eloquent model and Query builder with support for MongoDB
 * [Laravel Flysystem](https://github.com/GrahamCampbell/Laravel-Flysystem) - Abstraction to swap out a local file-system for a remote one (AWS S3, Dropbox etc.)
 * [Laravel Doctrine](https://github.com/mitchellvanw/laravel-doctrine) - Doctrine 2 ORM implementation
