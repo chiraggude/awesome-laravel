@@ -311,6 +311,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [StyleCI](https://github.com/StyleCI/StyleCI)
 * [TypiCMS](https://github.com/TypiCMS/Base)
 * [Wardrobe](https://github.com/wardrobecms/wardrobe)
+* [Flarum](https://github.com/flarum/flarum)
 
 ## Newsletters
 * [Laravel News](http://laravel-news.com/) ([archive](http://laravel-news.com/archive))
