@@ -74,7 +74,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 ##### Authentication & Authorisation
 * [Entrust](https://github.com/Zizaco/entrust) - Role-based Permissions
 * [JWT Auth](https://github.com/tymondesigns/jwt-auth) - JSON Web Token authentication for APIs
-* [OAuth2 Server Laravel](https://github.com/lucadegasperi/oauth2-server-laravel) - Wrapper for OAuth 2.0 authorization server and resource server
+* [OAuth2 Server Laravel](https://github.com/lucadegasperi/oauth2-server-laravel) - An OAuth 2.0 bridge for Laravel and Lumen
 * [Sentinel](https://github.com/cartalyst/sentinel) - Framework agnostic authentication & authorization system
 * [Socialite](https://github.com/laravel/socialite) - Social authentication wrapper for Facebook, Google, Twitter etc.
 * [Socialite Providers](http://socialiteproviders.github.io/) - 70+ providers for Socialite
