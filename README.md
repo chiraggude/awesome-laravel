@@ -72,15 +72,12 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Log Viewer](https://github.com/rap2hpoutre/laravel-log-viewer) - View Laravel logs in the browser
 
 ##### Authentication & Authorisation
-* [Confide](https://github.com/Zizaco/confide) - Authentication solution to cut repetitive work involving user management
 * [Entrust](https://github.com/Zizaco/entrust) - Role-based Permissions
-* [OAuth2 Server Laravel](https://github.com/lucadegasperi/oauth2-server-laravel) - Wrapper for OAuth 2.0 authorization server and resource server
-* [Socialite](https://github.com/laravel/socialite) - Social authentication wrapper for Facebook, Google, Twitter etc.
-* [Socialite Providers](http://socialiteproviders.github.io/) - Over 70 providers for Socialite.
-* [OAuth 4 Laravel](https://github.com/artdarek/oauth-4-laravel) - OAuth client wrapper that supports Facebook, Twitter, Google etc.
 * [JWT Auth](https://github.com/tymondesigns/jwt-auth) - JSON Web Token authentication for APIs
-* [Vault](https://github.com/rappasoft/vault) - Roles & Permissions for the Laravel 5 Framework
-* [Sentinel](https://github.com/cartalyst/sentinel) - A framework agnostic authentication & authorization system.
+* [OAuth2 Server Laravel](https://github.com/lucadegasperi/oauth2-server-laravel) - Wrapper for OAuth 2.0 authorization server and resource server
+* [Sentinel](https://github.com/cartalyst/sentinel) - Framework agnostic authentication & authorization system
+* [Socialite](https://github.com/laravel/socialite) - Social authentication wrapper for Facebook, Google, Twitter etc.
+* [Socialite Providers](http://socialiteproviders.github.io/) - 70+ providers for Socialite
 
 ##### Utilities
 * [HTML](https://github.com/LaravelCollective/html) - Official HTML and Form Builders for Laravel
