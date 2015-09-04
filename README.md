@@ -80,16 +80,16 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 ##### Utilities
 * [Bootstrapper](https://github.com/patricktalmadge/bootstrapper/) - Set of classes to create Bootstrap 3 markup
 * [Datatable](https://github.com/Chumper/Datatable) - Server-side and client-side integration for jQuery Datatables plugin
-* [Eloquent Sluggable](https://github.com/cviebrock/eloquent-sluggable) - Creates slugs for Eloquent models
+* [Eloquent Sluggable](https://github.com/cviebrock/eloquent-sluggable) - Create slugs for Eloquent models
 * [HTML](https://github.com/LaravelCollective/html) - Official HTML and Form Builders for Laravel
 * [Intervention Image](https://github.com/Intervention/image) - Image handling library for creating, editing and composing images
 * [Laravel Breadcrumbs](https://github.com/davejamesmiller/laravel-breadcrumbs) - Create and manage breadcrumbs
-* [Laravel DotEnvGen](https://github.com/mathiasgrimm/laravel-dot-env-gen) - Generate .env.gen file based on the project source code
+* [Laravel Dot Env Generator](https://github.com/mathiasgrimm/laravel-dot-env-gen) - Generate .env.gen file based on the project source code
 * [Laravel Excel](https://github.com/Maatwebsite/Laravel-Excel) - Import and export Excel and CSV files
-* [Laravel Hashids](https://github.com/vinkla/hashids) - Generate short, unique, non-sequential ids from numbers using [Hashids](http://hashids.org/php/)
-* [Laravel Markdown](https://github.com/GrahamCampbell/Laravel-Markdown) - CommonMark wrapper
+* [Laravel Hashids](https://github.com/vinkla/hashids) - Generate unique, non-sequential ids using [Hashids](http://hashids.org/php/)
+* [Laravel Markdown](https://github.com/GrahamCampbell/Laravel-Markdown) - CommonMark markdown parser
 * [Laravel MediaLibrary](https://github.com/spatie/laravel-medialibrary) - Associate files with Eloquent models
-* [Laravel Messenger](https://github.com/cmgmyr/laravel-messenger) - Create a user messaging system in your Laravel app
+* [Laravel Messenger](https://github.com/cmgmyr/laravel-messenger) - User messaging system
 * [Laravel Snappy](https://github.com/barryvdh/laravel-snappy) - HTML to PDF generator using wkhtmltopdf
 * [Laravel Stapler](https://github.com/CodeSleeve/laravel-stapler) - ORM-based file upload manager
 * [Laravel Stats Tracker](https://github.com/antonioribeiro/tracker) - Gather information from requests to identify and store
@@ -97,8 +97,8 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Revisionable](https://github.com/VentureCraft/revisionable) - Create a revision history for Eloquent models
 * [SEOTools](https://github.com/artesaos/seotools) - SEOTools - SEO Tools for Laravel and Lumen
 * [Setting](https://github.com/Phil-F/Setting) - Persistent configuration settings that are stored in JSON files
-* [Teamwork](https://github.com/mpociot/teamwork) - Easy to use user to team associations with an invite system
-* [Validating](https://github.com/dwightwatson/validating) - Trait for validating Eloquent models on save
+* [Teamwork](https://github.com/mpociot/teamwork) - User to team associations with an invite system
+* [Validating](https://github.com/dwightwatson/validating) - Trait for validating Eloquent models
 
 ##### Working with Javascript
 * [Laroute](https://github.com/aaronlord/laroute) - Generate Laravel route URLs from JavaScript
