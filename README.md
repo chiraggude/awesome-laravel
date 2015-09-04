@@ -78,27 +78,27 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Socialite Providers](http://socialiteproviders.github.io/) - 70+ social authentication providers for Socialite
 
 ##### Utilities
-* [HTML](https://github.com/LaravelCollective/html) - Official HTML and Form Builders for Laravel
-* [Validating](https://github.com/dwightwatson/validating) - Trait for validating Eloquent models on save
-* [Eloquent Sluggable](https://github.com/cviebrock/eloquent-sluggable) - Creates slugs for Eloquent models
-* [Laravel Stapler](https://github.com/CodeSleeve/laravel-stapler) - ORM-based file upload manager
-* [Laravel Snappy](https://github.com/barryvdh/laravel-snappy) - HTML to PDF generator using wkhtmltopdf
-* [Laravel Markdown](https://github.com/GrahamCampbell/Laravel-Markdown) - CommonMark wrapper
-* [noCAPTCHA](https://github.com/ARCANEDEV/noCAPTCHA) - Helper for Google's new noCAPTCHA (reCAPTCHA)
-* [Datatable](https://github.com/Chumper/Datatable) - Server-side and client-side integration for jQuery Datatables plugin
-* [Laravel Breadcrumbs](https://github.com/davejamesmiller/laravel-breadcrumbs) - Create and manage breadcrumbs
-* [Laravel Stats Tracker](https://github.com/antonioribeiro/tracker) - Gather information from requests to identify and store
 * [Bootstrapper](https://github.com/patricktalmadge/bootstrapper/) - Set of classes to create Bootstrap 3 markup
-* [Setting](https://github.com/Phil-F/Setting) - Persistent configuration settings that are stored in JSON files
-* [Laravel Excel](https://github.com/Maatwebsite/Laravel-Excel) - Import and export Excel and CSV files
-* [Revisionable](https://github.com/VentureCraft/revisionable) - Create a revision history for Eloquent models
-* [Laravel Hashids](https://github.com/vinkla/hashids) - Generate short, unique, non-sequential ids from numbers using [Hashids](http://hashids.org/php/)
-* [Laravel Messenger](https://github.com/cmgmyr/laravel-messenger) - Create a user messaging system in your Laravel app
+* [Datatable](https://github.com/Chumper/Datatable) - Server-side and client-side integration for jQuery Datatables plugin
+* [Eloquent Sluggable](https://github.com/cviebrock/eloquent-sluggable) - Creates slugs for Eloquent models
+* [HTML](https://github.com/LaravelCollective/html) - Official HTML and Form Builders for Laravel
 * [Intervention Image](https://github.com/Intervention/image) - Image handling library for creating, editing and composing images
-* [LaravelDotEnvGen](https://github.com/mathiasgrimm/laravel-dot-env-gen) - Generate .env.gen file based on the project source code
-* [SEOTools](https://github.com/artesaos/seotools) - SEOTools - SEO Tools for Laravel and Lumen
+* [Laravel Breadcrumbs](https://github.com/davejamesmiller/laravel-breadcrumbs) - Create and manage breadcrumbs
+* [Laravel DotEnvGen](https://github.com/mathiasgrimm/laravel-dot-env-gen) - Generate .env.gen file based on the project source code
+* [Laravel Excel](https://github.com/Maatwebsite/Laravel-Excel) - Import and export Excel and CSV files
+* [Laravel Hashids](https://github.com/vinkla/hashids) - Generate short, unique, non-sequential ids from numbers using [Hashids](http://hashids.org/php/)
+* [Laravel Markdown](https://github.com/GrahamCampbell/Laravel-Markdown) - CommonMark wrapper
 * [Laravel MediaLibrary](https://github.com/spatie/laravel-medialibrary) - Associate files with Eloquent models
+* [Laravel Messenger](https://github.com/cmgmyr/laravel-messenger) - Create a user messaging system in your Laravel app
+* [Laravel Snappy](https://github.com/barryvdh/laravel-snappy) - HTML to PDF generator using wkhtmltopdf
+* [Laravel Stapler](https://github.com/CodeSleeve/laravel-stapler) - ORM-based file upload manager
+* [Laravel Stats Tracker](https://github.com/antonioribeiro/tracker) - Gather information from requests to identify and store
+* [noCAPTCHA](https://github.com/ARCANEDEV/noCAPTCHA) - Helper for Google's new noCAPTCHA (reCAPTCHA)
+* [Revisionable](https://github.com/VentureCraft/revisionable) - Create a revision history for Eloquent models
+* [SEOTools](https://github.com/artesaos/seotools) - SEOTools - SEO Tools for Laravel and Lumen
+* [Setting](https://github.com/Phil-F/Setting) - Persistent configuration settings that are stored in JSON files
 * [Teamwork](https://github.com/mpociot/teamwork) - Easy to use user to team associations with an invite system
+* [Validating](https://github.com/dwightwatson/validating) - Trait for validating Eloquent models on save
 
 ##### Working with Javascript
 * [Laroute](https://github.com/aaronlord/laroute) - Generate Laravel route URLs from JavaScript
