@@ -123,11 +123,11 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [SearchIndex](https://github.com/spatie/searchindex) - Store and retrieve objects from Algolia or Elasticsearch
 * [Searchable](https://github.com/nicolaslopezj/searchable) - a trait for Laravel that adds a simple search function to Eloquent Models.
 
-##### RESTful APIs
-* [API for Laravel](https://github.com/dingo/api) - Build RESTful APIs that can be consumed externally and by your application
-* [Trucker](https://github.com/Indatus/trucker) - Map remote API resources (usually RESTful) as models in an ActiveResource style
+##### APIs
+* [ApiGuard](https://github.com/chrisbjr/api-guard) - Allow API authentication with API keys
+* [Dingo API](https://github.com/dingo/api) - Multi-purpose toolkit for developing RESTful APIs
 * [Laravel CORS](https://github.com/barryvdh/laravel-cors) - Add CORS (Cross-Origin Resource Sharing) headers support
-* [APIGuard](https://github.com/chrisbjr/api-guard) - A simple way of authenticating your APIs with API keys using Laravel.
+
 
 ##### Tasks, Commands and Scheduling
 * [Elixr](https://github.com/laravel/elixir) - Node(NPM) package to run Gulp tasks that watch files, run tests, minify CSS, concatenate scripts etc.
