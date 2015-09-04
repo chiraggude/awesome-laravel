@@ -106,15 +106,14 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laroute](https://github.com/aaronlord/laroute) - Generate Laravel route URLs from JavaScript
 
 ##### Database, Migrations & Seeding
-* [Laravel MongoDB](https://github.com/jenssegers/laravel-mongodb) - Eloquent model and Query builder with support for MongoDB
-* [Laravel Flysystem](https://github.com/GrahamCampbell/Laravel-Flysystem) - Abstraction to swap out a local file-system for a remote one (AWS S3, Dropbox etc.)
-* [Laravel Doctrine](https://github.com/mitchellvanw/laravel-doctrine) - Doctrine 2 ORM implementation
-* [Migrations Generator](https://github.com/Xethron/migrations-generator) - Generate Migrations from an existing database
-* [iSeed](https://github.com/orangehill/iseed) - Generate a new seed file from existing database table
-* [Backup Manager](https://github.com/heybigname/backup-manager) - Backup to and restore database from S3, Dropbox, SFTP etc.
+* [Backup Manager](https://github.com/backup-manager/laravel) - Backup to and restore databases from S3, Dropbox, SFTP etc.
+* [Baum](https://github.com/etrepat/baum) - Nested Sets pattern implementation
+* [ClosureTable](https://github.com/franzose/ClosureTable) - Closure table pattern implementation
+* [iSeed](https://github.com/orangehill/iseed) - Generate a new seed file from an existing database table
+* [Laravel Doctrine](https://github.com/mitchellvanw/laravel-doctrine) - Doctrine 2 ORM implementation for Laravel
+* [Laravel MongoDB](https://github.com/jenssegers/laravel-mongodb) - Eloquent model and query builder with support for MongoDB
+* [Migrations Generator](https://github.com/Xethron/migrations-generator) - Generate migrations from an existing database
 * [Tenanti](https://github.com/orchestral/tenanti) - Multi-tenant database schema manager
-* [Baum](https://github.com/etrepat/baum) - Nested Sets pattern implementation for Laravel
-* [ClosureTable](https://github.com/franzose/ClosureTable) - Closure Table pattern implementation for Laravel
 
 ##### Search
 * [Algolia Search](https://github.com/algolia/algoliasearch-laravel) - Integrates the Algolia Search API to the Laravel Eloquent ORM
