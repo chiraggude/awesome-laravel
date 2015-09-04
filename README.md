@@ -60,10 +60,9 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 > This is a list of well-documented, tested packages that are frequently used in Laravel projects. If you're looking for an exhaustive list of PHP packages, then check out the Package Repositories mentioned above.
 
 ##### Developer Tools
+* [IDE Helper](https://github.com/barryvdh/laravel-ide-helper) - Generate a helper file for IDE auto-completion
 * [Laravel 5 Extended Generators](https://github.com/laracasts/Laravel-5-Generators-Extended) -  Extends built-in file generators
 * [Laravel API/Scaffold/CRUD Generator](https://github.com/mitulgolakiya/laravel-api-generator) - Generator for APIs, CRUD scaffolds etc.
-* [IDE Helper](https://github.com/barryvdh/laravel-ide-helper) - Generate a helper file for IDE auto-completion
-
 
 ##### Debugging & Profiling
 * [Clockwork](https://github.com/itsgoingd/clockwork) - Integrates Clockwork Chrome extension for debugging and profiling apps
@@ -102,8 +101,8 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Teamwork](https://github.com/mpociot/teamwork) - Easy to use user to team associations with an invite system
 
 ##### Working with Javascript
-* [PHP Vars to JavaScript Transformer](https://github.com/laracasts/PHP-Vars-To-Js-Transformer) -  Pass server-side string/array/collection/whatever to your JavaScript
 * [Laroute](https://github.com/aaronlord/laroute) - Generate Laravel route URLs from JavaScript
+* [PHP Vars to JavaScript Transformer](https://github.com/laracasts/PHP-Vars-To-Js-Transformer) -  Pass server-side string/array/collection/whatever to your JavaScript
 
 ##### Database, Migrations & Seeding
 * [Backup Manager](https://github.com/backup-manager/laravel) - Backup to and restore databases from S3, Dropbox, SFTP etc.
@@ -127,25 +126,24 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Dingo API](https://github.com/dingo/api) - Multi-purpose toolkit for developing RESTful APIs
 * [Laravel CORS](https://github.com/barryvdh/laravel-cors) - Add CORS (Cross-Origin Resource Sharing) headers support
 
-
 ##### Tasks, Commands and Scheduling
+* [Dispatcher](https://github.com/indatus/dispatcher) - Scheduler for Artisan commands
 * [Elixr](https://github.com/laravel/elixir) - Node(NPM) package to run Gulp tasks that watch files, run tests, minify CSS, concatenate scripts etc.
 * [Envoy](https://github.com/laravel/envoy) - SSH Task Runner
-* [Dispatcher](https://github.com/indatus/dispatcher) - Scheduler for Artisan commands
 
 ##### Payments
 * [Cashier](https://github.com/laravel/cashier) - Subscription billing with Stripe
 * [Omnipay for Laravel](https://github.com/ignited/laravel-omnipay) - Integrate the [Omnipay](https://github.com/omnipay/omnipay) PHP library
 
 ##### Optimization
-* [Laravel HTMLMin](https://github.com/GrahamCampbell/Laravel-HTMLMin) - A blade/html/css/js Minifier
 * [Intervention Image Cache](https://github.com/Intervention/imagecache) - Caching extension for the Intervention Image Class
+* [Laravel HTMLMin](https://github.com/GrahamCampbell/Laravel-HTMLMin) - Blade/HTML/CSS/javascript minifier
 
 ##### Localization
+* [Language Files](https://github.com/caouecs/Laravel4-lang) - Validation, Pagination and Reminders language lines in 37 languages
 * [Laravel Localization](https://github.com/mcamara/laravel-localization) - Add i18n support via routes
 * [Laravel Translatable](https://github.com/dimsav/laravel-translatable) - Retrieve and store translatable Eloquent model instances
 * [Laravel Translator](https://github.com/vinkla/translator) - A Eloquent translator for Laravel
-* [Language Files](https://github.com/caouecs/Laravel4-lang) - Validation, Pagination and Reminders language lines in 37 languages
 
 ##### Third-party Service Integration
 * [Laravel Algolia](https://github.com/vinkla/algolia) A Algolia API bridge
