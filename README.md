@@ -60,22 +60,22 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 > This is a list of well-documented, tested packages that are frequently used in Laravel projects. If you're looking for an exhaustive list of PHP packages, then check out the Package Repositories mentioned above.
 
 ##### Developer Tools
-* [IDE Helper](https://github.com/barryvdh/laravel-ide-helper) - Generate a helper file for IDE auto-completion
+* [IDE Helper](https://github.com/barryvdh/laravel-ide-helper) - Generates a helper file for IDE auto-completion
 * [Laravel 5 Extended Generators](https://github.com/laracasts/Laravel-5-Generators-Extended) -  Extends built-in file generators
 * [Laravel API/Scaffold/CRUD Generator](https://github.com/mitulgolakiya/laravel-api-generator) - Generator for APIs, CRUD scaffolds etc.
 
 ##### Debugging & Profiling
 * [Clockwork](https://github.com/itsgoingd/clockwork) - Integrates Clockwork Chrome extension for debugging and profiling apps
 * [Debug Bar](https://github.com/barryvdh/laravel-debugbar) - Integrates PHP Debug Bar with Laravel
-* [Laravel 5 Log Viewer](https://github.com/rap2hpoutre/laravel-log-viewer) - View logs in the browser
+* [Laravel 5 Log Viewer](https://github.com/rap2hpoutre/laravel-log-viewer) - Log viewer
 
 ##### Authentication & Authorisation
 * [Entrust](https://github.com/Zizaco/entrust) - Role-based Permissions
 * [JWT Auth](https://github.com/tymondesigns/jwt-auth) - JSON Web Token authentication for APIs
-* [OAuth2 Server Laravel](https://github.com/lucadegasperi/oauth2-server-laravel) - Wrapper for OAuth 2.0 authorization server and resource server
+* [OAuth2 Server Laravel](https://github.com/lucadegasperi/oauth2-server-laravel) - OAuth 2.0 authorization server and resource server
 * [Sentinel](https://github.com/cartalyst/sentinel) - Framework agnostic authentication & authorization system
-* [Socialite](https://github.com/laravel/socialite) - Social authentication wrapper for Facebook, Google, Twitter etc.
-* [Socialite Providers](http://socialiteproviders.github.io/) - 70+ providers for Socialite
+* [Socialite](https://github.com/laravel/socialite) - OAuth authentication with Facebook, Google, Twitter etc.
+* [Socialite Providers](http://socialiteproviders.github.io/) - 70+ social authentication providers for Socialite
 
 ##### Utilities
 * [HTML](https://github.com/LaravelCollective/html) - Official HTML and Form Builders for Laravel
@@ -102,7 +102,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 ##### Working with Javascript
 * [Laroute](https://github.com/aaronlord/laroute) - Generate Laravel route URLs from JavaScript
-* [PHP Vars to JavaScript Transformer](https://github.com/laracasts/PHP-Vars-To-Js-Transformer) -  Pass server-side string/array/collection/whatever to your JavaScript
+* [PHP Vars to JavaScript Transformer](https://github.com/laracasts/PHP-Vars-To-Js-Transformer) -  Pass server-side string/array/collection/whatever to JavaScript
 
 ##### Database, Migrations & Seeding
 * [Backup Manager](https://github.com/backup-manager/laravel) - Backup to and restore databases from S3, Dropbox, SFTP etc.
@@ -116,10 +116,10 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 ##### Search
 * [Algolia Search](https://github.com/algolia/algoliasearch-laravel) - Integrates the Algolia Search API to the Laravel Eloquent ORM
-* [Elasticquent](https://github.com/elasticquent/Elasticquent) - Elasticsearch for Eloquent Laravel Models
+* [Elasticquent](https://github.com/elasticquent/Elasticquent) - Elasticsearch for Eloquent models
 * [Laravel Search](https://github.com/mmanos/laravel-search) - Unified API for Elasticsearch, Algolia, and ZendSearch
 * [SearchIndex](https://github.com/spatie/searchindex) - Store and retrieve objects from Algolia or Elasticsearch
-* [Searchable](https://github.com/nicolaslopezj/searchable) - a trait for Laravel that adds a simple search function to Eloquent Models.
+* [Searchable](https://github.com/nicolaslopezj/searchable) - Trait that adds a simple search function to Eloquent models
 
 ##### APIs
 * [ApiGuard](https://github.com/chrisbjr/api-guard) - Allow API authentication with API keys
@@ -143,20 +143,20 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Language Files](https://github.com/caouecs/Laravel4-lang) - Validation, Pagination and Reminders language lines in 37 languages
 * [Laravel Localization](https://github.com/mcamara/laravel-localization) - Add i18n support via routes
 * [Laravel Translatable](https://github.com/dimsav/laravel-translatable) - Retrieve and store translatable Eloquent model instances
-* [Laravel Translator](https://github.com/vinkla/translator) - A Eloquent translator for Laravel
+* [Laravel Translator](https://github.com/vinkla/translator) - Translate Eloquent models into multiple languages
 
 ##### Third-party Service Integration
-* [Laravel Algolia](https://github.com/vinkla/algolia) A Algolia API bridge
-* [Laravel DigitalOcean](https://github.com/GrahamCampbell/Laravel-DigitalOcean) A DigitalOceanV2 bridge
-* [Laravel Dropbox](https://github.com/GrahamCampbell/Laravel-Dropbox) A Dropbox bridge
-* [Laravel Facebook](https://github.com/schimpanz/Laravel-Facebook) A Facebook API bridge
-* [Laravel GitHub](https://github.com/GrahamCampbell/Laravel-GitHub) A PHP GitHub API bridge
-* [Laravel GitLab](https://github.com/vinkla/gitlab) A GitLab API bridge
-* [Laravel Instagram](https://github.com/vinkla/instagram) A Instagram API bridge
-* [Laravel Parse](https://github.com/GrahamCampbell/Laravel-Parse) A PHP Parse SDK bridge
-* [Laravel Pusher](https://github.com/vinkla/pusher) A Pusher API bridge
-* [Laravel Pushwoosh](https://github.com/schimpanz/Laravel-Pushwoosh) A Pushwoosh API bridge
-* [Laravel Vimeo](https://github.com/vinkla/vimeo) A Vimeo API bridge
+* [Laravel Algolia](https://github.com/vinkla/algolia) - Algolia API bridge
+* [Laravel DigitalOcean](https://github.com/GrahamCampbell/Laravel-DigitalOcean) - DigitalOceanV2 bridge
+* [Laravel Dropbox](https://github.com/GrahamCampbell/Laravel-Dropbox) - Dropbox bridge
+* [Laravel Facebook](https://github.com/schimpanz/Laravel-Facebook) - Facebook API bridge
+* [Laravel GitHub](https://github.com/GrahamCampbell/Laravel-GitHub) - PHP GitHub API bridge
+* [Laravel GitLab](https://github.com/vinkla/gitlab) - GitLab API bridge
+* [Laravel Instagram](https://github.com/vinkla/instagram) - Instagram API bridge
+* [Laravel Parse](https://github.com/GrahamCampbell/Laravel-Parse) - PHP Parse SDK bridge
+* [Laravel Pusher](https://github.com/vinkla/pusher) - Pusher API bridge
+* [Laravel Pushwoosh](https://github.com/schimpanz/Laravel-Pushwoosh) - Pushwoosh API bridge
+* [Laravel Vimeo](https://github.com/vinkla/vimeo) - Vimeo API bridge
 
 ## Development Setup
 * [Homestead](http://laravel.com/docs/homestead) - Official Vagrant box for Laravel
