@@ -144,6 +144,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel Localization](https://github.com/mcamara/laravel-localization) - Add i18n support via routes
 * [Laravel Translatable](https://github.com/dimsav/laravel-translatable) - Retrieve and store translatable Eloquent model instances
 * [Laravel Translator](https://github.com/vinkla/translator) - Translate Eloquent models into multiple languages
+* [Laravel Date](https://github.com/jenssegers/laravel-date) - A library to help you work with dates in multiple languages, based on Carbon
 
 ##### Third-party Service Integration
 * [Laravel Algolia](https://github.com/vinkla/algolia) - Algolia API bridge
@@ -306,6 +307,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Wardrobe](https://github.com/wardrobecms/wardrobe)
 * [Flarum](https://github.com/flarum/flarum)
 * [Lavalite](https://github.com/LavaLite/cms)
+* [Laravel Administrator](https://github.com/FrozenNode/Laravel-Administrator)
 
 ## Newsletters
 * [Laravel News](http://laravel-news.com/) ([archive](http://laravel-news.com/archive))
