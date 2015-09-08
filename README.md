@@ -90,8 +90,10 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel Markdown](https://github.com/GrahamCampbell/Laravel-Markdown) - CommonMark markdown parser
 * [Laravel MediaLibrary](https://github.com/spatie/laravel-medialibrary) - Associate files with Eloquent models
 * [Laravel Messenger](https://github.com/cmgmyr/laravel-messenger) - User messaging system
+* [Laravel Responsecache](https://github.com/spatie/laravel-responsecache) - Speed up a Laravel app by caching the entire response
 * [Laravel Snappy](https://github.com/barryvdh/laravel-snappy) - HTML to PDF generator using wkhtmltopdf
 * [Laravel Stapler](https://github.com/CodeSleeve/laravel-stapler) - ORM-based file upload manager
+* [Laravel Tail](https://github.com/spatie/laravel-tail) - The missing tail command for Laravel 5
 * [Laravel Stats Tracker](https://github.com/antonioribeiro/tracker) - Gather information from requests to identify and store
 * [noCAPTCHA](https://github.com/ARCANEDEV/noCAPTCHA) - Helper for Google's new noCAPTCHA (reCAPTCHA)
 * [Revisionable](https://github.com/VentureCraft/revisionable) - Create a revision history for Eloquent models
@@ -109,6 +111,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Baum](https://github.com/etrepat/baum) - Nested Sets pattern implementation
 * [ClosureTable](https://github.com/franzose/ClosureTable) - Closure table pattern implementation
 * [iSeed](https://github.com/orangehill/iseed) - Generate a new seed file from an existing database table
+* [Laravel Backup](https://github.com/spatie/laravel-backup) - A package to backup your Laravel 5 app
 * [Laravel Doctrine](https://github.com/mitchellvanw/laravel-doctrine) - Doctrine 2 ORM implementation for Laravel
 * [Laravel MongoDB](https://github.com/jenssegers/laravel-mongodb) - Eloquent model and query builder with support for MongoDB
 * [Migrations Generator](https://github.com/Xethron/migrations-generator) - Generate migrations from an existing database
@@ -147,16 +150,20 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 ##### Third-party Service Integration
 * [Laravel Algolia](https://github.com/vinkla/algolia) - Algolia API bridge
+* [Laravel Analytics](https://github.com/spatie/laravel-analytics) - An opinionated Laravel 5 package to retrieve pageviews and other data from Google Analytics
 * [Laravel DigitalOcean](https://github.com/GrahamCampbell/Laravel-DigitalOcean) - DigitalOceanV2 bridge
 * [Laravel Dropbox](https://github.com/GrahamCampbell/Laravel-Dropbox) - Dropbox bridge
 * [Laravel Facebook](https://github.com/schimpanz/Laravel-Facebook) - Facebook API bridge
 * [Laravel GitHub](https://github.com/GrahamCampbell/Laravel-GitHub) - PHP GitHub API bridge
 * [Laravel GitLab](https://github.com/vinkla/gitlab) - GitLab API bridge
+* [Laravel Googletagmanager](https://github.com/spatie/laravel-googletagmanager) - Easily setup and send data to Google Tag Manager
 * [Laravel Instagram](https://github.com/vinkla/instagram) - Instagram API bridge
+* [Laravel Newsletter](https://github.com/spatie/laravel-newsletter) - Send newsletters with Mailchimp
 * [Laravel Parse](https://github.com/GrahamCampbell/Laravel-Parse) - PHP Parse SDK bridge
 * [Laravel Pusher](https://github.com/vinkla/pusher) - Pusher API bridge
 * [Laravel Pushwoosh](https://github.com/schimpanz/Laravel-Pushwoosh) - Pushwoosh API bridge
 * [Laravel Vimeo](https://github.com/vinkla/vimeo) - Vimeo API bridge
+
 
 ## Development Setup
 * [Homestead](http://laravel.com/docs/homestead) - Official Vagrant box for Laravel
@@ -232,6 +239,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel Coding](http://laravelcoding.com/)
 * [Styde](https://styde.net/proyectos/) (ES)
 * [Laravel Daily](http://laraveldaily.com/)
+# [Freek Van der Herten](https://murze.be/tag/laravel/)
 
 ## Video Tutorials
 * [Laracasts](https://laracasts.com/)
