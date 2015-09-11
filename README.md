@@ -266,7 +266,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laracon EU](http://laracon.eu/)
 * [ArtisanConf](https://www.artisanconf.com/)
 
-#### Conference Videos
+##### Videos
 * [Laracon EU 2014](http://laracon.eu/2014/#schedule)
 * [Laracon US 2014](http://userscape.com/laracon/2014/)
 * [Laracon EU 2013](http://laracon.eu/2013/talks/)
@@ -335,7 +335,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Facebook](https://www.facebook.com/LaravelCommunity)
 * [LinkedIn](https://www.linkedin.com/groups/Laravel-PHP-Framework-4419933)
 
-#### Local User Groups
+##### Local User Groups
 * [Laravel Russia](http://laravel.ru/) ([VK group](http://vk.com/laravel_rus))
 * [Laravel France](http://laravel.fr/)
 * [Laravel Myanmar](http://laravelmyanmar.com)
@@ -350,7 +350,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel Morocco](http://moroccanphpartisans.github.io/)
 * [Laravel Japan](http://laravel.jp/) ([Facebook group](https://www.facebook.com/groups/laravel.jp/))
 
-#### Meetups
+##### Meetups
 * [All Meetups](http://laravel.meetup.com/)
 * [London Meetup](http://www.meetup.com/London-Laravel/)
 * [Buenos Aires, Argentina Meetup](http://www.meetup.com/Laravel-Buenos-Aires)
