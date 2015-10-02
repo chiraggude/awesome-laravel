@@ -79,11 +79,12 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 ##### Utilities
 * [Bootstrapper](https://github.com/patricktalmadge/bootstrapper/) - Set of classes to create Bootstrap 3 markup
-* [Datatable](https://github.com/Chumper/Datatable) - Server-side and client-side integration for jQuery Datatables plugin
+* [Datatable](https://github.com/Chumper/Datatable) - Server-side and client-side integration for jQuery Datatables plugin - **This package is for DataTables 1.9! It is NOT compatible with 1.10+!**
 * [Eloquent Sluggable](https://github.com/cviebrock/eloquent-sluggable) - Create slugs for Eloquent models
 * [HTML](https://github.com/LaravelCollective/html) - Official HTML and Form Builders for Laravel
 * [Intervention Image](https://github.com/Intervention/image) - Image handling library for creating, editing and composing images
 * [Laravel Breadcrumbs](https://github.com/davejamesmiller/laravel-breadcrumbs) - Create and manage breadcrumbs
+* [Laravel Datatable](https://github.com/yajra/laravel-datatables) - jQuery DataTables API for Laravel 4|5
 * [Laravel Dot Env Generator](https://github.com/mathiasgrimm/laravel-dot-env-gen) - Generate .env.gen file based on the project source code
 * [Laravel Excel](https://github.com/Maatwebsite/Laravel-Excel) - Import and export Excel and CSV files
 * [Laravel Hashids](https://github.com/vinkla/hashids) - Generate unique, non-sequential ids using [Hashids](http://hashids.org/php/)
