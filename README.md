@@ -114,7 +114,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [ClosureTable](https://github.com/franzose/ClosureTable) - Closure table pattern implementation
 * [iSeed](https://github.com/orangehill/iseed) - Generate a new seed file from an existing database table
 * [Laravel Backup](https://github.com/spatie/laravel-backup) - A package to backup your Laravel 5 app
-* [Laravel Doctrine](https://github.com/mitchellvanw/laravel-doctrine) - Doctrine 2 ORM implementation for Laravel
+* [Laravel Doctrine](https://github.com/laravel-doctrine/orm) - Doctrine 2 ORM implementation for Laravel
 * [Laravel MongoDB](https://github.com/jenssegers/laravel-mongodb) - Eloquent model and query builder with support for MongoDB
 * [Migrations Generator](https://github.com/Xethron/migrations-generator) - Generate migrations from an existing database
 * [Tenanti](https://github.com/orchestral/tenanti) - Multi-tenant database schema manager
