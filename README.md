@@ -55,6 +55,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel Collective](http://laravelcollective.com/)
 * [Packalyst](http://packalyst.com/)
 * [Cartalyst](https://cartalyst.com/)
+* [Spatie](https://spatie.be/opensource/laravel)
 
 ## Popular Packages
 > This is a list of well-documented, tested packages that are frequently used in Laravel projects. If you're looking for an exhaustive list of PHP packages, then check out the Package Repositories mentioned above.
