@@ -247,6 +247,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Styde](https://styde.net/proyectos/) (ES)
 * [Laravel Daily](http://laraveldaily.com/)
 * [Freek Van der Herten](https://murze.be/tag/laravel/)
+* [Alfred Nutile](https://alfrednutile.info/tags/laravel)
 
 ## Video Tutorials
 * [Laracasts](https://laracasts.com/)
