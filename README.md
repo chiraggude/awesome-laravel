@@ -74,6 +74,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [JWT Auth](https://github.com/tymondesigns/jwt-auth) - JSON Web Token authentication for APIs
 * [Laravel Permission](https://github.com/spatie/laravel-permission) Associate users with roles and permissions
 * [OAuth2 Server Laravel](https://github.com/lucadegasperi/oauth2-server-laravel) - OAuth 2.0 authorization server and resource server
+* [Laravel Roles](https://github.com/romanbican/roles) - Roles And Permissions For Laravel 5
 * [Sentinel](https://github.com/cartalyst/sentinel) - Framework agnostic authentication & authorization system
 * [Socialite](https://github.com/laravel/socialite) - OAuth authentication with Facebook, Google, Twitter etc.
 * [Socialite Providers](http://socialiteproviders.github.io/) - 70+ social authentication providers for Socialite
