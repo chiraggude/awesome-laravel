@@ -272,6 +272,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [ArtisanConf](https://www.artisanconf.com/)
 
 ##### Videos
+* [Laracon EU 2015](https://www.youtube.com/playlist?list=PLMdXHJK-lGoA9SIsuFy0UWL8PZD1G3YFZ)
 * [Laracon EU 2014](http://laracon.eu/2014/#schedule)
 * [Laracon US 2014](http://userscape.com/laracon/2014/)
 * [Laracon EU 2013](http://laracon.eu/2013/talks/)
