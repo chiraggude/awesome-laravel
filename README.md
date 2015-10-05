@@ -107,6 +107,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Setting](https://github.com/Phil-F/Setting) - Persistent configuration settings that are stored in JSON files
 * [Teamwork](https://github.com/mpociot/teamwork) - User to team associations with an invite system
 * [Validating](https://github.com/dwightwatson/validating) - Trait for validating Eloquent models
+* [VAT Calculator](https://github.com/mpociot/vat-calculator) - Handle all the hard stuff related to EU MOSS vat regulations. Can be used with Laravel 5 / Cashier
 
 ##### Working with Javascript
 * [Laroute](https://github.com/aaronlord/laroute) - Generate Laravel route URLs from JavaScript
