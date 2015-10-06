@@ -70,6 +70,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel 5 Log Viewer](https://github.com/rap2hpoutre/laravel-log-viewer) - Log viewer
 
 ##### Authentication & Authorisation
+* [Auth](https://github.com/cerbero90/Auth) - Authentication package that has honeypot trap
 * [Entrust](https://github.com/Zizaco/entrust) - Role-based Permissions
 * [JWT Auth](https://github.com/tymondesigns/jwt-auth) - JSON Web Token authentication for APIs
 * [Laravel Permission](https://github.com/spatie/laravel-permission) Associate users with roles and permissions
