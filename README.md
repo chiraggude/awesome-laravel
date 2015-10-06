@@ -170,7 +170,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel Pusher](https://github.com/vinkla/pusher) - Pusher API bridge
 * [Laravel Pushwoosh](https://github.com/schimpanz/Laravel-Pushwoosh) - Pushwoosh API bridge
 * [Laravel Vimeo](https://github.com/vinkla/vimeo) - Vimeo API bridge
-
+* [WordPress+](https://github.com/jumilla/wordpress-plus) - Lumen meets WordPress
 
 ## Development Setup
 * [Homestead](http://laravel.com/docs/homestead) - Official Vagrant box for Laravel
