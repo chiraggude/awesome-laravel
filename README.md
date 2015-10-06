@@ -122,6 +122,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel MongoDB](https://github.com/jenssegers/laravel-mongodb) - Eloquent model and query builder with support for MongoDB
 * [Migrations Generator](https://github.com/Xethron/migrations-generator) - Generate migrations from an existing database
 * [Tenanti](https://github.com/orchestral/tenanti) - Multi-tenant database schema manager
+* [Laravel Versionia](https://github.com/jumilla/laravel-versionia) - Semantic-version based migration manager for Laravel 5
 
 ##### Search
 * [Algolia Search](https://github.com/algolia/algoliasearch-laravel) - Integrates the Algolia Search API to the Laravel Eloquent ORM
