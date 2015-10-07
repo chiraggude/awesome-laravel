@@ -73,6 +73,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 ##### Authentication & Authorisation
 * [Entrust](https://github.com/Zizaco/entrust) - Role-based Permissions
 * [JWT Auth](https://github.com/tymondesigns/jwt-auth) - JSON Web Token authentication for APIs
+* [Bouncer](https://github.com/JosephSilber/bouncer) - roles and abilities for Laravel's gate, with a fluent and expressive syntax
 * [Laravel Permission](https://github.com/spatie/laravel-permission) Associate users with roles and permissions
 * [Defender](https://github.com/artesaos/defender) Roles & Permissions for Laravel 5
 * [OAuth2 Server Laravel](https://github.com/lucadegasperi/oauth2-server-laravel) - OAuth 2.0 authorization server and resource server
