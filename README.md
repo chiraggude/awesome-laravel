@@ -108,6 +108,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Setting](https://github.com/Phil-F/Setting) - Persistent configuration settings that are stored in JSON files
 * [Teamwork](https://github.com/mpociot/teamwork) - User to team associations with an invite system
 * [Validating](https://github.com/dwightwatson/validating) - Trait for validating Eloquent models
+* [DragonFly/nag](https://github.com/dragonFlyAdmin/nag) - You're friendly front-end form validator, converts FormRequest validation rules into data attributes on your form elements
 
 ##### Working with Javascript
 * [Laroute](https://github.com/aaronlord/laroute) - Generate Laravel route URLs from JavaScript
