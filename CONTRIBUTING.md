@@ -2,7 +2,7 @@
 
 Contributions are welcome, and are accepted via pull requests. Please review these guidelines before submitting any pull requests.
 
-## Adding to this list of Popular Packages
+## Adding to the list of Popular Packages
 
 Please ensure your pull request adheres to the following guidelines:
 
@@ -17,6 +17,8 @@ Please ensure your pull request adheres to the following guidelines:
 - Uses [PSR-4](http://www.php-fig.org/psr/psr-4/) autoloader.
 - Listed on [Packagist](https://packagist.org/).
 - Has tests.
+
+Note: These requirements will be waived off for packages listed prior to 1st October, 2015
 
 ## Good to haves for packages
 
