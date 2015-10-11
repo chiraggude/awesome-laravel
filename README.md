@@ -270,6 +270,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Tuts+](http://code.tutsplus.com/categories/laravel/courses)
 * [Novica Vukobratovic](http://www.youtube.com/playlist?list=PLaWzibV7A82RMFW58Iq2gZHpB_TLrixFY)
 * [Duilio Palacios](https://www.youtube.com/user/silencedsg/videos)
+* [DevDojo](https://www.youtube.com/playlist?list=PL_UnIDIwT95NUvLU14l_QFFV2ZxO1phpQ)
 
 ## Conferences
 * [Laracon US](http://laracon.us/)
