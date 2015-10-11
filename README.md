@@ -390,13 +390,13 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laramap](https://laramap.com/) - Interactive map of Laravel developers
 
 ## Contributing
-Found an awesome package, blog, video etc.? Send me a PR!
+Found an awesome package, blog, video etc.? Send me a pull request!
 
 #### Guidelines
 * Please make an individual pull request for each suggestion
-* Use the following format for resources: \[Resource\]\(URL\)
-* Use the following format for packages: \[Package\]\(URL\) - Short description
-* New categories or improvements to the existing categorisation are welcome
+* Use the following format for links: \[Resource\]\(URL\)
+* Want to suggest a package? Read the [Contribution Guide](https://github.com/chiraggude/awesome-laravel/blob/master/CONTRIBUTING.md)
+* New categories or improvements to the existing categorization are welcome
 
 ## License
 
