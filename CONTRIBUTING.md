@@ -16,11 +16,11 @@ Please ensure your pull request adheres to the following guidelines:
 - 100 stars on Github.
 - Use [PSR-4](http://www.php-fig.org/psr/psr-4/) autoloader.
 - Listed on [Packagist](https://packagist.org/).
-- Tests. 
+- Tests!
 
-Note: These requirements will be waived off for packages listed on Awesome Laravel (master) prior to 11th October, 2015
+Note: These requirements are waived off for packages listed on Awesome Laravel (master) prior to 11th October, 2015
 
-## Good to haves for packages
+## Best practices for packages
 
 - Keep a [Changelog](http://keepachangelog.com/)
 - Adhere to [PSR-2](http://www.php-fig.org/psr/psr-2/) as the coding style guide.
