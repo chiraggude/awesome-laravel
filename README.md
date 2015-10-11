@@ -75,21 +75,21 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Entrust](https://github.com/Zizaco/entrust) - Role-based Permissions
 * [JWT Auth](https://github.com/tymondesigns/jwt-auth) - JSON Web Token authentication for APIs
 * [Laravel Permission](https://github.com/spatie/laravel-permission) Associate users with roles and permissions
-* [Defender](https://github.com/artesaos/defender) Roles & Permissions for Laravel 5
+* [Defender](https://github.com/artesaos/defender) Roles & Permissions
 * [OAuth2 Server Laravel](https://github.com/lucadegasperi/oauth2-server-laravel) - OAuth 2.0 authorization server and resource server
-* [Laravel Roles](https://github.com/romanbican/roles) - Roles And Permissions For Laravel 5
+* [Laravel Roles](https://github.com/romanbican/roles) - Roles And Permissions
 * [Sentinel](https://github.com/cartalyst/sentinel) - Framework agnostic authentication & authorization system
 * [Socialite](https://github.com/laravel/socialite) - OAuth authentication with Facebook, Google, Twitter etc.
 * [Socialite Providers](http://socialiteproviders.github.io/) - 70+ social authentication providers for Socialite
 
 ##### Utilities
 * [Bootstrapper](https://github.com/patricktalmadge/bootstrapper/) - Set of classes to create Bootstrap 3 markup
-* [Datatable](https://github.com/Chumper/Datatable) - Server-side and client-side integration for jQuery Datatables plugin - **This package is for DataTables 1.9! It is NOT compatible with 1.10+!**
+* [Datatable](https://github.com/Chumper/Datatable) - Server-side and client-side integration for jQuery Datatables plugin
 * [Eloquent Sluggable](https://github.com/cviebrock/eloquent-sluggable) - Create slugs for Eloquent models
 * [HTML](https://github.com/LaravelCollective/html) - Official HTML and Form Builders for Laravel
 * [Intervention Image](https://github.com/Intervention/image) - Image handling library for creating, editing and composing images
 * [Laravel Breadcrumbs](https://github.com/davejamesmiller/laravel-breadcrumbs) - Create and manage breadcrumbs
-* [Laravel Datatable](https://github.com/yajra/laravel-datatables) - jQuery DataTables API for Laravel 4|5
+* [Laravel Datatable](https://github.com/yajra/laravel-datatables) - jQuery DataTables API
 * [Laravel Dot Env Generator](https://github.com/mathiasgrimm/laravel-dot-env-gen) - Generate .env.gen file based on the project source code
 * [Laravel Excel](https://github.com/Maatwebsite/Laravel-Excel) - Import and export Excel and CSV files
 * [Laravel Hashids](https://github.com/vinkla/hashids) - Generate unique, non-sequential ids using [Hashids](http://hashids.org/php/)
@@ -99,16 +99,16 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel Responsecache](https://github.com/spatie/laravel-responsecache) - Speed up a Laravel app by caching the entire response
 * [Laravel Snappy](https://github.com/barryvdh/laravel-snappy) - HTML to PDF generator using wkhtmltopdf
 * [Laravel Stapler](https://github.com/CodeSleeve/laravel-stapler) - ORM-based file upload manager
-* [Laravel Tail](https://github.com/spatie/laravel-tail) - The missing tail command for Laravel 5
+* [Laravel Tail](https://github.com/spatie/laravel-tail) - The missing tail command
 * [Laravel Stats Tracker](https://github.com/antonioribeiro/tracker) - Gather information from requests to identify and store
 * [Listify](https://github.com/lookitsatravis/listify) - Add sorting/ordering capabilities to any Eloquent model
 * [noCAPTCHA](https://github.com/ARCANEDEV/noCAPTCHA) - Helper for Google's new noCAPTCHA (reCAPTCHA)
 * [Revisionable](https://github.com/VentureCraft/revisionable) - Create a revision history for Eloquent models
-* [SEOTools](https://github.com/artesaos/seotools) - SEOTools - SEO Tools for Laravel and Lumen
+* [SEOTools](https://github.com/artesaos/seotools) - Helpers for some common SEO techniques
 * [Setting](https://github.com/Phil-F/Setting) - Persistent configuration settings that are stored in JSON files
 * [Teamwork](https://github.com/mpociot/teamwork) - User to team associations with an invite system
 * [Validating](https://github.com/dwightwatson/validating) - Trait for validating Eloquent models
-* [VAT Calculator](https://github.com/mpociot/vat-calculator) - Handle all the hard stuff related to EU MOSS vat regulations. Can be used with Laravel 5 / Cashier
+* [VAT Calculator](https://github.com/mpociot/vat-calculator) - Handle all the hard stuff related to EU MOSS vat regulations
 
 ##### Working with Javascript
 * [Laroute](https://github.com/aaronlord/laroute) - Generate Laravel route URLs from JavaScript
@@ -120,8 +120,8 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Baum](https://github.com/etrepat/baum) - Nested Sets pattern implementation
 * [ClosureTable](https://github.com/franzose/ClosureTable) - Closure table pattern implementation
 * [iSeed](https://github.com/orangehill/iseed) - Generate a new seed file from an existing database table
-* [Laravel Backup](https://github.com/spatie/laravel-backup) - A package to backup your Laravel 5 app
-* [Laravel Doctrine](https://github.com/laravel-doctrine/orm) - Doctrine 2 ORM implementation for Laravel
+* [Laravel Backup](https://github.com/spatie/laravel-backup) - Backup your app
+* [Laravel Doctrine](https://github.com/laravel-doctrine/orm) - Doctrine 2 ORM implementation
 * [Laravel MongoDB](https://github.com/jenssegers/laravel-mongodb) - Eloquent model and query builder with support for MongoDB
 * [Migrations Generator](https://github.com/Xethron/migrations-generator) - Generate migrations from an existing database
 * [Tenanti](https://github.com/orchestral/tenanti) - Multi-tenant database schema manager
