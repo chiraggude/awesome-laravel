@@ -155,6 +155,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel Translatable](https://github.com/dimsav/laravel-translatable) - Retrieve and store translatable Eloquent model instances
 * [Laravel Translator](https://github.com/vinkla/translator) - Translate Eloquent models into multiple languages
 * [Laravel Date](https://github.com/jenssegers/laravel-date) - A library to help you work with dates in multiple languages, based on Carbon.
+* [Laravel Gettext](https://github.com/xinax/laravel-gettext) - Adds localization support to laravel applications using PoEdit and GNU-Gettext.
 
 ##### Third-party Service Integration
 * [Laravel Algolia](https://github.com/vinkla/algolia) - Algolia API bridge
