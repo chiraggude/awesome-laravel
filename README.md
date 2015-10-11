@@ -13,6 +13,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 - [Code Snippets](#code-snippets)
 - [Packages](#packages)
 - [Popular Packages](#popular-packages)
+- [Boilerplates](#boilerplates)
 - [Development Setup](#development-setup)
 - [Application Hosting](#application-hosting)
 - [Application Deployment](#application-deployment)
@@ -60,7 +61,10 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 ## Popular Packages
 > This is a list of well-documented, tested packages that are frequently used in Laravel projects. If you're looking for an exhaustive list of PHP packages, then check out the Package Repositories mentioned above.
 
-##### Developer Tools
+## Boilerplates
+* [Laravel 5.1 Boilerplate](https://github.com/rappasoft/laravel-5-boilerplate)
+
+### Developer Tools
 * [IDE Helper](https://github.com/barryvdh/laravel-ide-helper) - Generates a helper file for IDE auto-completion
 * [Laravel 5 Extended Generators](https://github.com/laracasts/Laravel-5-Generators-Extended) -  Extends built-in file generators
 * [Laravel API/Scaffold/CRUD Generator](https://github.com/mitulgolakiya/laravel-api-generator) - Generator for APIs, CRUD scaffolds etc.
