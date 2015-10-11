@@ -61,10 +61,6 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 ## Popular Packages
 > This is a list of well-documented, tested packages that are frequently used in Laravel projects. If you're looking for an exhaustive list of PHP packages, then check out the Package Repositories mentioned above.
 
-## Boilerplates
-* [Laravel 5.1 Boilerplate](https://github.com/rappasoft/laravel-5-boilerplate)
-* [Laravel 5 Angular Material Starter](https://github.com/jadjoubran/laravel5-angular-material-starter)
-
 ### Developer Tools
 * [IDE Helper](https://github.com/barryvdh/laravel-ide-helper) - Generates a helper file for IDE auto-completion
 * [Laravel 5 Extended Generators](https://github.com/laracasts/Laravel-5-Generators-Extended) -  Extends built-in file generators
@@ -313,13 +309,16 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Mastering Laravel](https://www.packtpub.com/web-development/mastering-laravel)
 * [How to Build Real-Time Laravel Apps with Pusher](http://pusher-community.github.io/real-time-laravel/)
 
+## Starter Projects
+* [Laravel 5.1 Boilerplate](https://github.com/rappasoft/laravel-5-boilerplate)
+* [Laravel 5 Angular Material Starter](https://github.com/jadjoubran/laravel5-angular-material-starter)
+
 ## Codebases for Reference
 * [92Five](https://github.com/chintanbanugaria/92five)
 * [Bootstrap CMS](https://github.com/BootstrapCMS/CMS)
 * [Cachet](https://github.com/cachethq/Cachet)
 * [Deployer](https://github.com/REBELinBLUE/deployer)
 * [Invoice Ninja](https://github.com/hillelcoren/invoice-ninja)
-* [Laravel 5 Boilerplate](https://github.com/rappasoft/laravel-5-boilerplate)
 * [Laravel Tricks](https://github.com/CodepadME/laravel-tricks)
 * [Laravel.IO](https://github.com/LaravelIO/laravel.io)
 * [October](https://github.com/octobercms/october)
