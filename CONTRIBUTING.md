@@ -18,7 +18,7 @@ Please ensure your pull request adheres to the following guidelines:
 - Listed on [Packagist](https://packagist.org/).
 - Has tests.
 
-Note: These requirements will be waived off for packages listed prior to 1st October, 2015
+Note: These requirements will be waived off for packages listed prior to 11th October, 2015
 
 ## Good to haves for packages
 
