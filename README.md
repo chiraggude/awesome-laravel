@@ -251,6 +251,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel Daily](http://laraveldaily.com/)
 * [Freek Van der Herten](https://murze.be/tag/laravel/)
 * [Alfred Nutile](https://alfrednutile.info/tags/laravel)
+* [Tutsnare](http://tutsnare.com/category/tutorials/laravel/)
 
 ## Video Tutorials
 * [Laracasts](https://laracasts.com/)
