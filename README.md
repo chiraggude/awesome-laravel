@@ -313,6 +313,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Learning Laravel's Eloquent](https://www.packtpub.com/web-development/learning-laravel's-eloquent)
 * [Laravel 5 Learn Easy](https://leanpub.com/laravel5learneasy)
 * [Laravel and AngularJS](https://leanpub.com/laravel-and-angularjs)
+* [Laravel 5 UnFolded](http://www.amazon.com/Laravel-UnFolded-Application-Programming-Simplified-ebook/dp/B011I0DVWO/)
 
 ## Starter Projects
 * [Laravel 5.1 Boilerplate](https://github.com/rappasoft/laravel-5-boilerplate)
