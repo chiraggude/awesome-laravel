@@ -312,6 +312,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [How to Build Real-Time Laravel Apps with Pusher](http://pusher-community.github.io/real-time-laravel/)
 * [Learning Laravel's Eloquent](https://www.packtpub.com/web-development/learning-laravel's-eloquent)
 * [Laravel 5 Learn Easy](https://leanpub.com/laravel5learneasy)
+* [Laravel and AngularJS](https://leanpub.com/laravel-and-angularjs)
 
 ## Starter Projects
 * [Laravel 5.1 Boilerplate](https://github.com/rappasoft/laravel-5-boilerplate)
