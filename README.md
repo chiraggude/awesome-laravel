@@ -286,34 +286,36 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laracon US 2013](https://www.youtube.com/playlist?list=PLkwAlZpjHQbLcox_S_AgGU24QUfKgXayN)
 
 ## Books
-* [Laravel: Code Bright](https://leanpub.com/codebright)
-* [Laravel: From Apprentice To Artisan](https://leanpub.com/laravel)
-* [Laravel 4 Cookbook](https://leanpub.com/laravel4cookbook)
-* [Laravel Testing Decoded](https://leanpub.com/laravel-testing-decoded)
-* [Implementing Laravel](https://leanpub.com/implementinglaravel)
-* [Getting Stuff Done with Laravel 4](https://leanpub.com/gettingstuffdonelaravel)
-* [Laravel Application Development Blueprints](http://www.packtpub.com/laravel-application-development-blueprints/book)
-* [Build APIs You Won't Hate](https://leanpub.com/build-apis-you-wont-hate)
-* [Integrating Front end Components with Web Applications](https://leanpub.com/frontend)
-* [Laravel Design Patterns and Best Practices](http://www.packtpub.com/laravel-design-patterns-and-best-practices/book)
-* [Step by Step Real World Application with Laravel 4](https://leanpub.com/real-world-laravel4)
-* [Learning Laravel 4 Application Development](http://www.packtpub.com/learning-laravel-4-application-development/book)
-* [Getting Started with Laravel 4](http://www.packtpub.com/getting-started-with-laravel-4/book)
-* [Laravel Application Development Cookbook](http://www.packtpub.com/laravel-application-development-cookbook/book)
-* [Building Web Applications Using Parse REST API](https://leanpub.com/building-web-applications-using-parse-rest-api)
-* [Laravel - My First Framework](https://leanpub.com/laravel-first-framework)
-* [Easy Laravel 5](https://leanpub.com/easylaravel/)
-* [Laravel 5 Essentials](https://www.packtpub.com/web-development/laravel-5-essentials)
-* [Easy E-Commerce Using Laravel and Stripe](https://leanpub.com/easyecommerce)
-* [Laravel 5.1 Beauty](https://leanpub.com/l5-beauty)
-* [Design Patterns with PHP and Laravel](https://leanpub.com/larasign)
-* [Laravel 5 Learn Easy](https://leanpub.com/laravel5learneasy)
-* [Mastering Laravel](https://www.packtpub.com/web-development/mastering-laravel)
-* [How to Build Real-Time Laravel Apps with Pusher](http://pusher-community.github.io/real-time-laravel/)
-* [Learning Laravel's Eloquent](https://www.packtpub.com/web-development/learning-laravel's-eloquent)
-* [Laravel 5 Learn Easy](https://leanpub.com/laravel5learneasy)
-* [Laravel and AngularJS](https://leanpub.com/laravel-and-angularjs)
-* [Laravel 5 UnFolded](http://www.amazon.com/Laravel-UnFolded-Application-Programming-Simplified-ebook/dp/B011I0DVWO/)
+* [Laravel Starter](https://www.packtpub.com/web-development/laravel-starter-instant) by Shawn McCool
+* [Laravel: Code Happy](https://leanpub.com/codehappy) by Dayle Rees
+* [Laravel: Code Bright](https://leanpub.com/codebright) by Dayle Rees
+* [Laravel: From Apprentice To Artisan](https://leanpub.com/laravel) by Taylor Otwell
+* [Laravel 4 Cookbook](https://leanpub.com/laravel4cookbook) by Christopher Pitt and Taylor Otwell
+* [Laravel Testing Decoded](https://leanpub.com/laravel-testing-decoded) by Jeffrey Way
+* [Implementing Laravel](https://leanpub.com/implementinglaravel) by Chris Fidao
+* [Getting Stuff Done with Laravel 4](https://leanpub.com/gettingstuffdonelaravel) by Chuck Heintzelman
+* [Laravel Application Development Blueprints](http://www.packtpub.com/laravel-application-development-blueprints/book) by Arda Kılıçdağı and Halil İbrahim Yılmaz
+* [Build APIs You Won't Hate](https://leanpub.com/build-apis-you-wont-hate) by Phil Sturgeon
+* [Integrating Front end Components with Web Applications](https://leanpub.com/frontend) by Maksim Surguy
+* [Laravel Design Patterns and Best Practices](http://www.packtpub.com/laravel-design-patterns-and-best-practices/book) by Arda Kılıçdağı and Halil İbrahim Yılmaz
+* [Step by Step Real World Application with Laravel 4](https://leanpub.com/real-world-laravel4) by Ibrahim Yusuf
+* [Learning Laravel 4 Application Development](http://www.packtpub.com/learning-laravel-4-application-development/book) by Hardik Dangar
+* [Getting Started with Laravel 4](http://www.packtpub.com/getting-started-with-laravel-4/book) by Raphaël Saunier
+* [Laravel Application Development Cookbook](http://www.packtpub.com/laravel-application-development-cookbook/book) by Terry Matula
+* [Building Web Applications Using Parse REST API](https://leanpub.com/building-web-applications-using-parse-rest-api) by Mhd Zaher Ghaibeh
+* [Laravel - My First Framework](https://leanpub.com/laravel-first-framework) by Maksim Surguy
+* [Easy Laravel 5](https://leanpub.com/easylaravel/) by W. Jason Gilmore
+* [Laravel 5 Essentials](https://www.packtpub.com/web-development/laravel-5-essentials) by Martin Bean
+* [Easy E-Commerce Using Laravel and Stripe](https://leanpub.com/easyecommerce) by W. Jason Gilmore AND Eric L. Barnes
+* [Laravel 5.1 Beauty](https://leanpub.com/l5-beauty) by Chuck Heintzelman
+* [Design Patterns with PHP and Laravel](https://leanpub.com/larasign) by Kelt Dockins
+* [Laravel 5 Learn Easy](https://leanpub.com/laravel5learneasy) by Sanjib Sinha
+* [Mastering Laravel](https://www.packtpub.com/web-development/mastering-laravel) by Christopher John Pecoraro
+* [How to Build Real-Time Laravel Apps with Pusher](http://pusher-community.github.io/real-time-laravel/) by Pusher
+* [Learning Laravel's Eloquent](https://www.packtpub.com/web-development/learning-laravel%E2%80%99s-eloquent) by Francesco Malatesta
+* [Laravel 5 Learn Easy](https://leanpub.com/laravel5learneasy) by Sanjib Sinha
+* [Laravel and AngularJS](https://leanpub.com/laravel-and-angularjs) by Daniel Schmitz and Daniel Pedrinha Georgii
+* [Laravel 5 UnFolded](http://www.amazon.com/Laravel-UnFolded-Application-Programming-Simplified-ebook/dp/B011I0DVWO/) by Sanjib Sinha
 
 ## Starter Projects
 * [Laravel 5.1 Boilerplate](https://github.com/rappasoft/laravel-5-boilerplate)
