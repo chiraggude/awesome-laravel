@@ -306,7 +306,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel - My First Framework](https://leanpub.com/laravel-first-framework) by Maksim Surguy
 * [Easy Laravel 5](https://leanpub.com/easylaravel/) by W. Jason Gilmore
 * [Laravel 5 Essentials](https://www.packtpub.com/web-development/laravel-5-essentials) by Martin Bean
-* [Easy E-Commerce Using Laravel and Stripe](https://leanpub.com/easyecommerce) by W. Jason Gilmore AND Eric L. Barnes
+* [Easy E-Commerce Using Laravel and Stripe](https://leanpub.com/easyecommerce) by W. Jason Gilmore and Eric L. Barnes
 * [Laravel 5.1 Beauty](https://leanpub.com/l5-beauty) by Chuck Heintzelman
 * [Design Patterns with PHP and Laravel](https://leanpub.com/larasign) by Kelt Dockins
 * [Laravel 5 Learn Easy](https://leanpub.com/laravel5learneasy) by Sanjib Sinha
