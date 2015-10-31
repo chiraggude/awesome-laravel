@@ -376,6 +376,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel Morocco](http://moroccanphpartisans.github.io/)
 * [Laravel Japan](http://laravel.jp/) ([Facebook group](https://www.facebook.com/groups/laravel.jp/))
 * [Laravel Tokyo](http://laravel.tokyo/) ([Facebook group](https://www.facebook.com/groups/laraveltokyo/))
+* [Laravel Malaysia]([Facebook group](https://www.facebook.com/groups/laravel.my/))
 
 ##### Meetups
 * [All Meetups](http://laravel.meetup.com/)
