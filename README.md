@@ -82,7 +82,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 - [Superbalist](http://superbalist.com)
 - [The Wellness Log](http://thewellnesslog.com)
 - [WatchBox](http://www.watchbox.io)
-- [Xbox One](https://xboxapi.com)
+- [XboxAPI](https://xboxapi.com)
 
 ## Code Snippets
 * [Laravel Cheat Sheet](http://cheats.jesse-obrien.ca)
