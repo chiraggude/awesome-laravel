@@ -377,12 +377,14 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel Japan](http://laravel.jp/) ([Facebook group](https://www.facebook.com/groups/laravel.jp/))
 * [Laravel Tokyo](http://laravel.tokyo/) ([Facebook group](https://www.facebook.com/groups/laraveltokyo/))
 * [Laravel Malaysia]([Facebook group](https://www.facebook.com/groups/laravel.my/))
+* [Laravel Greece](http://www.laravel.gr) ([Facebook page](https://www.facebook.com/laravelgr))
 
 ##### Meetups
 * [All Meetups](http://laravel.meetup.com/)
 * [London Meetup](http://www.meetup.com/London-Laravel/)
 * [Buenos Aires, Argentina Meetup](http://www.meetup.com/Laravel-Buenos-Aires)
 * [Morocco Meetup](http://www.meetup.com/moroccan-php-artisans/)
+* [Athens-Greece Meetup](http://www.meetup.com/athens-laravel-meetup)
 
 ## Jobs
 * [LaraJobs](https://larajobs.com/)
