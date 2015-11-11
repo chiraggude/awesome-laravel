@@ -398,8 +398,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel Database Designer](http://biodesignrealworld.github.io/LaravelDatabaseDesigner/) - Graphical tool to create database schemas
 
 ## Miscellaneous
-* [Larasites](https://www.larasites.com/) - Collection of projects built with Laravel
-* [Built with Laravel](http://builtwithlaravel.com/) - Collection of open source projects built with Laravel
+* [Larasites](https://www.larasites.com/) - Collection of websites and apps built with Laravel
 * [CodeCanyon](http://codecanyon.net/tags/laravel?term=laravel) - Paid scripts and plugins
 * [Laramap](https://laramap.com/) - Interactive map of Laravel developers
 
