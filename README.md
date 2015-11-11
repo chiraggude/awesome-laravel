@@ -82,6 +82,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Sentinel](https://github.com/cartalyst/sentinel) - Framework agnostic authentication & authorization system
 * [Socialite](https://github.com/laravel/socialite) - OAuth authentication with Facebook, Google, Twitter etc.
 * [Socialite Providers](http://socialiteproviders.github.io/) - 70+ social authentication providers for Socialite
+* [Google2FA](https://github.com/antonioribeiro/google2fa) - Google Two-Factor Authentication Module
 
 ##### Utilities
 * [Bootstrapper](https://github.com/patricktalmadge/bootstrapper/) - Set of classes to create Bootstrap 3 markup
