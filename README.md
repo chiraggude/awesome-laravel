@@ -342,6 +342,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Wardrobe](https://github.com/wardrobecms/wardrobe)
 * [Flarum](https://github.com/flarum/flarum)
 * [Lavalite](https://github.com/LavaLite/cms)
+* [Laramap](https://github.com/laramap/laramap.com)
 
 ## Newsletters
 * [Laravel News](http://laravel-news.com/) ([archive](http://laravel-news.com/archive))
