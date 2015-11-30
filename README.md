@@ -29,16 +29,16 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Documentation](http://laravel.com/docs)
 * [API Reference](http://laravel.com/api/)
 * [Laracasts](http://laracasts.com)
-* [Laravel News](http://laravel-news.com/)
+* [Laravel News](https://laravel-news.com/)
 
 ## Laravel 5
 *Released on 4th February, 2015*
 * Laravel 5 Fundamentals - [Laracasts](https://laracasts.com/series/laravel-5-fundamentals)
-* New Features in Laravel 5 - [Laracasts](https://laracasts.com/series/whats-new-in-laravel-5) and [Matt Stauffer's blog](http://mattstauffer.co/tags/laravel+5)
+* New Features in Laravel 5 - [Laracasts](https://laracasts.com/series/whats-new-in-laravel-5) and [Matt Stauffer's blog](https://mattstauffer.co/tags/laravel+5)
 * Release Notes - [Laravel.com](http://laravel.com/docs/master/releases) and [Laravel News](https://laravel-news.com/2015/01/laravel-5/)
-* Upgrade Guide - [Laravel.com](http://laravel.com/docs/master/upgrade) and [Matt Stauffer](http://mattstauffer.co/blog/upgrading-from-laravel-4-to-laravel-5)
+* Upgrade Guide - [Laravel.com](http://laravel.com/docs/master/upgrade) and [Matt Stauffer](https://mattstauffer.co/blog/upgrading-from-laravel-4-to-laravel-5)
 * Learn Laravel 5 From Scratch - [Laracasts](https://laracasts.com/series/laravel-5-from-scratch)
-* Learn Laravel 5 in Spanish [duilio.me](http://duilio.me/laravel-5/)
+* Learn Laravel 5 in Spanish [duilio.me](https://styde.net/laravel-5/)
 
 ## Lumen
 *Released on 14th April, 2015*
@@ -47,7 +47,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 ## Code Snippets
 * [Laravel Cheat Sheet](http://cheats.jesse-obrien.ca)
-* [Laravel Tricks](http://www.laravel-tricks.com/)
+* [Laravel Tricks](http://laravel-tricks.com/)
 * [Laravel Recipies](http://laravel-recipes.com/)
 * [Laravel Snippets](http://laravelsnippets.com/)
 
@@ -148,18 +148,18 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 ##### Payments
 * [Cashier](https://github.com/laravel/cashier) - Subscription billing with Stripe
-* [Omnipay for Laravel](https://github.com/ignited/laravel-omnipay) - Integrate the [Omnipay](https://github.com/omnipay/omnipay) PHP library
+* [Omnipay for Laravel](https://github.com/ignited/laravel-omnipay) - Integrate the [Omnipay](https://github.com/thephpleague/omnipay) PHP library
 
 ##### Optimization
 * [Intervention Image Cache](https://github.com/Intervention/imagecache) - Caching extension for the Intervention Image Class
 * [Laravel HTMLMin](https://github.com/GrahamCampbell/Laravel-HTMLMin) - Blade/HTML/CSS/javascript minifier
 
 ##### Localization
-* [Language Files](https://github.com/caouecs/Laravel4-lang) - Validation, Pagination and Reminders language lines in 37 languages
+* [Language Files](https://github.com/caouecs/Laravel-lang) - Validation, Pagination and Reminders language lines in 37 languages
 * [Laravel Localization](https://github.com/mcamara/laravel-localization) - Add i18n support via routes
 * [Laravel Translatable](https://github.com/dimsav/laravel-translatable) - Retrieve and store translatable Eloquent model instances
 * [Laravel Translator](https://github.com/vinkla/translator) - Translate Eloquent models into multiple languages
-* [Laravel Date](https://github.com/jenssegers/laravel-date) - A library to help you work with dates in multiple languages, based on Carbon.
+* [Laravel Date](https://github.com/jenssegers/date) - A library to help you work with dates in multiple languages, based on Carbon.
 
 ##### Third-party Service Integration
 * [Laravel Algolia](https://github.com/vinkla/algolia) - Algolia API bridge
@@ -180,7 +180,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 ## Development Setup
 * [Homestead](http://laravel.com/docs/homestead) - Official Vagrant box for Laravel
-  * [Getting Started with Laravel Homestead](http://scotch.io/tutorials/php/getting-started-with-laravel-homestead)
+  * [Getting Started with Laravel Homestead](https://scotch.io/tutorials/getting-started-with-laravel-homestead)
   * [Installation on OSx and Linux](https://laracasts.com/series/laravel-5-from-scratch/episodes/3)
   * [Installation on  Windows](http://blog.teamtreehouse.com/laravel-homestead-on-windows)
 * Install Laravel with Composer
@@ -190,36 +190,36 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 ## Application Hosting
 * [Forge](https://forge.laravel.com/) - Provision optimized PHP servers on Linode, DigitalOcean etc.
   * [Server Management with Forge](https://laracasts.com/series/server-management-with-forge) (Laracasts)
-  * [Getting your first site up and running in Laravel Forge](http://mattstauffer.co/blog/getting-your-first-site-up-and-running-in-laravel-forge) (Matt Stauffer)
+  * [Getting your first site up and running in Laravel Forge](https://mattstauffer.co/blog/getting-your-first-site-up-and-running-in-laravel-forge) (Matt Stauffer)
   * [ForgeRecipes](http://forgerecipes.com/)
-* [FortRabbit](http://fortrabbit.com/solutions/laravel-hosting) ([Video](https://laracasts.com/lessons/from-zero-to-deploy-with-fortrabbit))
+* [FortRabbit](http://www.fortrabbit.com/laravel-hosting) ([Video](https://laracasts.com/lessons/from-zero-to-deploy-with-fortrabbit))
 * [PagodaBox](https://pagodabox.io/) ([Documentation](https://pagodabox.io/docs/framework_laravel))
-* [Heroku](https://www.heroku.com/) ([Tutorial](http://mattstauffer.co/blog/installing-a-laravel-app-on-heroku))
-* [IBM BlueMix](https://ace.ng.bluemix.net/) ([Tutorial](https://developer.ibm.com/bluemix/2014/06/17/getting-started-laravel-bluemix/))
+* [Heroku](https://www.heroku.com/) ([Tutorial](https://mattstauffer.co/blog/installing-a-laravel-app-on-heroku))
+* [IBM BlueMix](https://console.ng.bluemix.net/) ([Tutorial](https://developer.ibm.com/bluemix/2014/06/17/getting-started-laravel-bluemix/))
 
 ## Application Deployment
 * [Envoyer](https://envoyer.io/) - Zero down-time Deployer for PHP & Laravel projects
  * [Deployments with Envoyer](https://laracasts.com/series/envoyer) (Laracasts)
-* [Rocketeer](https://github.com/Anahkiasen/rocketeer) - Task runner and deployment package
+* [Rocketeer](https://github.com/rocketeers/rocketeer) - Task runner and deployment package
 
 ## Articles, Tutorials, Blogs etc.
 * [Tuts+](http://code.tutsplus.com/categories/laravel)
 * [SitePoint](http://www.sitepoint.com/php/page/0/?filter[4047]=on)
 * [Christopher Pitt](https://medium.com/laravel-4)
 * [Culttt](http://culttt.com/tag/cribbb/)
-* [Scotch](http://scotch.io/tag/laravel)
+* [Scotch](https://scotch.io/tag/laravel)
 * [Fideloper](http://fideloper.com/tag/laravel)
 * [Maxoffsky](http://maxoffsky.com/tag/laravel/)
-* [KodeInfo](http://kodeinfo.com/category/laravel/)
+* [KodeInfo](http://kodeinfo.com/main_category/laravel)
 * [CodeForest](http://www.codeforest.net/tag/laravel)
 * [Taylor Otwell](http://taylorotwell.com/)
 * [Digital Ocean](https://www.digitalocean.com/community/search?q=laravel&type=tutorials)
 * [RTFM](http://matthewhailwood.co.nz/tag/laravel/)
-* [Matt Stauffer](http://mattstauffer.co/tags/laravel)
+* [Matt Stauffer](https://mattstauffer.co/tags/laravel)
 * [Creative Punch](http://creative-punch.net/articles/php-articles/laravel-tutorials/)
 * [Ryan Tablada](http://ryantablada.com/tag/Laravel)
-* [Mohammad Gufran](http://www.gufran.me/tag/Laravel)
-* [Adam Engebretson](http://blog.enge.me/tag/Laravel)
+* [Mohammad Gufran](http://www.gufran.me/tag/Laravel/)
+* [Adam Engebretson](http://blog.enge.me/4)
 * [CodeHeaps](http://www.codeheaps.com/)
 * [Laravel India](http://blog.laravel.in/)
 * [Sheikh Heera](http://heera.it/tag/laravel-2)
@@ -231,8 +231,8 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [DeveloPHP](http://www.develophp.org/category/web/laravel/)
 * [Jason Lewis](http://jasonlewis.me/category/laravel)
 * [Eric Barnes](http://ericlbarnes.com/blog/tags/laravel)
-* [Jens Segers](http://jenssegers.be/)
-* [Neon Tsunami](http://www.neontsunami.com/tag/laravel)
+* [Jens Segers](https://jenssegers.com/)
+* [Neon Tsunami](http://www.neontsunami.com/tags/laravel)
 * [Amitav Roy](http://amitavroy.com/justread/content/term/laravel-4)
 * [Into Laravel](http://www.intolaravel.com/)
 * [Stidges](http://blog.stidges.com/)
@@ -243,14 +243,14 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Easy Laravel Book Blog](http://www.easylaravelbook.com/blog/)
 * [Bosnadev](https://bosnadev.com/tag/laravel-2/)
 * [Vagner Luís (PT-BR)](http://blog.vagnerdocarmo.com.br/category/laravel/)
-* [Vedovelli (PT-BR)](http://www.vedovelli.com.br/tag/laravel)
-* [CodeTutorial](http://www.codetutorial.io/tag/laravel/)
+* [Vedovelli (PT-BR)](http://www.vedovelli.com.br/tag/laravel/)
+* [CodeTutorial](https://www.codetutorial.io/tag/laravel/)
 * [Ryan Chenkie](http://ryanchenkie.com/tag/laravel/)
 * [Laravelista](http://laravelista.com/tag/laravel/)
 * [Laravel Tips](https://laraveltips.wordpress.com/)
 * [Codingo Tuts](http://tuts.codingo.me/category/web-development/laravel/)
 * [Antonio Carlos Ribeiro](https://antoniocarlosribeiro.com/technology)
-* [Laravel Coding](http://laravelcoding.com/)
+* [Laravel Coding](http://laravelcoding.com/blog)
 * [Styde](https://styde.net/proyectos/) (ES)
 * [Laravel Daily](http://laraveldaily.com/)
 * [Freek Van der Herten](https://murze.be/tag/laravel/)
@@ -261,8 +261,8 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laracasts](https://laracasts.com/)
 * [PHP Academy](https://www.youtube.com/user/phpacademy/playlists)
 * [Fallendown2005](https://www.youtube.com/user/fallendown2005/playlists)
-* [Userscape](http://vimeo.com/userscape/videos)
-* [Treehouse](http://teamtreehouse.com/library/laravel-basics)
+* [Userscape](https://vimeo.com/userscape/videos)
+* [Treehouse](https://teamtreehouse.com/library/laravel-4-basics)
 * [Anthony Vipond](https://www.youtube.com/user/anthonytrading81/playlists)
 * [Design Code Blade](https://www.youtube.com/playlist?list=PLl0rlrKS77Mr5T6k8ZPfvCcaJ8ctk1ChU)
 * [Format C:](http://www.formatccolon.com/category/web-development/laravel/)
@@ -273,7 +273,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Yavor Kirov](https://www.youtube.com/playlist?list=PL2uFHrRTF1xxC4nG9gMUmwONI3d_vJEJf)
 * [Lynda](http://www.lynda.com/Laravel-tutorials/Up-Running-Laravel/166513-2.html)
 * [Tuts+](http://code.tutsplus.com/categories/laravel/courses)
-* [Novica Vukobratovic](http://www.youtube.com/playlist?list=PLaWzibV7A82RMFW58Iq2gZHpB_TLrixFY)
+* [Novica Vukobratovic](https://www.youtube.com/playlist?list=PLaWzibV7A82RMFW58Iq2gZHpB_TLrixFY)
 * [Duilio Palacios](https://www.youtube.com/user/silencedsg/videos)
 * [DevDojo](https://www.youtube.com/playlist?list=PL_UnIDIwT95NUvLU14l_QFFV2ZxO1phpQ)
 
@@ -298,14 +298,14 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel Testing Decoded](https://leanpub.com/laravel-testing-decoded) by Jeffrey Way
 * [Implementing Laravel](https://leanpub.com/implementinglaravel) by Chris Fidao
 * [Getting Stuff Done with Laravel 4](https://leanpub.com/gettingstuffdonelaravel) by Chuck Heintzelman
-* [Laravel Application Development Blueprints](http://www.packtpub.com/laravel-application-development-blueprints/book) by Arda Kılıçdağı and Halil İbrahim Yılmaz
+* [Laravel Application Development Blueprints](http://www.packtpub.com/web-development/laravel-application-development-blueprints) by Arda Kılıçdağı and Halil İbrahim Yılmaz
 * [Build APIs You Won't Hate](https://leanpub.com/build-apis-you-wont-hate) by Phil Sturgeon
 * [Integrating Front end Components with Web Applications](https://leanpub.com/frontend) by Maksim Surguy
-* [Laravel Design Patterns and Best Practices](http://www.packtpub.com/laravel-design-patterns-and-best-practices/book) by Arda Kılıçdağı and Halil İbrahim Yılmaz
+* [Laravel Design Patterns and Best Practices](http://www.packtpub.com/web-development/laravel-design-patterns-and-best-practices) by Arda Kılıçdağı and Halil İbrahim Yılmaz
 * [Step by Step Real World Application with Laravel 4](https://leanpub.com/real-world-laravel4) by Ibrahim Yusuf
-* [Learning Laravel 4 Application Development](http://www.packtpub.com/learning-laravel-4-application-development/book) by Hardik Dangar
-* [Getting Started with Laravel 4](http://www.packtpub.com/getting-started-with-laravel-4/book) by Raphaël Saunier
-* [Laravel Application Development Cookbook](http://www.packtpub.com/laravel-application-development-cookbook/book) by Terry Matula
+* [Learning Laravel 4 Application Development](http://www.packtpub.com/web-development/learning-laravel-4-application-development) by Hardik Dangar
+* [Getting Started with Laravel 4](http://www.packtpub.com/web-development/getting-started-laravel-4) by Raphaël Saunier
+* [Laravel Application Development Cookbook](http://www.packtpub.com/web-development/laravel-application-development-cookbook) by Terry Matula
 * [Building Web Applications Using Parse REST API](https://leanpub.com/building-web-applications-using-parse-rest-api) by Mhd Zaher Ghaibeh
 * [Laravel - My First Framework](https://leanpub.com/laravel-first-framework) by Maksim Surguy
 * [Easy Laravel 5](https://leanpub.com/easylaravel/) by W. Jason Gilmore
@@ -330,7 +330,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Bootstrap CMS](https://github.com/BootstrapCMS/CMS)
 * [Cachet](https://github.com/cachethq/Cachet)
 * [Deployer](https://github.com/REBELinBLUE/deployer)
-* [Invoice Ninja](https://github.com/hillelcoren/invoice-ninja)
+* [Invoice Ninja](https://github.com/invoiceninja/invoiceninja)
 * [Laravel Tricks](https://github.com/CodepadME/laravel-tricks)
 * [Laravel.IO](https://github.com/LaravelIO/laravel.io)
 * [October](https://github.com/octobercms/october)
@@ -344,11 +344,11 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Lavalite](https://github.com/LavaLite/cms)
 
 ## Newsletters
-* [Laravel News](http://laravel-news.com/) ([archive](http://laravel-news.com/archive))
+* [Laravel News](https://laravel-news.com/) ([archive](https://laravel-news.com/archive/))
 * [Laravel Weekly](http://laravelweekly.com/)
 
 ## Community
-* [Laravel.io Forum](http://laravel.io/) ([Old Forum Archive](http://forumsarchive.laravel.io/))
+* [Laravel.io Forum](http://laravel.io/forum) ([Old Forum Archive](http://forumsarchive.laravel.io/))
 * [Laracasts Forum](https://laracasts.com/discuss) ([Old Forum Archive](https://www.laracasts.com/forum/))
 * [Laravel Podcast](http://www.laravelpodcast.com/)
 * [Larachat Slack](https://larachat.slack.com/) ([Signup](https://larachat.typeform.com/to/wqvupv))
@@ -357,23 +357,23 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [StackOverflow](http://stackoverflow.com/questions/tagged/laravel)
 * [Twitter](https://twitter.com/laravelphp)
 * [Google+](https://plus.google.com/communities/106838454910116161868)
-* [Reddit](http://www.reddit.com/r/laravel)
+* [Reddit](https://www.reddit.com/r/laravel)
 * [Quora](http://www.quora.com/Laravel)
 * [Facebook](https://www.facebook.com/LaravelCommunity)
 * [LinkedIn](https://www.linkedin.com/groups/Laravel-PHP-Framework-4419933)
 
 ##### Local User Groups
-* [Laravel Russia](http://laravel.ru/) ([VK group](http://vk.com/laravel_rus))
+* [Laravel Russia](https://laravel.ru/) ([VK group](http://vk.com/laravel_rus))
 * [Laravel France](http://laravel.fr/)
 * [Laravel Myanmar](http://laravelmyanmar.com)
 * [Laravel Indonesia](http://id-laravel.com/) ([Facebook group](https://www.facebook.com/groups/laravel/))
 * [Laravel Brasil](http://www.laravel.com.br/) ([Facebook group](https://www.facebook.com/groups/laravelbrasil/))
 * [Laravel Turkey](http://www.laravel.gen.tr/) ([Facebook group](https://www.facebook.com/groups/laravelturkiye/))
 * [Laravel Nigeria](http://www.laranaija.com/) ([Facebook group](https://www.facebook.com/groups/laravelnigeria/))
-* [Laravel China](http://phphub.org)
+* [Laravel China](https://phphub.org/)
 * [Laravel Taiwan](http://laravel.tw/) ([Facebook group](https://www.facebook.com/groups/laravel.tw/))
 * [Laravel Spanish](http://laraveles.com/foro/)
-* [Laravel Korea](http://laravel.co.kr/) ([Facebook group](https://www.facebook.com/groups/laravelkorea/))
+* [Laravel Korea](https://www.laravel.co.kr/) ([Facebook group](https://www.facebook.com/groups/laravelkorea/))
 * [Laravel Morocco](http://moroccanphpartisans.github.io/)
 * [Laravel Japan](http://laravel.jp/) ([Facebook group](https://www.facebook.com/groups/laravel.jp/))
 * [Laravel Tokyo](http://laravel.tokyo/) ([Facebook group](https://www.facebook.com/groups/laraveltokyo/))
