@@ -118,10 +118,11 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [PHP Vars to JavaScript Transformer](https://github.com/laracasts/PHP-Vars-To-Js-Transformer) -  Pass server-side string/array/collection/whatever to JavaScript
 * [Javascript Validation](https://github.com/proengsoft/laravel-jsvalidation) - Use validation rules, messages, FormRequest and validators to validate forms in client side without need to write any Javascript code
 
-##### Database, Migrations & Seeding
+##### Databases, ORMs, Migrations & Seeding
 * [Backup Manager](https://github.com/backup-manager/laravel) - Backup and restore databases from S3, Dropbox, SFTP etc.
 * [Baum](https://github.com/etrepat/baum) - Nested Sets pattern implementation
 * [ClosureTable](https://github.com/franzose/ClosureTable) - Closure table pattern implementation
+* [Eloquence](https://github.com/kirkbushell/eloquence) - Extra features for Eloquent models
 * [iSeed](https://github.com/orangehill/iseed) - Generate a new seed file from an existing database table
 * [Laravel Backup](https://github.com/spatie/laravel-backup) - Backup your app
 * [Laravel Doctrine](https://github.com/laravel-doctrine/orm) - Doctrine 2 ORM implementation
