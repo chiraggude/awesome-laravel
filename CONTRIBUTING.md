@@ -14,6 +14,7 @@ Please ensure your pull request adheres to the following guidelines:
 ## Must haves for packages
 
 - 100 stars on Github.
+- Support Laravel 5.1 or higher.
 - Use [PSR-4](http://www.php-fig.org/psr/psr-4/) autoloader.
 - Listed on [Packagist](https://packagist.org/).
 - Tests!
