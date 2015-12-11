@@ -323,6 +323,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel 5 Learn Easy](https://leanpub.com/laravel5learneasy) by Sanjib Sinha
 * [Laravel and AngularJS](https://leanpub.com/laravel-and-angularjs) by Daniel Schmitz and Daniel Pedrinha Georgii
 * [Laravel 5 UnFolded](http://www.amazon.com/Laravel-UnFolded-Application-Programming-Simplified-ebook/dp/B011I0DVWO/) by Sanjib Sinha
+* [Laravel Collections Unraveled](https://leanpub.com/laravelcollectionsunraveled) by Jeff Madsen
 
 ## Starter Projects
 * [Laravel 5.1 Boilerplate](https://github.com/rappasoft/laravel-5-boilerplate)
