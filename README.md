@@ -8,8 +8,6 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 ## Table of Contents
 
 - [Essentials](#essentials)
-- [Laravel 5](#laravel-5)
-- [Lumen](#lumen)
 - [Code Snippets](#code-snippets)
 - [Packages](#packages)
 - [Popular Packages](#popular-packages)
@@ -26,24 +24,13 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 - [Miscellaneous](#miscellaneous)
 
 ## Essentials
-* [Documentation](http://laravel.com/docs)
-* [API Reference](http://laravel.com/api/)
+* [Laravel](http://laravel.com)
+* [Laravel Documentation](http://laravel.com/docs)
+* [Laravel API Reference](http://laravel.com/api)
+* [Lumen](http://lumen.laravel.com)
+* [Lumen Documentation](http://lumen.laravel.com/docs)
 * [Laracasts](http://laracasts.com)
 * [Laravel News](https://laravel-news.com/)
-
-## Laravel 5
-*Released on 4th February, 2015*
-* Laravel 5 Fundamentals - [Laracasts](https://laracasts.com/series/laravel-5-fundamentals)
-* New Features in Laravel 5 - [Laracasts](https://laracasts.com/series/whats-new-in-laravel-5) and [Matt Stauffer's blog](https://mattstauffer.co/tags/laravel+5)
-* Release Notes - [Laravel.com](http://laravel.com/docs/master/releases) and [Laravel News](https://laravel-news.com/2015/01/laravel-5/)
-* Upgrade Guide - [Laravel.com](http://laravel.com/docs/master/upgrade) and [Matt Stauffer](https://mattstauffer.co/blog/upgrading-from-laravel-4-to-laravel-5)
-* Learn Laravel 5 From Scratch - [Laracasts](https://laracasts.com/series/laravel-5-from-scratch)
-* Learn Laravel 5 in Spanish [duilio.me](https://styde.net/laravel-5/)
-
-## Lumen
-*Released on 14th April, 2015*
-* [Introduction](https://laracasts.com/lessons/introducing-lumen) (Laracasts)
-* [Documentation](http://lumen.laravel.com/docs/installation)
 
 ## Code Snippets
 * [Laravel Cheat Sheet](http://cheats.jesse-obrien.ca)
