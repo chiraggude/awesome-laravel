@@ -246,6 +246,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Alfred Nutile](https://alfrednutile.info/tags/laravel)
 * [Tutsnare](http://tutsnare.com/category/tutorials/laravel/)
 * [ForLaravel](https://forlaravel.com/)
+* [Good Heads](http://goodheads.io/category/laravel/)
 
 ## Video Tutorials
 * [Laracasts](https://laracasts.com/)
