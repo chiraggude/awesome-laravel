@@ -20,7 +20,11 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 - [Books](#books)
 - [Starter Projects](#starter-projects)
 - [Codebases for Reference](#codebases-for-reference)
+- [Newsletters](#newsletters)
+- [Podcasts](#podcasts)
+- [Community](#community)
 - [Jobs](#jobs)
+- [Hosted Development Tools](#hosted-development-tools)
 - [Miscellaneous](#miscellaneous)
 
 ## Essentials
@@ -341,11 +345,15 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 ## Newsletters
 * [Laravel News](https://laravel-news.com/) ([archive](https://laravel-news.com/archive/))
 * [Laravel Weekly](http://laravelweekly.com/)
+* 
+## Podcasts
+* [The Laravel Podcast](http://www.laravelpodcast.com/)
+* [The Laravel News Podcast](http://podcast.laravel-news.com/)
+* [The Laracasts Snippet](https://laracasts.simplecast.fm/)
 
 ## Community
 * [Laravel.io Forum](http://laravel.io/forum) ([Old Forum Archive](http://forumsarchive.laravel.io/))
 * [Laracasts Forum](https://laracasts.com/discuss) ([Old Forum Archive](https://www.laracasts.com/forum/))
-* [Laravel Podcast](http://www.laravelpodcast.com/)
 * [Larachat Slack](https://larachat.slack.com/) ([Signup](https://larachat.typeform.com/to/wqvupv))
 * [Gitter](https://gitter.im/laravel/laravel)
 * [IRC Channel](http://laravel.io/chat)
@@ -388,7 +396,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel Gurus](http://laravelgurus.com/)
 * [With Laravel](http://withlaravel.com/)
 
-### Hosted Development Tools
+## Hosted Development Tools
 * [Laragen](http://makzumi.com/laragen/) - View generator
 * [Laravel Schema Designer](http://laravelsd.com/) - Create, export and share database schemas
 * [Laravel Database Designer](http://biodesignrealworld.github.io/LaravelDatabaseDesigner/) - Graphical tool to create database schemas
