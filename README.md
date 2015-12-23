@@ -345,7 +345,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 ## Newsletters
 * [Laravel News](https://laravel-news.com/) ([archive](https://laravel-news.com/archive/))
 * [Laravel Weekly](http://laravelweekly.com/)
-* 
+
 ## Podcasts
 * [The Laravel Podcast](http://www.laravelpodcast.com/)
 * [The Laravel News Podcast](http://podcast.laravel-news.com/)
