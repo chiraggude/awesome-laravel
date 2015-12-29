@@ -397,6 +397,8 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [With Laravel](http://withlaravel.com/)
 
 ## Hosted Development Tools
+* [Laravel Shift](https://laravelshift.com/) - Automated upgrade tool for Laravel projects
+* [Laravel Versions {x.y.z}](https://laraver.xyz/) - Monitor Laravel for updates
 * [Laragen](http://makzumi.com/laragen/) - View generator
 * [Laravel Schema Designer](http://laravelsd.com/) - Create, export and share database schemas
 * [Laravel Database Designer](http://biodesignrealworld.github.io/LaravelDatabaseDesigner/) - Graphical tool to create database schemas
@@ -405,7 +407,6 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Larasites](https://www.larasites.com/) - Collection of websites and apps built with Laravel
 * [CodeCanyon](http://codecanyon.net/tags/laravel?term=laravel) - Paid scripts and plugins
 * [Laramap](https://laramap.com/) - Interactive map of Laravel developers
-* [Laravel Versions {x.y.z}](https://laraver.xyz/) - Monitor Laravel for updates
 
 ## Contributing
 Found an awesome package, blog, video etc.? Send me a pull request!
