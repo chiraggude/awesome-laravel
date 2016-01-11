@@ -391,6 +391,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Buenos Aires, Argentina Meetup](http://www.meetup.com/Laravel-Buenos-Aires)
 * [Morocco Meetup](http://www.meetup.com/moroccan-php-artisans/)
 * [Athens-Greece Meetup](http://www.meetup.com/athens-laravel-meetup)
+* [Copenhagen Meetup](http://www.meetup.com/Copenhagen-Laravel-Meetup/)
 
 ## Jobs
 * [LaraJobs](https://larajobs.com/)
