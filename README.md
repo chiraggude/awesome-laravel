@@ -40,7 +40,6 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel Cheat Sheet](http://cheats.jesse-obrien.ca)
 * [Laravel Tricks](http://laravel-tricks.com/)
 * [Laravel Recipies](http://laravel-recipes.com/)
-* [Laravel Snippets](http://laravelsnippets.com/)
 
 ## Packages
 * [Packagist](https://packagist.org/)
