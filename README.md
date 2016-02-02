@@ -320,6 +320,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 ## Starter Projects
 * [Laravel 5.1 Boilerplate](https://github.com/rappasoft/laravel-5-boilerplate)
 * [Laravel 5 Angular Material Starter](https://github.com/jadjoubran/laravel5-angular-material-starter)
+* [Acacha adminlte-laravel](https://github.com/acacha/adminlte-laravel)
 
 ## Codebases for Reference
 * [92Five](https://github.com/chintanbanugaria/92five)
