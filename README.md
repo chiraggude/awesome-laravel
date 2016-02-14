@@ -317,6 +317,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel 5 UnFolded](http://www.amazon.com/Laravel-UnFolded-Application-Programming-Simplified-ebook/dp/B011I0DVWO/) by Sanjib Sinha
 * [Laravel Collections Unraveled](https://leanpub.com/laravelcollectionsunraveled) by Jeff Madsen
 * [Writing APIs With Lumen](https://leanpub.com/lumen-apis) by Paul Redmond
+* [The Laravel Survival Guide](https://leanpub.com/laravelsurvivalguide) by Tony Lea
 
 ## Starter Projects
 * [Laravel 5.1 Boilerplate](https://github.com/rappasoft/laravel-5-boilerplate)
