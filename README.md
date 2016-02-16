@@ -254,8 +254,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 ## Videos
 * [Laracasts](https://laracasts.com/)
-* [Coursecode](https://www.codecourse.com/)
-* [Codecourse YouTube channel](https://www.youtube.com/user/phpacademy/playlists)
+* [Coursecode](https://www.codecourse.com/) ([YouTube](https://www.youtube.com/user/phpacademy/playlists))
 * [Tuts+](http://code.tutsplus.com/categories/laravel/courses)
 * [Udemy](https://www.udemy.com/courses/search/?q=laravel&lang=en)
 * [Treehouse](https://teamtreehouse.com/library/q:laravel)
@@ -263,6 +262,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [DevDojo](https://www.youtube.com/playlist?list=PL_UnIDIwT95NUvLU14l_QFFV2ZxO1phpQ)
 * [Amitav Roy](https://www.youtube.com/channel/UC4gijXR8cM4gmEt9Olse-TQ/videos)
 * [Lynda](http://www.lynda.com/Laravel-training-tutorials/2779-0.html)
+* [Pluralsight](https://www.pluralsight.com/search?q=laravel&categories=course)
 
 ## Conferences
 * [Laracon US](http://laracon.us/)
