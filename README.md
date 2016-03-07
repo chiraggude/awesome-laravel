@@ -338,6 +338,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Flarum](https://github.com/flarum/flarum)
 * [Lavalite](https://github.com/LavaLite/cms)
 * [Laramap](https://github.com/laramap/laramap.com)
+* [Attendize](https://github.com/Attendize/Attendize)
 
 ## Newsletters
 * [Laravel News](https://laravel-news.com/) ([archive](https://laravel-news.com/archive/))
