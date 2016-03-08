@@ -348,6 +348,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [The Laravel Podcast](http://www.laravelpodcast.com/)
 * [The Laravel News Podcast](http://podcast.laravel-news.com/)
 * [The Laracasts Snippet](https://laracasts.simplecast.fm/)
+* [Larachat Live](http://larachat.co/live)
 
 ## Community
 * [Laravel.io Forum](http://laravel.io/forum) ([Old Forum Archive](http://forumsarchive.laravel.io/))
