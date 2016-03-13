@@ -340,6 +340,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Lavalite](https://github.com/LavaLite/cms)
 * [Laramap](https://github.com/laramap/laramap.com)
 * [Attendize](https://github.com/Attendize/Attendize)
+* [Katana](https://github.com/themsaid/katana)
 
 ## Newsletters
 * [Laravel News](https://laravel-news.com/) ([archive](https://laravel-news.com/archive/))
