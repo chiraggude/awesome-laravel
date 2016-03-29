@@ -61,6 +61,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Debug Bar](https://github.com/barryvdh/laravel-debugbar) - Integrates PHP Debug Bar with Laravel
 * [Laravel 5 Log Viewer](https://github.com/rap2hpoutre/laravel-log-viewer) - Log viewer
 * [LogViewer](https://github.com/ARCANEDEV/LogViewer) - Provides a log viewer for Laravel 5
+* [LERN](https://github.com/tylercd100/lern#lern-laravel-exception-recorder-and-notifier) - LERN is a Laravel 5 package that will record exceptions into a database and will send you a notification.
 * [Mail Preview](https://github.com/themsaid/laravel-mail-preview) - Preview sent mail in browser or email client
 
 ##### Authentication & Authorisation
@@ -104,6 +105,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Validating](https://github.com/dwightwatson/validating) - Trait for validating Eloquent models
 * [VAT Calculator](https://github.com/mpociot/vat-calculator) - Handle all the hard stuff related to EU MOSS vat regulations
 * [Laravel Uuid](https://github.com/webpatser/laravel-uuid) - Laravel package to generate a UUID according to the RFC 4122 standard.
+* [Laravel Installer](https://github.com/RachidLaasri/LaravelInstaller) - Laravel package to allow users to install your application just by following the setup wizard, like WordPress.
 
 ##### Working with Javascript
 * [Laroute](https://github.com/aaronlord/laroute) - Generate Laravel route URLs from JavaScript
@@ -134,6 +136,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [ApiGuard](https://github.com/chrisbjr/api-guard) - Allow API authentication with API keys
 * [Dingo API](https://github.com/dingo/api) - Multi-purpose toolkit for developing RESTful APIs
 * [Laravel CORS](https://github.com/barryvdh/laravel-cors) - Add CORS (Cross-Origin Resource Sharing) headers support
+* [Laravel Fractal](https://github.com/spatie/laravel-fractal) - Output complex, flexible, AJAX/RESTful data structures with Fractal in Laravel and Lumen
 
 ##### Tasks, Commands and Scheduling
 * [Dispatcher](https://github.com/indatus/dispatcher) - Scheduler for Artisan commands
@@ -190,6 +193,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [PagodaBox](https://pagodabox.io/) ([Documentation](https://pagodabox.io/docs/framework_laravel))
 * [Heroku](https://www.heroku.com/) ([Tutorial](https://mattstauffer.co/blog/installing-a-laravel-app-on-heroku))
 * [IBM BlueMix](https://console.ng.bluemix.net/) ([Tutorial](https://developer.ibm.com/bluemix/2014/06/17/getting-started-laravel-bluemix/))
+* [AWS Elastic Beanstalk](https://aws.amazon.com/elasticbeanstalk/) ([Tutorial](http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/php-laravel-tutorial.html#php-laravel-tutorial-deploy))
 
 ## Application Deployment
 * [Envoyer](https://envoyer.io/) - Zero down-time Deployer for PHP & Laravel projects
@@ -264,6 +268,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Amitav Roy](https://www.youtube.com/channel/UC4gijXR8cM4gmEt9Olse-TQ/videos)
 * [Lynda](http://www.lynda.com/Laravel-training-tutorials/2779-0.html)
 * [Pluralsight](https://www.pluralsight.com/search?q=laravel&categories=course)
+* [Laracademy](https://laracademy.co/)
 
 ## Conferences
 * [Laracon US](http://laracon.us/)
@@ -340,6 +345,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Lavalite](https://github.com/LavaLite/cms)
 * [Laramap](https://github.com/laramap/laramap.com)
 * [Attendize](https://github.com/Attendize/Attendize)
+* [Katana](https://github.com/themsaid/katana)
 
 ## Newsletters
 * [Laravel News](https://laravel-news.com/) ([archive](https://laravel-news.com/archive/))
@@ -384,6 +390,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel Algeria] (https://www.facebook.com/groups/LaravelAlgeria/)
 * [Laravel Greece](http://www.laravel.gr) ([Facebook page](https://www.facebook.com/laravelgr))
 * [Laravel Middle East](http://laravelme.com/) ([Facebook page](https://www.facebook.com/laravelme))
+* [Laravel Georgia](https://www.facebook.com/groups/laravel.georgia/)
 
 ##### Meetups
 * [All Meetups](http://laravel.meetup.com/)
