@@ -387,6 +387,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel Algeria] (https://www.facebook.com/groups/LaravelAlgeria/)
 * [Laravel Greece](http://www.laravel.gr) ([Facebook page](https://www.facebook.com/laravelgr))
 * [Laravel Middle East](http://laravelme.com/) ([Facebook page](https://www.facebook.com/laravelme))
+* [Laravel Georgia](https://www.facebook.com/groups/laravel.georgia/)
 
 ##### Meetups
 * [All Meetups](http://laravel.meetup.com/)
