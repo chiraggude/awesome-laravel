@@ -339,7 +339,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Lavalite](https://github.com/LavaLite/cms)
 * [Laramap](https://github.com/laramap/laramap.com)
 * [Attendize](https://github.com/Attendize/Attendize)
-* [Antvel] (https://github.com/ant-vel/antVel) - Antvel is a complete laravel ecommerce to start your store online ready to use.
+* [Antvel] (https://github.com/ant-vel/antVel)
 
 ## Newsletters
 * [Laravel News](https://laravel-news.com/) ([archive](https://laravel-news.com/archive/))
