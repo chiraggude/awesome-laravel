@@ -103,7 +103,6 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Validating](https://github.com/dwightwatson/validating) - Trait for validating Eloquent models
 * [VAT Calculator](https://github.com/mpociot/vat-calculator) - Handle all the hard stuff related to EU MOSS vat regulations
 * [Laravel Uuid](https://github.com/webpatser/laravel-uuid) - Laravel package to generate a UUID according to the RFC 4122 standard.
-* [The Laravel eCommerce] (https://github.com/ant-vel/antVel) - Antvel is a complete laravel ecommerce to start your store online ready to use.
 
 ##### Working with Javascript
 * [Laroute](https://github.com/aaronlord/laroute) - Generate Laravel route URLs from JavaScript
@@ -340,6 +339,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Lavalite](https://github.com/LavaLite/cms)
 * [Laramap](https://github.com/laramap/laramap.com)
 * [Attendize](https://github.com/Attendize/Attendize)
+* [Antvel] (https://github.com/ant-vel/antVel) - Antvel is a complete laravel ecommerce to start your store online ready to use.
 
 ## Newsletters
 * [Laravel News](https://laravel-news.com/) ([archive](https://laravel-news.com/archive/))
