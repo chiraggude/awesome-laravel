@@ -61,6 +61,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Debug Bar](https://github.com/barryvdh/laravel-debugbar) - Integrates PHP Debug Bar with Laravel
 * [Laravel 5 Log Viewer](https://github.com/rap2hpoutre/laravel-log-viewer) - Log viewer
 * [LogViewer](https://github.com/ARCANEDEV/LogViewer) - Provides a log viewer for Laravel 5
+* [Mail Preview](https://github.com/themsaid/laravel-mail-preview) - Preview sent mail in browser or email client
 
 ##### Authentication & Authorisation
 * [Entrust](https://github.com/Zizaco/entrust) - Role-based Permissions
