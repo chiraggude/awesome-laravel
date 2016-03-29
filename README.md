@@ -263,6 +263,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Amitav Roy](https://www.youtube.com/channel/UC4gijXR8cM4gmEt9Olse-TQ/videos)
 * [Lynda](http://www.lynda.com/Laravel-training-tutorials/2779-0.html)
 * [Pluralsight](https://www.pluralsight.com/search?q=laravel&categories=course)
+* [Laracademy](https://laracademy.co/)
 
 ## Conferences
 * [Laracon US](http://laracon.us/)
