@@ -34,10 +34,13 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Lumen](http://lumen.laravel.com)
 * [Lumen Documentation](http://lumen.laravel.com/docs)
 * [Laracasts](http://laracasts.com)
-* [Laravel News](https://laravel-news.com/)
+* [Laravel News](https://laravel-news.com)
+* [StyleCI](https://styleci.io)
 
 ## Code Snippets
 * [Laravel Cheat Sheet](http://cheats.jesse-obrien.ca)
+* [Laravel Cheat Sheet 5.1 LTS](https://aufree.github.io/laravel5-cheatsheet/)
+* [Laravel Cheat Sheet 5.1 LTS Chinese](https://cs.phphub.org/)
 * [Laravel Tricks](http://laravel-tricks.com/)
 * [Laravel Recipes](http://laravel-recipes.com/)
 
@@ -81,6 +84,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Datatable](https://github.com/Chumper/Datatable) - Server-side and client-side integration for jQuery Datatables plugin
 * [Eloquent Sluggable](https://github.com/cviebrock/eloquent-sluggable) - Create slugs for Eloquent models
 * [HTML](https://github.com/LaravelCollective/html) - Official HTML and Form Builders for Laravel
+* [Laravel 5 form builder](https://github.com/kristijanhusak/laravel-form-builder) - Form builder for Laravel 5 inspired by Symfony's form builder.
 * [Intervention Image](https://github.com/Intervention/image) - Image handling library for creating, editing and composing images
 * [Laravel Breadcrumbs](https://github.com/davejamesmiller/laravel-breadcrumbs) - Create and manage breadcrumbs
 * [Laravel Datatable](https://github.com/yajra/laravel-datatables) - jQuery DataTables API
@@ -101,11 +105,18 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Revisionable](https://github.com/VentureCraft/revisionable) - Create a revision history for Eloquent models
 * [SEOTools](https://github.com/artesaos/seotools) - Helpers for some common SEO techniques
 * [Setting](https://github.com/Phil-F/Setting) - Persistent configuration settings that are stored in JSON files
+* [Friendship](https://github.com/hootlex/laravel-friendships) - Friendship management system - send, receive, accept, deny friend requests
 * [Teamwork](https://github.com/mpociot/teamwork) - User to team associations with an invite system
 * [Validating](https://github.com/dwightwatson/validating) - Trait for validating Eloquent models
 * [VAT Calculator](https://github.com/mpociot/vat-calculator) - Handle all the hard stuff related to EU MOSS vat regulations
+<<<<<<< HEAD
 * [Laravel Uuid](https://github.com/webpatser/laravel-uuid) - Laravel package to generate a UUID according to the RFC 4122 standard
 * [Laravel Installer](https://github.com/RachidLaasri/LaravelInstaller) - Laravel package to allow users to install your application just by following the setup wizard, like WordPress
+=======
+* [Laravel Uuid](https://github.com/webpatser/laravel-uuid) - Laravel package to generate a UUID according to the RFC 4122 standard.
+* [Laravel Installer](https://github.com/RachidLaasri/LaravelInstaller) - Laravel package to allow users to install your application just by following the setup wizard, like WordPress.
+* [Laravel Test Factory Generator](https://github.com/mpociot/laravel-test-factory-helper)- Generate Laravel test factories from your existing models
+>>>>>>> upstream/master
 
 ##### Working with Javascript
 * [Laroute](https://github.com/aaronlord/laroute) - Generate Laravel route URLs from JavaScript
@@ -180,6 +191,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
   * [Getting Started with Laravel Homestead](https://scotch.io/tutorials/getting-started-with-laravel-homestead)
   * [Installation on OSx and Linux](https://laracasts.com/series/laravel-5-from-scratch/episodes/3)
   * [Installation on  Windows](http://blog.teamtreehouse.com/laravel-homestead-on-windows)
+* [LaraDock](https://github.com/LaraDock/laradock) - Run Laravel on Docker (Like Homstead but for Docker instead of Vagrant).
 * Install Laravel with Composer
  * [Windows](https://www.youtube.com/watch?v=m3D894qZKws)
  * [Mac OSX or Linux](https://laracasts.com/lessons/laravel-installation-for-newbs)
@@ -322,7 +334,6 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel 5.1 Boilerplate](https://github.com/rappasoft/laravel-5-boilerplate)
 * [Laravel 5 Angular Material Starter](https://github.com/jadjoubran/laravel5-angular-material-starter)
 * [Acacha adminlte-laravel](https://github.com/acacha/adminlte-laravel)
-* [Laravel Spark](https://github.com/laravel/spark)
 * [Laravel Hackathon Starter](https://github.com/unicodeveloper/laravel-hackathon-starter)
 
 ## Codebases for Reference
@@ -338,7 +349,6 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Paperwork](https://github.com/twostairs/paperwork)
 * [PHPHub](https://github.com/summerblue/phphub)
 * [PyroCMS](https://github.com/pyrocms/pyrocms)
-* [StyleCI](https://github.com/StyleCI/StyleCI)
 * [TypiCMS](https://github.com/TypiCMS/Base)
 * [Wardrobe](https://github.com/wardrobecms/wardrobe)
 * [Flarum](https://github.com/flarum/flarum)
@@ -346,6 +356,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laramap](https://github.com/laramap/laramap.com)
 * [Attendize](https://github.com/Attendize/Attendize)
 * [Katana](https://github.com/themsaid/katana)
+* [Antvel] (https://github.com/ant-vel/antVel)
 
 ## Newsletters
 * [Laravel News](https://laravel-news.com/) ([archive](https://laravel-news.com/archive/))
@@ -376,7 +387,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel France](http://laravel.fr/)
 * [Laravel Myanmar](http://laravelmyanmar.com)
 * [Laravel Indonesia](http://id-laravel.com/) ([Facebook group](https://www.facebook.com/groups/laravel/))
-* [Laravel Brasil](http://www.laravel.com.br/) ([Facebook group](https://www.facebook.com/groups/laravelbrasil/))
+* [Laravel Brasil](http://www.laravel.com.br/) ([Facebook group](https://www.facebook.com/groups/laravelbrasil/)) ([Telegram group](https://telegram.me/laravelbr))
 * [Laravel Turkey](http://www.laravel.gen.tr/) ([Facebook group](https://www.facebook.com/groups/laravelturkiye/))
 * [Laravel Nigeria](http://www.laranaija.com/) ([Facebook group](https://www.facebook.com/groups/laravelnigeria/))
 * [Laravel China](https://phphub.org/)
