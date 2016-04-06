@@ -38,6 +38,8 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 ## Code Snippets
 * [Laravel Cheat Sheet](http://cheats.jesse-obrien.ca)
+* [Laravel Cheat Sheet 5.1 LTS](https://aufree.github.io/laravel5-cheatsheet/)
+* [Laravel Cheat Sheet 5.1 LTS Chinese](https://cs.phphub.org/)
 * [Laravel Tricks](http://laravel-tricks.com/)
 * [Laravel Recipies](http://laravel-recipes.com/)
 
