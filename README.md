@@ -73,6 +73,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Socialite](https://github.com/laravel/socialite) - OAuth authentication with Facebook, Google, Twitter etc.
 * [Socialite Providers](http://socialiteproviders.github.io/) - 70+ social authentication providers for Socialite
 * [Google2FA](https://github.com/antonioribeiro/google2fa) - Google Two-Factor Authentication Module
+* [Laravel User Verification](https://github.com/jrean/laravel-user-verification) - Handle the user verification flow and validate email
 
 ##### Utilities
 * [Bootstrapper](https://github.com/patricktalmadge/bootstrapper/) - Set of classes to create Bootstrap 3 markup
