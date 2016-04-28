@@ -125,6 +125,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Baum](https://github.com/etrepat/baum) - Nested Sets pattern implementation
 * [ClosureTable](https://github.com/franzose/ClosureTable) - Closure table pattern implementation
 * [Eloquence](https://github.com/kirkbushell/eloquence) - Extra features for Eloquent models
+* [Hyn/multi-tenant](https://github.com/hyn/multi-tenant) - Multi tenant with clear separation of a.o. routes, assets and databases  
 * [iSeed](https://github.com/orangehill/iseed) - Generate a new seed file from an existing database table
 * [Laravel Backup](https://github.com/spatie/laravel-backup) - Backup your app
 * [Laravel Doctrine](https://github.com/laravel-doctrine/orm) - Doctrine 2 ORM implementation
