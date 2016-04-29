@@ -430,6 +430,23 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [CodeCanyon](http://codecanyon.net/tags/laravel?term=laravel) - Paid scripts and plugins
 * [Laramap](https://laramap.com/) - Interactive map of Laravel developers
 
+## CMS
+### Open Source
+* [OctoberCMS](http://octobercms.com/) - CMS platform built on Laravel
+* [PyroCMS](https://www.pyrocms.com/) - PHP CMS
+* [LavaliteCMS](http://www.lavalite.org/) - CMS built on Laravel 5.2
+* [WardRobeCMS](http://wardrobecms.com/) - A minimal blogging application
+* [Asgard CMS](https://asgardcms.com/) - A modular multilingual CMS built with Laravel 5
+* [TypiCMS](https://github.com/typicms/base) - Is a modular multilingual content management system built with Laravel 5.2
+* [0ez](http://demo.0ez.ru/root/login) - Laravel Lightweight Blogging CMS
+* [Microweber CMS](https://microweber.com/) - Create any kind of websites, shops or blogs faster than ever!
+* [Coaster Cms](http://www.coastercms.org/) - A Laravel based Content Management System with advanced features and The Physical Web Integration
+* [Bootstrap CMS](https://github.com/BootstrapCMS) - A PHP CMS powered by Laravel 5 and Sentry
+* [Larapress](https://github.com/larapress-cms/larapress) - A Laravel 4 CMS
+
+### Proprietary
+* [Statamic](https://statamic.com/) - The Slightly Better Edition
+
 ## Contributing
 Found an awesome package, blog, video etc.? Send me a pull request!
 
