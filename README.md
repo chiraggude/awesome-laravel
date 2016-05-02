@@ -26,6 +26,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 - [Jobs](#jobs)
 - [Hosted Development Tools](#hosted-development-tools)
 - [Miscellaneous](#miscellaneous)
+- [CMS](#cms)
 
 ## Essentials
 * [Laravel](http://laravel.com)
