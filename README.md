@@ -270,6 +270,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Tutsnare](http://tutsnare.com/category/tutorials/laravel/)
 * [ForLaravel](https://forlaravel.com/)
 * [Good Heads](http://goodheads.io/category/laravel/)
+* [Ryan Stelmat](http://ryanstelmat.com/tag/laravel/)
 
 ## Videos
 * [Laracasts](https://laracasts.com/)
