@@ -302,6 +302,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel Starter](https://www.packtpub.com/web-development/laravel-starter-instant) by Shawn McCool
 * [Laravel: Code Happy](https://leanpub.com/codehappy) by Dayle Rees
 * [Laravel: Code Bright](https://leanpub.com/codebright) by Dayle Rees
+* [Laravel: Code Smart](https://leanpub.com/codesmart) by Dayle Rees
 * [Laravel: From Apprentice To Artisan](https://leanpub.com/laravel) by Taylor Otwell
 * [Laravel 4 Cookbook](https://leanpub.com/laravel4cookbook) by Christopher Pitt and Taylor Otwell
 * [Laravel Testing Decoded](https://leanpub.com/laravel-testing-decoded) by Jeffrey Way
