@@ -170,6 +170,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel Translator](https://github.com/vinkla/translator) - Translate Eloquent models into multiple languages
 * [Laravel Date](https://github.com/jenssegers/date) - A library to help you work with dates in multiple languages, based on Carbon
 * [Laravel Langman](https://github.com/themsaid/laravel-langman) - Manage language files from Artisan Console
+* [Laravel Translation](https://github.com/waavi/translation) - Allow live edit/caching of translation entries, and localization of urls and Eloquent Model attributes.
 
 ##### Third-party Service Integration
 * [Laravel Algolia](https://github.com/vinkla/algolia) - Algolia API bridge
