@@ -447,6 +447,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Coaster Cms](http://www.coastercms.org/) - A Laravel based Content Management System with advanced features and The Physical Web Integration
 * [Bootstrap CMS](https://github.com/BootstrapCMS) - A PHP CMS powered by Laravel 5 and Sentry
 * [Larapress](https://github.com/larapress-cms/larapress) - A Laravel 4 CMS
+* [Jigsaw] (http://jigsaw.tighten.co) - Static sites for Laravel developers
 
 ### Proprietary
 * [Statamic](https://statamic.com/) - The Slightly Better Edition
