@@ -309,6 +309,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel: From Apprentice To Artisan](https://leanpub.com/laravel) by Taylor Otwell
 * [Laravel 4 Cookbook](https://leanpub.com/laravel4cookbook) by Christopher Pitt and Taylor Otwell
 * [Laravel Testing Decoded](https://leanpub.com/laravel-testing-decoded) by Jeffrey Way
+* [Refactoring to Collections](http://adamwathan.me/refactoring-to-collections) by Adam Wathan
 * [Implementing Laravel](https://leanpub.com/implementinglaravel) by Chris Fidao
 * [Getting Stuff Done with Laravel 4](https://leanpub.com/gettingstuffdonelaravel) by Chuck Heintzelman
 * [Laravel Application Development Blueprints](http://www.packtpub.com/web-development/laravel-application-development-blueprints) by Arda Kılıçdağı and Halil İbrahim Yılmaz
