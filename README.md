@@ -26,7 +26,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 - [Jobs](#jobs)
 - [Hosted Development Tools](#hosted-development-tools)
 - [Miscellaneous](#miscellaneous)
-- [CMS](#cms)
+- [Content Management Systems](#content-management-systems)
 
 ## Essentials
 * [Laravel](http://laravel.com)
@@ -350,26 +350,21 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel Hackathon Starter](https://github.com/unicodeveloper/laravel-hackathon-starter)
 
 ## Codebases for Reference
-* [92Five](https://github.com/chintanbanugaria/92five)
-* [Bootstrap CMS](https://github.com/BootstrapCMS/CMS)
-* [Cachet](https://github.com/cachethq/Cachet)
-* [Deployer](https://github.com/REBELinBLUE/deployer)
-* [Invoice Ninja](https://github.com/invoiceninja/invoiceninja)
-* [Koel](https://github.com/phanan/koel)
-* [Laravel Tricks](https://github.com/CodepadME/laravel-tricks)
-* [Laravel.IO](https://github.com/LaravelIO/laravel.io)
-* [October](https://github.com/octobercms/october)
-* [Paperwork](https://github.com/twostairs/paperwork)
-* [PHPHub](https://github.com/summerblue/phphub)
-* [PyroCMS](https://github.com/pyrocms/pyrocms)
-* [TypiCMS](https://github.com/TypiCMS/Base)
-* [Wardrobe](https://github.com/wardrobecms/wardrobe)
-* [Flarum](https://github.com/flarum/flarum)
-* [Lavalite](https://github.com/LavaLite/cms)
-* [Laramap](https://github.com/laramap/laramap.com)
-* [Attendize](https://github.com/Attendize/Attendize)
-* [Katana](https://github.com/themsaid/katana)
-* [Antvel] (https://github.com/ant-vel/antVel)
+* [92Five](https://github.com/chintanbanugaria/92five) - Project management application
+* [Cachet](https://github.com/cachethq/Cachet) - Status page system for websites and APIs
+* [Deployer](https://github.com/REBELinBLUE/deployer) - Application deployment system
+* [Invoice Ninja](https://github.com/invoiceninja/invoiceninja) - Invoicing, expenses, & time-tracking application
+* [Koel](https://github.com/phanan/koel) - Personal music streaming server
+* [Laravel Tricks](https://github.com/CodepadME/laravel-tricks) - Source for the Laravel Tricks website
+* [Laravel.IO](https://github.com/LaravelIO/laravel.io) - Source for the Laravel.io Community Portal
+* [Paperwork](https://github.com/twostairs/paperwork) - Note-taking & archiving application
+* [PHPHub](https://github.com/summerblue/phphub) - Forum and source for the PHP & Laravel China community
+* [Flarum](https://github.com/flarum/flarum) - Delightfully simple forum
+* [Laramap](https://github.com/laramap/laramap.com) - Source of Laramap.com
+* [Attendize](https://github.com/Attendize/Attendize) - Ticket selling and event management platform
+* [Katana](https://github.com/themsaid/katana) - Static site/blog generator with markdown support
+* [Antvel](https://github.com/ant-vel/antVel) - Ecommerce platform
+* [Jigsaw](http://jigsaw.tighten.co) - Static site generator
 
 ## Newsletters
 * [Laravel News](https://laravel-news.com/) ([archive](https://laravel-news.com/archive/))
@@ -442,20 +437,17 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [CodeCanyon](http://codecanyon.net/tags/laravel?term=laravel) - Paid scripts and plugins
 * [Laramap](https://laramap.com/) - Interactive map of Laravel developers
 
-## CMS
+## Content Management Systems
+
 ### Open Source
-* [OctoberCMS](http://octobercms.com/) - CMS platform built on Laravel
-* [PyroCMS](https://www.pyrocms.com/) - PHP CMS
-* [LavaliteCMS](http://www.lavalite.org/) - CMS built on Laravel 5.2
-* [WardRobeCMS](http://wardrobecms.com/) - A minimal blogging application
-* [Asgard CMS](https://asgardcms.com/) - A modular multilingual CMS built with Laravel 5
-* [TypiCMS](https://github.com/typicms/base) - Is a modular multilingual content management system built with Laravel 5.2
-* [0ez](http://demo.0ez.ru/root/login) - Laravel Lightweight Blogging CMS
-* [Microweber CMS](https://microweber.com/) - Create any kind of websites, shops or blogs faster than ever!
-* [Coaster Cms](http://www.coastercms.org/) - A Laravel based Content Management System with advanced features and The Physical Web Integration
-* [Bootstrap CMS](https://github.com/BootstrapCMS) - A PHP CMS powered by Laravel 5 and Sentry
-* [Larapress](https://github.com/larapress-cms/larapress) - A Laravel 4 CMS
-* [Jigsaw] (http://jigsaw.tighten.co) - Static sites for Laravel developers
+* [OctoberCMS](http://octobercms.com/) 
+* [PyroCMS](https://www.pyrocms.com/)
+* [Lavalite](http://www.lavalite.org/)
+* [Bootstrap CMS](https://github.com/BootstrapCMS/CMS)
+* [TypiCMS](https://github.com/typicms/base)
+* [Asgard CMS](https://asgardcms.com/)
+* [Microweber](https://microweber.com/)
+* [Coaster CMS](http://www.coastercms.org/)
 
 ### Proprietary
 * [Statamic](https://statamic.com/) - The Slightly Better Edition
