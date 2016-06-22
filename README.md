@@ -190,6 +190,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel Dropbox](https://github.com/GrahamCampbell/Laravel-Dropbox) - Dropbox bridge
 * [Laravel Facebook](https://github.com/schimpanz/Laravel-Facebook) - Facebook API bridge
 * [Laravel GitHub](https://github.com/GrahamCampbell/Laravel-GitHub) - PHP GitHub API bridge
+* [Laravel Bitbucket](https://github.com/GrahamCampbell/Laravel-Bitbucket) - A Bitbucket bridge for Laravel 5
 * [Laravel GitLab](https://github.com/vinkla/gitlab) - GitLab API bridge
 * [Laravel Googletagmanager](https://github.com/spatie/laravel-googletagmanager) - Easily setup and send data to Google Tag Manager
 * [Laravel Instagram](https://github.com/vinkla/instagram) - Instagram API bridge
