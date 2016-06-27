@@ -355,6 +355,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel 5 Angular Material Starter](https://github.com/jadjoubran/laravel5-angular-material-starter)
 * [Acacha adminlte-laravel](https://github.com/acacha/adminlte-laravel)
 * [Laravel Hackathon Starter](https://github.com/unicodeveloper/laravel-hackathon-starter)
+* [Laravel API](https://github.com/joselfonseca/laravel-api)
 
 ## Codebases for Reference
 * [92Five](https://github.com/chintanbanugaria/92five) - Project management application
@@ -382,6 +383,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [The Laravel News Podcast](http://podcast.laravel-news.com/)
 * [The Laracasts Snippet](https://laracasts.simplecast.fm/)
 * [Larachat Live](http://larachat.co/live)
+* [Hecho en laravel (Spanish Podast)](http://hechoenlaravel.com)
 
 ## Community
 * [Laravel.io Forum](http://laravel.io/forum) ([Old Forum Archive](http://forumsarchive.laravel.io/))
