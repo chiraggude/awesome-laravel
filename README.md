@@ -36,7 +36,6 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Lumen Documentation](http://lumen.laravel.com/docs)
 * [Laracasts](http://laracasts.com)
 * [Laravel News](https://laravel-news.com)
-* [StyleCI](https://styleci.io)
 
 ## Code Snippets
 * [Laravel Cheat Sheet](http://cheats.jesse-obrien.ca)
@@ -455,6 +454,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laragen](http://makzumi.com/laragen/) - View generator
 * [Laravel Schema Designer](http://laravelsd.com/) - Create, export and share database schemas
 * [Laravel Database Designer](http://biodesignrealworld.github.io/LaravelDatabaseDesigner/) - Graphical tool to create database schemas
+* [StyleCI](https://styleci.io) - PHP Coding Style Service
 
 ## Miscellaneous
 * [Larasites](https://www.larasites.com/) - Collection of websites and apps built with Laravel
