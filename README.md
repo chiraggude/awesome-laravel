@@ -20,13 +20,13 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 - [Books](#books)
 - [Starter Projects](#starter-projects)
 - [Codebases for Reference](#codebases-for-reference)
+- [Content Management Systems](#content-management-systems)
 - [Newsletters](#newsletters)
 - [Podcasts](#podcasts)
 - [Community](#community)
 - [Jobs](#jobs)
 - [Hosted Development Tools](#hosted-development-tools)
 - [Miscellaneous](#miscellaneous)
-- [Content Management Systems](#content-management-systems)
 
 ## Essentials
 * [Laravel](http://laravel.com)
@@ -378,6 +378,17 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Antvel](https://github.com/ant-vel/antVel) - Ecommerce platform
 * [Jigsaw](http://jigsaw.tighten.co) - Static site generator
 
+## Content Management Systems
+* [OctoberCMS](http://octobercms.com/) 
+* [PyroCMS](https://www.pyrocms.com/)
+* [Lavalite](http://www.lavalite.org/)
+* [Bootstrap CMS](https://github.com/BootstrapCMS/CMS)
+* [TypiCMS](https://github.com/typicms/base)
+* [Asgard CMS](https://asgardcms.com/)
+* [Microweber](https://microweber.com/)
+* [Coaster CMS](http://www.coastercms.org/)
+* [Statamic](https://statamic.com/)
+
 ## Newsletters
 * [Laravel News](https://laravel-news.com/) ([archive](https://laravel-news.com/archive/))
 * [Laravel Weekly](http://laravelweekly.com/)
@@ -387,7 +398,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [The Laravel News Podcast](http://podcast.laravel-news.com/)
 * [The Laracasts Snippet](https://laracasts.simplecast.fm/)
 * [Larachat Live](http://larachat.co/live)
-* [Hecho en laravel (Spanish Podast)](http://hechoenlaravel.com)
+* [Hecho en Laravel (Spanish)](http://hechoenlaravel.com)
 
 ## Community
 * [Laravel.io Forum](http://laravel.io/forum) ([Old Forum Archive](http://forumsarchive.laravel.io/))
@@ -449,21 +460,6 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Larasites](https://www.larasites.com/) - Collection of websites and apps built with Laravel
 * [CodeCanyon](http://codecanyon.net/tags/laravel?term=laravel) - Paid scripts and plugins
 * [Laramap](https://laramap.com/) - Interactive map of Laravel developers
-
-## Content Management Systems
-
-### Open Source
-* [OctoberCMS](http://octobercms.com/) 
-* [PyroCMS](https://www.pyrocms.com/)
-* [Lavalite](http://www.lavalite.org/)
-* [Bootstrap CMS](https://github.com/BootstrapCMS/CMS)
-* [TypiCMS](https://github.com/typicms/base)
-* [Asgard CMS](https://asgardcms.com/)
-* [Microweber](https://microweber.com/)
-* [Coaster CMS](http://www.coastercms.org/)
-
-### Proprietary
-* [Statamic](https://statamic.com/) - The Slightly Better Edition
 
 ## Contributing
 Found an awesome package, blog, video etc.? Send me a pull request!
