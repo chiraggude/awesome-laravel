@@ -375,6 +375,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Katana](https://github.com/themsaid/katana) - Static site/blog generator with markdown support
 * [Antvel](https://github.com/ant-vel/antVel) - Ecommerce platform
 * [Jigsaw](http://jigsaw.tighten.co) - Static site generator
+* [Canvas](https://github.com/austintoddj/Canvas) - Minimal Blogging Application For Developers.
 
 ## Content Management Systems
 * [OctoberCMS](http://octobercms.com/) 
