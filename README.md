@@ -358,6 +358,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Acacha adminlte-laravel](https://github.com/acacha/adminlte-laravel)
 * [Laravel Hackathon Starter](https://github.com/unicodeveloper/laravel-hackathon-starter)
 * [Laravel API](https://github.com/joselfonseca/laravel-api)
+* [Laravel Angular AdminLTE](https://github.com/silverbux/laravel-angular-admin)
 
 ## Codebases for Reference
 * [92Five](https://github.com/chintanbanugaria/92five) - Project management application
