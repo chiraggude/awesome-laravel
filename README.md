@@ -457,9 +457,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [StyleCI](https://styleci.io) - PHP Coding Style Service
 
 ## Miscellaneous
-* [Larasites](https://www.larasites.com/) - Collection of websites and apps built with Laravel
 * [CodeCanyon](http://codecanyon.net/tags/laravel?term=laravel) - Paid scripts and plugins
-* [Laramap](https://laramap.com/) - Interactive map of Laravel developers
 
 ## Contributing
 Found an awesome package, blog, video etc.? Send me a pull request!
