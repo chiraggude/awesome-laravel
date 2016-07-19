@@ -378,6 +378,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Antvel](https://github.com/ant-vel/antVel) - Ecommerce platform
 * [Jigsaw](http://jigsaw.tighten.co) - Static site generator
 * [Canvas](https://github.com/austintoddj/Canvas) - Minimal Blogging Application For Developers.
+* [Vuedo] (https://github.com/Vuedo/vuedo) - Vuedo is blog platform, built with Laravel and Vue.js
 
 ## Content Management Systems
 * [OctoberCMS](http://octobercms.com/) 
