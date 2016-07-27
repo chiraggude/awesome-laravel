@@ -462,6 +462,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 ## Miscellaneous
 * [CodeCanyon](http://codecanyon.net/tags/laravel?term=laravel) - Paid scripts and plugins
+* [Laravel.js](https://gist.github.com/soufianeEL/3f8483f0f3dc9e3ec5d9) - Simple method to use DELETE method outside of a form
 
 ## Contributing
 Found an awesome package, blog, video etc.? Send me a pull request!
