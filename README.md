@@ -156,6 +156,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel Search](https://github.com/mmanos/laravel-search) - Unified API for Elasticsearch, Algolia, and ZendSearch
 * [SearchIndex](https://github.com/spatie/searchindex) - Store and retrieve objects from Algolia or Elasticsearch
 * [Searchable](https://github.com/nicolaslopezj/searchable) - Trait that adds a simple search function to Eloquent models
+* [TNTSearch](https://github.com/teamtnt/tntsearch) - A fully featured full text search engine written in PHP
 
 ##### APIs
 * [ApiGuard](https://github.com/chrisbjr/api-guard) - Allow API authentication with API keys
