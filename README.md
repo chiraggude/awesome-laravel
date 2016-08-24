@@ -142,6 +142,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [ClosureTable](https://github.com/franzose/ClosureTable) - Closure table pattern implementation
 * [Eloquence](https://github.com/kirkbushell/eloquence) - Extra features for Eloquent models
 * [iSeed](https://github.com/orangehill/iseed) - Generate a new seed file from an existing database table
+* [Laravel OCI8](https://github.com/yajra/laravel-oci8) - Oracle DB driver for Laravel 4|5 via OCI8
 * [Laravel Backup](https://github.com/spatie/laravel-backup) - Backup your app
 * [Laravel Doctrine](https://github.com/laravel-doctrine/orm) - Doctrine 2 ORM implementation
 * [Laravel MongoDB](https://github.com/jenssegers/laravel-mongodb) - Eloquent model and query builder with support for MongoDB
