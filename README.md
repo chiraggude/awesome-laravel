@@ -29,9 +29,9 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 - [Miscellaneous](#miscellaneous)
 
 ## Essentials
-* [Laravel](http://laravel.com)
-* [Laravel Documentation](http://laravel.com/docs)
-* [Laravel API Reference](http://laravel.com/api/master)
+* [Laravel](https://laravel.com)
+* [Laravel Documentation](https://laravel.com/docs)
+* [Laravel API Reference](https://laravel.com/api/master)
 * [Lumen](http://lumen.laravel.com)
 * [Lumen Documentation](http://lumen.laravel.com/docs)
 * [Laracasts](http://laracasts.com)
@@ -209,11 +209,11 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 
 ## Development Setup
-* [Homestead](http://laravel.com/docs/homestead) - Official Vagrant box for Laravel
+* [Homestead](https://laravel.com/docs/homestead) - Official Vagrant box for Laravel
   * [Getting Started with Laravel Homestead](https://scotch.io/tutorials/getting-started-with-laravel-homestead)
   * [Installation on OSx and Linux](https://laracasts.com/series/laravel-5-from-scratch/episodes/3)
   * [Installation on  Windows](http://blog.teamtreehouse.com/laravel-homestead-on-windows)
-* [Valet](http://laravel.com/docs/valet) - development environment for Mac minimalists
+* [Valet](https://laravel.com/docs/valet) - development environment for Mac minimalists
 * [LaraDock](https://github.com/LaraDock/laradock) - Run Laravel on Docker (Like Homstead but for Docker instead of Vagrant).
 * [LaraEdit Docker](https://github.com/laraedit/laraedit-docker) - Homestead environment in a single Docker container.
 * Install Laravel with Composer
@@ -388,7 +388,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Vuedo](https://github.com/Vuedo/vuedo) - Vuedo is blog platform, built with Laravel and Vue.js
 
 ## Content Management Systems
-* [OctoberCMS](http://octobercms.com/) 
+* [OctoberCMS](http://octobercms.com/)
 * [PyroCMS](https://www.pyrocms.com/)
 * [Lavalite](http://www.lavalite.org/)
 * [Bootstrap CMS](https://github.com/BootstrapCMS/CMS)
