@@ -34,7 +34,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel API Reference](https://laravel.com/api/master)
 * [Lumen](https://lumen.laravel.com)
 * [Lumen Documentation](https://lumen.laravel.com/docs)
-* [Laracasts](http://laracasts.com)
+* [Laracasts](https://laracasts.com)
 * [Laravel News](https://laravel-news.com)
 
 ## Code Snippets
@@ -45,10 +45,10 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 ## Packages
 * [Packagist](https://packagist.org/)
-* [Laravel Collective](http://laravelcollective.com/)
+* [Laravel Collective](https://laravelcollective.com/)
 * [Packalyst](http://packalyst.com/)
 * [Cartalyst](https://cartalyst.com/)
-* [Spatie](https://spatie.be/opensource/laravel)
+* [Spatie](https://spatie.be/en/opensource/laravel)
 
 ## Popular Packages
 > This is a list of well-documented, tested packages that are frequently used in Laravel projects. If you're looking for an exhaustive list of PHP packages, then check out the Package Repositories mentioned above.
@@ -105,7 +105,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel Failed Job Monitor](https://github.com/spatie/laravel-failed-job-monitor) - Get notified when a queued job fails
 * [Laravel GeoIP](https://github.com/Torann/laravel-geoip) - Determine the geographical location of website visitors based on their IP addresses
 * [Laravel Glide](https://github.com/spatie/laravel-glide) - Easily convert images with Glide
-* [Laravel Hashids](https://github.com/vinkla/hashids) - Generate unique, non-sequential ids using [Hashids](http://hashids.org/php/)
+* [Laravel Hashids](https://github.com/vinkla/laravel-hashids) - Generate unique, non-sequential ids using [Hashids](http://hashids.org/php/)
 * [Laravel Markdown](https://github.com/GrahamCampbell/Laravel-Markdown) - CommonMark markdown parser
 * [Laravel MediaLibrary](https://github.com/spatie/laravel-medialibrary) - Associate files with Eloquent models
 * [Laravel Menu](https://github.com/spatie/laravel-menu) - Html menu generator for Laravel
@@ -186,26 +186,26 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel Localization](https://github.com/mcamara/laravel-localization) - Add i18n support via routes
 * [Laravel Translatable](https://github.com/spatie/laravel-translatable) - Making Eloquent models translatable by storing translations as JSON.
 * [Laravel Translatable](https://github.com/dimsav/laravel-translatable) - Retrieve and store translatable Eloquent model instances
-* [Laravel Translator](https://github.com/vinkla/translator) - Translate Eloquent models into multiple languages
+* [Laravel Translator](https://github.com/vinkla/laravel-translator) - Translate Eloquent models into multiple languages
 * [Laravel Date](https://github.com/jenssegers/date) - A library to help you work with dates in multiple languages, based on Carbon
 * [Laravel Langman](https://github.com/themsaid/laravel-langman) - Manage language files from Artisan Console
 * [Laravel Translation](https://github.com/waavi/translation) - Allow live edit/caching of translation entries, and localization of urls and Eloquent Model attributes.
 
 ##### Third-party Service Integration
-* [Laravel Algolia](https://github.com/vinkla/algolia) - Algolia API bridge
+* [Laravel Algolia](https://github.com/vinkla/laravel-algolia) - Algolia API bridge
 * [Laravel Analytics](https://github.com/spatie/laravel-analytics) - An opinionated Laravel 5 package to retrieve pageviews and other data from Google Analytics
 * [Laravel DigitalOcean](https://github.com/GrahamCampbell/Laravel-DigitalOcean) - DigitalOceanV2 bridge
 * [Laravel Dropbox](https://github.com/GrahamCampbell/Laravel-Dropbox) - Dropbox bridge
-* [Laravel Facebook](https://github.com/schimpanz/Laravel-Facebook) - Facebook API bridge
+* [Laravel Facebook](https://github.com/vinkla/laravel-facebook) - Facebook API bridge
 * [Laravel GitHub](https://github.com/GrahamCampbell/Laravel-GitHub) - PHP GitHub API bridge
-* [Laravel GitLab](https://github.com/vinkla/gitlab) - GitLab API bridge
+* [Laravel GitLab](https://github.com/vinkla/laravel-gitlab) - GitLab API bridge
 * [Laravel Googletagmanager](https://github.com/spatie/laravel-googletagmanager) - Easily setup and send data to Google Tag Manager
-* [Laravel Instagram](https://github.com/vinkla/instagram) - Instagram API bridge
+* [Laravel Instagram](https://github.com/vinkla/laravel-instagram) - Instagram API bridge
 * [Laravel Newsletter](https://github.com/spatie/laravel-newsletter) - Send newsletters with Mailchimp
 * [Laravel Parse](https://github.com/GrahamCampbell/Laravel-Parse) - PHP Parse SDK bridge
-* [Laravel Pusher](https://github.com/vinkla/pusher) - Pusher API bridge
-* [Laravel Pushwoosh](https://github.com/schimpanz/Laravel-Pushwoosh) - Pushwoosh API bridge
-* [Laravel Vimeo](https://github.com/vinkla/vimeo) - Vimeo API bridge
+* [Laravel Pusher](https://github.com/vinkla/laravel-pusher) - Pusher API bridge
+* [Laravel Pushwoosh](https://github.com/hoymultimedia/Laravel-Pushwoosh) - Pushwoosh API bridge
+* [Laravel Vimeo](https://github.com/vinkla/laravel-vimeo) - Vimeo API bridge
 
 
 ## Development Setup
