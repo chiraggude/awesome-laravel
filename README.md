@@ -31,10 +31,10 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 ## Essentials
 * [Laravel](https://laravel.com)
-* [Laravel Documentation](https://laravel.com/docs)
-* [Laravel API Reference](https://laravel.com/api/master)
+* [Laravel Documentation](https://laravel.com/docs/5.3)
+* [Laravel API Reference](https://laravel.com/api/master/)
 * [Lumen](https://lumen.laravel.com)
-* [Lumen Documentation](https://lumen.laravel.com/docs)
+* [Lumen Documentation](https://lumen.laravel.com/docs/5.2)
 * [Laracasts](https://laracasts.com)
 * [Laravel News](https://laravel-news.com)
 
@@ -210,11 +210,11 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 
 ## Development Setup
-* [Homestead](https://laravel.com/docs/homestead) - Official Vagrant box for Laravel
+* [Homestead](https://laravel.com/docs/homestead/5.3) - Official Vagrant box for Laravel
   * [Getting Started with Laravel Homestead](https://scotch.io/tutorials/getting-started-with-laravel-homestead)
   * [Installation on OSx and Linux](https://laracasts.com/series/laravel-5-from-scratch/episodes/3)
   * [Installation on  Windows](http://blog.teamtreehouse.com/laravel-homestead-on-windows)
-* [Valet](https://laravel.com/docs/valet) - development environment for Mac minimalists
+* [Valet](https://laravel.com/docs/valet/5.3) - development environment for Mac minimalists
 * [LaraDock](https://github.com/LaraDock/laradock) - Run Laravel on Docker (Like Homstead but for Docker instead of Vagrant).
 * [LaraEdit Docker](https://github.com/laraedit/laraedit-docker) - Homestead environment in a single Docker container.
 * Install Laravel with Composer
@@ -226,7 +226,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
   * [Server Management with Forge](https://laracasts.com/series/server-management-with-forge) (Laracasts)
   * [Getting your first site up and running in Laravel Forge](https://mattstauffer.co/blog/getting-your-first-site-up-and-running-in-laravel-forge) (Matt Stauffer)
   * [ForgeRecipes](http://forgerecipes.com/)
-* [FortRabbit](http://www.fortrabbit.com/laravel-hosting) ([Video](https://laracasts.com/lessons/from-zero-to-deploy-with-fortrabbit))
+* [FortRabbit](https://www.fortrabbit.com/laravel-hosting) ([Video](https://laracasts.com/lessons/from-zero-to-deploy-with-fortrabbit))
 * [PagodaBox](https://pagodabox.io/) ([Documentation](https://pagodabox.io/docs/framework_laravel))
 * [Heroku](https://www.heroku.com/) ([Tutorial](https://mattstauffer.co/blog/installing-a-laravel-app-on-heroku))
 * [IBM BlueMix](https://console.ng.bluemix.net/) ([Tutorial](https://developer.ibm.com/bluemix/2014/06/17/getting-started-laravel-bluemix/))
@@ -239,12 +239,12 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 ## Articles, Tutorials, Blogs etc.
 * [Tuts+](http://code.tutsplus.com/categories/laravel)
-* [SitePoint](http://www.sitepoint.com/php/page/0/?filter[4047]=on)
+* [SitePoint](https://www.sitepoint.com/php/page/0/?filter[4047]=on)
 * [Christopher Pitt](https://medium.com/laravel-4)
 * [Culttt](http://culttt.com/tag/cribbb/)
 * [Scotch](https://scotch.io/tag/laravel)
 * [Fideloper](http://fideloper.com/tag/laravel)
-* [Maxoffsky](http://maxoffsky.com/tag/laravel/)
+* [Maxoffsky](https://maxoffsky.com/tag/laravel/)
 * [KodeInfo](http://kodeinfo.com/main_category/laravel)
 * [CodeForest](http://www.codeforest.net/tag/laravel)
 * [Taylor Otwell](http://taylorotwell.com/)
