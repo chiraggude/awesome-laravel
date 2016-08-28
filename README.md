@@ -447,16 +447,16 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 ##### Meetups
 * [All Meetups](http://laravel.meetup.com/)
-* [London Meetup](http://www.meetup.com/London-Laravel/)
-* [Buenos Aires, Argentina Meetup](http://www.meetup.com/Laravel-Buenos-Aires)
-* [Morocco Meetup](http://www.meetup.com/moroccan-php-artisans/)
-* [Athens-Greece Meetup](http://www.meetup.com/athens-laravel-meetup)
-* [Copenhagen Meetup](http://www.meetup.com/Copenhagen-Laravel-Meetup/)
-* [Detroit Meetup](http://www.meetup.com/Laravel-Detroit/)
+* [London Meetup](https://www.meetup.com/London-Laravel/)
+* [Buenos Aires, Argentina Meetup](https://www.meetup.com/Laravel-Buenos-Aires)
+* [Morocco Meetup](https://www.meetup.com/moroccan-php-artisans/)
+* [Athens-Greece Meetup](https://www.meetup.com/athens-laravel-meetup)
+* [Copenhagen Meetup](https://www.meetup.com/Copenhagen-Laravel-Meetup/)
+* [Detroit Meetup](https://www.meetup.com/Laravel-Detroit/)
 
 ## Jobs
 * [LaraJobs](https://larajobs.com/)
-* [Laravel Gurus](http://laravelgurus.com/)
+* [Laravel Gurus](https://laravelgurus.com/)
 * [With Laravel](http://withlaravel.com/)
 
 ## Hosted Development Tools
@@ -469,7 +469,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [StyleCI](https://styleci.io) - PHP Coding Style Service
 
 ## Miscellaneous
-* [CodeCanyon](http://codecanyon.net/tags/laravel?term=laravel) - Paid scripts and plugins
+* [CodeCanyon](https://codecanyon.net/tags/laravel?term=laravel) - Paid scripts and plugins
 
 ## Contributing
 Found an awesome package, blog, video etc.? Send me a pull request!
@@ -482,6 +482,6 @@ Found an awesome package, blog, video etc.? Send me a pull request!
 
 ## License
 
-[![CC BY 4.0](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
+[![CC BY 4.0](https://licensebuttons.net/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
 
 Awesome Laravel is licensed under a  [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
