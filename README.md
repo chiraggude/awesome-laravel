@@ -332,14 +332,14 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Refactoring to Collections](http://adamwathan.me/refactoring-to-collections) by Adam Wathan
 * [Implementing Laravel](https://leanpub.com/implementinglaravel) by Chris Fidao
 * [Getting Stuff Done with Laravel 4](https://leanpub.com/gettingstuffdonelaravel) by Chuck Heintzelman
-* [Laravel Application Development Blueprints](http://www.packtpub.com/web-development/laravel-application-development-blueprints) by Arda Kılıçdağı and Halil İbrahim Yılmaz
+* [Laravel Application Development Blueprints](https://www.packtpub.com/web-development/laravel-application-development-blueprints) by Arda Kılıçdağı and Halil İbrahim Yılmaz
 * [Build APIs You Won't Hate](https://leanpub.com/build-apis-you-wont-hate) by Phil Sturgeon
 * [Integrating Front end Components with Web Applications](https://leanpub.com/frontend) by Maksim Surguy
-* [Laravel Design Patterns and Best Practices](http://www.packtpub.com/web-development/laravel-design-patterns-and-best-practices) by Arda Kılıçdağı and Halil İbrahim Yılmaz
+* [Laravel Design Patterns and Best Practices](https://www.packtpub.com/web-development/laravel-design-patterns-and-best-practices) by Arda Kılıçdağı and Halil İbrahim Yılmaz
 * [Step by Step Real World Application with Laravel 4](https://leanpub.com/real-world-laravel4) by Ibrahim Yusuf
-* [Learning Laravel 4 Application Development](http://www.packtpub.com/web-development/learning-laravel-4-application-development) by Hardik Dangar
-* [Getting Started with Laravel 4](http://www.packtpub.com/web-development/getting-started-laravel-4) by Raphaël Saunier
-* [Laravel Application Development Cookbook](http://www.packtpub.com/web-development/laravel-application-development-cookbook) by Terry Matula
+* [Learning Laravel 4 Application Development](https://www.packtpub.com/web-development/learning-laravel-4-application-development) by Hardik Dangar
+* [Getting Started with Laravel 4](https://www.packtpub.com/web-development/getting-started-laravel-4) by Raphaël Saunier
+* [Laravel Application Development Cookbook](https://www.packtpub.com/web-development/laravel-application-development-cookbook) by Terry Matula
 * [Building Web Applications Using Parse REST API](https://leanpub.com/building-web-applications-using-parse-rest-api) by Mhd Zaher Ghaibeh
 * [Laravel - My First Framework](https://leanpub.com/laravel-first-framework) by Maksim Surguy
 * [Easy Laravel 5](https://leanpub.com/easylaravel/) by W. Jason Gilmore
