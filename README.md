@@ -227,11 +227,11 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 ## Development Setup
 
-* [Homestead](https://laravel.com/docs/homestead/5.3) - Official Vagrant box for Laravel
+* [Homestead](https://laravel.com/docs/5.3/homestead) - Official Vagrant box for Laravel
   * [Getting Started with Laravel Homestead](https://scotch.io/tutorials/getting-started-with-laravel-homestead)
   * [Installation on OSx and Linux](https://laracasts.com/series/laravel-5-from-scratch/episodes/3)
   * [Installation on  Windows](http://blog.teamtreehouse.com/laravel-homestead-on-windows)
-* [Valet](https://laravel.com/docs/valet/5.3) - development environment for Mac minimalists
+* [Valet](https://laravel.com/docs/5.3/valet/) - development environment for Mac minimalists
 * [LaraDock](https://github.com/LaraDock/laradock) - Run Laravel on Docker (Like Homstead but for Docker instead of Vagrant).
 * [LaraEdit Docker](https://github.com/laraedit/laraedit-docker) - Homestead environment in a single Docker container.
 * Install Laravel with Composer
