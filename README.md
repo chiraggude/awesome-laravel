@@ -281,10 +281,9 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Andrews Ang](http://blog.kongnir.com/category/laravel-2/)
 * [DeveloPHP](http://www.develophp.org/category/web/laravel/)
 * [Jason Lewis](http://jasonlewis.me/category/laravel)
-* [Eric Barnes](https://ericlbarnes.com/blog/tags/laravel)
+* [Eric Barnes](https://ericlbarnes.com/tag/laravel/)
 * [Jens Segers](https://jenssegers.com/)
 * [Neon Tsunami](https://www.neontsunami.com/tags/laravel)
-* [Amitav Roy](http://www.amitavroy.com/justread/content/term/laravel-4)
 * [Stidges](http://blog.stidges.com/)
 * [Scott Wilcox](https://dor.ky/tag/laravel/)
 * [Clivern](http://clivern.com/tag/laravel/)
@@ -295,9 +294,8 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Vedovelli (PT-BR)](http://www.vedovelli.com.br/tag/laravel/)
 * [CodeTutorial](https://www.codetutorial.io/tag/laravel/)
 * [Ryan Chenkie](http://ryanchenkie.com/tag/laravel/)
-* [Laravelista](https://laravelista.com/tag/laravel/)
 * [Laravel Tips](https://laraveltips.wordpress.com/)
-* [Codingo Tuts](https://tuts.codingo.me/category/web-development/laravel/)
+* [Codingo Tuts](https://tuts.codingo.me/category/web-development/laravel)
 * [Antonio Carlos Ribeiro](https://antoniocarlosribeiro.com/technology)
 * [Laravel Coding](http://laravelcoding.com/blog)
 * [Styde](https://styde.net/cursos/) (ES)
@@ -325,7 +323,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 ## Conferences
 
 * [Laracon US](http://laracon.us/)
-* [Laracon EU](http://laracon.eu/2016)
+* [Laracon EU](http://laracon.eu/2016/)
 
 ##### Videos
 
@@ -345,7 +343,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel: From Apprentice To Artisan](https://leanpub.com/laravel) by Taylor Otwell
 * [Laravel 4 Cookbook](https://leanpub.com/laravel4cookbook) by Christopher Pitt and Taylor Otwell
 * [Laravel Testing Decoded](https://leanpub.com/laravel-testing-decoded) by Jeffrey Way
-* [Refactoring to Collections](https://adamwathan.me/refactoring-to-collections) by Adam Wathan
+* [Refactoring to Collections](https://adamwathan.me/refactoring-to-collections/) by Adam Wathan
 * [Implementing Laravel](https://leanpub.com/implementinglaravel) by Chris Fidao
 * [Getting Stuff Done with Laravel 4](https://leanpub.com/gettingstuffdonelaravel) by Chuck Heintzelman
 * [Laravel Application Development Blueprints](https://www.packtpub.com/web-development/laravel-application-development-blueprints) by Arda Kılıçdağı and Halil İbrahim Yılmaz
@@ -368,7 +366,6 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Learning Laravel's Eloquent](https://www.packtpub.com/web-development/learning-laravel%E2%80%99s-eloquent) by Francesco Malatesta
 * [Laravel 5 Learn Easy](https://leanpub.com/laravel5learneasy) by Sanjib Sinha
 * [Laravel and AngularJS](https://leanpub.com/laravel-and-angularjs) by Daniel Schmitz and Daniel Pedrinha Georgii
-* [Laravel 5 UnFolded](https://www.amazon.com/Laravel-UnFolded-Application-Programming-Simplified-ebook/dp/B011I0DVWO/) by Sanjib Sinha
 * [Laravel Collections Unraveled](https://leanpub.com/laravelcollectionsunraveled) by Jeff Madsen
 * [Writing APIs With Lumen](https://leanpub.com/lumen-apis) by Paul Redmond
 * [The Laravel Survival Guide](https://leanpub.com/laravelsurvivalguide) by Tony Lea
@@ -427,7 +424,6 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [The Laravel Podcast](http://www.laravelpodcast.com/)
 * [The Laravel News Podcast](https://laravel-news.com/podcast/ )
 * [The Laracasts Snippet](https://laracasts.simplecast.fm/)
-* [Larachat Live](https://larachat.co/live)
 * [Hecho en Laravel (Spanish)](http://hechoenlaravel.com)
 
 ## Community
@@ -440,7 +436,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Twitter](https://twitter.com/laravelphp)
 * [Google+](https://plus.google.com/communities/106838454910116161868)
 * [Reddit](https://www.reddit.com/r/laravel)
-* [Quora](https://www.quora.com/Laravel)
+* [Quora](https://www.quora.com/topic/Laravel)
 * [Facebook](https://www.facebook.com/LaravelCommunity)
 * [LinkedIn](https://www.linkedin.com/groups/4419933/profile)
 
