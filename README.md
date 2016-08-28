@@ -281,28 +281,26 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Andrews Ang](http://blog.kongnir.com/category/laravel-2/)
 * [DeveloPHP](http://www.develophp.org/category/web/laravel/)
 * [Jason Lewis](http://jasonlewis.me/category/laravel)
-* [Eric Barnes](http://ericlbarnes.com/blog/tags/laravel)
+* [Eric Barnes](https://ericlbarnes.com/blog/tags/laravel)
 * [Jens Segers](https://jenssegers.com/)
-* [Neon Tsunami](http://www.neontsunami.com/tags/laravel)
-* [Amitav Roy](http://amitavroy.com/justread/content/term/laravel-4)
-* [Into Laravel](http://www.intolaravel.com/)
+* [Neon Tsunami](https://www.neontsunami.com/tags/laravel)
+* [Amitav Roy](http://www.amitavroy.com/justread/content/term/laravel-4)
 * [Stidges](http://blog.stidges.com/)
-* [Scott Wilcox](http://dor.ky/tag/laravel/)
+* [Scott Wilcox](https://dor.ky/tag/laravel/)
 * [Clivern](http://clivern.com/tag/laravel/)
 * [Code Gains](http://codegains.com/tag/laravel-2/)
 * [Stillat](http://www.stillat.com/blog/category/programming/laravel/)
 * [Easy Laravel Book Blog](http://www.easylaravelbook.com/blog/)
 * [Bosnadev](https://bosnadev.com/tag/laravel-2/)
-* [Vagner Luís (PT-BR)](http://blog.vagnerdocarmo.com.br/category/laravel/)
 * [Vedovelli (PT-BR)](http://www.vedovelli.com.br/tag/laravel/)
 * [CodeTutorial](https://www.codetutorial.io/tag/laravel/)
 * [Ryan Chenkie](http://ryanchenkie.com/tag/laravel/)
-* [Laravelista](http://laravelista.com/tag/laravel/)
+* [Laravelista](https://laravelista.com/tag/laravel/)
 * [Laravel Tips](https://laraveltips.wordpress.com/)
-* [Codingo Tuts](http://tuts.codingo.me/category/web-development/laravel/)
+* [Codingo Tuts](https://tuts.codingo.me/category/web-development/laravel/)
 * [Antonio Carlos Ribeiro](https://antoniocarlosribeiro.com/technology)
 * [Laravel Coding](http://laravelcoding.com/blog)
-* [Styde](https://styde.net/proyectos/) (ES)
+* [Styde](https://styde.net/cursos/) (ES)
 * [Laravel Daily](http://laraveldaily.com/)
 * [Freek Van der Herten](https://murze.be/tag/laravel/)
 * [Tutsnare](http://tutsnare.com/category/tutorials/laravel/)
@@ -320,15 +318,14 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Duilio Palacios](https://www.youtube.com/user/silencedsg/videos)
 * [DevDojo](https://devdojo.com/search?value=laravel)
 * [Amitav Roy](https://www.youtube.com/channel/UC4gijXR8cM4gmEt9Olse-TQ/videos)
-* [Lynda](http://www.lynda.com/Laravel-training-tutorials/2779-0.html)
+* [Lynda](https://www.lynda.com/Laravel-training-tutorials/2779-0.html)
 * [Pluralsight](https://www.pluralsight.com/search?q=laravel&categories=course)
 * [Laracademy](https://laracademy.co/)
 
 ## Conferences
 
 * [Laracon US](http://laracon.us/)
-* [Laracon EU](http://laracon.eu/)
-* [ArtisanConf](https://www.artisanconf.com/)
+* [Laracon EU](http://laracon.eu/2016)
 
 ##### Videos
 
@@ -341,14 +338,14 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 ## Books
 
-* [Laravel Starter](https://www.packtpub.com/web-development/laravel-starter-instant) by Shawn McCool
+* [Laravel Starter](https://www.packtpub.com/web-development/laravel-starter) by Shawn McCool
 * [Laravel: Code Happy](https://leanpub.com/codehappy) by Dayle Rees
 * [Laravel: Code Bright](https://leanpub.com/codebright) by Dayle Rees
 * [Laravel: Code Smart](https://leanpub.com/codesmart) by Dayle Rees
 * [Laravel: From Apprentice To Artisan](https://leanpub.com/laravel) by Taylor Otwell
 * [Laravel 4 Cookbook](https://leanpub.com/laravel4cookbook) by Christopher Pitt and Taylor Otwell
 * [Laravel Testing Decoded](https://leanpub.com/laravel-testing-decoded) by Jeffrey Way
-* [Refactoring to Collections](http://adamwathan.me/refactoring-to-collections) by Adam Wathan
+* [Refactoring to Collections](https://adamwathan.me/refactoring-to-collections) by Adam Wathan
 * [Implementing Laravel](https://leanpub.com/implementinglaravel) by Chris Fidao
 * [Getting Stuff Done with Laravel 4](https://leanpub.com/gettingstuffdonelaravel) by Chuck Heintzelman
 * [Laravel Application Development Blueprints](https://www.packtpub.com/web-development/laravel-application-development-blueprints) by Arda Kılıçdağı and Halil İbrahim Yılmaz
@@ -371,7 +368,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Learning Laravel's Eloquent](https://www.packtpub.com/web-development/learning-laravel%E2%80%99s-eloquent) by Francesco Malatesta
 * [Laravel 5 Learn Easy](https://leanpub.com/laravel5learneasy) by Sanjib Sinha
 * [Laravel and AngularJS](https://leanpub.com/laravel-and-angularjs) by Daniel Schmitz and Daniel Pedrinha Georgii
-* [Laravel 5 UnFolded](http://www.amazon.com/Laravel-UnFolded-Application-Programming-Simplified-ebook/dp/B011I0DVWO/) by Sanjib Sinha
+* [Laravel 5 UnFolded](https://www.amazon.com/Laravel-UnFolded-Application-Programming-Simplified-ebook/dp/B011I0DVWO/) by Sanjib Sinha
 * [Laravel Collections Unraveled](https://leanpub.com/laravelcollectionsunraveled) by Jeff Madsen
 * [Writing APIs With Lumen](https://leanpub.com/lumen-apis) by Paul Redmond
 * [The Laravel Survival Guide](https://leanpub.com/laravelsurvivalguide) by Tony Lea
@@ -417,7 +414,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [TypiCMS](https://github.com/typicms/base)
 * [Asgard CMS](https://asgardcms.com/)
 * [Microweber](https://microweber.com/)
-* [Coaster CMS](http://www.coastercms.org/)
+* [Coaster CMS](https://www.coastercms.org/)
 * [Statamic](https://statamic.com/)
 
 ## Newsletters
@@ -428,15 +425,14 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 ## Podcasts
 
 * [The Laravel Podcast](http://www.laravelpodcast.com/)
-* [The Laravel News Podcast](http://podcast.laravel-news.com/)
+* [The Laravel News Podcast](https://laravel-news.com/podcast/ )
 * [The Laracasts Snippet](https://laracasts.simplecast.fm/)
-* [Larachat Live](http://larachat.co/live)
+* [Larachat Live](https://larachat.co/live)
 * [Hecho en Laravel (Spanish)](http://hechoenlaravel.com)
 
 ## Community
 
-* [Laravel.io Forum](http://laravel.io/forum) ([Old Forum Archive](http://forumsarchive.laravel.io/))
-* [Laracasts Forum](https://laracasts.com/discuss) ([Old Forum Archive](https://www.laracasts.com/forum/))
+* [Laracasts Forum](https://laracasts.com/discuss)
 * [Larachat Slack](https://larachat.slack.com/) ([Signup](https://larachat.typeform.com/to/wqvupv))
 * [Gitter](https://gitter.im/laravel/laravel)
 * [IRC Channel](http://laravel.io/chat)
@@ -444,24 +440,24 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Twitter](https://twitter.com/laravelphp)
 * [Google+](https://plus.google.com/communities/106838454910116161868)
 * [Reddit](https://www.reddit.com/r/laravel)
-* [Quora](http://www.quora.com/Laravel)
+* [Quora](https://www.quora.com/Laravel)
 * [Facebook](https://www.facebook.com/LaravelCommunity)
-* [LinkedIn](https://www.linkedin.com/groups/Laravel-PHP-Framework-4419933)
+* [LinkedIn](https://www.linkedin.com/groups/4419933/profile)
 
 ##### Local User Groups
 
-* [Laravel Russia](https://laravel.ru/) ([VK group](http://vk.com/laravel_rus))
-* [Laravel France](http://laravel.fr/)
+* [Laravel Russia](https://laravel.ru/) ([VK group](http://m.vk.com/laravel_rus))
+* [Laravel France](https://laravel.fr/)
 * [Laravel Indonesia](http://id-laravel.com/) ([Facebook group](https://www.facebook.com/groups/laravel/))
 * [Laravel Brasil](http://www.laravel.com.br/) ([Facebook group](https://www.facebook.com/groups/laravelbrasil/)) ([Telegram group](https://telegram.me/laravelbr))
 * [Laravel Turkey](http://www.laravel.gen.tr/) ([Facebook group](https://www.facebook.com/groups/laravelturkiye/))
 * [Laravel Nigeria](http://www.laranaija.com/) ([Facebook group](https://www.facebook.com/groups/laravelnigeria/))
 * [Laravel China](https://phphub.org/)
-* [Laravel Taiwan](http://laravel.tw/) ([Facebook group](https://www.facebook.com/groups/laravel.tw/))
+* [Laravel Taiwan](https://laravel.tw/) ([Facebook group](https://www.facebook.com/groups/laravel.tw/))
 * [Laravel Spanish](http://laraveles.com/foro/)
 * [Laravel Korea](https://www.laravel.co.kr/) ([Facebook group](https://www.facebook.com/groups/laravelkorea/))
 * [Laravel Japan](http://laravel.jp/) ([Facebook group](https://www.facebook.com/groups/laravel.jp/))
-* [Laravel Tokyo](http://laravel.tokyo/) ([Facebook group](https://www.facebook.com/groups/laraveltokyo/))
+* [Laravel Tokyo](https://laravel.tokyo/) ([Facebook group](https://www.facebook.com/groups/laraveltokyo/))
 * [Laravel Malaysia](https://www.facebook.com/groups/laravel.my/)
 * [Laravel Algeria] (https://www.facebook.com/groups/LaravelAlgeria/)
 * [Laravel Greece](http://www.laravel.gr) ([Facebook page](https://www.facebook.com/laravelgr))
@@ -470,11 +466,11 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 ##### Meetups
 
-* [All Meetups](http://laravel.meetup.com/)
+* [All Meetups](http://www.meetup.com/topics/laravel/)
 * [London Meetup](https://www.meetup.com/London-Laravel/)
-* [Buenos Aires, Argentina Meetup](https://www.meetup.com/Laravel-Buenos-Aires)
-* [Morocco Meetup](https://www.meetup.com/moroccan-php-artisans/)
-* [Athens-Greece Meetup](https://www.meetup.com/athens-laravel-meetup)
+* [Buenos Aires, Argentina Meetup](https://www.meetup.com/Laravel-Buenos-Aires/)
+* [Morocco Meetup](https://www.meetup.com/moroccophp/)
+* [Athens-Greece Meetup](https://www.meetup.com/athens-laravel-meetup/)
 * [Copenhagen Meetup](https://www.meetup.com/Copenhagen-Laravel-Meetup/)
 * [Detroit Meetup](https://www.meetup.com/Laravel-Detroit/)
 
@@ -512,6 +508,6 @@ Found an awesome package, blog, video etc.? Send me a pull request!
 
 ## License
 
-[![CC BY 4.0](https://licensebuttons.net/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
+[![CC BY 4.0](https://licensebuttons.net/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
 
-Awesome Laravel is licensed under a  [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+Awesome Laravel is licensed under a  [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
