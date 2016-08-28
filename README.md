@@ -505,6 +505,7 @@ Found an awesome package, blog, video etc.? Send me a pull request!
 #### Guidelines
 
 * Please make an individual pull request for each suggestion
+* Make sure the Travis tests pass on your pull request
 * Use the following format for links: \[Resource\]\(URL\)
 * Want to suggest a package? Read the [Contribution Guide](https://github.com/chiraggude/awesome-laravel/blob/master/CONTRIBUTING.md)
 * New categories or improvements to the existing categorization are welcome
