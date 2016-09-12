@@ -238,6 +238,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * Install Laravel with Composer
  * [Windows](https://www.youtube.com/watch?v=m3D894qZKws)
  * [macOS or Linux](https://laracasts.com/lessons/laravel-installation-for-newbs)
+* [Laragon](https://laragon.org/) -  Isolated development environment on Windows
 
 ## Application Hosting
 
