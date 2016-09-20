@@ -372,6 +372,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Writing APIs With Lumen](https://leanpub.com/lumen-apis) by Paul Redmond
 * [The Laravel Survival Guide](https://leanpub.com/laravelsurvivalguide) by Tony Lea
 * [Laraboot: Laravel 5 For Beginners](https://leanpub.com/laravel-5-for-beginners-laraboot) by Bill Keck
+* [Laravel 5.3 For Beginners](https://leanpub.com/laravel-5-3-for-beginners) by Bill Keck
 
 ## Starter Projects
 
@@ -383,7 +384,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel API](https://github.com/joselfonseca/laravel-api)
 * [Laravel Angular AdminLTE](https://github.com/silverbux/laravel-angular-admin)
 * [Backpack for Laravel](https://backpackforlaravel.com)
-*[Starter Someline](https://starter.someline.com)
+* [Starter Someline](https://starter.someline.com)
 
 ## Codebases for Reference
 
