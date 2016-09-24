@@ -394,7 +394,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Invoice Ninja](https://github.com/invoiceninja/invoiceninja) - Invoicing, expenses, & time-tracking application
 * [Koel](https://github.com/phanan/koel) - Personal music streaming server
 * [Laravel Tricks](https://github.com/CodepadME/laravel-tricks) - Source for the Laravel Tricks website
-* [Laravel.IO](https://github.com/LaravelIO/laravel.io) - Source for the Laravel.io Community Portal
+* [Laravel.io](https://github.com/laravelio/laravel.io) - Source for the Laravel.io Community Portal
 * [Paperwork](https://github.com/twostairs/paperwork) - Note-taking & archiving application
 * [PHPHub](https://github.com/summerblue/phphub) - Forum and source for the PHP & Laravel China community
 * [Flarum](https://github.com/flarum/flarum) - Delightfully simple forum
