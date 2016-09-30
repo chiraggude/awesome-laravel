@@ -435,6 +435,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 ## Community
 
 * [Laracasts Forum](https://laracasts.com/discuss)
+* [Laravel.io Forum](http://laravel.io/forum)
 * [Larachat Slack](https://larachat.slack.com/) ([Signup](https://larachat.typeform.com/to/wqvupv))
 * [Gitter](https://gitter.im/laravel/laravel)
 * [IRC Channel](http://laravel.io/chat)
