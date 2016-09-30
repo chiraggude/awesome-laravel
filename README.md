@@ -406,6 +406,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Jigsaw](http://jigsaw.tighten.co) - Static site generator
 * [Canvas](https://github.com/austintoddj/Canvas) - Minimal Blogging Application For Developers.
 * [Vuedo](https://github.com/Vuedo/vuedo) - Vuedo is blog platform, built with Laravel and Vue.js
+* [Screeenly](https://github.com/stefanzweifel/screeenly) - Create website screenshots through an API
 
 ## Content Management Systems
 
