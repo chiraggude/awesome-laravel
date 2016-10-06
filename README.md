@@ -108,6 +108,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel Blade Javascript](https://github.com/spatie/laravel-blade-javascript) - A Blade directive to export variables to JavaScript
 * [Laravel Breadcrumbs](https://github.com/davejamesmiller/laravel-breadcrumbs) - Create and manage breadcrumbs
 * [Laravel Collection Macros](https://github.com/spatie/laravel-collection-macros) - A set of handy collection macros
+* [Laravel Cookie Consent](https://github.com/spatie/laravel-cookie-consent) - Make your Laravel app comply with the crazy EU cookie law
 * [Laravel Datatables](https://github.com/yajra/laravel-datatables) - jQuery DataTables API for Laravel 4|5
 * [Laravel Dot Env Generator](https://github.com/mathiasgrimm/laravel-dot-env-gen) - Generate .env.gen file based on the project source code
 * [Laravel Excel](https://github.com/Maatwebsite/Laravel-Excel) - Import and export Excel and CSV files
@@ -238,6 +239,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * Install Laravel with Composer
  * [Windows](https://www.youtube.com/watch?v=m3D894qZKws)
  * [macOS or Linux](https://laracasts.com/lessons/laravel-installation-for-newbs)
+* [Laragon](https://laragon.org/) -  Isolated development environment on Windows
 
 ## Application Hosting
 
@@ -371,17 +373,19 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Writing APIs With Lumen](https://leanpub.com/lumen-apis) by Paul Redmond
 * [The Laravel Survival Guide](https://leanpub.com/laravelsurvivalguide) by Tony Lea
 * [Laraboot: Laravel 5 For Beginners](https://leanpub.com/laravel-5-for-beginners-laraboot) by Bill Keck
+* [Laravel 5.3 For Beginners](https://leanpub.com/laravel-5-3-for-beginners) by Bill Keck
 
 ## Starter Projects
 
 * [Laracogs](https://github.com/yabhq/laracogs)
-* [Laravel 5.1 Boilerplate](https://github.com/rappasoft/laravel-5-boilerplate)
+* [Laravel 5.2 Boilerplate](https://github.com/rappasoft/laravel-5-boilerplate)
 * [Laravel 5 Angular Material Starter](https://github.com/jadjoubran/laravel5-angular-material-starter)
 * [Acacha adminlte-laravel](https://github.com/acacha/adminlte-laravel)
 * [Laravel Hackathon Starter](https://github.com/unicodeveloper/laravel-hackathon-starter)
 * [Laravel API](https://github.com/joselfonseca/laravel-api)
 * [Laravel Angular AdminLTE](https://github.com/silverbux/laravel-angular-admin)
 * [Backpack for Laravel](https://backpackforlaravel.com)
+* [Starter Someline](https://starter.someline.com)
 
 ## Codebases for Reference
 
@@ -391,7 +395,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Invoice Ninja](https://github.com/invoiceninja/invoiceninja) - Invoicing, expenses, & time-tracking application
 * [Koel](https://github.com/phanan/koel) - Personal music streaming server
 * [Laravel Tricks](https://github.com/CodepadME/laravel-tricks) - Source for the Laravel Tricks website
-* [Laravel.IO](https://github.com/LaravelIO/laravel.io) - Source for the Laravel.io Community Portal
+* [Laravel.io](https://github.com/laravelio/laravel.io) - Source for the Laravel.io Community Portal
 * [Paperwork](https://github.com/twostairs/paperwork) - Note-taking & archiving application
 * [PHPHub](https://github.com/summerblue/phphub) - Forum and source for the PHP & Laravel China community
 * [Flarum](https://github.com/flarum/flarum) - Delightfully simple forum
@@ -402,6 +406,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Jigsaw](http://jigsaw.tighten.co) - Static site generator
 * [Canvas](https://github.com/austintoddj/Canvas) - Minimal Blogging Application For Developers.
 * [Vuedo](https://github.com/Vuedo/vuedo) - Vuedo is blog platform, built with Laravel and Vue.js
+* [Screeenly](https://github.com/stefanzweifel/screeenly) - Create website screenshots through an API
 
 ## Content Management Systems
 
@@ -430,6 +435,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 ## Community
 
 * [Laracasts Forum](https://laracasts.com/discuss)
+* [Laravel.io Forum](http://laravel.io/forum)
 * [Larachat Slack](https://larachat.slack.com/) ([Signup](https://larachat.typeform.com/to/wqvupv))
 * [Gitter](https://gitter.im/laravel/laravel)
 * [IRC Channel](http://laravel.io/chat)
