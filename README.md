@@ -387,6 +387,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel Angular AdminLTE](https://github.com/silverbux/laravel-angular-admin)
 * [Backpack for Laravel](https://backpackforlaravel.com)
 * [Starter Someline](https://starter.someline.com)
+* [CrudBooster] (http://crudbooster.com)
 
 ## Codebases for Reference
 
