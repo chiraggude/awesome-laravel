@@ -331,6 +331,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 ##### Videos
 
+* [Laracon EU 2016](https://www.youtube.com/playlist?list=PLMdXHJK-lGoCMkOxqe82hOC8tgthqhHCN)
 * [Laracon US 2016](https://streamacon.com/video/laracon-us)
 * [Laracon EU 2015](https://www.youtube.com/playlist?list=PLMdXHJK-lGoA9SIsuFy0UWL8PZD1G3YFZ)
 * [Laracon EU 2014](http://laracon.eu/2014/#schedule)
