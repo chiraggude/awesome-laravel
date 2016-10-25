@@ -229,6 +229,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel Pusher](https://github.com/vinkla/laravel-pusher) - Pusher API bridge
 * [Laravel Pushwoosh](https://github.com/hoymultimedia/Laravel-Pushwoosh) - Pushwoosh API bridge
 * [Laravel Vimeo](https://github.com/vinkla/laravel-vimeo) - Vimeo API bridge
+* [VPS](https://github.com/iluminar/vps) - A laravel 5 package to easily create and maitain vps on digital ocean
 
 
 ## Development Setup
