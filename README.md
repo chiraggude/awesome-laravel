@@ -427,6 +427,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Microweber](https://microweber.com/)
 * [Coaster CMS](https://www.coastercms.org/)
 * [Statamic](https://statamic.com/)
+* [Quarx](https://github.com/YABhq/Quarx/)
 
 ## Newsletters
 
