@@ -481,6 +481,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Copenhagen Meetup](https://www.meetup.com/Copenhagen-Laravel-Meetup/)
 * [Detroit Meetup](https://www.meetup.com/Laravel-Detroit/)
 * [Paris Meetup](https://www.meetup.com/fr-FR/Paris-Laravel-Meetup/)
+* [Melbourne, Australia Meetup](https://www.meetup.com/Melbourne-laravel-Meetup/)
 
 ## Jobs
 
