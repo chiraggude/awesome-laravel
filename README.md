@@ -148,8 +148,6 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel-modules](https://github.com/nWidart/laravel-modules) - Easy Module Management In Laravel
 * [Charts](https://github.com/ConsoleTVs/Charts) - Create interactive charts with multiple charting libraries.
 
-
-
 ##### Working with Javascript
 
 * [Laroute](https://github.com/aaronlord/laroute) - Generate Laravel route URLs from JavaScript
