@@ -390,6 +390,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel Angular AdminLTE](https://github.com/silverbux/laravel-angular-admin)
 * [Backpack for Laravel](https://backpackforlaravel.com)
 * [Starter Someline](https://starter.someline.com)
+* [Voyager](https://the-control-group.github.io/voyager/)
 
 ## Codebases for Reference
 
