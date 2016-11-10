@@ -147,6 +147,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel Installer](https://github.com/RachidLaasri/LaravelInstaller) - Laravel package to allow users to install your application just by following the setup wizard, like WordPress
 * [Laravel Test Factory Generator](https://github.com/mpociot/laravel-test-factory-helper) - Generate Laravel test factories from your existing models
 * [Laravel-modules](https://github.com/nWidart/laravel-modules) - Easy Module Management In Laravel
+* [Charts](https://github.com/ConsoleTVs/Charts) - Create interactive charts with multiple charting libraries.
 
 ##### Working with Javascript
 
@@ -484,6 +485,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Copenhagen Meetup](https://www.meetup.com/Copenhagen-Laravel-Meetup/)
 * [Detroit Meetup](https://www.meetup.com/Laravel-Detroit/)
 * [Paris Meetup](https://www.meetup.com/fr-FR/Paris-Laravel-Meetup/)
+* [Melbourne, Australia Meetup](https://www.meetup.com/Melbourne-laravel-Meetup/)
 
 ## Jobs
 
