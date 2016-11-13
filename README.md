@@ -269,6 +269,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 * [Tuts+](http://code.tutsplus.com/categories/laravel)
 * [SitePoint](https://www.sitepoint.com/php/page/0/?filter[4047]=on)
+* [Medium](https://medium.com/tag/laravel/latest)
 * [Christopher Pitt](https://medium.com/laravel-4)
 * [Culttt](http://culttt.com/tag/cribbb/)
 * [Scotch](https://scotch.io/tag/laravel)
