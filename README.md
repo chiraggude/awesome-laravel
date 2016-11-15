@@ -397,6 +397,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Backpack for Laravel](https://backpackforlaravel.com)
 * [Starter Someline](https://starter.someline.com)
 * [Laravel-admin](https://github.com/z-song/laravel-admin)
+* [Voyager](https://the-control-group.github.io/voyager/)
 
 ## Codebases for Reference
 
