@@ -345,6 +345,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laracon US 2014](http://userscape.com/laracon/2014/)
 * [Laracon EU 2013](http://laracon.eu/2013/talks/)
 * [Laracon US 2013](https://www.youtube.com/playlist?list=PLkwAlZpjHQbLcox_S_AgGU24QUfKgXayN)
+* [Getting Started with Pusher and Laravel Echo](https://www.youtube.com/watch?v=Qoti7G-tjN8)
 
 ## Books
 
