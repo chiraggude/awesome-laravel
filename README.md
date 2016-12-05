@@ -434,6 +434,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Microweber](https://microweber.com/)
 * [Coaster CMS](https://www.coastercms.org/)
 * [Statamic](https://statamic.com/)
+* [Borgert CMS](https://github.com/odirleiborgert/borgert-cms/)
 
 ## Newsletters
 
