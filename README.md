@@ -217,6 +217,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel Date](https://github.com/jenssegers/date) - A library to help you work with dates in multiple languages, based on Carbon
 * [Laravel Langman](https://github.com/themsaid/laravel-langman) - Manage language files from Artisan Console
 * [Laravel Translation](https://github.com/waavi/translation) - Allow live edit/caching of translation entries, and localization of urls and Eloquent Model attributes.
+* [Laravel Translation Loader](https://github.com/spatie/laravel-translation-loader) - Store your translations in the database or other sources.
 
 ##### Third-party Service Integration
 
@@ -234,6 +235,9 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel Pusher](https://github.com/vinkla/laravel-pusher) - Pusher API bridge
 * [Laravel Pushwoosh](https://github.com/hoymultimedia/Laravel-Pushwoosh) - Pushwoosh API bridge
 * [Laravel Vimeo](https://github.com/vinkla/laravel-vimeo) - Vimeo API bridge
+* [VPS](https://github.com/iluminar/vps) - A laravel 5 package to easily create and maitain vps on digital ocean
+* [Fluent Facebook](https://github.com/iluminar/fluent-facebook) - A laravel 5 package for reading and writing to facebook graph object with ease in laravelish syntax
+* [Laravel Like & Comment](https://github.com/risul3/laravel-like-comment) - Ajax based site wide like and commenting system for laravel
 
 
 ## Development Setup
@@ -434,6 +438,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Microweber](https://microweber.com/)
 * [Coaster CMS](https://www.coastercms.org/)
 * [Statamic](https://statamic.com/)
+* [Quarx](https://github.com/YABhq/Quarx/)
 
 ## Newsletters
 
