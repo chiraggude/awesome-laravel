@@ -152,6 +152,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel Test Factory Generator](https://github.com/mpociot/laravel-test-factory-helper) - Generate Laravel test factories from your existing models
 * [Laravel-modules](https://github.com/nWidart/laravel-modules) - Easy Module Management In Laravel
 * [Charts](https://github.com/ConsoleTVs/Charts) - Create interactive charts with multiple charting libraries.
+* [Laravel social share cards](https://github.com/setkyar/laravel-social-share-cards) - Made a pretty appearance of your site easily on social networks.
 
 ##### Working with Javascript
 
