@@ -401,6 +401,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Starter Someline](https://starter.someline.com)
 * [Laravel-admin](https://github.com/z-song/laravel-admin)
 * [Voyager](https://the-control-group.github.io/voyager/)
+* [Laravel REST API Boilerplate](https://github.com/francescomalatesta/laravel-api-boilerplate-jwt)
 
 ## Codebases for Reference
 
