@@ -462,7 +462,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Quora](https://www.quora.com/topic/Laravel)
 * [Facebook](https://www.facebook.com/LaravelCommunity)
 * [LinkedIn](https://www.linkedin.com/groups/4419933/profile)
-* [Laraveles Slack](https://www.linkedin.com/groups/4419933/profilehttp://laraveles.com/blog/wp-login.php?action=slack-invitation)
+* [Laraveles Slack](https://laraveles.slack.com)
 
 ##### Local User Groups
 
