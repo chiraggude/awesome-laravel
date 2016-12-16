@@ -401,6 +401,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Starter Someline](https://starter.someline.com)
 * [Laravel-admin](https://github.com/z-song/laravel-admin)
 * [Voyager](https://the-control-group.github.io/voyager/)
+* [Laravel REST API Boilerplate](https://github.com/francescomalatesta/laravel-api-boilerplate-jwt)
 
 ## Codebases for Reference
 
@@ -482,6 +483,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel Greece](http://www.laravel.gr) ([Facebook page](https://www.facebook.com/laravelgr))
 * [Laravel Middle East](http://laravelme.com/) ([Facebook page](https://www.facebook.com/laravelme))
 * [Laravel Georgia](https://www.facebook.com/groups/laravel.georgia/)
+* [Laravel Italy](http://laravel-italia.it)
 
 ##### Meetups
 
