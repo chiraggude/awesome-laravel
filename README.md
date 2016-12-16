@@ -311,6 +311,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Codingo Tuts](https://tuts.codingo.me/category/web-development/laravel)
 * [Antonio Carlos Ribeiro](https://antoniocarlosribeiro.com/technology)
 * [Laravel Coding](http://laravelcoding.com/blog)
+* [Laraveles](http://laraveles.com/blog/) (ES)
 * [Styde](https://styde.net/cursos/) (ES)
 * [CodigoFacilito](https://codigofacilito.com/courses/laravel)(ES)
 * [Laravel Daily](http://laraveldaily.com/)
@@ -461,6 +462,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Quora](https://www.quora.com/topic/Laravel)
 * [Facebook](https://www.facebook.com/LaravelCommunity)
 * [LinkedIn](https://www.linkedin.com/groups/4419933/profile)
+* [Laraveles Slack](https://www.linkedin.com/groups/4419933/profilehttp://laraveles.com/blog/wp-login.php?action=slack-invitation)
 
 ##### Local User Groups
 
