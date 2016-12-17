@@ -402,6 +402,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel-admin](https://github.com/z-song/laravel-admin)
 * [Voyager](https://the-control-group.github.io/voyager/)
 * [Laravel REST API Boilerplate](https://github.com/francescomalatesta/laravel-api-boilerplate-jwt)
+* [WebEd CMS](https://github.com/sgsoft-studio/webed)
 
 ## Codebases for Reference
 
@@ -436,6 +437,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Coaster CMS](https://www.coastercms.org/)
 * [Statamic](https://statamic.com/)
 * [Quarx](https://github.com/yabhq/quarx)
+* [WebEd CMS](https://github.com/sgsoft-studio/webed)
 
 ## Newsletters
 
