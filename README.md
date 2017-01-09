@@ -404,6 +404,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Voyager](https://the-control-group.github.io/voyager/)
 * [Laravel REST API Boilerplate](https://github.com/francescomalatesta/laravel-api-boilerplate-jwt)
 * [WebEd CMS](https://github.com/sgsoft-studio/webed)
+* [Hello API](https://github.com/Porto-SAP/Hello-API) - A Starter providing everything to build a modern API, with PHP and Laravel
 
 ## Codebases for Reference
 
