@@ -440,6 +440,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Statamic](https://statamic.com/)
 * [Quarx](https://github.com/yabhq/quarx)
 * [WebEd CMS](https://github.com/sgsoft-studio/webed)
+* [Borgert CMS](https://github.com/odirleiborgert/borgert-cms/)
 
 ## Newsletters
 
