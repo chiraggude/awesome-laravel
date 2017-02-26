@@ -493,6 +493,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel Georgia](https://www.facebook.com/groups/laravel.georgia/)
 * [Laravel Italy](http://laravel-italia.it)
 * [Laravel Viet Nam](https://www.facebook.com/groups/vietnam.laravel/)
+* [Laravel Slovenia](https://www.facebook.com/groups/laravelslovenija/)
 
 ##### Meetups
 
