@@ -339,7 +339,8 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 ## Conferences
 
 * [Laracon US](http://laracon.us/)
-* [Laracon EU](http://laracon.eu/2016/)
+* [Laracon EU](http://laracon.eu/)
+* [Laracon Online](https://laracon.net/)
 
 ##### Videos
 
