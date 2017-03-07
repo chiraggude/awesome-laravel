@@ -495,6 +495,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel Italy](http://laravel-italia.it)
 * [Laravel Viet Nam](https://www.facebook.com/groups/vietnam.laravel/)
 * [Laravel Slovenia](https://www.facebook.com/groups/laravelslovenija/)
+* [Laravel Hungary](https://laravel.hu)
 
 ##### Meetups
 
@@ -507,6 +508,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Detroit Meetup](https://www.meetup.com/Laravel-Detroit/)
 * [Paris Meetup](https://www.meetup.com/fr-FR/Paris-Laravel-Meetup/)
 * [Melbourne, Australia Meetup](https://www.meetup.com/Melbourne-laravel-Meetup/)
+* [Budapest Meetup](https://www.meetup.com/Laravel-Hungary-Meetup/)
 
 ## Jobs
 
