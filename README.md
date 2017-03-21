@@ -155,6 +155,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel Test Factory Generator](https://github.com/mpociot/laravel-test-factory-helper) - Generate Laravel test factories from your existing models
 * [Laravel-modules](https://github.com/nWidart/laravel-modules) - Easy Module Management In Laravel
 * [Laravel Phone](https://github.com/Propaganistas/Laravel-Phone) - Phone number validator and formatter.
+* [Laravel Ban](https://github.com/cybercog/laravel-ban) - Laravel Ban simplify blocking and banning Eloquent models.
 
 ##### Working with Javascript
 
