@@ -200,6 +200,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Dispatcher](https://github.com/indatus/dispatcher) - Scheduler for Artisan commands
 * [Elixir](https://github.com/laravel/elixir) - Node(NPM) package to run Gulp tasks that watch files, run tests, minify CSS, concatenate scripts etc.
 * [Envoy](https://github.com/laravel/envoy) - SSH Task Runner
+* [Laravel MultiMix](https://github.com/fandogh/laravel-multimix) - Laravel-Mix helper for projects with complex & multi assets.
 
 ##### Payments
 
