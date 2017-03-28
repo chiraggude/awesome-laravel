@@ -411,6 +411,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Voyager](https://the-control-group.github.io/voyager/)
 * [Laravel REST API Boilerplate](https://github.com/francescomalatesta/laravel-api-boilerplate-jwt)
 * [Hello API](https://github.com/Porto-SAP/Hello-API)
+* [REST API With Lumen 5.4](https://github.com/hasib32/rest-api-with-lumen)
 
 ## Codebases for Reference
 
