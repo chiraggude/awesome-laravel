@@ -4,14 +4,13 @@ Contributions are welcome, and are accepted via pull requests. Please review the
 
 ## Must haves for Packages, Starter Projects, Codebases etc.
 
-- 100 stars on Github.
-- Support Laravel 5.2 or higher.
+- 200 stars on Github.
+- Support Laravel 5.1 LTS or higher.
 - Use [PSR-4](http://www.php-fig.org/psr/psr-4/) autoloader.
 - Packages must be listed on [Packagist](https://packagist.org/).
+- Packages must have also had 10,000 downloads.
 - Tests!
 - Utilize [Travis-CI](https://travis-ci.org/) or similar CI tools to automatically check coding standards and run tests.
-
-Note: These requirements are waived off for repos listed on Awesome Laravel (master) prior to 11th October, 2015
 
 ## Adding to the list of Popular Packages
 
