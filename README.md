@@ -454,6 +454,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [WebEd CMS](https://github.com/sgsoft-studio/webed)
 * [Borgert CMS](https://github.com/odirleiborgert/borgert-cms/)
 * [PJ Blog](https://github.com/jcc/blog/)
+* [Laralum](https://laralum.com/)
 
 ## Newsletters
 
