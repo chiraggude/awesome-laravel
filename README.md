@@ -522,7 +522,6 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 * [LaraJobs](https://larajobs.com/)
 * [Laravel Gurus](https://laravelgurus.com/)
-* [With Laravel](http://withlaravel.com/)
 
 ## Hosted Development Tools
 
