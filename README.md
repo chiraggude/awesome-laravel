@@ -253,9 +253,6 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Valet Linux](https://github.com/cpriego/valet-linux) - Development environment for Linux users
 * [LaraDock](https://github.com/LaraDock/laradock) - Run Laravel on Docker (Like Homestead but for Docker instead of Vagrant)
 * [LaraEdit Docker](https://github.com/laraedit/laraedit-docker) - Homestead environment in a single Docker container
-* Install Laravel with Composer
- * [Windows](https://www.youtube.com/watch?v=m3D894qZKws)
- * [macOS or Linux](https://laracasts.com/lessons/laravel-installation-for-newbs)
 * [Laragon](https://laragon.org/) -  Isolated development environment on Windows
 * [Stacker](https://maxlab.github.io/stacker/) - The environment for local web development on Docker.
 
