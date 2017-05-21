@@ -251,8 +251,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
   * [Installation on macOS and Linux](https://laracasts.com/series/laravel-5-from-scratch/episodes/3)
   * [Installation on  Windows](http://blog.teamtreehouse.com/laravel-homestead-on-windows)
 * [Valet](https://laravel.com/docs/5.3/valet/) - development environment for Mac minimalists
-* [Valet Linux](https://github.com/cpriego/valet-linux) - development environment for Linux minimalists.
-* [LaraDock](https://github.com/LaraDock/laradock) - Run Laravel on Docker (Like Homstead but for Docker instead of Vagrant).
+* [LaraDock](https://github.com/LaraDock/laradock) - Run Laravel on Docker (Like Homestead but for Docker instead of Vagrant).
 * [LaraEdit Docker](https://github.com/laraedit/laraedit-docker) - Homestead environment in a single Docker container.
 * Install Laravel with Composer
  * [Windows](https://www.youtube.com/watch?v=m3D894qZKws)
