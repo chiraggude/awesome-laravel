@@ -104,7 +104,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Eloquent Sluggable](https://github.com/cviebrock/eloquent-sluggable) - Create slugs for Eloquent models
 * [Eloquent Sortable](https://github.com/spatie/eloquent-sortable) - Sortable behaviour for Eloquent models
 * [Presenter](https://github.com/laracasts/Presenter) - Presenter for Models
-* [HTML](https://github.com/LaravelCollective/html) - Official HTML and Form Builders for Laravel
+* [HTML](https://github.com/LaravelCollective/html) - HTML and Form Builders for Laravel
 * [Hyn/multi-tenant](https://github.com/hyn/multi-tenant) - Flexible multi tenancy with secure separation of a.o. routes, assets and databases
 * [Laravel 5 form builder](https://github.com/kristijanhusak/laravel-form-builder) - Form builder for Laravel 5 inspired by Symfony's form builder.
 * [Intervention Image](https://github.com/Intervention/image) - Image handling library for creating, editing and composing images
@@ -125,6 +125,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel Markdown](https://github.com/GrahamCampbell/Laravel-Markdown) - CommonMark markdown parser
 * [Laravel MediaLibrary](https://github.com/spatie/laravel-medialibrary) - Associate files with Eloquent models
 * [Laravel Menu](https://github.com/spatie/laravel-menu) - Html menu generator for Laravel
+* [Laravel Talk](https://github.com/nahid/talk) - Realtime User messaging system
 * [Laravel Messenger](https://github.com/cmgmyr/laravel-messenger) - User messaging system
 * [Laravel Moderation](https://github.com/hootlex/laravel-moderation) - A simple Moderation System for Laravel 5.* that allows you to Approve or Reject resources like posts, comments, users, etc.
 * [Laravel Paginateroute](https://github.com/spatie/laravel-paginateroute) - Laravel router extension to easily use Laravel's paginator without the query string
@@ -210,6 +211,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Intervention Image Cache](https://github.com/Intervention/imagecache) - Caching extension for the Intervention Image Class
 * [Laravel HTMLMin](https://github.com/GrahamCampbell/Laravel-HTMLMin) - Blade/HTML/CSS/javascript minifier
 * [Rememberable](https://github.com/dwightwatson/rememberable) - Query caching for Laravel 5 (eloquent)
+* [Widgetize](https://github.com/imanghafoori1/laravel-widgetize) - Page Partial caching for Laravel 5
 
 ##### Localization
 
@@ -221,6 +223,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel Date](https://github.com/jenssegers/date) - A library to help you work with dates in multiple languages, based on Carbon
 * [Laravel Langman](https://github.com/themsaid/laravel-langman) - Manage language files from Artisan Console
 * [Laravel Translation](https://github.com/waavi/translation) - Allow live edit/caching of translation entries, and localization of urls and Eloquent Model attributes.
+* [Linguist](https://github.com/keevitaja/linguist) - i18n localization support for Laravel
 
 ##### Third-party Service Integration
 
@@ -246,9 +249,10 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
   * [Getting Started with Laravel Homestead](https://scotch.io/tutorials/getting-started-with-laravel-homestead)
   * [Installation on macOS and Linux](https://laracasts.com/series/laravel-5-from-scratch/episodes/3)
   * [Installation on  Windows](http://blog.teamtreehouse.com/laravel-homestead-on-windows)
-* [Valet](https://laravel.com/docs/5.3/valet/) - development environment for Mac minimalists
-* [LaraDock](https://github.com/LaraDock/laradock) - Run Laravel on Docker (Like Homstead but for Docker instead of Vagrant).
-* [LaraEdit Docker](https://github.com/laraedit/laraedit-docker) - Homestead environment in a single Docker container.
+* [Valet](https://laravel.com/docs/5.3/valet/) - Development environment for Mac users
+* [Valet Linux](https://github.com/cpriego/valet-linux) - Development environment for Linux users
+* [LaraDock](https://github.com/LaraDock/laradock) - Run Laravel on Docker (Like Homestead but for Docker instead of Vagrant)
+* [LaraEdit Docker](https://github.com/laraedit/laraedit-docker) - Homestead environment in a single Docker container
 * Install Laravel with Composer
  * [Windows](https://www.youtube.com/watch?v=m3D894qZKws)
  * [macOS or Linux](https://laracasts.com/lessons/laravel-installation-for-newbs)
@@ -339,6 +343,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Lynda](https://www.lynda.com/Laravel-training-tutorials/2779-0.html)
 * [Pluralsight](https://www.pluralsight.com/search?q=laravel&categories=course)
 * [Laracademy](https://laracademy.co/)
+* [Dev Marketer](https://www.youtube.com/channel/UC6kwT7-jjZHHF1s7vCfg2CA/playlists)
 
 ## Conferences
 
@@ -408,8 +413,10 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Starter Someline](https://starter.someline.com)
 * [Laravel-admin](https://github.com/z-song/laravel-admin)
 * [Voyager](https://the-control-group.github.io/voyager/)
+* [Orchid](https://github.com/TheOrchid/Platform)
 * [Laravel REST API Boilerplate](https://github.com/francescomalatesta/laravel-api-boilerplate-jwt)
 * [Hello API](https://github.com/Porto-SAP/Hello-API)
+* [REST API With Lumen 5.4](https://github.com/hasib32/rest-api-with-lumen)
 
 ## Codebases for Reference
 
@@ -447,8 +454,8 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Quarx](https://github.com/yabhq/quarx)
 * [WebEd CMS](https://github.com/sgsoft-studio/webed)
 * [Borgert CMS](https://github.com/odirleiborgert/borgert-cms/)
-* [WebEd CMS](https://github.com/sgsoft-studio/webed)
 * [PJ Blog](https://github.com/jcc/blog/)
+* [Laralum](https://laralum.com/)
 
 ## Newsletters
 
@@ -477,7 +484,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Facebook](https://www.facebook.com/LaravelCommunity)
 * [LinkedIn](https://www.linkedin.com/groups/4419933/profile)
 * [Laraveles Slack](https://laraveles.slack.com) ([Signup](http://laraveles.com/blog/wp-login.php?action=slack-invitation))
-
+* [Laravel UK](https://twitter.com/UKLaravel), [Slack Signup](http://laraveluk.signup.team)
 ##### Local User Groups
 
 * [Laravel Russia](https://laravel.ru/) ([VK group](http://m.vk.com/laravel_rus))
@@ -519,7 +526,6 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 * [LaraJobs](https://larajobs.com/)
 * [Laravel Gurus](https://laravelgurus.com/)
-* [With Laravel](http://withlaravel.com/)
 
 ## Hosted Development Tools
 
@@ -530,6 +536,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel Database Designer](http://biodesignrealworld.github.io/LaravelDatabaseDesigner/) - Graphical tool to create database schemas
 * [Laravel Model Generator Online](http://andressantibanez.com/laravel-model-generator/) - Make a laravel model online with migration code also generated
 * [StyleCI](https://styleci.io) - PHP Coding Style Service
+* [DependenCI](https://dependenci.miguelpiedrafita.com) - Continous ntegration tool for Composer
 
 ## Miscellaneous
 
@@ -552,3 +559,5 @@ Found an awesome package, blog, video etc.? Send me a pull request!
 [![CC BY 4.0](https://licensebuttons.net/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
 
 Awesome Laravel is licensed under a  [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+
+
