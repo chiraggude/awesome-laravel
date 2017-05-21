@@ -176,6 +176,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Migrations Generator](https://github.com/Xethron/migrations-generator) - Generate migrations from an existing database
 * [Sofa/Eloquence](https://github.com/jarektkaczyk/eloquence) - Extensions for the Eloquent ORM
 * [Tenanti](https://github.com/orchestral/tenanti) - Multi-tenant database schema manager
+* [Laravel Schema](https://github.com/thedevsaddam/laravel-schema) - Display the connected database information from Terminal
 * [Laravel Repository](https://github.com/andersao/l5-repository) - Repositories to abstract the database layer for Laravel 5
 
 ##### Search
