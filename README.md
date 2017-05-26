@@ -30,10 +30,10 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 ## Essentials
 
 * [Laravel](https://laravel.com)
-* [Laravel Documentation](https://laravel.com/docs/5.3)
+* [Laravel Documentation](https://laravel.com/docs)
 * [Laravel API Reference](https://laravel.com/api/master/)
 * [Lumen](https://lumen.laravel.com)
-* [Lumen Documentation](https://lumen.laravel.com/docs/5.2)
+* [Lumen Documentation](https://lumen.laravel.com/docs)
 * [Laracasts](https://laracasts.com)
 * [Laravel News](https://laravel-news.com)
 
