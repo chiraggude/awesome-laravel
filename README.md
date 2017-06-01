@@ -187,6 +187,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [SearchIndex](https://github.com/spatie/searchindex) - Store and retrieve objects from Algolia or Elasticsearch
 * [Searchable](https://github.com/nicolaslopezj/searchable) - Trait that adds a simple search function to Eloquent models
 * [TNTSearch](https://github.com/teamtnt/tntsearch) - A fully featured full text search engine written in PHP
+* [Elasticsearch Builder](https://github.com/basemkhirat/elasticsearch) - Laravel flexible elasticsearch query builder inspired from Eloquent
 
 ##### APIs
 
