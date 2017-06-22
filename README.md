@@ -77,9 +77,10 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel Tracy](https://github.com/recca0120/laravel-tracy) - A Laravel Package to integrate Nette Tracy Debugger
 * [Laravel API Tester](https://github.com/asvae/laravel-api-tester) - Postman-like tool with Laravel routes
 
-##### Authentication & Authorisation
+##### Authentication & Authorization
 
 * [Bouncer](https://github.com/JosephSilber/bouncer) - Roles & Permissions
+* [Laratrust](https://github.com/santigarcor/laratrust) - Roles, Permissions and teams
 * [Entrust](https://github.com/Zizaco/entrust) - Role-based Permissions
 * [JWT Auth](https://github.com/tymondesigns/jwt-auth) - JSON Web Token authentication for APIs
 * [Laravel Permission](https://github.com/spatie/laravel-permission) - Associate users with roles and permissions
