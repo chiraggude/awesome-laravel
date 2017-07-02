@@ -436,6 +436,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Canvas](https://github.com/austintoddj/Canvas) - Minimal Blogging Application For Developers.
 * [Vuedo](https://github.com/Vuedo/vuedo) - Vuedo is blog platform, built with Laravel and Vue.js
 * [Screeenly](https://github.com/stefanzweifel/screeenly) - Create website screenshots through an API
+* [Voten](https://github.com/voten-co/voten) - A real-time social bookmarking for the 21st century
 
 ## Content Management Systems
 
