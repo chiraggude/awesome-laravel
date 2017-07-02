@@ -416,6 +416,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel REST API Boilerplate](https://github.com/francescomalatesta/laravel-api-boilerplate-jwt)
 * [Hello API](https://github.com/Porto-SAP/Hello-API)
 * [REST API With Lumen 5.4](https://github.com/hasib32/rest-api-with-lumen)
+* [Laravel 5 Boilerplate with Gentelella Admin Theme](https://github.com/Labs64/laravel-boilerplate)
 
 ## Codebases for Reference
 
