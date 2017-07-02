@@ -416,13 +416,14 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel REST API Boilerplate](https://github.com/francescomalatesta/laravel-api-boilerplate-jwt)
 * [Hello API](https://github.com/Porto-SAP/Hello-API)
 * [REST API With Lumen 5.4](https://github.com/hasib32/rest-api-with-lumen)
+* [Laravel Zero - Console application](https://github.com/nunomaduro/laravel-zero)
 
 ## Codebases for Reference
 
 * [92Five](https://github.com/chintanbanugaria/92five) - Project management application
 * [Cachet](https://github.com/cachethq/Cachet) - Status page system for websites and APIs
 * [Deployer](https://github.com/REBELinBLUE/deployer) - Application deployment system
-* [GitScrum](https://github.com/renatomarinho/laravel-gitscrum) - Task management of the day-to-day. Git + Scrum = Team More Productive 
+* [GitScrum](https://github.com/renatomarinho/laravel-gitscrum) - Task management of the day-to-day. Git + Scrum = Team More Productive
 * [Invoice Ninja](https://github.com/invoiceninja/invoiceninja) - Invoicing, expenses, & time-tracking application
 * [Koel](https://github.com/phanan/koel) - Personal music streaming server
 * [Laravel Tricks](https://github.com/CodepadME/laravel-tricks) - Source for the Laravel Tricks website
