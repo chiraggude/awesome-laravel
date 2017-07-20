@@ -435,7 +435,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laramap](https://github.com/laramap/laramap.com) - Source of Laramap.com
 * [Attendize](https://github.com/Attendize/Attendize) - Ticket selling and event management platform
 * [Katana](https://github.com/themsaid/katana) - Static site/blog generator with markdown support
-* [Antvel](https://github.com/ant-vel/antVel) - Ecommerce platform
+* [Antvel](https://github.com/ant-vel/App) - Ecommerce platform
 * [Jigsaw](http://jigsaw.tighten.co) - Static site generator
 * [Canvas](https://github.com/austintoddj/Canvas) - Minimal Blogging Application For Developers.
 * [Vuedo](https://github.com/Vuedo/vuedo) - Vuedo is blog platform, built with Laravel and Vue.js
