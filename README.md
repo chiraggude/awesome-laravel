@@ -475,7 +475,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 * [Laracasts Forum](https://laracasts.com/discuss)
 * [Laravel.io Forum](http://laravel.io/forum)
-* [Larachat Slack](https://larachat.slack.com/) ([Signup](https://larachat.typeform.com/to/wqvupv))
+* [Larachat Slack](https://larachat.slack.com/) ([Signup](https://larachat.co/slack))
 * [Gitter](https://gitter.im/laravel/laravel)
 * [IRC Channel](http://laravel.io/chat)
 * [StackOverflow](http://stackoverflow.com/questions/tagged/laravel)
