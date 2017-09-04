@@ -417,7 +417,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel REST API Boilerplate](https://github.com/francescomalatesta/laravel-api-boilerplate-jwt)
 * [Hello API](https://github.com/Porto-SAP/Hello-API)
 * [REST API With Lumen 5.4](https://github.com/hasib32/rest-api-with-lumen)
-* [Laravel Zero - Console application](https://github.com/nunomaduro/laravel-zero)
+* [Laravel Zero - Console application](https://github.com/laravel-zero/laravel-zero)
 
 ## Codebases for Reference
 
