@@ -538,7 +538,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel Schema Designer](http://laravelsd.com/) - Create, export and share database schemas
 * [Laravel Database Designer](http://biodesignrealworld.github.io/LaravelDatabaseDesigner/) - Graphical tool to create database schemas
 * [StyleCI](https://styleci.io) - PHP Coding Style Service
-* [DependenCI](https://dependenci.miguelpiedrafita.com) - Continous ntegration tool for Composer
+* [DependenCI](https://dependenci.miguelpiedrafita.com) - Continous integration tool for Composer
 
 ## Miscellaneous
 
