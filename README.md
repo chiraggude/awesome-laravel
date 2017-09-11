@@ -217,7 +217,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Rememberable](https://github.com/dwightwatson/rememberable) - Query caching for Laravel 5 (eloquent)
 * [Widgetize](https://github.com/imanghafoori1/laravel-widgetize) - Page Partial caching for Laravel 5
 * [Widgets for Laravel](https://github.com/arrilot/laravel-widgets) - A powerful alternative to view composers. Asynchronous widgets, reloadable widgets, console generator, caching - everything you can think of.
-* [Larabel Blode Minify](https://github.com/renatomarinho/laravel-blade-minify) - Simple package to minify HTML output on demand which results on a 35%+ optimization.
+* [Laravel Blade Minify](https://github.com/renatomarinho/laravel-blade-minify) - Simple package to minify HTML output on demand which results on a 35%+ optimization.
 
 ##### Localization
 
