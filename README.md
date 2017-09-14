@@ -263,7 +263,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 ## Application Hosting
 
-* [Laravel](https://www.cloudways.com/en/laravel-hosting.php) - Provision optimized PHP servers on DigitalOcean, AWS, Vultr, GCE & KYUP Container.
+* [Cloudways](https://www.cloudways.com/en/laravel-hosting.php) - Launch optimized PHP servers on DigitalOcean, AWS, Vultr, GCE & KYUP Container.
 * [Forge](https://forge.laravel.com/) - Provision optimized PHP servers on Linode, DigitalOcean etc.
   * [Server Management with Forge](https://laracasts.com/series/server-management-with-forge) (Laracasts)
   * [Getting your first site up and running in Laravel Forge](https://mattstauffer.co/blog/getting-your-first-site-up-and-running-in-laravel-forge) (Matt Stauffer)
