@@ -545,6 +545,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 ## Miscellaneous
 
 * [CodeCanyon](https://codecanyon.net/tags/laravel?term=laravel) - Paid scripts and plugins
+* [Secure Headers](https://github.com/BePsvPT/secure-headers) - A package that add security related headers to HTTP response
 
 ## Contributing
 
