@@ -263,8 +263,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 ## Application Hosting
 
-* [Cloudways](https://www.cloudways.com/en/laravel-hosting.php) - Launch optimized PHP servers on DigitalOcean, AWS, Vultr, GCE & KYUP Container.
-* [Forge](https://forge.laravel.com/) - Provision optimized PHP servers on Linode, DigitalOcean etc.
+* [Forge](https://forge.laravel.com/)
   * [Server Management with Forge](https://laracasts.com/series/server-management-with-forge) (Laracasts)
   * [Getting your first site up and running in Laravel Forge](https://mattstauffer.co/blog/getting-your-first-site-up-and-running-in-laravel-forge) (Matt Stauffer)
   * [ForgeRecipes](http://forgerecipes.com/)
@@ -273,6 +272,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Heroku](https://www.heroku.com/) ([Tutorial](https://mattstauffer.co/blog/installing-a-laravel-app-on-heroku))
 * [IBM BlueMix](https://console.ng.bluemix.net/) ([Tutorial](https://developer.ibm.com/bluemix/2014/06/17/getting-started-laravel-bluemix/))
 * [AWS Elastic Beanstalk](https://aws.amazon.com/elasticbeanstalk/) ([Tutorial](http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/php-laravel-tutorial.html#php-laravel-tutorial-deploy))
+* [Cloudways](https://www.cloudways.com/en/laravel-hosting.php)
 
 ## Application Deployment
 
@@ -282,7 +282,6 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 ## Articles, Tutorials, Blogs etc.
 
-* [Cloudways Laravel Blog](http://cloudways.com/blog/laravel)
 * [Tuts+](http://code.tutsplus.com/categories/laravel)
 * [SitePoint](https://www.sitepoint.com/php/page/0/?filter[4047]=on)
 * [Medium](https://medium.com/tag/laravel/latest)
@@ -333,6 +332,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [ForLaravel](https://forlaravel.com/)
 * [Good Heads](http://goodheads.io/category/laravel/)
 * [Ryan Stelmat](http://ryanstelmat.com/tag/laravel/)
+* [Cloudways Laravel Blog](http://cloudways.com/blog/laravel)
 
 ## Videos
 
