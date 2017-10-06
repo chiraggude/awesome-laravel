@@ -263,6 +263,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 ## Application Hosting
 
+* [Cloudways](https://www.cloudways.com/en/laravel-hosting.php) - Launch optimized PHP servers on DigitalOcean, AWS, Vultr, GCE & KYUP Container.
 * [Forge](https://forge.laravel.com/) - Provision optimized PHP servers on Linode, DigitalOcean etc.
   * [Server Management with Forge](https://laracasts.com/series/server-management-with-forge) (Laracasts)
   * [Getting your first site up and running in Laravel Forge](https://mattstauffer.co/blog/getting-your-first-site-up-and-running-in-laravel-forge) (Matt Stauffer)
@@ -281,6 +282,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 ## Articles, Tutorials, Blogs etc.
 
+* [Cloudways Laravel Blog](http://cloudways.com/blog/laravel)
 * [Tuts+](http://code.tutsplus.com/categories/laravel)
 * [SitePoint](https://www.sitepoint.com/php/page/0/?filter[4047]=on)
 * [Medium](https://medium.com/tag/laravel/latest)
@@ -479,6 +481,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 ## Community
 
+* [Laracasts Forum](https://laracasts.com/discuss)
 * [Laracasts Forum](https://laracasts.com/discuss)
 * [Laravel.io Forum](http://laravel.io/forum)
 * [Larachat Slack](https://larachat.slack.com/) ([Signup](https://larachat.co/slack))
