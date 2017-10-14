@@ -94,6 +94,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Google2FA](https://github.com/antonioribeiro/google2fa) - Google Two-Factor Authentication Module
 * [Laravel User Verification](https://github.com/jrean/laravel-user-verification) - Handle the user verification flow and validate email
 * [Adldap2 Laravel](https://github.com/Adldap2/Adldap2-Laravel) - LDAP authentication and Active Directory management
+* [Doorman](https://github.com/clarkeash/doorman) - Limit access to your Laravel applications by using invite codes.
 
 ##### Utilities
 
