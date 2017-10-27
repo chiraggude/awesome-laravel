@@ -378,7 +378,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Antvel](https://github.com/ant-vel/antVel) - Ecommerce platform
 * [Jigsaw](http://jigsaw.tighten.co) - Static site generator
 * [Canvas](https://github.com/austintoddj/Canvas) - Minimal Blogging Application For Developers.
-* [Laravel Graphql] (https://github.com/ardani/laravel-graphql) - integrate graphql and graphiql with laravel
+* [Laravel Graphql](https://github.com/ardani/laravel-graphql) - Integrate graphql and graphiql with laravel
 
 ## Content Management Systems
 * [OctoberCMS](http://octobercms.com/) 
