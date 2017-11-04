@@ -206,6 +206,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Elixir](https://github.com/laravel/elixir) - Node(NPM) package to run Gulp tasks that watch files, run tests, minify CSS, concatenate scripts etc.
 * [Mix](https://github.com/JeffreyWay/laravel-mix) - Laravel Mix provides a clean, fluent API for defining basic webpack build steps for your Laravel application. Mix supports several common CSS and JavaScript pre-processors.
 * [Envoy](https://github.com/laravel/envoy) - SSH Task Runner
+* [Postman](https://github.com/agoalofalife/postman) - Schedule your sending mail on Laravel
 
 ##### Payments
 
