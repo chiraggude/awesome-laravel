@@ -444,7 +444,6 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Paperwork](https://github.com/twostairs/paperwork) - Note-taking & archiving application
 * [PHPHub](https://github.com/summerblue/phphub) - Forum and source for the PHP & Laravel China community
 * [Flarum](https://github.com/flarum/flarum) - Delightfully simple forum
-* [Laramap](https://github.com/laramap/laramap.com) - Source of Laramap.com
 * [Attendize](https://github.com/Attendize/Attendize) - Ticket selling and event management platform
 * [Katana](https://github.com/themsaid/katana) - Static site/blog generator with markdown support
 * [Antvel](https://github.com/ant-vel/App) - Ecommerce platform
