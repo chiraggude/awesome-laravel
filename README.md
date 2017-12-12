@@ -339,7 +339,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 ## Videos
 
 * [Laracasts](https://laracasts.com/)
-* [Coursecode](https://www.codecourse.com/) ([YouTube](https://www.youtube.com/user/phpacademy/playlists))
+* [Codecourse](https://www.codecourse.com/) ([YouTube](https://www.youtube.com/user/phpacademy/playlists))
 * [Tuts+](http://code.tutsplus.com/categories/laravel/courses)
 * [Udemy](https://www.udemy.com/courses/search/?q=laravel&lang=en)
 * [Treehouse](https://teamtreehouse.com/library/q:laravel)
