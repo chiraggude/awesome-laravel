@@ -429,6 +429,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Hello API](https://github.com/Porto-SAP/Hello-API)
 * [REST API With Lumen 5.4](https://github.com/hasib32/rest-api-with-lumen)
 * [Laravel Zero - Console application](https://github.com/laravel-zero/laravel-zero)
+* [Apiato - A framework for building scalable API-Centric Applications with PHP.](https://github.com/apiato/apiato)
 
 ## Codebases for Reference
 
