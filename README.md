@@ -209,7 +209,6 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 * [Cashier](https://github.com/laravel/cashier) - Subscription billing with Stripe
 * [Omnipay for Laravel](https://github.com/ignited/laravel-omnipay) - Integrate the [Omnipay](https://github.com/thephpleague/omnipay) PHP library
-* [2C2P Payment](https://github.com/PHPJunior/laravel-2c2p) - 2C2P One Stop Payment Services for Laravel
 
 ##### Optimization
 
