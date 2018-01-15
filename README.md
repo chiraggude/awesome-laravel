@@ -166,6 +166,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [PHP Vars to JavaScript Transformer](https://github.com/laracasts/PHP-Vars-To-Js-Transformer) - Pass server-side string/array/collection/whatever to JavaScript
 * [Javascript Validation](https://github.com/proengsoft/laravel-jsvalidation) - Use validation rules, messages, FormRequest and validators to validate forms in client side without need to write any Javascript code
 * [ziggy](https://github.com/tightenco/ziggy) - Use your Laravel named routes in JavaScript
+* [laravel-blade-javascript](https://github.com/spatie/laravel-blade-javascript) - A Blade directive to export variables to JavaScript
 
 ##### Databases, ORMs, Migrations & Seeding
 
@@ -221,6 +222,8 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Rememberable](https://github.com/dwightwatson/rememberable) - Query caching for Laravel 5 (eloquent)
 * [Widgetize](https://github.com/imanghafoori1/laravel-widgetize) - Page Partial caching for Laravel 5
 * [Widgets for Laravel](https://github.com/arrilot/laravel-widgets) - A powerful alternative to view composers. Asynchronous widgets, reloadable widgets, console generator, caching - everything you can think of.
+* [laravel-page-speed](https://github.com/renatomarinho/laravel-page-speed) - Package to optimize your site automatically which results in a 35%+ optimization
+* [lada-cache](https://github.com/spiritix/lada-cache) - A Redis based, fully automated and scalable database cache layer for Laravel 5.1+
 
 ##### Localization
 
