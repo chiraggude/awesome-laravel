@@ -165,6 +165,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laroute](https://github.com/aaronlord/laroute) - Generate Laravel route URLs from JavaScript
 * [PHP Vars to JavaScript Transformer](https://github.com/laracasts/PHP-Vars-To-Js-Transformer) - Pass server-side string/array/collection/whatever to JavaScript
 * [Javascript Validation](https://github.com/proengsoft/laravel-jsvalidation) - Use validation rules, messages, FormRequest and validators to validate forms in client side without need to write any Javascript code
+* [ziggy](https://github.com/tightenco/ziggy) - Use your Laravel named routes in JavaScript
 
 ##### Databases, ORMs, Migrations & Seeding
 
@@ -199,6 +200,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel CORS](https://github.com/barryvdh/laravel-cors) - Add CORS (Cross-Origin Resource Sharing) headers support
 * [Laravel Fractal](https://github.com/spatie/laravel-fractal) - Output complex, flexible, AJAX/RESTful data structures with Fractal in Laravel and Lumen
 * [Laravel GraphQL](https://github.com/Folkloreatelier/laravel-graphql) - Facebook GraphQL for Laravel 5. It supports Relay, eloquent models, validation and GraphiQL.
+* [Laravel Responder](https://github.com/flugger/laravel-responder) - A Laravel Fractal package for building API responses, giving you the power of Fractal with Laravel's elegancy.
 
 ##### Tasks, Commands and Scheduling
 
@@ -339,7 +341,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 ## Videos
 
 * [Laracasts](https://laracasts.com/)
-* [Coursecode](https://www.codecourse.com/) ([YouTube](https://www.youtube.com/user/phpacademy/playlists))
+* [Codecourse](https://www.codecourse.com/) ([YouTube](https://www.youtube.com/user/phpacademy/playlists))
 * [Tuts+](http://code.tutsplus.com/categories/laravel/courses)
 * [Udemy](https://www.udemy.com/courses/search/?q=laravel&lang=en)
 * [Treehouse](https://teamtreehouse.com/library/q:laravel)
@@ -428,6 +430,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Hello API](https://github.com/Porto-SAP/Hello-API)
 * [REST API With Lumen 5.4](https://github.com/hasib32/rest-api-with-lumen)
 * [Laravel Zero - Console application](https://github.com/laravel-zero/laravel-zero)
+* [Apiato - A framework for building scalable API-Centric Applications with PHP.](https://github.com/apiato/apiato)
 
 ## Codebases for Reference
 
@@ -442,7 +445,6 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Paperwork](https://github.com/twostairs/paperwork) - Note-taking & archiving application
 * [PHPHub](https://github.com/summerblue/phphub) - Forum and source for the PHP & Laravel China community
 * [Flarum](https://github.com/flarum/flarum) - Delightfully simple forum
-* [Laramap](https://github.com/laramap/laramap.com) - Source of Laramap.com
 * [Attendize](https://github.com/Attendize/Attendize) - Ticket selling and event management platform
 * [Katana](https://github.com/themsaid/katana) - Static site/blog generator with markdown support
 * [Antvel](https://github.com/ant-vel/App) - Ecommerce platform
