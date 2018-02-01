@@ -285,7 +285,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
  * [Deployments with Envoyer](https://laracasts.com/series/envoyer) (Laracasts)
 * [Rocketeer](https://github.com/rocketeers/rocketeer) - Task runner and deployment package
 
-## Desktop Appications
+## Desktop Applications
 
 * [Laravel Kit](https://github.com/tarequemdhanif/laravel-kit) - Execute Laravel artisan commands with a nice GUI application
 
