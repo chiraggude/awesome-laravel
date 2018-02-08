@@ -337,6 +337,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Good Heads](http://goodheads.io/category/laravel/)
 * [Ryan Stelmat](http://ryanstelmat.com/tag/laravel/)
 * [Cloudways Laravel Blog](http://cloudways.com/blog/laravel)
+* [Snipcart](https://snipcart.com/blog/laravel-ecommerce-tutorial-pyrocms-demo)
 
 ## Videos
 
@@ -500,6 +501,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [LinkedIn](https://www.linkedin.com/groups/4419933/profile)
 * [Laraveles Slack](https://laraveles.slack.com) ([Signup](http://laraveles.com/blog/wp-login.php?action=slack-invitation))
 * [Laravel UK](https://twitter.com/UKLaravel), [Slack Signup](http://laraveluk.signup.team)
+
 ##### Local User Groups
 
 * [Laravel Russia](https://laravel.ru/) ([VK group](http://m.vk.com/laravel_rus))
