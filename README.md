@@ -159,6 +159,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel Phone](https://github.com/Propaganistas/Laravel-Phone) - Phone number validator and formatter.
 * [Laravel Ban](https://github.com/cybercog/laravel-ban) - Laravel Ban simplify blocking and banning Eloquent models.
 * [Laravel Proxy](https://github.com/fideloper/TrustedProxy) - Laravel Proxy Package for handling sessions when behind load balancers or other intermediaries.
+* [Laravel Oh Generators](https://github.com/Mombuyish/Laravel-Oh-Generators) - Easily generate service, repository, presenter, transformer, formatter and foundation
 
 ##### Working with Javascript
 
