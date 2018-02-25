@@ -337,6 +337,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Good Heads](http://goodheads.io/category/laravel/)
 * [Ryan Stelmat](http://ryanstelmat.com/tag/laravel/)
 * [Cloudways Laravel Blog](http://cloudways.com/blog/laravel)
+* [Laravel Best Practices](https://github.com/alexeymezenin/laravel-best-practices)
 
 ## Videos
 
