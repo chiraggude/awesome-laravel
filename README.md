@@ -251,6 +251,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel Pusher](https://github.com/vinkla/laravel-pusher) - Pusher API bridge
 * [Laravel Pushwoosh](https://github.com/hoymultimedia/Laravel-Pushwoosh) - Pushwoosh API bridge
 * [Laravel Vimeo](https://github.com/vinkla/laravel-vimeo) - Vimeo API bridge
+* [Laravel Hackerearth](https://github.com/ankitjain28may/hackerearth-api) - Laravel HackerEarth Code Checker API 
 
 
 ## Development Setup
