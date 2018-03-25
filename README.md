@@ -7,12 +7,12 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 ## Table of Contents
 
 - [Essentials](#essentials)
-- [Code Snippets](#code-snippets)
 - [Packages](#packages)
 - [Popular Packages](#popular-packages)
 - [Development Setup](#development-setup)
 - [Application Hosting](#application-hosting)
 - [Application Deployment](#application-deployment)
+- [Code Snippets](#code-snippets)
 - [Articles, Tutorials, Blogs, etc.](#articles-tutorials-blogs-etc)
 - [Videos](#videos)
 - [Conferences](#conferences)
@@ -28,18 +28,11 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 ## Essentials
 
-* [Laravel](https://laravel.com)
-* [Laravel Documentation](https://laravel.com/docs)
+* [Laravel](https://laravel.com) ([Documentation](https://laravel.com/docs))
 * [Laravel API Reference](https://laravel.com/api/master/)
-* [Lumen](https://lumen.laravel.com)
-* [Lumen Documentation](https://lumen.laravel.com/docs)
+* [Lumen](https://lumen.laravel.com) ([Lumen Documentation](https://lumen.laravel.com/docs))
 * [Laracasts](https://laracasts.com)
 * [Laravel News](https://laravel-news.com) ([archive](https://laravel-news.com/archive/))
-
-## Code Snippets
-
-* [Laravel LTS Cheat Sheet ](https://summerblue.github.io/laravel5-cheatsheet/) ([Chinese version](https://cs.phphub.org/))
-* [Laravel Tricks](http://laravel-tricks.com/)
 
 ## Packages
 
@@ -263,6 +256,11 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Envoyer](https://envoyer.io/) - Zero down-time Deployer for PHP & Laravel projects
 * [Rocketeer](https://github.com/rocketeers/rocketeer) - Task runner and deployment package
 
+## Code Snippets
+
+* [Laravel LTS Cheat Sheet ](https://summerblue.github.io/laravel5-cheatsheet/) ([Chinese version](https://cs.phphub.org/))
+* [Laravel Tricks](http://laravel-tricks.com/)
+
 ## Articles, Tutorials, Blogs etc.
 
 * [Tuts+](https://code.tutsplus.com/categories/laravel)
@@ -396,7 +394,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 * [Cachet](https://github.com/cachethq/Cachet) - Status page system for websites and APIs
 * [Deployer](https://github.com/REBELinBLUE/deployer) - Application deployment system
-* [GitScrum](https://github.com/renatomarinho/laravel-gitscrum) - Task management of the day-to-day. Git + Scrum = Team More Productive
+* [GitScrum](https://github.com/renatomarinho/laravel-gitscrum) - Task management with Git and Scrum
 * [Invoice Ninja](https://github.com/invoiceninja/invoiceninja) - Invoicing, expenses, & time-tracking application
 * [Koel](https://github.com/phanan/koel) - Personal music streaming server
 * [Laravel.io](https://github.com/laravelio/portal) - Source for the Laravel.io Community Portal
@@ -407,6 +405,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Vuedo](https://github.com/Vuedo/vuedo) - Vuedo is blog platform, built with Laravel and Vue.js
 * [Screeenly](https://github.com/stefanzweifel/screeenly) - Create website screenshots through an API
 * [Voten](https://github.com/voten-co/voten) - A real-time social bookmarking for the 21st century
+* [Monica](https://github.com/monicahq/monica) - Personal relationship management system
 
 ## Content Management Systems
 
