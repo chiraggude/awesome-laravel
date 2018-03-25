@@ -312,8 +312,9 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 * [Laracon US](http://laracon.us/)
 * [Laracon EU](http://laracon.eu/)
-* [Laraconf Brasil](http://laraconfbrasil.com.br/)
 * [Laracon Online](https://laracon.net/)
+* [Laraconf Brasil](http://laraconfbrasil.com.br/)
+* [Laracon Australia](https://laracon.com.au/)
 
 ##### Videos
 
