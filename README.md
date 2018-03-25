@@ -210,6 +210,14 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Mix](https://github.com/JeffreyWay/laravel-mix) - Laravel Mix provides a clean, fluent API for defining basic webpack build steps for your Laravel application. Mix supports several common CSS and JavaScript pre-processors.
 * [Envoy](https://github.com/laravel/envoy) - SSH Task Runner
 
+##### Queues and messaging brokers
+
+* [Laravel AMQP](https://github.com/fhteam/laravel-amqp) - AMQP driver for Laravel queue
+* [Laravel Kafka](https://github.com/rapideinternet/laravel-queue-kafka) - Kafka queue driver
+* [Laravel Kafka pubsub adapter](https://github.com/Superbalist/php-pubsub-kafka) - Kafka adapter for the php-pubsub
+* [Laravel IronMQ](https://github.com/LaravelCollective/iron-queue) - IronMQ Driver For Laravel Queue
+* [Laravel MNS Queue](https://github.com/lokielse/laravel-mns) - MNS Queue Driver For Laravel
+
 ##### Payments
 
 * [Cashier](https://github.com/laravel/cashier) - Subscription billing with Stripe
