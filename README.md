@@ -297,6 +297,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Codecourse](https://www.codecourse.com/) ([YouTube](https://www.youtube.com/user/phpacademy/playlists))
 * [Tuts+](http://code.tutsplus.com/categories/laravel/courses)
 * [Servers for Hackers](https://serversforhackers.com/laravel-perf)
+* [Test-Driven Laravel](https://course.testdrivenlaravel.com/)
 * [Duilio Palacios](https://www.youtube.com/user/silencedsg/videos) (ES)
 * [CodigoFacilito](https://codigofacilito.com/courses/laravel) (ES)
 * [DevDojo](https://devdojo.com/search?value=laravel)
@@ -362,8 +363,13 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Writing APIs With Lumen](https://leanpub.com/lumen-apis) by Paul Redmond
 * [The Laravel Survival Guide](https://leanpub.com/laravelsurvivalguide) by Tony Lea
 * [Laraboot: Laravel 5 For Beginners](https://leanpub.com/laravel-5-for-beginners-laraboot) by Bill Keck
-* [Laravel 5.3 For Beginners](https://leanpub.com/laravel-5-3-for-beginners) by Bill Keck
-* [Laravel Up & Running](https://laravelupandrunning.com/)
+* [Laravel 5.4 For Beginners](https://leanpub.com/laravel-5-4-for-beginners) by Bill Keck
+* [Laravel Up & Running](https://www.amazon.com/gp/product/1491936088) by Matt Stauffer
+* [Laravel Companion](https://leanpub.com/laravelcompanion-secondedition) by Johnathon Koster
+* [Deploy Laravel on AWS with CloudFormation](https://leanpub.com/laravel-aws) by Lionel Martin
+* [React Native and Laravel for Future Mobile Development](https://leanpub.com/rn_laravel) by Ega Radiegtya
+* [Servers for Hackers](https://book.serversforhackers.com) by Chris Fidao
+* [Full-Stack Vue.js 2 and Laravel 5](https://www.amazon.com/Full-Stack-Vue-js-Laravel-frontend-together/dp/1788299582) by Anthony Gore
 
 ## Starter Projects
 
