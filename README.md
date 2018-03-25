@@ -20,7 +20,6 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 - [Starter Projects](#starter-projects)
 - [Codebases for Reference](#codebases-for-reference)
 - [Content Management Systems](#content-management-systems)
-- [Newsletters](#newsletters)
 - [Podcasts](#podcasts)
 - [Community](#community)
 - [Jobs](#jobs)
@@ -35,20 +34,18 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Lumen](https://lumen.laravel.com)
 * [Lumen Documentation](https://lumen.laravel.com/docs)
 * [Laracasts](https://laracasts.com)
-* [Laravel News](https://laravel-news.com)
+* [Laravel News](https://laravel-news.com) ([archive](https://laravel-news.com/archive/))
 
 ## Code Snippets
 
 * [Laravel 5.1 LTS Cheat Sheet ](https://summerblue.github.io/laravel5-cheatsheet/) ([Chinese version](https://cs.phphub.org/))
 * [Laravel Tricks](http://laravel-tricks.com/)
-* [Laravel Recipes](http://laravel-recipes.com/)
 
 ## Packages
 
 * [Packagist](https://packagist.org/)
 * [Laravel Collective](https://laravelcollective.com/)
 * [Packalyst](http://packalyst.com/)
-* [Cartalyst](https://cartalyst.com/)
 * [Spatie](https://spatie.be/en/opensource/laravel)
 
 ## Popular Packages
@@ -271,21 +268,16 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 ## Application Hosting
 
-* [Forge](https://forge.laravel.com/)
-  * [Server Management with Forge](https://laracasts.com/series/server-management-with-forge) (Laracasts)
-  * [Getting your first site up and running in Laravel Forge](https://mattstauffer.co/blog/getting-your-first-site-up-and-running-in-laravel-forge) (Matt Stauffer)
-  * [ForgeRecipes](http://forgerecipes.com/)
-* [FortRabbit](https://www.fortrabbit.com/laravel-hosting) ([Video](https://laracasts.com/lessons/from-zero-to-deploy-with-fortrabbit))
+* [Forge](https://forge.laravel.com/) ([ForgeRecipes](http://forgerecipes.com/))
+* [FortRabbit](https://www.fortrabbit.com/laravel-hosting)
 * [PagodaBox](https://pagodabox.io/) ([Documentation](https://pagodabox.io/docs/framework_laravel))
-* [Heroku](https://www.heroku.com/) ([Tutorial](https://mattstauffer.co/blog/installing-a-laravel-app-on-heroku))
-* [IBM BlueMix](https://console.ng.bluemix.net/) ([Tutorial](https://developer.ibm.com/bluemix/2014/06/17/getting-started-laravel-bluemix/))
-* [AWS Elastic Beanstalk](https://aws.amazon.com/elasticbeanstalk/) ([Tutorial](http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/php-laravel-tutorial.html#php-laravel-tutorial-deploy))
+* [Heroku](https://www.heroku.com/) ([Docs](https://devcenter.heroku.com/articles/getting-started-with-laravel))
+* [AWS Elastic Beanstalk](https://aws.amazon.com/elasticbeanstalk/) ([Tutorial](http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/php-laravel-tutorial.html))
 * [Cloudways](https://www.cloudways.com/en/laravel-hosting.php)
 
 ## Application Deployment
 
 * [Envoyer](https://envoyer.io/) - Zero down-time Deployer for PHP & Laravel projects
- * [Deployments with Envoyer](https://laracasts.com/series/envoyer) (Laracasts)
 * [Rocketeer](https://github.com/rocketeers/rocketeer) - Task runner and deployment package
 
 ## Articles, Tutorials, Blogs etc.
@@ -349,12 +341,11 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laracasts](https://laracasts.com/)
 * [Codecourse](https://www.codecourse.com/) ([YouTube](https://www.youtube.com/user/phpacademy/playlists))
 * [Tuts+](http://code.tutsplus.com/categories/laravel/courses)
-* [Udemy](https://www.udemy.com/courses/search/?q=laravel&lang=en)
-* [Treehouse](https://teamtreehouse.com/library/q:laravel)
+* [Udemy](https://www.udemy.com/courses/search/?q=laravel)
 * [Duilio Palacios](https://www.youtube.com/user/silencedsg/videos)
 * [DevDojo](https://devdojo.com/search?value=laravel)
 * [Amitav Roy](https://www.youtube.com/channel/UC4gijXR8cM4gmEt9Olse-TQ/videos)
-* [Lynda](https://www.lynda.com/Laravel-training-tutorials/2779-0.html)
+* [Lynda](https://www.lynda.com/search?q=laravel)
 * [Pluralsight](https://www.pluralsight.com/search?q=laravel&categories=course)
 * [Laracademy](https://laracademy.co/)
 * [Dev Marketer](https://www.youtube.com/channel/UC6kwT7-jjZHHF1s7vCfg2CA/playlists)
@@ -419,42 +410,35 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 ## Starter Projects
 
-* [LaraAdmin](http://laraadmin.com/)
-* [Laracogs](https://github.com/yabhq/laracogs)
-* [Laravel 5.2 Boilerplate](https://github.com/rappasoft/laravel-5-boilerplate)
-* [Laravel 5 Angular Material Starter](https://github.com/jadjoubran/laravel5-angular-material-starter)
-* [Acacha adminlte-laravel](https://github.com/acacha/adminlte-laravel)
+* [LaraAdmin](https://github.com/dwijitsolutions/laraadmin)
+* [Grafite Builder](https://github.com/GrafiteInc/Builder)
+* [Laravel Boilerplate](https://github.com/rappasoft/laravel-5-boilerplate)
+* [Laravel Angular Material Starter](https://github.com/jadjoubran/laravel5-angular-material-starter)
+* [AdminLTE Laravel](https://github.com/acacha/adminlte-laravel)
 * [Laravel Hackathon Starter](https://github.com/unicodeveloper/laravel-hackathon-starter)
-* [Laravel API](https://github.com/joselfonseca/laravel-api)
-* [Laravel Angular AdminLTE](https://github.com/silverbux/laravel-angular-admin)
-* [Backpack for Laravel](https://backpackforlaravel.com)
-* [Starter Someline](https://starter.someline.com)
-* [Laravel-admin](https://github.com/z-song/laravel-admin)
-* [Voyager](https://the-control-group.github.io/voyager/)
+* [Laravel API Starter Kit](https://github.com/joselfonseca/laravel-api)
+* [Backpack for Laravel](https://github.com/Laravel-Backpack/Base)
+* [SomelineStarter](https://github.com/someline/someline-starter)
+* [Laravel Admin](https://github.com/z-song/laravel-admin)
+* [Voyager](https://github.com/the-control-group/voyager)
 * [Orchid](https://github.com/TheOrchid/Platform)
 * [Laravel REST API Boilerplate](https://github.com/francescomalatesta/laravel-api-boilerplate-jwt)
 * [Hello API](https://github.com/Porto-SAP/Hello-API)
 * [REST API With Lumen 5.4](https://github.com/hasib32/rest-api-with-lumen)
 * [Laravel Zero - Console application](https://github.com/laravel-zero/laravel-zero)
-* [Apiato - A framework for building scalable API-Centric Applications with PHP.](https://github.com/apiato/apiato)
+* [Apiato](https://github.com/apiato/apiato)
 
 ## Codebases for Reference
 
-* [92Five](https://github.com/chintanbanugaria/92five) - Project management application
 * [Cachet](https://github.com/cachethq/Cachet) - Status page system for websites and APIs
 * [Deployer](https://github.com/REBELinBLUE/deployer) - Application deployment system
 * [GitScrum](https://github.com/renatomarinho/laravel-gitscrum) - Task management of the day-to-day. Git + Scrum = Team More Productive
 * [Invoice Ninja](https://github.com/invoiceninja/invoiceninja) - Invoicing, expenses, & time-tracking application
 * [Koel](https://github.com/phanan/koel) - Personal music streaming server
-* [Laravel Tricks](https://github.com/CodepadME/laravel-tricks) - Source for the Laravel Tricks website
-* [Laravel.io](https://github.com/laravelio/laravel.io) - Source for the Laravel.io Community Portal
-* [Paperwork](https://github.com/twostairs/paperwork) - Note-taking & archiving application
-* [PHPHub](https://github.com/summerblue/phphub) - Forum and source for the PHP & Laravel China community
-* [Flarum](https://github.com/flarum/flarum) - Delightfully simple forum
+* [Laravel.io](https://github.com/laravelio/portal) - Source for the Laravel.io Community Portal
 * [Attendize](https://github.com/Attendize/Attendize) - Ticket selling and event management platform
-* [Katana](https://github.com/themsaid/katana) - Static site/blog generator with markdown support
 * [Antvel](https://github.com/ant-vel/App) - Ecommerce platform
-* [Jigsaw](http://jigsaw.tighten.co) - Static site generator
+* [Jigsaw](https://github.com/tightenco/jigsaw) - Static site generator
 * [Canvas](https://github.com/austintoddj/Canvas) - Minimal Blogging Application For Developers.
 * [Vuedo](https://github.com/Vuedo/vuedo) - Vuedo is blog platform, built with Laravel and Vue.js
 * [Screeenly](https://github.com/stefanzweifel/screeenly) - Create website screenshots through an API
@@ -462,24 +446,18 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 ## Content Management Systems
 
-* [OctoberCMS](http://octobercms.com/)
-* [PyroCMS](https://www.pyrocms.com/)
-* [Lavalite](http://www.lavalite.org/)
-* [Bootstrap CMS](https://github.com/BootstrapCMS/CMS)
+* [OctoberCMS](https://github.com/octobercms/october)
+* [PyroCMS](https://github.com/pyrocms/pyrocms)
+* [Lavalite](https://github.com/LavaLite/cms)
 * [TypiCMS](https://github.com/typicms/base)
-* [Asgard CMS](https://asgardcms.com/)
-* [Microweber](https://microweber.com/)
-* [Coaster CMS](https://www.coastercms.org/)
+* [Asgard CMS](https://github.com/AsgardCms/Platform)
+* [Microweber](https://github.com/microweber/microweber)
+* [Coaster CMS](https://github.com/web-feet/coastercms)
 * [Statamic](https://statamic.com/)
-* [Quarx](https://github.com/yabhq/quarx)
+* [Grafite CMS](https://github.com/GrafiteInc/CMS)
 * [Borgert CMS](https://github.com/odirleiborgert/borgert-cms/)
 * [PJ Blog](https://github.com/jcc/blog/)
-* [Laralum](https://laralum.com/)
-
-## Newsletters
-
-* [Laravel News](https://laravel-news.com/) ([archive](https://laravel-news.com/archive/))
-* [Laravel Weekly](http://laravelweekly.com/)
+* [Laralum](https://github.com/Laralum/Laralum)
 
 ## Podcasts
 
@@ -551,9 +529,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 * [Laravel Shift](https://laravelshift.com/) - Automated upgrade tool for Laravel projects
 * [Laravel Versions {x.y.z}](https://laraver.xyz/) - Monitor Laravel for updates
-* [Laragen](http://makzumi.com/laragen/) - View generator
 * [Laravel Schema Designer](http://laravelsd.com/) - Create, export and share database schemas
-* [Laravel Database Designer](http://biodesignrealworld.github.io/LaravelDatabaseDesigner/) - Graphical tool to create database schemas
 * [StyleCI](https://styleci.io) - PHP Coding Style Service
 * [DependenCI](https://dependenci.miguelpiedrafita.com) - Continous integration tool for Composer
 
