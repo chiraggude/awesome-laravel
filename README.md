@@ -30,9 +30,9 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 * [Laravel](https://laravel.com) ([Documentation](https://laravel.com/docs))
 * [Laravel API Reference](https://laravel.com/api/master/)
-* [Lumen](https://lumen.laravel.com) ([Lumen Documentation](https://lumen.laravel.com/docs))
+* [Lumen](https://lumen.laravel.com) ([Documentation](https://lumen.laravel.com/docs))
 * [Laracasts](https://laracasts.com)
-* [Laravel News](https://laravel-news.com) ([archive](https://laravel-news.com/archive/))
+* [Laravel News](https://laravel-news.com) ([Archive](https://laravel-news.com/archive/))
 
 ## Packages
 
@@ -247,7 +247,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Forge](https://forge.laravel.com/) ([ForgeRecipes](http://forgerecipes.com/))
 * [FortRabbit](https://www.fortrabbit.com/laravel-hosting)
 * [PagodaBox](https://pagodabox.io/) ([Documentation](https://pagodabox.io/docs/framework_laravel))
-* [Heroku](https://www.heroku.com/) ([Docs](https://devcenter.heroku.com/articles/getting-started-with-laravel))
+* [Heroku](https://www.heroku.com/) ([Documentation](https://devcenter.heroku.com/articles/getting-started-with-laravel))
 * [AWS Elastic Beanstalk](https://aws.amazon.com/elasticbeanstalk/) ([Tutorial](http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/php-laravel-tutorial.html))
 * [Cloudways](https://www.cloudways.com/en/laravel-hosting.php)
 
@@ -313,6 +313,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laracon Online](https://laracon.net/)
 * [Laraconf Brasil](http://laraconfbrasil.com.br/)
 * [Laracon Australia](https://laracon.com.au/)
+* [Laravel Live](https://laravellive.uk/)
 
 ##### Videos
 
