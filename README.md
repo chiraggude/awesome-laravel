@@ -272,6 +272,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 ## Articles, Tutorials, Blogs etc.
 
 * [Tuts+](https://code.tutsplus.com/categories/laravel)
+* [Programming Community Curated Resources For Learning Vue](https://hackr.io/tutorials/learn-vue-js)
 * [SitePoint](https://www.sitepoint.com/php/page/0/?filter[4047]=on)
 * [Medium](https://medium.com/tag/laravel/latest)
 * [Scotch](https://scotch.io/tag/laravel)
