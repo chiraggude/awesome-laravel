@@ -296,6 +296,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Cloudways Laravel Blog](http://cloudways.com/blog/laravel)
 * [Laravel Best Practices](https://github.com/alexeymezenin/laravel-best-practices)
 * [KernelDev](https://www.kerneldev.com/category/web-development/laravel/)
+* [Josip Crnkovic](https://crnkovic.me)
 
 ## Videos
 
