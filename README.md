@@ -404,6 +404,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [REST API With Lumen](https://github.com/hasib32/rest-api-with-lumen)
 * [Laravel Zero - Console application](https://github.com/laravel-zero/laravel-zero)
 * [Apiato](https://github.com/apiato/apiato)
+* [Laravel Adminpanel - A Laravel 5 Adminpanel](https://github.com/viralsolani/laravel-adminpanel)
 
 ## Codebases for Reference
 
