@@ -316,6 +316,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Udemy](https://www.udemy.com/courses/search/?q=laravel)
 * [Lynda](https://www.lynda.com/search?q=laravel)
 * [Pluralsight](https://www.pluralsight.com/search?q=laravel&categories=course)
+* [Bitfumes](https://www.youtube.com/bitfumes)
 
 ## Conferences
 
