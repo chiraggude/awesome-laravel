@@ -135,6 +135,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel Proxy](https://github.com/fideloper/TrustedProxy) - Handling sessions when behind load balancers or other intermediaries.
 * [Laravel Video Chat](https://github.com/PHPJunior/laravel-video-chat) - Video Chat using Socket.IO and WebRTC
 * [Widgets for Laravel](https://github.com/arrilot/laravel-widgets) - A powerful alternative to view composers.
+* [Laravel Feature](https://github.com/francescomalatesta/laravel-feature) - An easy to use package for feature flagging.
 
 ##### Media & Document Management
 
