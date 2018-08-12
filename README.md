@@ -423,6 +423,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Voten](https://github.com/voten-co/voten) - A real-time social bookmarking for the 21st century
 * [Monica](https://github.com/monicahq/monica) - Personal relationship management system
 * [Snipe-IT](https://github.com/snipe/snipe-it) - IT asset/license management system
+* [Akaunting](https://github.com/akaunting/akaunting) - Accounting software for small businesses and freelancers
 
 ## Content Management Systems
 
