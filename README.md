@@ -92,9 +92,8 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Artisan View](https://github.com/svenluijten/artisan-view) - Manage the views in Laravel projects via artisan
 * [Bootstrapper](https://github.com/patricktalmadge/bootstrapper/) - Set of classes to create Bootstrap 3 markup
 * [Captcha](https://github.com/mewebstudio/captcha) - An anti-bot image captcha system
-* [Charts](https://github.com/ConsoleTVs/Charts) - Multi-library chart package to create interactive charts.
-* [Datatable](https://github.com/Chumper/Datatable) - Server-side and client-side integration for jQuery Datatables plugin
-* [Eloquent Filter](https://github.com/Tucker-Eric/EloquentFilter) - Filter models and their Rrelationships
+* [Charts](https://github.com/ConsoleTVs/Charts) - Multi-library chart package to create interactive charts
+* [Eloquent Filter](https://github.com/Tucker-Eric/EloquentFilter) - Filter models and their Relationships
 * [Eloquent Sluggable](https://github.com/cviebrock/eloquent-sluggable) - Create slugs for Eloquent models
 * [Eloquent Sortable](https://github.com/spatie/eloquent-sortable) - Sortable behaviour for Eloquent models
 * [HTML](https://github.com/LaravelCollective/html) - HTML and Form Builders for Laravel
@@ -249,6 +248,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laragon](https://laragon.org/) -  Isolated development environment on Windows
 * [Stacker](https://github.com/Maxlab/stacker) - The environment for local web development on Docker
 * [Devilbox](https://github.com/cytopia/devilbox) - A dockerized and general-purpose LAMP/MEAN stack for every PHP version
+* [Vessel](https://vessel.shippingdocker.com) - Simple Docker development environments for Laravel.
 
 ## Application Hosting
 
@@ -258,6 +258,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Heroku](https://www.heroku.com/) ([Documentation](https://devcenter.heroku.com/articles/getting-started-with-laravel))
 * [AWS Elastic Beanstalk](https://aws.amazon.com/elasticbeanstalk/) ([Tutorial](http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/php-laravel-tutorial.html))
 * [Cloudways](https://www.cloudways.com/en/laravel-hosting.php)
+* [Ploi](https://ploi.io/)
 
 ## Application Deployment
 
@@ -296,7 +297,8 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Cloudways Laravel Blog](http://cloudways.com/blog/laravel)
 * [Laravel Best Practices](https://github.com/alexeymezenin/laravel-best-practices)
 * [KernelDev](https://www.kerneldev.com/category/web-development/laravel/)
-* [Josip Crnkovic](https://crnkovic.me)
+* [Pusher Laravel Tutorials](https://pusher.com/tutorials?tag=Laravel)
+* [Josip Crnkovic](https://crnkovic.me/tag/laravel/)
 
 ## Videos
 
@@ -459,6 +461,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 ##### Local User Groups
 
+* [Laravel Global Community](https://www.facebook.com/groups/group.laravel/)
 * [Laravel Russia](https://laravel.ru/) ([VK group](http://m.vk.com/laravel_rus))
 * [Laravel France](https://laravel.fr/)
 * [Laravel Indonesia](http://id-laravel.com/) ([Facebook group](https://www.facebook.com/groups/laravel/))
