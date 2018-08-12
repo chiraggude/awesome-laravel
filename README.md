@@ -420,6 +420,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Screeenly](https://github.com/stefanzweifel/screeenly) - Create website screenshots through an API
 * [Voten](https://github.com/voten-co/voten) - A real-time social bookmarking for the 21st century
 * [Monica](https://github.com/monicahq/monica) - Personal relationship management system
+* [Snipe-IT](https://github.com/snipe/snipe-it) - IT asset/license management system
 
 ## Content Management Systems
 
