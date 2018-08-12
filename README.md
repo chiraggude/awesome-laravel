@@ -496,13 +496,12 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 * [All Meetups](http://www.meetup.com/topics/laravel/)
 * [London Meetup](https://www.meetup.com/London-Laravel/)
-* [Buenos Aires, Argentina Meetup](https://www.meetup.com/Laravel-Buenos-Aires/)
-* [Morocco Meetup](https://www.meetup.com/moroccophp/)
+* [Buenos Aires Meetup](https://www.meetup.com/Laravel-Buenos-Aires/)
 * [Athens-Greece Meetup](https://www.meetup.com/athens-laravel-meetup/)
 * [Copenhagen Meetup](https://www.meetup.com/Copenhagen-Laravel-Meetup/)
 * [Detroit Meetup](https://www.meetup.com/Laravel-Detroit/)
 * [Paris Meetup](https://www.meetup.com/fr-FR/Paris-Laravel-Meetup/)
-* [Melbourne, Australia Meetup](https://www.meetup.com/Melbourne-laravel-Meetup/)
+* [Melbourne Meetup](https://www.meetup.com/Melbourne-laravel-Meetup/)
 * [Budapest Meetup](https://www.meetup.com/Laravel-Hungary-Meetup/)
 
 ## Jobs
