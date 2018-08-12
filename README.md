@@ -274,7 +274,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 ## Articles, Tutorials, Blogs etc.
 
 * [Tuts+](https://code.tutsplus.com/categories/laravel)
-* [SitePoint](https://www.sitepoint.com/php/page/0/?filter[4047]=on)
+* [SitePoint](https://www.sitepoint.com/php/laravel-php/)
 * [Medium](https://medium.com/tag/laravel/latest)
 * [Scotch](https://scotch.io/tag/laravel)
 * [Taylor Otwell](http://taylorotwell.com/)
