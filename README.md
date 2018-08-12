@@ -324,7 +324,8 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laracon Online](https://laracon.net/)
 * [Laraconf Brasil](http://laraconfbrasil.com.br/)
 * [Laracon Australia](https://laracon.com.au/)
-* [Laravel Live](https://laravellive.uk/)
+* [Laravel Live UK](https://laravellive.uk/)
+* [Laravel Live India](http://laravellive.in/)
 
 ##### Videos
 
