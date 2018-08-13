@@ -430,6 +430,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 ## Content Management Systems
 
 * [OctoberCMS](https://github.com/octobercms/october)
+* [SleepingOwlAdmin](https://github.com/LaravelRUS/SleepingOwlAdmin)
 * [PyroCMS](https://github.com/pyrocms/pyrocms)
 * [Lavalite](https://github.com/LavaLite/cms)
 * [TypiCMS](https://github.com/typicms/base)
