@@ -407,7 +407,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel Zero - Console application](https://github.com/laravel-zero/laravel-zero)
 * [Apiato](https://github.com/apiato/apiato)
 * [Laravel Adminpanel - A Laravel 5 Adminpanel](https://github.com/viralsolani/laravel-adminpanel)
-* [Craftable](https://github.com/BRACKETS-by-TRIAD/craftable) - An administration starter kit for Laravel.
+* [Craftable](https://github.com/BRACKETS-by-TRIAD/craftable)
 
 ## Codebases for Reference
 
