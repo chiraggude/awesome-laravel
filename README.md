@@ -141,6 +141,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 ##### Media & Document Management
 
 * [Intervention Image](https://github.com/Intervention/image) - Image handling library for creating, editing and composing images
+* [Laravel ImageUp](https://github.com/qcod/laravel-imageup) - Yet another image manipulation package, adds tons of extra functionality
 * [Laravel Glide](https://github.com/spatie/laravel-glide) - Easily convert images with Glide
 * [Laravel MediaLibrary](https://github.com/spatie/laravel-medialibrary) - Associate files with Eloquent models
 * [Laravel Snappy](https://github.com/barryvdh/laravel-snappy) - HTML to PDF generator using wkhtmltopdf
