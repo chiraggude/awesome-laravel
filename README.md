@@ -254,9 +254,8 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 ## Application Hosting
 
-* [Forge](https://forge.laravel.com/) ([ForgeRecipes](http://forgerecipes.com/))
+* [Forge](https://forge.laravel.com/) ([ForgeRecipes](https://forgerecipes.com/))
 * [FortRabbit](https://www.fortrabbit.com/laravel-hosting)
-* [PagodaBox](https://pagodabox.io/) ([Documentation](https://pagodabox.io/docs/framework_laravel))
 * [Heroku](https://www.heroku.com/) ([Documentation](https://devcenter.heroku.com/articles/getting-started-with-laravel))
 * [AWS Elastic Beanstalk](https://aws.amazon.com/elasticbeanstalk/) ([Tutorial](http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/php-laravel-tutorial.html))
 * [Cloudways](https://www.cloudways.com/en/laravel-hosting.php)
