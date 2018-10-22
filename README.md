@@ -24,6 +24,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 - [Community](#community)
 - [Jobs](#jobs)
 - [Hosted Development Tools](#hosted-development-tools)
+- [Other Laravel projects awesome list](#other-laravel-projects-awesome-list)
 - [Miscellaneous](#miscellaneous)
 
 ## Essentials
@@ -523,6 +524,10 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel Schema Designer](http://laravelsd.com/) - Create, export and share database schemas
 * [StyleCI](https://styleci.io) - PHP Coding Style Service
 * [DependenCI](https://dependenci.miguelpiedrafita.com) - Continous integration tool for Composer
+
+## Other Laravel projects Awesome list
+* [Awesome Laravel Zero](https://github.com/laravel-zero/awesome-laravel-zero/)
+* [Awesome Laravel Spark](https://github.com/jpmurray/awesome-spark)
 
 ## Miscellaneous
 
