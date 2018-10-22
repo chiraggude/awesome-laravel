@@ -180,6 +180,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 ##### Search
 
 * [Algolia Search](https://github.com/algolia/algoliasearch-laravel) - Integrates the Algolia Search API to the Laravel Eloquent ORM
+* [Scout Extended](https://github.com/algolia/scout-extended) - Extends [Laravel Scout](https://github.com/laravel/scout) adding algolia-specific features
 * [Elasticquent](https://github.com/elasticquent/Elasticquent) - Elasticsearch for Eloquent models
 * [Plastic](https://github.com/sleimanx2/plastic) - Fluently mapping and searching Elasticsearch
 * [Laravel Search](https://github.com/mmanos/laravel-search) - Unified API for Elasticsearch, Algolia, and ZendSearch
