@@ -72,6 +72,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel Terminal](https://github.com/recca0120/laravel-terminal) - run artisan in a web browser
 * [Laravel API Tester](https://github.com/asvae/laravel-api-tester) - Postman-like tool with Laravel routes
 * [Laravel Tail](https://github.com/spatie/laravel-tail) - The missing tail command
+* [Larvel Telescope](https://github.com/laravel/telescope) - Laravel Telescope is an elegant debug assistant for the Laravel framework
 
 ##### Authentication & Authorization
 
@@ -138,6 +139,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel Proxy](https://github.com/fideloper/TrustedProxy) - Handling sessions when behind load balancers or other intermediaries.
 * [Laravel Video Chat](https://github.com/PHPJunior/laravel-video-chat) - Video Chat using Socket.IO and WebRTC
 * [Widgets for Laravel](https://github.com/arrilot/laravel-widgets) - A powerful alternative to view composers.
+* [Laravel Nova](https://nova.laravel.com/) - Nova is a beautifully designed administration panel for Laravel
 
 ##### Media & Document Management
 
