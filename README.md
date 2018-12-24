@@ -71,6 +71,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel Tracy](https://github.com/recca0120/laravel-tracy) - A Laravel Package to integrate Nette Tracy Debugger
 * [Laravel Terminal](https://github.com/recca0120/laravel-terminal) - run artisan in a web browser
 * [Laravel API Tester](https://github.com/asvae/laravel-api-tester) - Postman-like tool with Laravel routes
+* [Laravel API Docs](https://github.com/harlekoy/apidocs) - Swagger replacement tool built with VueJS & built for Laravel
 * [Laravel Tail](https://github.com/spatie/laravel-tail) - The missing tail command
 
 ##### Authentication & Authorization
