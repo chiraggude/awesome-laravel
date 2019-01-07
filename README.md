@@ -101,6 +101,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Eloquent Sortable](https://github.com/spatie/eloquent-sortable) - Sortable behaviour for Eloquent models
 * [HTML](https://github.com/LaravelCollective/html) - HTML and Form Builders for Laravel
 * [Multi-tenant](https://github.com/hyn/multi-tenant) - Flexible multi tenancy with secure separation of routes, assets and databases
+* [Form Builder for Bootstrap 4](https://github.com/netojose/laravel-bootstrap-4-forms) - Form builder with output markup Bootatrap 4 compatible
 * [Laravel Form Builder](https://github.com/kristijanhusak/laravel-form-builder) - Form builder inspired by Symfony's form builder
 * [Laravel Activitylog](https://github.com/spatie/laravel-activitylog) - Log activity inside your Laravel app
 * [Laravel Auditing](https://github.com/owen-it/laravel-auditing) - Audit for Eloquent models
