@@ -217,12 +217,13 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Rememberable](https://github.com/dwightwatson/rememberable) - Query caching for Eloquent
 * [Widgetize](https://github.com/imanghafoori1/laravel-widgetize) - Page Partial caching
 * [Laravel Responsecache](https://github.com/spatie/laravel-responsecache) - Speed up app by caching the entire response
+* [Laravel Output Press](https://github.com/vrkansagara/LaraOutPress) - Speed up app by caching the entire response
 
 ##### Monitoring
 
 * [Horizon](https://github.com/laravel/horizon) - Monitor and configure queues with a simple web UI
 * [Laravel Failed Job Monitor](https://github.com/spatie/laravel-failed-job-monitor) - Get notified when a queued job fails
-* [Laravel Uptime Monitor](https://github.com/spatie/laravel-uptime-monitor) - A powerful and easy to configure uptime and ssl monitor
+* [Laravel Uptime Monitor](https://github.com/spatie/laravel-uptime-monitor) - This will compress html out before sending to the browser.
 
 ##### Localization
 
