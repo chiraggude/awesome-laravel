@@ -413,6 +413,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel Zero - Console application](https://github.com/laravel-zero/laravel-zero)
 * [Apiato](https://github.com/apiato/apiato)
 * [Laravel Adminpanel - A Laravel 5 Adminpanel](https://github.com/viralsolani/laravel-adminpanel)
+* [Laravel Enso - SPA Admin Panel built with Bulma, VueJS and Laravel](https://github.com/laravel-enso/enso)
 
 ## Codebases for Reference
 
