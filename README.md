@@ -117,8 +117,6 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel Talk](https://github.com/nahid/talk) - Realtime User messaging system
 * [Laravel Messenger](https://github.com/cmgmyr/laravel-messenger) - User messaging system
 * [Laravel Moderation](https://github.com/hootlex/laravel-moderation) - Approve or reject resources like posts, comments, users, etc.
-* [Laravel Paginateroute](https://github.com/spatie/laravel-paginateroute) - Use Laravel's paginator without the query string
-* [Laravel URL Signer](https://github.com/spatie/laravel-url-signer) - Create and validate signed URLs with a limited lifetime
 * [Laravel Tags](https://github.com/spatie/laravel-tags) - Add tags and taggable behaviour
 * [Laravel Stats Tracker](https://github.com/antonioribeiro/tracker) - Gather information from requests to identify and store
 * [Listify](https://github.com/lookitsatravis/listify) - Add sorting/ordering capabilities to any Eloquent model
@@ -140,6 +138,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel Video Chat](https://github.com/PHPJunior/laravel-video-chat) - Video Chat using Socket.IO and WebRTC
 * [Widgets for Laravel](https://github.com/arrilot/laravel-widgets) - A powerful alternative to view composers.
 * [Laravel Nova](https://nova.laravel.com/) - Nova is a beautifully designed administration panel for Laravel
+* [Laravel Love](https://github.com/cybercog/laravel-love) - It lets people express how they feel about the content. React on Eloquent models with Likes or Dislikes.
 
 ##### Media & Document Management
 
@@ -178,6 +177,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Tenanti](https://github.com/orchestral/tenanti) - Multi-tenant database schema manager
 * [Laravel Repository](https://github.com/andersao/l5-repository) - Repositories to abstract the database layer
 * [Lada Cache](https://github.com/spiritix/lada-cache) - A Redis based, fully automated and scalable database cache layer
+* [Laravel MySQL Spatial extension](https://github.com/grimzy/laravel-mysql-spatial) - easily work with MySQL Spatial Data Types and MySQL Spatial Functions
 
 ##### Search
 
@@ -268,6 +268,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Cloudways](https://www.cloudways.com/en/laravel-hosting.php)
 * [Ploi](https://ploi.io/)
 * [CodePier](https://codepier.io?ref=awesome-laravel)
+* [RunCloud](https://runcloud.io/)
 
 ## Application Deployment
 
@@ -414,6 +415,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel Zero - Console application](https://github.com/laravel-zero/laravel-zero)
 * [Apiato](https://github.com/apiato/apiato)
 * [Laravel Adminpanel - A Laravel 5 Adminpanel](https://github.com/viralsolani/laravel-adminpanel)
+* [Laravel Enso - SPA Admin Panel built with Bulma, VueJS and Laravel](https://github.com/laravel-enso/enso)
 
 ## Codebases for Reference
 
