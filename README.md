@@ -536,6 +536,8 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [CodeCanyon](https://codecanyon.net/tags/laravel?term=laravel) - Paid scripts and plugins
 * [Laravel Collections](https://laravelcollections.com) - Every Laravel Developers Goto Resource Site
 * [LaravelLinks](https://telegram.me/laravellinks) - A Telegram Channel dedicated to sharing great Laravel Resources
+* [Awesome Laravel Zero](https://github.com/laravel-zero/awesome-laravel-zero/)
+* [Awesome Laravel Spark](https://github.com/jpmurray/awesome-spark)
 
 ## Contributing
 
