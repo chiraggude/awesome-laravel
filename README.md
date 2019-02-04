@@ -537,6 +537,10 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel Collections](https://laravelcollections.com) - Every Laravel Developers Goto Resource Site
 * [LaravelLinks](https://telegram.me/laravellinks) - A Telegram Channel dedicated to sharing great Laravel Resources
 
+## Cache
+
+* [PerfectlyCache](https://github.com/whthT/perfectly-cache) - Laravel eloquent cache.
+
 ## Contributing
 
 Found an awesome package, blog, course or video? Send me a pull request!
