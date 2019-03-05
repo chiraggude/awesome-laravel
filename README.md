@@ -438,6 +438,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Monica](https://github.com/monicahq/monica) - Personal relationship management system
 * [Snipe-IT](https://github.com/snipe/snipe-it) - IT asset/license management system
 * [Akaunting](https://github.com/akaunting/akaunting) - Accounting software for small businesses and freelancers
+* [Pixelfed](https://github.com/pixelfed/pixelfed) - A free and ethical photo sharing platform, powered by ActivityPub federation
 
 ## Content Management Systems
 
