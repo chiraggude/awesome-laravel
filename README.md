@@ -311,6 +311,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [KernelDev](https://www.kerneldev.com/category/web-development/laravel/)
 * [Pusher Laravel Tutorials](https://pusher.com/tutorials?tag=Laravel)
 * [Josip Crnkovic](https://crnkovic.me/tag/laravel/)
+* [Amit Merchant](https://www.amitmerchant.com/)
 
 ## Videos
 
