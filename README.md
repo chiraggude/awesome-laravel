@@ -221,6 +221,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Rememberable](https://github.com/dwightwatson/rememberable) - Query caching for Eloquent
 * [Widgetize](https://github.com/imanghafoori1/laravel-widgetize) - Page Partial caching
 * [Laravel Responsecache](https://github.com/spatie/laravel-responsecache) - Speed up app by caching the entire response
+* [PerfectlyCache](https://github.com/whthT/perfectly-cache) - Laravel eloquent cache.
 
 ##### Monitoring
 
@@ -536,10 +537,6 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [CodeCanyon](https://codecanyon.net/tags/laravel?term=laravel) - Paid scripts and plugins
 * [Laravel Collections](https://laravelcollections.com) - Every Laravel Developers Goto Resource Site
 * [LaravelLinks](https://telegram.me/laravellinks) - A Telegram Channel dedicated to sharing great Laravel Resources
-
-## Cache
-
-* [PerfectlyCache](https://github.com/whthT/perfectly-cache) - Laravel eloquent cache.
 
 ## Contributing
 
