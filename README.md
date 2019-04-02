@@ -311,6 +311,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [KernelDev](https://www.kerneldev.com/category/web-development/laravel/)
 * [Pusher Laravel Tutorials](https://pusher.com/tutorials?tag=Laravel)
 * [Josip Crnkovic](https://crnkovic.me/tag/laravel/)
+* [Bootsity](https://bootsity.com)
 
 ## Videos
 
@@ -329,6 +330,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Lynda](https://www.lynda.com/search?q=laravel)
 * [Pluralsight](https://www.pluralsight.com/search?q=laravel&categories=course)
 * [Bitfumes](https://www.youtube.com/bitfumes)
+* [Bootsity](https://www.youtube.com/bootsity)
 
 ## Conferences
 
