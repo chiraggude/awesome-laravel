@@ -253,7 +253,6 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 * [Homestead](https://laravel.com/docs/master/homestead) - Official Vagrant box for Laravel
 * [Valet](https://laravel.com/docs/master/valet) - Development environment for Mac users
-* [Valet Linux](https://github.com/cpriego/valet-linux) - Development environment for Linux users
 * [LaraDock](https://github.com/LaraDock/laradock) - Run Laravel on Docker (Like Homestead but for Docker instead of Vagrant)
 * [LaraEdit Docker](https://github.com/laraedit/laraedit-docker) - Homestead environment in a single Docker container
 * [Laragon](https://laragon.org/) -  Isolated development environment on Windows
