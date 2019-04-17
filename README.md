@@ -421,7 +421,6 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel Enso - SPA Admin Panel built with Bulma, VueJS and Laravel](https://github.com/laravel-enso/enso)
 * [Laravel React Boilerplate](https://github.com/PJijin/Laravel-React-Starter)
 
-
 ## Codebases for Reference
 
 * [Cachet](https://github.com/cachethq/Cachet) - Status page system for websites and APIs
