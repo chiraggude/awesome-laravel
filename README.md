@@ -419,6 +419,8 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel Adminpanel - A Laravel 5 Adminpanel](https://github.com/viralsolani/laravel-adminpanel)
 * [Laravel Vue Boilerplate](https://github.com/alefesouza/laravel-vue-boilerplate)
 * [Laravel Enso - SPA Admin Panel built with Bulma, VueJS and Laravel](https://github.com/laravel-enso/enso)
+* [Laravel React Boilerplate](https://github.com/PJijin/Laravel-React-Starter)
+
 
 ## Codebases for Reference
 
