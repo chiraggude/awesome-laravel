@@ -174,7 +174,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel Backup](https://github.com/spatie/laravel-backup) - Backup your app
 * [Laravel Doctrine](https://github.com/laravel-doctrine/orm) - Doctrine 2 ORM implementation
 * [Laravel MongoDB](https://github.com/jenssegers/laravel-mongodb) - Eloquent model and query builder with support for MongoDB
-* [Migrations Generator](https://github.com/Xethron/migrations-generator) - Generate migrations from an existing database
+* [Migrations Generator](https://github.com/DomLip94/migrations-generator) - Generate migrations from an existing database for Laravel >5.6+
 * [Sofa/Eloquence](https://github.com/jarektkaczyk/eloquence) - Extensions for the Eloquent ORM
 * [Tenanti](https://github.com/orchestral/tenanti) - Multi-tenant database schema manager
 * [Laravel Repository](https://github.com/andersao/l5-repository) - Repositories to abstract the database layer
