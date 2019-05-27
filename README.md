@@ -455,6 +455,10 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [PJ Blog](https://github.com/jcc/blog/)
 * [Laralum](https://github.com/Laralum/Laralum)
 
+## Ecommerce and Shop Systems
+
+* [Aimeos](https://aimeos.org/Laravel/)
+
 ## Podcasts
 
 * [The Laravel Podcast](http://www.laravelpodcast.com/)
