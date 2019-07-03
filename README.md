@@ -213,6 +213,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 * [Cashier](https://github.com/laravel/cashier) - Subscription billing with Stripe
 * [Omnipay for Laravel](https://github.com/ignited/laravel-omnipay) - Integrate the [Omnipay](https://github.com/thephpleague/omnipay) PHP library
+* [Ebank](https://github.com/yybawang/ebank) - E-commerce virtual credit and aggregate payment solutions
 
 ##### Optimization
 
