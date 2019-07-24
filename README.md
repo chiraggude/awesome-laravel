@@ -112,6 +112,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel Datatables](https://github.com/yajra/laravel-datatables) - jQuery DataTables API
 * [Laravel GeoIP](https://github.com/Torann/laravel-geoip) - Determine the location of website visitors based on their IP addresses
 * [Laravel Hashids](https://github.com/vinkla/laravel-hashids) - Generate unique, non-sequential ids using [Hashids](http://hashids.org/php/)
+* [Laravel Hashid](https://github.com/ElfSundae/laravel-hashid) - Generate reversible, non-sequential, URL-safe identifiers
 * [Laravel Impersonate](https://github.com/404labfr/laravel-impersonate) - A package to authenticate as one of your users
 * [Laravel Markdown](https://github.com/GrahamCampbell/Laravel-Markdown) - CommonMark markdown parser
 * [Laravel Menu](https://github.com/spatie/laravel-menu) - Html menu generator for Laravel
