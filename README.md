@@ -419,6 +419,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel Adminpanel - A Laravel 5 Adminpanel](https://github.com/viralsolani/laravel-adminpanel)
 * [Laravel Vue Boilerplate](https://github.com/alefesouza/laravel-vue-boilerplate)
 * [Laravel Enso - SPA Admin Panel built with Bulma, VueJS and Laravel](https://github.com/laravel-enso/enso)
+* [laravel_template_with_vue - SPA Admin Panel built with Element-ui、 VueJS 、Laravel and laravel-echo-server ](https://github.com/wmhello/laravel_template_with_vue) 
 
 ## Codebases for Reference
 
