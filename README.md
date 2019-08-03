@@ -274,6 +274,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 ## Application Deployment
 
+* [Deployer](https://deployer.org/) - A deployment tool with support for Laravel out of the box
 * [Envoyer](https://envoyer.io/) - Zero down-time Deployer for PHP & Laravel projects
 * [Rocketeer](https://github.com/rocketeers/rocketeer) - Task runner and deployment package
 
@@ -438,7 +439,9 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Monica](https://github.com/monicahq/monica) - Personal relationship management system
 * [Snipe-IT](https://github.com/snipe/snipe-it) - IT asset/license management system
 * [Akaunting](https://github.com/akaunting/akaunting) - Accounting software for small businesses and freelancers
+* [Torch](https://github.com/mattstauffer/Torch) - Examples of using each Illuminate component in non-Laravel applications
 * [Pixelfed](https://github.com/pixelfed/pixelfed) - A free and ethical photo sharing platform, powered by ActivityPub federation
+
 
 ## Content Management Systems
 
@@ -485,6 +488,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel Global Community](https://www.facebook.com/groups/group.laravel/)
 * [Laravel Russia](https://laravel.ru/) ([VK group](http://m.vk.com/laravel_rus))
 * [Laravel France](https://laravel.fr/)
+* [Laravel Bangladesh](https://www.facebook.com/groups/LaravelBanglaDesh/)
 * [Laravel Indonesia](http://id-laravel.com/) ([Facebook group](https://www.facebook.com/groups/laravel/), [Telegram](https://t.me/laravelindonesia))
 * [Laravel Brasil](http://www.laravel.com.br/) ([Facebook group](https://www.facebook.com/groups/laravelbrasil/), [Slack](http://slack.laravel.com.br), [Telegram](https://telegram.me/laravelbr), [Google+](https://plus.google.com/communities/116661672628675028624), [GitHub](https://github.com/laravelbrasil))
 * [Laravel Turkey](http://www.laravel.gen.tr/) ([Facebook group](https://www.facebook.com/groups/laravelturkiye/))
