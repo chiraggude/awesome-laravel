@@ -20,6 +20,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 - [Starter Projects](#starter-projects)
 - [Codebases for Reference](#codebases-for-reference)
 - [Content Management Systems](#content-management-systems)
+- [Ecommerce and Shop Systems](#ecommerce-and-shop-systems)
 - [Podcasts](#podcasts)
 - [Community](#community)
 - [Jobs](#jobs)
@@ -455,6 +456,10 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Borgert CMS](https://github.com/odirleiborgert/borgert-cms/)
 * [PJ Blog](https://github.com/jcc/blog/)
 * [Laralum](https://github.com/Laralum/Laralum)
+
+## Ecommerce and Shop Systems
+
+* [Aimeos](https://aimeos.org/Laravel/)
 
 ## Podcasts
 
