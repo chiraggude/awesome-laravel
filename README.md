@@ -113,6 +113,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel GeoIP](https://github.com/Torann/laravel-geoip) - Determine the location of website visitors based on their IP addresses
 * [Laravel Hashids](https://github.com/vinkla/laravel-hashids) - Generate unique, non-sequential ids using [Hashids](http://hashids.org/php/)
 * [Laravel Impersonate](https://github.com/404labfr/laravel-impersonate) - A package to authenticate as one of your users
+* [Laravel Mailbox](https://docs.beyondco.de/laravel-mailbox/) - A package to handle incoming emails
 * [Laravel Markdown](https://github.com/GrahamCampbell/Laravel-Markdown) - CommonMark markdown parser
 * [Laravel Menu](https://github.com/spatie/laravel-menu) - Html menu generator for Laravel
 * [Laravel Talk](https://github.com/nahid/talk) - Realtime User messaging system
