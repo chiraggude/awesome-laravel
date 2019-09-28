@@ -264,6 +264,10 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Devilbox](https://github.com/cytopia/devilbox) - A dockerized and general-purpose LAMP/MEAN stack for every PHP version
 * [Vessel](https://vessel.shippingdocker.com) - Simple Docker development environments for Laravel.
 
+## Microservices
+
+* [Cloud Pub/Sub](https://github.com/gdg-tangier/cloud-pubsub) - Build event-driven microservices with GCP and Laravel.
+
 ## Application Hosting
 
 * [Forge](https://forge.laravel.com/) ([ForgeRecipes](https://forgerecipes.com/))
