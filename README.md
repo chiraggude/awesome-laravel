@@ -76,9 +76,9 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 ##### Authentication & Authorization
 
-* [Bouncer](https://github.com/JosephSilber/bouncer) - Roles & Permissions
-* [Laratrust](https://github.com/santigarcor/laratrust) - Roles, Permissions and teams
-* [Entrust](https://github.com/Zizaco/entrust) - Role-based Permissions
+* [Bouncer](https://github.com/JosephSilber/bouncer) - Roles & Permissions  ![alt text](https://img.shields.io/github/stars/JosephSilber/bouncer)
+* [Laratrust](https://github.com/santigarcor/laratrust) - Roles, Permissions and teams ![alt text](https://img.shields.io/github/stars/santigarcor/laratrust)
+* [Entrust](https://github.com/Zizaco/entrust) - Role-based Permissions ![alt text](https://img.shields.io/github/stars/Zizaco/entrust)
 * [JWT Auth](https://github.com/tymondesigns/jwt-auth) - JSON Web Token authentication for APIs
 * [Laravel Permission](https://github.com/spatie/laravel-permission) - Associate users with roles and permissions
 * [Defender](https://github.com/artesaos/defender) - Roles & Permissions
