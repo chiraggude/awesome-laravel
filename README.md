@@ -274,6 +274,8 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Ploi](https://ploi.io/)
 * [CodePier](https://codepier.io?ref=awesome-laravel)
 * [RunCloud](https://runcloud.io/)
+* [Digital Ocean](https://www.digitalocean.com/)
+* [Vultr](https://www.vultr.com/)
 
 ## Application Deployment
 
