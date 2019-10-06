@@ -60,8 +60,8 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 ##### Testing & Debugging
 
-![alt text](https://img.shields.io/github/stars/laravel-testtools/ddieaepnbjhgcbddafciempnibnfnakl) [Laravel TestTools](https://chrome.google.com/webstore/detail/laravel-testtools/ddieaepnbjhgcbddafciempnibnfnakl) - Chrome extension to generate Laravel integration tests while using your app  
-![alt text](https://img.shields.io/github/stars/![alt text](https://img.shields.io/github/stars/furey/tinx)) [Laravel Test Factory Generator](https://github.com/mpociot/laravel-test-factory-helper) - Generate Laravel test factories from your existing models  
+(https://chrome.google.com/webstore/detail/laravel-testtools/ddieaepnbjhgcbddafciempnibnfnakl) - Chrome extension to generate Laravel integration tests while using your app  
+![alt text](https://img.shields.io/github/stars/mpociot/laravel-test-factory-helper) [Laravel Test Factory Generator](https://github.com/mpociot/laravel-test-factory-helper) - Generate Laravel test factories from your existing models  
 ![alt text](https://img.shields.io/github/stars/itsgoingd/clockwork) [Clockwork](https://github.com/itsgoingd/clockwork) - Integrates Clockwork Chrome extension for debugging and profiling apps   
 ![alt text](https://img.shields.io/github/stars/barryvdh/laravel-debugbar) [Debug Bar](https://github.com/barryvdh/laravel-debugbar) - Integrates PHP Debug Bar with Laravel  
 ![alt text](https://img.shields.io/github/stars/rap2hpoutre/laravel-log-viewer) [Laravel 5 Log Viewer](https://github.com/rap2hpoutre/laravel-log-viewer) - Log viewer  
