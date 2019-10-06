@@ -49,8 +49,8 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 ![alt text](https://img.shields.io/github/stars/amranidev/scaffold-interface) [Scaffold Interface](https://github.com/amranidev/scaffold-interface) - A Smart CRUD Generator For Laravel  
 ![alt text](https://img.shields.io/github/stars/barryvdh/laravel-ide-helper) [IDE Helper](https://github.com/barryvdh/laravel-ide-helper) - Generates a helper file for IDE auto-completion  
-![alt text](https://img.shields.io/github/stars/laracasts/Laravel-5-Generators-Extended) [Laravel 5 Extended Generators](https://github.com/laracasts/Laravel-5-Generators-Extended) - Extends built-in file generators
-![alt text](https://img.shields.io/github/stars/InfyOmLabs/laravel-generator) [Laravel API/Scaffold/CRUD Generator](https://github.com/InfyOmLabs/laravel-generator) - Generator for APIs, CRUD scaffolds etc.
+![alt text](https://img.shields.io/github/stars/laracasts/Laravel-5-Generators-Extended) [Laravel 5 Extended Generators](https://github.com/laracasts/Laravel-5-Generators-Extended) - Extends built-in file generators  
+![alt text](https://img.shields.io/github/stars/InfyOmLabs/laravel-generator) [Laravel API/Scaffold/CRUD Generator](https://github.com/InfyOmLabs/laravel-generator) - Generator for APIs, CRUD scaffolds etc.  
 ![alt text](https://img.shields.io/github/stars/furey/tinx) [Laravel Tinx](https://github.com/furey/tinx) - Reload your Laravel Tinker session from inside Tinker  
 ![alt text](https://img.shields.io/github/stars/mpociot/laravel-apidoc-generator) [Laravel API Documentation Generator](https://github.com/mpociot/laravel-apidoc-generator) - Automatically generate your API documentation  
 ![alt text](https://img.shields.io/github/stars/Jeroen-G/Laravel-Packager) [Laravel Packager](https://github.com/Jeroen-G/Laravel-Packager) - A CLI tool for creating Laravel packages  
@@ -60,13 +60,13 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 ##### Testing & Debugging
 
-* [Laravel TestTools](https://chrome.google.com/webstore/detail/laravel-testtools/ddieaepnbjhgcbddafciempnibnfnakl) - Chrome extension to generate Laravel integration tests while using your app  
-* [Laravel Test Factory Generator](https://github.com/mpociot/laravel-test-factory-helper) - Generate Laravel test factories from your existing models  
-* [Clockwork](https://github.com/itsgoingd/clockwork) - Integrates Clockwork Chrome extension for debugging and profiling apps   
-* [Debug Bar](https://github.com/barryvdh/laravel-debugbar) - Integrates PHP Debug Bar with Laravel  
-* [Laravel 5 Log Viewer](https://github.com/rap2hpoutre/laravel-log-viewer) - Log viewer  
-* [LogViewer](https://github.com/ARCANEDEV/LogViewer) - Provides a log viewer
-* [LERN](https://github.com/tylercd100/lern#lern-laravel-exception-recorder-and-notifier) - Record exceptions into a database and will send you a notification
+![alt text](https://img.shields.io/github/stars/laravel-testtools/ddieaepnbjhgcbddafciempnibnfnakl) [Laravel TestTools](https://chrome.google.com/webstore/detail/laravel-testtools/ddieaepnbjhgcbddafciempnibnfnakl) - Chrome extension to generate Laravel integration tests while using your app  
+![alt text](https://img.shields.io/github/stars/![alt text](https://img.shields.io/github/stars/furey/tinx)) [Laravel Test Factory Generator](https://github.com/mpociot/laravel-test-factory-helper) - Generate Laravel test factories from your existing models  
+![alt text](https://img.shields.io/github/stars/itsgoingd/clockwork) [Clockwork](https://github.com/itsgoingd/clockwork) - Integrates Clockwork Chrome extension for debugging and profiling apps   
+![alt text](https://img.shields.io/github/stars/barryvdh/laravel-debugbar) [Debug Bar](https://github.com/barryvdh/laravel-debugbar) - Integrates PHP Debug Bar with Laravel  
+![alt text](https://img.shields.io/github/stars/rap2hpoutre/laravel-log-viewer) [Laravel 5 Log Viewer](https://github.com/rap2hpoutre/laravel-log-viewer) - Log viewer  
+![alt text](https://img.shields.io/github/stars/ARCANEDEV/LogViewer) [LogViewer](https://github.com/ARCANEDEV/LogViewer) - Provides a log viewer  
+![alt text](https://img.shields.io/github/stars/tylercd100/lern) [LERN](https://github.com/tylercd100/lern#lern-laravel-exception-recorder-and-notifier) - Record exceptions into a database and will send you a notification
 * [Mail Preview](https://github.com/themsaid/laravel-mail-preview) - Preview sent mail in a web browser or mail client
 * [Laravel Tracy](https://github.com/recca0120/laravel-tracy) - A Laravel Package to integrate Nette Tracy Debugger
 * [Laravel Terminal](https://github.com/recca0120/laravel-terminal) - run artisan in a web browser
