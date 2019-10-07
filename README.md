@@ -60,25 +60,25 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 ##### Testing & Debugging
 
-(https://chrome.google.com/webstore/detail/laravel-testtools/ddieaepnbjhgcbddafciempnibnfnakl) - Chrome extension to generate Laravel integration tests while using your app  
+[Laravel TestTools](https://chrome.google.com/webstore/detail/laravel-testtools/ddieaepnbjhgcbddafciempnibnfnakl) - Chrome extension to generate Laravel integration tests while using your app  
 ![alt text](https://img.shields.io/github/stars/mpociot/laravel-test-factory-helper) [Laravel Test Factory Generator](https://github.com/mpociot/laravel-test-factory-helper) - Generate Laravel test factories from your existing models  
 ![alt text](https://img.shields.io/github/stars/itsgoingd/clockwork) [Clockwork](https://github.com/itsgoingd/clockwork) - Integrates Clockwork Chrome extension for debugging and profiling apps   
 ![alt text](https://img.shields.io/github/stars/barryvdh/laravel-debugbar) [Debug Bar](https://github.com/barryvdh/laravel-debugbar) - Integrates PHP Debug Bar with Laravel  
 ![alt text](https://img.shields.io/github/stars/rap2hpoutre/laravel-log-viewer) [Laravel 5 Log Viewer](https://github.com/rap2hpoutre/laravel-log-viewer) - Log viewer  
 ![alt text](https://img.shields.io/github/stars/ARCANEDEV/LogViewer) [LogViewer](https://github.com/ARCANEDEV/LogViewer) - Provides a log viewer  
 ![alt text](https://img.shields.io/github/stars/tylercd100/lern) [LERN](https://github.com/tylercd100/lern#lern-laravel-exception-recorder-and-notifier) - Record exceptions into a database and will send you a notification
-* [Mail Preview](https://github.com/themsaid/laravel-mail-preview) - Preview sent mail in a web browser or mail client
-* [Laravel Tracy](https://github.com/recca0120/laravel-tracy) - A Laravel Package to integrate Nette Tracy Debugger
-* [Laravel Terminal](https://github.com/recca0120/laravel-terminal) - run artisan in a web browser
-* [Laravel API Tester](https://github.com/asvae/laravel-api-tester) - Postman-like tool with Laravel routes
-* [Laravel Tail](https://github.com/spatie/laravel-tail) - The missing tail command
-* [Larvel Telescope](https://github.com/laravel/telescope) - Laravel Telescope is an elegant debug assistant for the Laravel framework
+![alt text](https://img.shields.io/github/stars/themsaid/laravel-mail-preview) [Mail Preview](https://github.com/themsaid/laravel-mail-preview) - Preview sent mail in a web browser or mail client  
+![alt text](https://img.shields.io/github/stars/recca0120/laravel-tracy) [Laravel Tracy](https://github.com/recca0120/laravel-tracy) - A Laravel Package to integrate Nette Tracy Debugger  
+![alt text](https://img.shields.io/github/stars/recca0120/laravel-terminal) [Laravel Terminal](https://github.com/recca0120/laravel-terminal) - run artisan in a web browser  
+![alt text](https://img.shields.io/github/stars/asvae/laravel-api-tester) [Laravel API Tester](https://github.com/asvae/laravel-api-tester) - Postman-like tool with Laravel routes  
+![alt text](https://img.shields.io/github/stars/spatie/laravel-tail) [Laravel Tail](https://github.com/spatie/laravel-tail) - The missing tail command 
+![alt text](https://img.shields.io/github/stars/laravel/telescope) [Larvel Telescope](https://github.com/laravel/telescope) - Laravel Telescope is an elegant debug assistant for the Laravel framework  
 
 ##### Authentication & Authorization
 
-* [Bouncer](https://github.com/JosephSilber/bouncer) - Roles & Permissions  ![alt text](https://img.shields.io/github/stars/JosephSilber/bouncer)
-* [Laratrust](https://github.com/santigarcor/laratrust) - Roles, Permissions and teams ![alt text](https://img.shields.io/github/stars/santigarcor/laratrust)
-* [Entrust](https://github.com/Zizaco/entrust) - Role-based Permissions ![alt text](https://img.shields.io/github/stars/Zizaco/entrust)
+![alt text](https://img.shields.io/github/stars/JosephSilber/bouncer) [Bouncer](https://github.com/JosephSilber/bouncer) - Roles & Permissions  
+![alt text](https://img.shields.io/github/stars/santigarcor/laratrust) [Laratrust](https://github.com/santigarcor/laratrust) - Roles, Permissions and teams  
+![alt text](https://img.shields.io/github/stars/Zizaco/entrust) [Entrust](https://github.com/Zizaco/entrust) - Role-based Permissions  
 * [JWT Auth](https://github.com/tymondesigns/jwt-auth) - JSON Web Token authentication for APIs
 * [Laravel Permission](https://github.com/spatie/laravel-permission) - Associate users with roles and permissions
 * [Defender](https://github.com/artesaos/defender) - Roles & Permissions
