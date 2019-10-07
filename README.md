@@ -72,7 +72,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel Terminal](https://github.com/recca0120/laravel-terminal) - run artisan in a web browser
 * [Laravel API Tester](https://github.com/asvae/laravel-api-tester) - Postman-like tool with Laravel routes
 * [Laravel Tail](https://github.com/spatie/laravel-tail) - The missing tail command
-* [Larvel Telescope](https://github.com/laravel/telescope) - Laravel Telescope is an elegant debug assistant for the Laravel framework
+* [Laravel Telescope](https://github.com/laravel/telescope) - Laravel Telescope is an elegant debug assistant for the Laravel framework
 
 ##### Authentication & Authorization
 
@@ -416,7 +416,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel Adminpanel](https://github.com/viralsolani/laravel-adminpanel)
 * [Laravel Vue Boilerplate](https://github.com/alefesouza/laravel-vue-boilerplate)
 * [Laravel Enso](https://github.com/laravel-enso/enso)
-* [Laravel Template with Vue](https://github.com/wmhello/laravel_template_with_vue) 
+* [Laravel Template with Vue](https://github.com/wmhello/laravel_template_with_vue)
 
 ## Codebases for Reference
 
