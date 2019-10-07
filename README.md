@@ -100,21 +100,21 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 ![alt text](https://img.shields.io/github/stars/kevinkhill/lavacharts) [Lavacharts](https://github.com/kevinkhill/lavacharts) - Charts and Graphs for PHP Powered by the Google Chart API  
 ![alt text](https://img.shields.io/github/stars/Tucker-Eric/EloquentFilter) [Eloquent Filter](https://github.com/Tucker-Eric/EloquentFilter) - Filter models and their Relationships  
 ![alt text](https://img.shields.io/github/stars/cviebrock/eloquent-sluggable) [Eloquent Sluggable](https://github.com/cviebrock/eloquent-sluggable) - Create slugs for Eloquent models  
-* [Eloquent Sortable](https://github.com/spatie/eloquent-sortable) - Sortable behaviour for Eloquent models
-* [HTML](https://github.com/LaravelCollective/html) - HTML and Form Builders for Laravel
-* [Multi-tenant](https://github.com/hyn/multi-tenant) - Flexible multi tenancy with secure separation of routes, assets and databases
-* [Laravel Form Builder](https://github.com/kristijanhusak/laravel-form-builder) - Form builder inspired by Symfony's form builder
-* [Laravel Activitylog](https://github.com/spatie/laravel-activitylog) - Log activity inside your Laravel app
-* [Laravel Auditing](https://github.com/owen-it/laravel-auditing) - Audit for Eloquent models
-* [Laravel Breadcrumbs](https://github.com/davejamesmiller/laravel-breadcrumbs) - Create and manage breadcrumbs
-* [Laravel Collection Macros](https://github.com/spatie/laravel-collection-macros) - A set of handy collection macros
-* [Laravel Cookie Consent](https://github.com/spatie/laravel-cookie-consent) - Make your Laravel app comply with the crazy EU cookie law
-* [Laravel Datatables](https://github.com/yajra/laravel-datatables) - jQuery DataTables API
-* [Laravel GeoIP](https://github.com/Torann/laravel-geoip) - Determine the location of website visitors based on their IP addresses
-* [Laravel Hashids](https://github.com/vinkla/laravel-hashids) - Generate unique, non-sequential ids using [Hashids](http://hashids.org/php/)
-* [Laravel Impersonate](https://github.com/404labfr/laravel-impersonate) - A package to authenticate as one of your users
-* [Laravel Markdown](https://github.com/GrahamCampbell/Laravel-Markdown) - CommonMark markdown parser
-* [Laravel Menu](https://github.com/spatie/laravel-menu) - Html menu generator for Laravel
+![alt text](https://img.shields.io/github/stars/spatie/eloquent-sortable) [Eloquent Sortable](https://github.com/spatie/eloquent-sortable) - Sortable behaviour for Eloquent models  
+![alt text](https://img.shields.io/github/stars/LaravelCollective/html) [HTML](https://github.com/LaravelCollective/html) - HTML and Form Builders for Laravel  
+![alt text](https://img.shields.io/github/stars/hyn/multi-tenant) [Multi-tenant](https://github.com/hyn/multi-tenant) - Flexible multi tenancy with secure separation of routes, assets and databases  
+![alt text](https://img.shields.io/github/stars/kristijanhusak/laravel-form-builder) [Laravel Form Builder](https://github.com/kristijanhusak/laravel-form-builder) - Form builder inspired by Symfony's form builder  
+![alt text](https://img.shields.io/github/stars/spatie/laravel-activitylog) [Laravel Activitylog](https://github.com/spatie/laravel-activitylog) - Log activity inside your Laravel app  
+![alt text](https://img.shields.io/github/stars/owen-it/laravel-auditing) [Laravel Auditing](https://github.com/owen-it/laravel-auditing) - Audit for Eloquent models  
+![alt text](https://img.shields.io/github/stars/davejamesmiller/laravel-breadcrumbs) [Laravel Breadcrumbs](https://github.com/davejamesmiller/laravel-breadcrumbs) - Create and manage breadcrumbs  
+![alt text](https://img.shields.io/github/stars/spatie/laravel-collection-macros) [Laravel Collection Macros](https://github.com/spatie/laravel-collection-macros) - A set of handy collection macros  
+![alt text](https://img.shields.io/github/stars/spatie/laravel-cookie-consent) [Laravel Cookie Consent](https://github.com/spatie/laravel-cookie-consent) - Make your Laravel app comply with the crazy EU cookie law  
+![alt text](https://img.shields.io/github/stars/yajra/laravel-datatables) [Laravel Datatables](https://github.com/yajra/laravel-datatables) - jQuery DataTables API  
+![alt text](https://img.shields.io/github/stars/Torann/laravel-geoip) [Laravel GeoIP](https://github.com/Torann/laravel-geoip) - Determine the location of website visitors based on their IP addresses  
+![alt text](https://img.shields.io/github/stars/vinkla/laravel-hashids) [Laravel Hashids](https://github.com/vinkla/laravel-hashids) - Generate unique, non-sequential ids using [Hashids](http://hashids.org/php/)  
+![alt text](https://img.shields.io/github/stars/404labfr/laravel-impersonate) [Laravel Impersonate](https://github.com/404labfr/laravel-impersonate) - A package to authenticate as one of your users  
+![alt text](https://img.shields.io/github/stars/GrahamCampbell/Laravel-Markdown) [Laravel Markdown](https://github.com/GrahamCampbell/Laravel-Markdown) - CommonMark markdown parser  
+![alt text](https://img.shields.io/github/stars/spatie/laravel-menu) [Laravel Menu](https://github.com/spatie/laravel-menu) - Html menu generator for Laravel  
 * [Laravel Talk](https://github.com/nahid/talk) - Realtime User messaging system
 * [Laravel Messenger](https://github.com/cmgmyr/laravel-messenger) - User messaging system
 * [Laravel Moderation](https://github.com/hootlex/laravel-moderation) - Approve or reject resources like posts, comments, users, etc.
