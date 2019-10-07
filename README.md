@@ -66,40 +66,40 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 ![alt text](https://img.shields.io/github/stars/barryvdh/laravel-debugbar) [Debug Bar](https://github.com/barryvdh/laravel-debugbar) - Integrates PHP Debug Bar with Laravel  
 ![alt text](https://img.shields.io/github/stars/rap2hpoutre/laravel-log-viewer) [Laravel 5 Log Viewer](https://github.com/rap2hpoutre/laravel-log-viewer) - Log viewer  
 ![alt text](https://img.shields.io/github/stars/ARCANEDEV/LogViewer) [LogViewer](https://github.com/ARCANEDEV/LogViewer) - Provides a log viewer  
-![alt text](https://img.shields.io/github/stars/tylercd100/lern) [LERN](https://github.com/tylercd100/lern#lern-laravel-exception-recorder-and-notifier) - Record exceptions into a database and will send you a notification
+![alt text](https://img.shields.io/github/stars/tylercd100/lern) [LERN](https://github.com/tylercd100/lern#lern-laravel-exception-recorder-and-notifier) - Record exceptions into a database and will send you a notification  
 ![alt text](https://img.shields.io/github/stars/themsaid/laravel-mail-preview) [Mail Preview](https://github.com/themsaid/laravel-mail-preview) - Preview sent mail in a web browser or mail client  
 ![alt text](https://img.shields.io/github/stars/recca0120/laravel-tracy) [Laravel Tracy](https://github.com/recca0120/laravel-tracy) - A Laravel Package to integrate Nette Tracy Debugger  
 ![alt text](https://img.shields.io/github/stars/recca0120/laravel-terminal) [Laravel Terminal](https://github.com/recca0120/laravel-terminal) - run artisan in a web browser  
 ![alt text](https://img.shields.io/github/stars/asvae/laravel-api-tester) [Laravel API Tester](https://github.com/asvae/laravel-api-tester) - Postman-like tool with Laravel routes  
-![alt text](https://img.shields.io/github/stars/spatie/laravel-tail) [Laravel Tail](https://github.com/spatie/laravel-tail) - The missing tail command 
-![alt text](https://img.shields.io/github/stars/laravel/telescope) [Larvel Telescope](https://github.com/laravel/telescope) - Laravel Telescope is an elegant debug assistant for the Laravel framework  
+![alt text](https://img.shields.io/github/stars/spatie/laravel-tail) [Laravel Tail](https://github.com/spatie/laravel-tail) - The missing tail command  
+![alt text](https://img.shields.io/github/stars/laravel/telescope) [Laravel Telescope](https://github.com/laravel/telescope) - Laravel Telescope is an elegant debug assistant for the Laravel framework  
 
 ##### Authentication & Authorization
 
 ![alt text](https://img.shields.io/github/stars/JosephSilber/bouncer) [Bouncer](https://github.com/JosephSilber/bouncer) - Roles & Permissions  
 ![alt text](https://img.shields.io/github/stars/santigarcor/laratrust) [Laratrust](https://github.com/santigarcor/laratrust) - Roles, Permissions and teams  
 ![alt text](https://img.shields.io/github/stars/Zizaco/entrust) [Entrust](https://github.com/Zizaco/entrust) - Role-based Permissions  
-* [JWT Auth](https://github.com/tymondesigns/jwt-auth) - JSON Web Token authentication for APIs
-* [Laravel Permission](https://github.com/spatie/laravel-permission) - Associate users with roles and permissions
-* [Defender](https://github.com/artesaos/defender) - Roles & Permissions
-* [OAuth2 Server Laravel](https://github.com/lucadegasperi/oauth2-server-laravel) - OAuth 2.0 authorization server and resource server
-* [Socialite](https://github.com/laravel/socialite) - OAuth authentication with Facebook, Google, Twitter etc.
-* [Socialite Providers 2.0](http://socialiteproviders.github.io/) - 100+ social authentication providers for Socialite with Lumen support
-* [Google2FA](https://github.com/antonioribeiro/google2fa) - Google Two-Factor Authentication Module
-* [Laravel User Verification](https://github.com/jrean/laravel-user-verification) - Handle the user verification flow and validate email
-* [Adldap2 Laravel](https://github.com/Adldap2/Adldap2-Laravel) - LDAP authentication and Active Directory management
-* [Doorman](https://github.com/clarkeash/doorman) - Limit access to your Laravel applications by using invite codes
-* [Laravel Heyman](https://github.com/imanghafoori1/laravel-heyman) - Heyman continues where the above role-permission packages left off
+![alt text](https://img.shields.io/github/stars/tymondesigns/jwt-auth) [JWT Auth](https://github.com/tymondesigns/jwt-auth) - JSON Web Token authentication for APIs  
+![alt text](https://img.shields.io/github/stars/spatie/laravel-permission) [Laravel Permission](https://github.com/spatie/laravel-permission) - Associate users with roles and permissions  
+![alt text](https://img.shields.io/github/stars/artesaos/defender) [Defender](https://github.com/artesaos/defender) - Roles & Permissions  
+![alt text](https://img.shields.io/github/stars/lucadegasperi/oauth2-server-laravel) [OAuth2 Server Laravel](https://github.com/lucadegasperi/oauth2-server-laravel) - OAuth 2.0 authorization server and resource server  
+![alt text](https://img.shields.io/github/stars/laravel/socialite) [Socialite](https://github.com/laravel/socialite) - OAuth authentication with Facebook, Google, Twitter etc.  
+[Socialite Providers 2.0](http://socialiteproviders.github.io/) - 100+ social authentication providers for Socialite with Lumen support  
+![alt text](https://img.shields.io/github/stars/antonioribeiro/google2fa) [Google2FA](https://github.com/antonioribeiro/google2fa) - Google Two-Factor Authentication Module  
+![alt text](https://img.shields.io/github/stars/jrean/laravel-user-verification) [Laravel User Verification](https://github.com/jrean/laravel-user-verification) - Handle the user verification flow and validate email  
+![alt text](https://img.shields.io/github/stars/Adldap2/Adldap2-Laravel) [Adldap2 Laravel](https://github.com/Adldap2/Adldap2-Laravel) - LDAP authentication and Active Directory management  
+![alt text](https://img.shields.io/github/stars/clarkeash/doorman) [Doorman](https://github.com/clarkeash/doorman) - Limit access to your Laravel applications by using invite codes  
+![alt text](https://img.shields.io/github/stars/imanghafoori1/laravel-heyman) [Laravel Heyman](https://github.com/imanghafoori1/laravel-heyman) - Heyman continues where the above role-permission packages left off  
 
 ##### Utilities
 
-* [Artisan View](https://github.com/svenluijten/artisan-view) - Manage the views in Laravel projects via artisan
-* [Bootstrapper](https://github.com/patricktalmadge/bootstrapper/) - Set of classes to create Bootstrap 3 markup
-* [Captcha](https://github.com/mewebstudio/captcha) - An anti-bot image captcha system
-* [Charts](https://github.com/ConsoleTVs/Charts) - Multi-library chart package to create interactive charts
-* [Lavacharts](https://github.com/kevinkhill/lavacharts) - Charts and Graphs for PHP Powered by the Google Chart API
-* [Eloquent Filter](https://github.com/Tucker-Eric/EloquentFilter) - Filter models and their Relationships
-* [Eloquent Sluggable](https://github.com/cviebrock/eloquent-sluggable) - Create slugs for Eloquent models
+![alt text](https://img.shields.io/github/stars/svenluijten/artisan-view) [Artisan View](https://github.com/svenluijten/artisan-view) - Manage the views in Laravel projects via artisan  
+![alt text](https://img.shields.io/github/stars/patricktalmadge/bootstrapper) [Bootstrapper](https://github.com/patricktalmadge/bootstrapper/) - Set of classes to create Bootstrap 3 markup  
+![alt text](https://img.shields.io/github/stars/mewebstudio/captcha) [Captcha](https://github.com/mewebstudio/captcha) - An anti-bot image captcha system  
+![alt text](https://img.shields.io/github/stars/ConsoleTVs/Charts) [Charts](https://github.com/ConsoleTVs/Charts) - Multi-library chart package to create interactive charts  
+![alt text](https://img.shields.io/github/stars/kevinkhill/lavacharts) [Lavacharts](https://github.com/kevinkhill/lavacharts) - Charts and Graphs for PHP Powered by the Google Chart API  
+![alt text](https://img.shields.io/github/stars/Tucker-Eric/EloquentFilter) [Eloquent Filter](https://github.com/Tucker-Eric/EloquentFilter) - Filter models and their Relationships  
+![alt text](https://img.shields.io/github/stars/cviebrock/eloquent-sluggable) [Eloquent Sluggable](https://github.com/cviebrock/eloquent-sluggable) - Create slugs for Eloquent models  
 * [Eloquent Sortable](https://github.com/spatie/eloquent-sortable) - Sortable behaviour for Eloquent models
 * [HTML](https://github.com/LaravelCollective/html) - HTML and Form Builders for Laravel
 * [Multi-tenant](https://github.com/hyn/multi-tenant) - Flexible multi tenancy with secure separation of routes, assets and databases
