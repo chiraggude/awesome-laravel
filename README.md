@@ -115,33 +115,33 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 ![alt text](https://img.shields.io/github/stars/404labfr/laravel-impersonate) [Laravel Impersonate](https://github.com/404labfr/laravel-impersonate) - A package to authenticate as one of your users  
 ![alt text](https://img.shields.io/github/stars/GrahamCampbell/Laravel-Markdown) [Laravel Markdown](https://github.com/GrahamCampbell/Laravel-Markdown) - CommonMark markdown parser  
 ![alt text](https://img.shields.io/github/stars/spatie/laravel-menu) [Laravel Menu](https://github.com/spatie/laravel-menu) - Html menu generator for Laravel  
-* [Laravel Talk](https://github.com/nahid/talk) - Realtime User messaging system
-* [Laravel Messenger](https://github.com/cmgmyr/laravel-messenger) - User messaging system
-* [Laravel Moderation](https://github.com/hootlex/laravel-moderation) - Approve or reject resources like posts, comments, users, etc.
-* [Laravel Tags](https://github.com/spatie/laravel-tags) - Add tags and taggable behaviour
-* [Laravel Stats Tracker](https://github.com/antonioribeiro/tracker) - Gather information from requests to identify and store
-* [Listify](https://github.com/lookitsatravis/listify) - Add sorting/ordering capabilities to any Eloquent model
-* [noCAPTCHA](https://github.com/ARCANEDEV/noCAPTCHA) - Helper for Google's new noCAPTCHA (reCAPTCHA)
-* [Purifier](https://github.com/mewebstudio/purifier) - HTML filter
-* [Revisionable](https://github.com/VentureCraft/revisionable) - Create a revision history for Eloquent models
-* [SEOTools](https://github.com/artesaos/seotools) - Helpers for some common SEO techniques
-* [Page Cache](https://github.com/JosephSilber/page-cache) - Caches responses as static files on disk for lightning fast page loads
-* [Laravel Setting](https://github.com/anlutro/laravel-settings) - Persistent configuration settings that are stored in JSON files
-* [Friendship](https://github.com/hootlex/laravel-friendships) - Friendship management system
-* [Teamwork](https://github.com/mpociot/teamwork) - User to team associations with an invite system
-* [Validating](https://github.com/dwightwatson/validating) - Trait for validating Eloquent models
-* [VAT Calculator](https://github.com/mpociot/vat-calculator) - Handle all the hard stuff related to EU MOSS vat regulations
-* [Laravel UUID](https://github.com/webpatser/laravel-uuid) - Generate a UUID according to the RFC 4122 standard
-* [Laravel Installer](https://github.com/RachidLaasri/LaravelInstaller) - Allow users to install your application just by following the setup wizard, like WordPress
-* [Laravel Modules](https://github.com/nWidart/laravel-modules) - Easy module management
-* [Laravel Phone](https://github.com/Propaganistas/Laravel-Phone) - Phone number validator and formatter
-* [Laravel Ban](https://github.com/cybercog/laravel-ban) - Simplify blocking and banning Eloquent models
-* [Laravel Proxy](https://github.com/fideloper/TrustedProxy) - Handling sessions when behind load balancers or other intermediaries.
-* [Laravel Video Chat](https://github.com/PHPJunior/laravel-video-chat) - Video Chat using Socket.IO and WebRTC
-* [Widgets for Laravel](https://github.com/arrilot/laravel-widgets) - A powerful alternative to view composers.
-* [Secure Headers](https://github.com/BePsvPT/secure-headers) - Add security related headers to HTTP response
-* [Laravel Nova](https://nova.laravel.com/) - Nova is a beautifully designed administration panel for Laravel
-* [Laravel Love](https://github.com/cybercog/laravel-love) - It lets people express how they feel about the content. React on Eloquent models with Likes or Dislikes.
+![alt text](https://img.shields.io/github/stars/nahid/talk) [Laravel Talk](https://github.com/nahid/talk) - Realtime User messaging system  
+![alt text](https://img.shields.io/github/stars/cmgmyr/laravel-messenger) [Laravel Messenger](https://github.com/cmgmyr/laravel-messenger) - User messaging system  
+![alt text](https://img.shields.io/github/stars/hootlex/laravel-moderation) [Laravel Moderation](https://github.com/hootlex/laravel-moderation) - Approve or reject resources like posts, comments, users, etc.  
+![alt text](https://img.shields.io/github/stars/spatie/laravel-tags) [Laravel Tags](https://github.com/spatie/laravel-tags) - Add tags and taggable behaviour  
+![alt text](https://img.shields.io/github/stars/antonioribeiro/tracker) [Laravel Stats Tracker](https://github.com/antonioribeiro/tracker) - Gather information from requests to identify and store  
+![alt text](https://img.shields.io/github/stars/lookitsatravis/listify) [Listify](https://github.com/lookitsatravis/listify) - Add sorting/ordering capabilities to any Eloquent model  
+![alt text](https://img.shields.io/github/stars/ARCANEDEV/noCAPTCHA) [noCAPTCHA](https://github.com/ARCANEDEV/noCAPTCHA) - Helper for Google's new noCAPTCHA (reCAPTCHA)  
+![alt text](https://img.shields.io/github/stars/mewebstudio/purifier) [Purifier](https://github.com/mewebstudio/purifier) - HTML filter  
+![alt text](https://img.shields.io/github/stars/VentureCraft/revisionable) [Revisionable](https://github.com/VentureCraft/revisionable) - Create a revision history for Eloquent models  
+![alt text](https://img.shields.io/github/stars/artesaos/seotools) [SEOTools](https://github.com/artesaos/seotools) - Helpers for some common SEO techniques  
+![alt text](https://img.shields.io/github/stars/JosephSilber/page-cache) [Page Cache](https://github.com/JosephSilber/page-cache) - Caches responses as static files on disk for lightning fast page loads  
+![alt text](https://img.shields.io/github/stars/anlutro/laravel-settings) [Laravel Setting](https://github.com/anlutro/laravel-settings) - Persistent configuration settings that are stored in JSON files  
+![alt text](https://img.shields.io/github/stars/hootlex/laravel-friendships) [Friendship](https://github.com/hootlex/laravel-friendships) - Friendship management system  
+![alt text](https://img.shields.io/github/stars/mpociot/teamwork) [Teamwork](https://github.com/mpociot/teamwork) - User to team associations with an invite system  
+![alt text](https://img.shields.io/github/stars/dwightwatson/validating) [Validating](https://github.com/dwightwatson/validating) - Trait for validating Eloquent models  
+![alt text](https://img.shields.io/github/stars/mpociot/vat-calculator) [VAT Calculator](https://github.com/mpociot/vat-calculator) - Handle all the hard stuff related to EU MOSS vat regulations  
+![alt text](https://img.shields.io/github/stars/webpatser/laravel-uuid) [Laravel UUID](https://github.com/webpatser/laravel-uuid) - Generate a UUID according to the RFC 4122 standard  
+![alt text](https://img.shields.io/github/stars/RachidLaasri/LaravelInstaller) [Laravel Installer](https://github.com/RachidLaasri/LaravelInstaller) - Allow users to install your application just by following the setup wizard, like WordPress  
+![alt text](https://img.shields.io/github/stars/nWidart/laravel-modules) [Laravel Modules](https://github.com/nWidart/laravel-modules) - Easy module management    
+![alt text](https://img.shields.io/github/stars/Propaganistas/Laravel-Phone) [Laravel Phone](https://github.com/Propaganistas/Laravel-Phone) - Phone number validator and formatter  
+![alt text](https://img.shields.io/github/stars/cybercog/laravel-ban) [Laravel Ban](https://github.com/cybercog/laravel-ban) - Simplify blocking and banning Eloquent models  
+![alt text](https://img.shields.io/github/stars/fideloper/TrustedProxy) [Laravel Proxy](https://github.com/fideloper/TrustedProxy) - Handling sessions when behind load balancers or other intermediaries.
+![alt text](https://img.shields.io/github/stars/PHPJunior/laravel-video-chat) [Laravel Video Chat](https://github.com/PHPJunior/laravel-video-chat) - Video Chat using Socket.IO and WebRTC  
+![alt text](https://img.shields.io/github/stars/arrilot/laravel-widgets) [Widgets for Laravel](https://github.com/arrilot/laravel-widgets) - A powerful alternative to view composers.  
+![alt text](https://img.shields.io/github/stars/BePsvPT/secure-headers) [Secure Headers](https://github.com/BePsvPT/secure-headers) - Add security related headers to HTTP response  
+[Laravel Nova](https://nova.laravel.com/) - Nova is a beautifully designed administration panel for Laravel  
+![alt text](https://img.shields.io/github/stars/cybercog/laravel-love) [Laravel Love](https://github.com/cybercog/laravel-love) - It lets people express how they feel about the content. React on Eloquent models with Likes or Dislikes.  
 
 ##### Media & Document Management
 
