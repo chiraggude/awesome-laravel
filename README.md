@@ -429,7 +429,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Attendize](https://github.com/Attendize/Attendize) - Ticket selling and event management platform
 * [Antvel](https://github.com/ant-vel/App) - Ecommerce platform
 * [Jigsaw](https://github.com/tightenco/jigsaw) - Static site generator
-* [Canvas](https://github.com/austintoddj/Canvas) - Minimal Blogging Application For Developers
+* [Canvas](https://github.com/cnvs/canvas) - A Laravel Publishing Platform
 * [Vuedo](https://github.com/Vuedo/vuedo) - Vuedo is blog platform, built with Laravel and Vue.js
 * [Screeenly](https://github.com/stefanzweifel/screeenly) - Create website screenshots through an API
 * [Voten](https://github.com/voten-co/voten) - A real-time social bookmarking for the 21st century
