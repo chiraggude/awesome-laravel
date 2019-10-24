@@ -324,6 +324,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Lynda](https://www.lynda.com/search?q=laravel)
 * [Pluralsight](https://www.pluralsight.com/search?q=laravel&categories=course)
 * [Bitfumes](https://www.youtube.com/bitfumes)
+* [BaseCode](https://basecodefieldguide.com)
 
 ## Conferences
 
