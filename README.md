@@ -251,6 +251,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel Instagram](https://github.com/vinkla/laravel-instagram) - Instagram API bridge
 * [Laravel Newsletter](https://github.com/spatie/laravel-newsletter) - Send newsletters with Mailchimp
 * [Laravel Pusher](https://github.com/vinkla/laravel-pusher) - Pusher API bridge
+*[Laravel Instagram Private] (https://github.com/michelmelo/laravel-instagram-api) Instagram Api Private
 
 ## Development Setup
 
