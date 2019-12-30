@@ -164,6 +164,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel Pjax](https://github.com/spatie/laravel-pjax) - A Pjax middleware
 * [Laravel Blade Javascript](https://github.com/spatie/laravel-blade-javascript) - A Blade directive to export variables to JavaScript
 * [Ziggy](https://github.com/tightenco/ziggy) - Use your Laravel named routes in JavaScript
+* [LiveWire](https://github.com/livewire/livewire) - A magical front-end framework for Laravel
 
 ##### Databases, ORMs, Migrations & Seeding
 
