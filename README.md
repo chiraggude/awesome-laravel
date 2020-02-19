@@ -359,6 +359,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel Live India](http://laravellive.in/)
 
 ##### Videos
+
 * [Laracon US 2019](https://www.youtube.com/playlist?list=PL-yJve--iT5qZzp0VzYaPA7ZohLl6tSdp)
 * [Laracon EU 2018](https://www.youtube.com/playlist?list=PLMdXHJK-lGoC64wnqvm6v1R5dsuAV-MpS)
 * [Laracon US 2018](https://www.youtube.com/playlist?list=PL-yJve--iT5oM2LgF37VXsBb8Os4ZulIc)
