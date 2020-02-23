@@ -523,6 +523,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [LaraJobs](https://larajobs.com/)
 * [Laravel Gurus](https://laravelgurus.com/)
 * [Laravel Certification](https://laravel.com/certification/)
+* [Laravel Freelancer](https://freelancercv.com/tag/service/laravel)
 
 ## Hosted Development Tools
 
@@ -537,6 +538,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [CodeCanyon](https://codecanyon.net/tags/laravel?term=laravel) - Paid scripts and plugins
 * [Laravel Collections](https://laravelcollections.com) - Every Laravel Developers Goto Resource Site
 * [LaravelLinks](https://telegram.me/laravellinks) - A Telegram Channel dedicated to sharing great Laravel Resources
+* [FreelancerCV](https://freelancercv.com/tag/item/laravel) - Paid scripts and plugins
 
 ## Contributing
 
