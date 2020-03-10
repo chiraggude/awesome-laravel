@@ -527,7 +527,6 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 ## Hosted Development Tools
 
 * [Laravel Shift](https://laravelshift.com/) - Automated upgrade tool for Laravel projects
-* [Laravel Versions {x.y.z}](https://laraver.xyz/) - Monitor Laravel for updates
 * [Laravel Schema Designer](http://laravelsd.com/) - Create, export and share database schemas
 * [StyleCI](https://styleci.io) - PHP Coding Style Service
 * [DependenCI](https://dependenci.miguelpiedrafita.com) - Continous integration tool for Composer
