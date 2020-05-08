@@ -275,6 +275,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 ## Application Hosting
 
+* [Vapor](https://vapor.laravel.com)
 * [Forge](https://forge.laravel.com/) ([ForgeRecipes](https://forgerecipes.com/))
 * [FortRabbit](https://www.fortrabbit.com/laravel-hosting)
 * [Heroku](https://www.heroku.com/) ([Documentation](https://devcenter.heroku.com/articles/getting-started-with-laravel))
@@ -283,7 +284,6 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Ploi](https://ploi.io/)
 * [CodePier](https://codepier.io?ref=awesome-laravel)
 * [RunCloud](https://runcloud.io/)
-* [Vapor](https://vapor.laravel.com)
 
 ## Application Deployment
 
@@ -344,7 +344,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laraconf Brasil](http://laraconfbrasil.com.br/)
 * [Laracon Australia](https://laracon.com.au/)
 * [Laravel Live UK](https://laravellive.uk/)
-* [Laravel Live India](http://laravellive.in/)
+* [Laravel Live India](https://laravellive.in/)
 * [Laravel Nigeria](https://laravelnigeria.com)
 
 ##### Videos
@@ -490,13 +490,13 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Quora](https://www.quora.com/topic/Laravel)
 * [Facebook](https://www.facebook.com/LaravelCommunity)
 * [LinkedIn](https://www.linkedin.com/groups/4419933/profile)
-* [Laraveles Slack](https://laraveles.slack.com) ([Signup](http://laraveles.com/blog/wp-login.php?action=slack-invitation))
-* [Laravel UK](https://laravelphp.uk/), [Slack Signup](https://laravelphp.uk/login/slack)
-* [Laravel India](https://laravellive.in/), [Slack Signup](https://laravelliveindia.slack.com/join/shared_invite/enQtNjQyMDE4NDA3MDQzLWMyZmIxNGZkNGVkNGFmMzE1MTgyOGNiZGY1ZmU1ZDQ3Mzk2ODBlZGJlODk3ZmI0OWNlZmI5MzQyZDJhYzg1NjE), [Twitter](https://twitter.com/LaravelLiveIN), [Facebook](https://www.facebook.com/laravellive/), [Youtube](https://www.youtube.com/channel/UC6TxYSHI7g9FMJ7VlHk72Yg)
 
 ##### Local User Groups
 
 * [Laravel Global Community](https://www.facebook.com/groups/group.laravel/)
+* [LaravelES Slack](https://laraveles.slack.com) ([Signup](http://laraveles.com/blog/wp-login.php?action=slack-invitation))
+* [Laravel India](https://laravellive.in/), [Slack Signup](https://laravelliveindia.slack.com/join/shared_invite/enQtNjQyMDE4NDA3MDQzLWMyZmIxNGZkNGVkNGFmMzE1MTgyOGNiZGY1ZmU1ZDQ3Mzk2ODBlZGJlODk3ZmI0OWNlZmI5MzQyZDJhYzg1NjE), [Twitter](https://twitter.com/LaravelLiveIN), [Facebook](https://www.facebook.com/laravellive/), [Youtube](https://www.youtube.com/channel/UC6TxYSHI7g9FMJ7VlHk72Yg)
+* [Laravel UK](https://laravelphp.uk/), [Slack Signup](https://laravelphp.uk/login/slack)
 * [Laravel Russia](https://laravel.ru/) ([VK group](http://m.vk.com/laravel_rus))
 * [Laravel France](https://laravel.fr/)
 * [Laravel Bangladesh](https://www.facebook.com/groups/LaravelBanglaDesh/)
@@ -537,14 +537,12 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 * [LaraJobs](https://larajobs.com/)
 * [Laravel Gurus](https://laravelgurus.com/)
-* [Laravel Certification](https://laravel.com/certification/)
 
 ## Hosted Development Tools
 
 * [Laravel Shift](https://laravelshift.com/) - Automated upgrade tool for Laravel projects
 * [Laravel Schema Designer](http://laravelsd.com/) - Create, export and share database schemas
 * [StyleCI](https://styleci.io) - PHP Coding Style Service
-* [DependenCI](https://dependenci.miguelpiedrafita.com) - Continous integration tool for Composer
 
 ## Miscellaneous
 
