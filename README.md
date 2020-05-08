@@ -116,7 +116,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel GeoIP](https://github.com/Torann/laravel-geoip) - Determine the location of website visitors based on their IP addresses
 * [Laravel Hashids](https://github.com/vinkla/laravel-hashids) - Generate unique, non-sequential ids using [Hashids](http://hashids.org/php/)
 * [Laravel Impersonate](https://github.com/404labfr/laravel-impersonate) - A package to authenticate as one of your users
-* [Laravel Mailbox](https://docs.beyondco.de/laravel-mailbox/) - A package to handle incoming emails
+* [Laravel Mailbox](https://github.com/beyondcode/laravel-mailbox) - A package to handle incoming emails
 * [Laravel Markdown](https://github.com/GrahamCampbell/Laravel-Markdown) - CommonMark markdown parser
 * [Laravel Menu](https://github.com/spatie/laravel-menu) - Html menu generator for Laravel
 * [Laravel Talk](https://github.com/nahid/talk) - Realtime User messaging system
@@ -146,7 +146,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Secure Headers](https://github.com/BePsvPT/secure-headers) - Add security related headers to HTTP response
 * [Laravel Nova](https://nova.laravel.com/) - Nova is a beautifully designed administration panel for Laravel
 * [Laravel Love](https://github.com/cybercog/laravel-love) - It lets people express how they feel about the content. React on Eloquent models with Likes or Dislikes.
-* [stancl/tenancy](https://tenancy.samuelstancl.me) - Automatic tenancy for your Laravel app. No code changes needed.
+* [stancl/tenancy](https://github.com/stancl/tenancy) - Automatic tenancy for your Laravel app. No code changes needed.
 
 ##### Media & Document Management
 
@@ -270,7 +270,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laragon](https://laragon.org/) -  Isolated development environment on Windows
 * [Stacker](https://github.com/Maxlab/stacker) - The environment for local web development on Docker
 * [Devilbox](https://github.com/cytopia/devilbox) - A dockerized and general-purpose LAMP/MEAN stack for every PHP version
-* [Vessel](https://vessel.shippingdocker.com) - Simple Docker development environments for Laravel.
+* [Vessel](https://vessel.shippingdocker.com) - Simple Docker development environments for Laravel
 * [Lando](https://docs.lando.dev/config/laravel.html) - A local development environment tool built on Docker
 
 ## Application Hosting
