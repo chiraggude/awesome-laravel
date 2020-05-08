@@ -4,8 +4,8 @@ Contributions are welcome, and are accepted via pull requests. Please review the
 
 ## Must haves for Packages, Starter Projects, Codebases etc.
 
-- 400+ stars on GitHub.
-- Support Laravel 5.5 LTS or higher.
+- 500+ stars on GitHub.
+- Support Laravel 6 LTS or higher.
 - Use [PSR-4](http://www.php-fig.org/psr/psr-4/) autoloader.
 - Packages must be listed on [Packagist](https://packagist.org/).
 - Packages must have also had 10,000 downloads.
