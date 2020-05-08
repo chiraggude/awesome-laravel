@@ -277,6 +277,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Ploi](https://ploi.io/)
 * [CodePier](https://codepier.io?ref=awesome-laravel)
 * [RunCloud](https://runcloud.io/)
+* [Vapor](https://vapor.laravel.com)
 
 ## Application Deployment
 
