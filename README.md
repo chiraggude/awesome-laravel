@@ -340,6 +340,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laracon Australia](https://laracon.com.au/)
 * [Laravel Live UK](https://laravellive.uk/)
 * [Laravel Live India](http://laravellive.in/)
+* [Laravel Nigeria](https://laravelnigeria.com)
 
 ##### Videos
 
