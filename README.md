@@ -394,6 +394,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [React Native and Laravel for Future Mobile Development](https://leanpub.com/rn_laravel) by Ega Radiegtya
 * [Servers for Hackers](https://book.serversforhackers.com) by Chris Fidao
 * [Full-Stack Vue.js 2 and Laravel 5](https://www.amazon.com/Full-Stack-Vue-js-Laravel-frontend-together/dp/1788299582) by Anthony Gore
+* [Build an API with Laravel](https://buildanapi.com) by Wacky Studio
 
 ## Starter Projects
 
