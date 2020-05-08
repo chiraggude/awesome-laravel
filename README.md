@@ -538,6 +538,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [LaraJobs](https://larajobs.com/)
 * [Laravel Gurus](https://laravelgurus.com/)
 * [Laravel Certification](https://laravel.com/certification/)
+* [Laravel Remotely](https://laravelremotely.com/)
 
 ## Hosted Development Tools
 
