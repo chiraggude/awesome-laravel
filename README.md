@@ -490,6 +490,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Quora](https://www.quora.com/topic/Laravel)
 * [Facebook](https://www.facebook.com/LaravelCommunity)
 * [LinkedIn](https://www.linkedin.com/groups/4419933/profile)
+- [Discord](https://discord.gg/xjSbJM)
 
 ##### Local User Groups
 
