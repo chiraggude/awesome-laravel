@@ -147,6 +147,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel Nova](https://nova.laravel.com/) - Nova is a beautifully designed administration panel for Laravel
 * [Laravel Love](https://github.com/cybercog/laravel-love) - It lets people express how they feel about the content. React on Eloquent models with Likes or Dislikes.
 * [stancl/tenancy](https://github.com/stancl/tenancy) - Automatic tenancy for your Laravel app. No code changes needed.
+* [Laraform](https://github.com/laraform/laraform) - Advanced form builder for Vue.js with Laravel support.
 
 ##### Media & Document Management
 
