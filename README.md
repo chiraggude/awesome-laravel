@@ -520,6 +520,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel Hungary](https://laravel.hu)
 * [Laravel Cameroon](https://laravelcm.com/) ([Slack](https://laravelcm.slack.com), [GitHub](https://github.com/laravelcm), [Facebook](https://www.facebook.com/laravelcm), [Twitter](https://twitter.com/laravelcm))
 * [Laravel Philippines](https://www.facebook.com/groups/laravelph)
+* [Laravel Angola](https://www.facebook.com/groups/291918254676962/)
 
 ##### Meetups
 
