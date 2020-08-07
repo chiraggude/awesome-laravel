@@ -290,7 +290,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Deployer](https://deployer.org/) - A deployment tool with support for Laravel out of the box
 * [Envoyer](https://envoyer.io/) - Zero down-time Deployer for PHP & Laravel projects
 * [Rocketeer](https://github.com/rocketeers/rocketeer) - Task runner and deployment package
-* [Cleaver](https://cleaver.cloud/laravel)
+* [Cleaver](https://cleaver.cloud/laravel) - Unlimited, zero downtime deployments and rollbacks
 
 ## Code Snippets
 
