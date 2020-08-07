@@ -284,7 +284,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Ploi](https://ploi.io/)
 * [CodePier](https://codepier.io?ref=awesome-laravel)
 * [RunCloud](https://runcloud.io/)
-* [Cleaver](https://cleaver.cloud/laravel)
+* [Cleaver](https://cleaver.cloud/laravel) - Provision and manage servers, monitoring, cronjobs, services, and more
 
 ## Application Deployment
 
