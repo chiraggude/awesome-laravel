@@ -218,6 +218,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Elixir](https://github.com/laravel/elixir) - Node (NPM) package to run Gulp tasks
 * [Mix](https://github.com/JeffreyWay/laravel-mix) - Fluent API for defining basic webpack build steps
 * [Envoy](https://github.com/laravel/envoy) - SSH Task Runner
+* [Pseudo Daemon](https://github.com/aarondfrancis/laravel-pseudo-daemon) - Mimic daemons via scheduled commands without having to change server configuration.
 
 ##### Payments
 
