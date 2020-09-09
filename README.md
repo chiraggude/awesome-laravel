@@ -39,7 +39,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Packagist](https://packagist.org/)
 * [Laravel Collective](https://laravelcollective.com/)
 * [Packalyst](http://packalyst.com/)
-* [Spatie](https://spatie.be/en/opensource/laravel)
+* [Spatie](https://spatie.be/open-source)
 
 ## Popular Packages
 
