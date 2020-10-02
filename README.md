@@ -335,6 +335,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Pluralsight](https://www.pluralsight.com/search?q=laravel&categories=course)
 * [Bitfumes](https://www.youtube.com/bitfumes)
 * [ConfidentLaravel](https://confidentlaravel.com/)
+* [Eloquent Performance Patterns](https://eloquent-course.reinink.ca/)
 
 ## Conferences
 
