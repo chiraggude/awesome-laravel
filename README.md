@@ -451,6 +451,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Akaunting](https://github.com/akaunting/akaunting) - Accounting software for small businesses and freelancers
 * [Torch](https://github.com/mattstauffer/Torch) - Examples of using each Illuminate component in non-Laravel applications
 * [Pixelfed](https://github.com/pixelfed/pixelfed) - A free and ethical photo sharing platform, powered by ActivityPub federation
+* [Crater](https://github.com/bytefury/crater) - Invoice App for freelancers & small businesses
 
 
 ## Content Management Systems
