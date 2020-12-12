@@ -468,6 +468,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [PJ Blog](https://github.com/jcc/blog/)
 * [Laralum](https://github.com/Laralum/Laralum)
 * [Twill](https://github.com/area17/twill)
+* [Azuriom](https://github.com/Azuriom/Azuriom)
 
 ## Podcasts
 
