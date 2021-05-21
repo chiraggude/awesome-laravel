@@ -189,6 +189,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel Repository](https://github.com/andersao/l5-repository) - Repositories to abstract the database layer
 * [Lada Cache](https://github.com/spiritix/lada-cache) - A Redis based, fully automated and scalable database cache layer
 * [Laravel MySQL Spatial extension](https://github.com/grimzy/laravel-mysql-spatial) - easily work with MySQL Spatial Data Types and MySQL Spatial Functions
+* [Adminer](https://github.com/vrana/adminer) - Database management in a single PHP file
 
 ##### Search
 
