@@ -40,6 +40,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel Collective](https://laravelcollective.com/)
 * [Packalyst](http://packalyst.com/)
 * [Spatie](https://spatie.be/en/opensource/laravel)
+* [Renoki Co.](https://github.com/renoki-co)
 
 ## Popular Packages
 
@@ -147,6 +148,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel Nova](https://nova.laravel.com/) - Nova is a beautifully designed administration panel for Laravel
 * [Laravel Love](https://github.com/cybercog/laravel-love) - It lets people express how they feel about the content. React on Eloquent models with Likes or Dislikes.
 * [stancl/tenancy](https://github.com/stancl/tenancy) - Automatic tenancy for your Laravel app. No code changes needed.
+* [renoki-co/clusteer](https://github.com/renoki-co/clusteer) - Puppeteer wrapper written for Laravel 
 
 ##### Media & Document Management
 
@@ -189,6 +191,8 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel Repository](https://github.com/andersao/l5-repository) - Repositories to abstract the database layer
 * [Lada Cache](https://github.com/spiritix/lada-cache) - A Redis based, fully automated and scalable database cache layer
 * [Laravel MySQL Spatial extension](https://github.com/grimzy/laravel-mysql-spatial) - easily work with MySQL Spatial Data Types and MySQL Spatial Functions
+* [Eloquent Query Cache](https://github.com/renoki-co/laravel-eloquent-query-cache) - Adding cache on your Laravel Eloquent queries' results is now a breeze.
+* [Befriended](https://github.com/renoki-co/befriended) - social media-like features like following, blocking and filtering content based on following or blocked models.
 
 ##### Search
 
@@ -223,6 +227,8 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 * [Cashier](https://github.com/laravel/cashier) - Subscription billing with Stripe
 * [Omnipay for Laravel](https://github.com/ignited/laravel-omnipay) - Integrate the [Omnipay](https://github.com/thephpleague/omnipay) PHP library
+* [Cashier Register](https://github.com/renoki-co/cashier-register) - simple quota feature usage tracker for Laravel Cashier subscriptions
+* [Cashierstream](https://github.com/renoki-co/jetstream-cashier-billing-portal) - Cashierstream is a simple Spark alternative written for Laravel Jetstream, with the super-power of tracking plan quotas, like seats or projects number on a per-plan basis
 
 ##### Optimization
 
@@ -259,6 +265,8 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel Instagram](https://github.com/vinkla/laravel-instagram) - Instagram API bridge
 * [Laravel Newsletter](https://github.com/spatie/laravel-newsletter) - Send newsletters with Mailchimp
 * [Laravel Pusher](https://github.com/vinkla/laravel-pusher) - Pusher API bridge
+* [Laravel SNS Events](https://github.com/renoki-co/laravel-sns-events) - Laravel SNS Events eases the processing of incoming SNS webhooks using Laravel Events.
+* [Laravel AWS Webhooks](https://github.com/renoki-co/laravel-aws-webhooks) - Easy webhook handler for Laravel to catch AWS SNS notifications for various services.
 
 ## Development Setup
 
