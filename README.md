@@ -211,6 +211,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel GraphQL](https://github.com/rebing/graphql-laravel) - Supports Relay, eloquent models, validation and GraphiQL
 * [Lighthouse](https://github.com/nuwave/lighthouse) - An up and coming GraphQL library for Laravel
 * [Laravel Responder](https://github.com/flugger/laravel-responder) - Build custom API responses with Fractal
+* [Laravel JSON:API](https://github.com/laravel-json-api/laravel) - Easy way to build [JSON:API](https://jsonapi.org/)-compliant API
 
 ##### Tasks, Commands and Scheduling
 
