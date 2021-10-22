@@ -316,6 +316,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel Best Practices](https://github.com/alexeymezenin/laravel-best-practices)
 * [Pusher Laravel Tutorials](https://pusher.com/tutorials?tag=Laravel)
 * [LaraShout](https://larashout.com/)
+* [Modern PHP cheatsheet](https://github.com/smknstd/modern-php-cheatsheet) - Cheatsheet for some Php knowledge you will frequently encounter in modern projects.
 
 ## Videos
 
