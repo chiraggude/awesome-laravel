@@ -282,7 +282,6 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [AWS Elastic Beanstalk](https://aws.amazon.com/elasticbeanstalk/) ([Tutorial](http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/php-laravel-tutorial.html))
 * [Cloudways](https://www.cloudways.com/en/laravel-hosting.php)
 * [Ploi](https://ploi.io/)
-* [CodePier](https://codepier.io?ref=awesome-laravel)
 * [RunCloud](https://runcloud.io/)
 
 ## Application Deployment
