@@ -25,6 +25,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 - [Jobs](#jobs)
 - [Hosted Development Tools](#hosted-development-tools)
 - [Miscellaneous](#miscellaneous)
+- [Email](#email)
 
 ## Essentials
 
@@ -549,6 +550,10 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [CodeCanyon](https://codecanyon.net/tags/laravel?term=laravel) - Paid scripts and plugins
 * [Laravel Collections](https://laravelcollections.com) - Every Laravel Developers Goto Resource Site
 * [LaravelLinks](https://telegram.me/laravellinks) - A Telegram Channel dedicated to sharing great Laravel Resources
+
+## Email
+
+* [MailEclipse](https://github.com/Qoraiche/laravel-mail-editor) - A mailable editor for your application, helps you to create and manage mailables using a web UI.
 
 ## Contributing
 
