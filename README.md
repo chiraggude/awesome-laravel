@@ -335,6 +335,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Pluralsight](https://www.pluralsight.com/search?q=laravel&categories=course)
 * [Bitfumes](https://www.youtube.com/bitfumes)
 * [ConfidentLaravel](https://confidentlaravel.com/)
+* [EspecializaTi](https://academy.especializati.com.br/) ([YouTube](https://www.youtube.com/c/EspecializatiBr/videos)) (PT-BR)
 
 ## Conferences
 
