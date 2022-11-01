@@ -430,6 +430,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel Vue Boilerplate](https://github.com/alefesouza/laravel-vue-boilerplate)
 * [Laravel Enso](https://github.com/laravel-enso/enso)
 * [Laravel Template with Vue](https://github.com/wmhello/laravel_template_with_vue)
+* [Laravel Breeze with Vue3 - Boilerplate / Starter kit](https://github.com/fsgreco/vue3-laravel-api)
 
 ## Codebases for Reference
 
