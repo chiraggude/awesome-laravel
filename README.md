@@ -171,6 +171,8 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel Blade Javascript](https://github.com/spatie/laravel-blade-javascript) - A Blade directive to export variables to JavaScript
 * [Ziggy](https://github.com/tightenco/ziggy) - Use your Laravel named routes in JavaScript
 * [LiveWire](https://github.com/livewire/livewire) - A magical front-end framework for Laravel
+* [Laravel Tailwind](https://tailwind-elements.com/docs/standard/integrations/laravel-integration/) - Integrate Laravel app with Tailwind
+
 
 ##### Databases, ORMs, Migrations & Seeding
 
