@@ -430,6 +430,9 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel Vue Boilerplate](https://github.com/alefesouza/laravel-vue-boilerplate)
 * [Laravel Enso](https://github.com/laravel-enso/enso)
 * [Laravel Template with Vue](https://github.com/wmhello/laravel_template_with_vue)
+* [Sneat Free Bootstrap 5 HTML Laravel Admin Template](https://github.com/themeselection/sneat-html-laravel-admin-template-free)
+* [Sneat Free Vuetify VueJS Laravel Admin Template](https://github.com/themeselection/sneat-vuetify-vuejs-laravel-admin-template-free/)
+
 
 ## Codebases for Reference
 
