@@ -430,6 +430,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel Vue Boilerplate](https://github.com/alefesouza/laravel-vue-boilerplate)
 * [Laravel Enso](https://github.com/laravel-enso/enso)
 * [Laravel Template with Vue](https://github.com/wmhello/laravel_template_with_vue)
+* [Volt Dashboard Laravel](https://github.com/themesberg/volt-laravel-dashboard)
 
 ## Codebases for Reference
 
@@ -451,6 +452,8 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Akaunting](https://github.com/akaunting/akaunting) - Accounting software for small businesses and freelancers
 * [Torch](https://github.com/mattstauffer/Torch) - Examples of using each Illuminate component in non-Laravel applications
 * [Pixelfed](https://github.com/pixelfed/pixelfed) - A free and ethical photo sharing platform, powered by ActivityPub federation
+* [Larastreamers](https://github.com/christophrumpel/larastreamers) - It shows you who is live coding next in the Laravel world.
+* [BookStack](https://github.com/BookStackApp/BookStack) - A platform to create documentation/wiki content built with PHP & Laravel
 
 
 ## Content Management Systems
