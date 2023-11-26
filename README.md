@@ -335,6 +335,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Pluralsight](https://www.pluralsight.com/search?q=laravel&categories=course)
 * [Bitfumes](https://www.youtube.com/bitfumes)
 * [ConfidentLaravel](https://confidentlaravel.com/)
+* [Thibaud Dauce](https://www.youtube.com/channel/UChyW1pwcQT2RA4Q2onfNfpg/playlists) (FR)
 
 ## Conferences
 
