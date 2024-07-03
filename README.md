@@ -259,6 +259,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel Instagram](https://github.com/vinkla/laravel-instagram) - Instagram API bridge
 * [Laravel Newsletter](https://github.com/spatie/laravel-newsletter) - Send newsletters with Mailchimp
 * [Laravel Pusher](https://github.com/vinkla/laravel-pusher) - Pusher API bridge
+* [SharpAPI AI Workflow Automation](https://github.com/sharpapi/sharpapi-laravel-client) - SharpAPI Laravel Client SDK 
 
 ## Development Setup
 
