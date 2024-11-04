@@ -409,6 +409,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 ## Starter Projects
 
 * [Spark](https://spark.laravel.com/)
+* [JetShip Laravel SaaS Boilerplate](https://demos.themeselection.com/jetship-laravel-boilerplate)
 * [LaraAdmin](https://github.com/dwijitsolutions/laraadmin)
 * [Grafite Builder](https://github.com/GrafiteInc/Builder)
 * [Laravel Boilerplate](https://github.com/rappasoft/laravel-5-boilerplate)
