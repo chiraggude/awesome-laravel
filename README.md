@@ -58,6 +58,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel Decomposer](https://github.com/lubusIN/laravel-decomposer) - List all installed packages, their dependencies, app & server details
 * [LaRecipe](https://github.com/saleem-hadad/larecipe) - Write gorgeous documentations for your products using Markdown inside your Laravel app.
 * [Prequel](https://github.com/Protoqol/Prequel/) - A clear and concise database management GUI tweaked for Laravel.
+* [Laravel Trash Cleaner](https://github.com/omaralalwi/laravel-trash-cleaner) - clean logs and debug files for debugging packages .
 
 ##### Testing & Debugging
 
@@ -147,6 +148,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel Nova](https://nova.laravel.com/) - Nova is a beautifully designed administration panel for Laravel
 * [Laravel Love](https://github.com/cybercog/laravel-love) - It lets people express how they feel about the content. React on Eloquent models with Likes or Dislikes.
 * [stancl/tenancy](https://github.com/stancl/tenancy) - Automatic tenancy for your Laravel app. No code changes needed.
+* [laravel Taxify](https://github.com/omaralalwi/laravel-taxify) - set of helper functions and classes to simplify tax (VAT) calculations within Laravel applications.
 
 ##### Media & Document Management
 
@@ -161,6 +163,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Fast Excel](https://github.com/rap2hpoutre/fast-excel) - Fast XLSX, CSV and ODT import and export for Laravel
 * [Laravolt Avatar](https://github.com/laravolt/avatar) - Plug n play avatar, turn name, email, and any other string into beautiful avatar (or gravatar), effortless.
 * [Laravel FFmpeg](https://github.com/pascalbaljetmedia/laravel-ffmpeg) - This package provides an integration with FFmpeg for Laravel 5.8.
+* [GPDF](https://github.com/omaralalwi/Gpdf) - Open Source HTML to PDF converter for PHP & Laravel Applications, supports Arabic content out-of-the-box and other languages .
 
 ##### Integration with Javascript
 
@@ -189,6 +192,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel Repository](https://github.com/andersao/l5-repository) - Repositories to abstract the database layer
 * [Lada Cache](https://github.com/spiritix/lada-cache) - A Redis based, fully automated and scalable database cache layer
 * [Laravel MySQL Spatial extension](https://github.com/grimzy/laravel-mysql-spatial) - easily work with MySQL Spatial Data Types and MySQL Spatial Functions
+* [Laravel Time Craft](https://github.com/omaralalwi/laravel-time-craft) - simple trait and helper functions that allow you, Effortlessly manage date and time queries in Laravel apps .
 
 ##### Search
 
@@ -250,7 +254,8 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel Langman](https://github.com/themsaid/laravel-langman) - Manage language files from Artisan Console
 * [Laravel Translation](https://github.com/waavi/translation) - Translation and localization management
 * [Linguist](https://github.com/keevitaja/linguist) - i18n localization support for Laravel
-
+* [Lexi Translate](https://github.com/omaralalwi/lexi-translate) - package to support multilingual Eloquent models with power of morph relationships and caching to with minimal performance overhead . 
+* 
 ##### Third-party Service Integration
 
 * [Laravel Analytics](https://github.com/spatie/laravel-analytics) - Retrieve pageviews and other data from Google Analytics
@@ -290,6 +295,8 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Deployer](https://deployer.org/) - A deployment tool with support for Laravel out of the box
 * [Envoyer](https://envoyer.io/) - Zero down-time Deployer for PHP & Laravel projects
 * [Rocketeer](https://github.com/rocketeers/rocketeer) - Task runner and deployment package
+* [laravel Deployer](https://github.com/omaralalwi/laravel-deployer) -  Streamlined Deployment for Laravel and Node.js apps, with Zero-Downtime and various environments and branches.
+
 
 ## Code Snippets
 
@@ -430,6 +437,8 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel Vue Boilerplate](https://github.com/alefesouza/laravel-vue-boilerplate)
 * [Laravel Enso](https://github.com/laravel-enso/enso)
 * [Laravel Template with Vue](https://github.com/wmhello/laravel_template_with_vue)
+* [Laravel Start kit with Multilingual](https://github.com/omaralalwi/laravel-startkit)
+
 
 ## Codebases for Reference
 
