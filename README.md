@@ -238,6 +238,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel Failed Job Monitor](https://github.com/spatie/laravel-failed-job-monitor) - Get notified when a queued job fails
 * [Laravel Uptime Monitor](https://github.com/spatie/laravel-uptime-monitor) - A powerful and easy to configure uptime and ssl monitor
 * [Larametrics](https://github.com/aschmelyun/larametrics) - A self-hosted metrics and notifications platform for Laravel apps
+* [Laravel Tab Session Guarad]([[https://github.com/aschmelyun/larametrics](https://github.com/slowestwind/tab-session-guard)](https://github.com/slowestwind/tab-session-guard)) - Helps you control and restrict how many tabs, sessions, or module windows (like profiles, dashboards) a user can open.
 
 ##### Localization
 
