@@ -94,7 +94,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel Heyman](https://github.com/imanghafoori1/laravel-heyman) - Heyman continues where the above role-permission packages left off
 
 ##### Utilities
-
+*[Laravel AI Email Assistant](https://github.com/intel1590/laravel-ai-email-assistant) - AI-powered Laravel package to generate personalized, well-structured emails (welcome, follow-up, sales pitch, and more) using OpenAI or Mock Mode. Developed by [Om Diaries](https://github.com/intel1590).
 * [Awes.io](https://github.com/awes-io/awes-io) - boilerplate for CRM, SaaS, ERP based on Vue (Nuxt.js), TailwindCSS plus Laravel as a backend.
 * [Artisan View](https://github.com/svenluijten/artisan-view) - Manage the views in Laravel projects via artisan
 * [Bootstrapper](https://github.com/patricktalmadge/bootstrapper/) - Set of classes to create Bootstrap 3 markup
