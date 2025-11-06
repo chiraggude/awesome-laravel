@@ -75,6 +75,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel API Tester](https://github.com/asvae/laravel-api-tester) - Postman-like tool with Laravel routes
 * [Laravel Tail](https://github.com/spatie/laravel-tail) - The missing tail command
 * [Laravel Telescope](https://github.com/laravel/telescope) - Laravel Telescope is an elegant debug assistant for the Laravel framework
+* [Laravel Log Cleaner](https://github.com/jiordiviera/laravel-log-cleaner) - Memory-efficient log management with compression, backup, and filtering
 
 ##### Authentication & Authorization
 
