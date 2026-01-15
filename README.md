@@ -289,6 +289,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 * [Deployer](https://deployer.org/) - A deployment tool with support for Laravel out of the box
 * [Envoyer](https://envoyer.io/) - Zero down-time Deployer for PHP & Laravel projects
+* [Laravel Coolify](https://github.com/StuMason/laravel-coolify) - Deploy to Coolify with dashboard, CLI commands, and Dockerfile generation
 * [Rocketeer](https://github.com/rocketeers/rocketeer) - Task runner and deployment package
 
 ## Code Snippets
