@@ -58,6 +58,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel Decomposer](https://github.com/lubusIN/laravel-decomposer) - List all installed packages, their dependencies, app & server details
 * [LaRecipe](https://github.com/saleem-hadad/larecipe) - Write gorgeous documentations for your products using Markdown inside your Laravel app.
 * [Prequel](https://github.com/Protoqol/Prequel/) - A clear and concise database management GUI tweaked for Laravel.
+* [Laravel Nexus](https://github.com/malikad778/laravel-nexus) - Multi-channel inventory sync driver for Shopify, WooCommerce, Amazon SP-API and Etsy.
 
 ##### Testing & Debugging
 
