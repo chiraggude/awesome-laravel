@@ -75,6 +75,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel API Tester](https://github.com/asvae/laravel-api-tester) - Postman-like tool with Laravel routes
 * [Laravel Tail](https://github.com/spatie/laravel-tail) - The missing tail command
 * [Laravel Telescope](https://github.com/laravel/telescope) - Laravel Telescope is an elegant debug assistant for the Laravel framework
+* [Laravel DB Monitor](https://github.com/benjdiasaad/laravel-db-monitor) - Real-time database monitoring (slow queries, N+1 detection, missing index suggestions)
 
 ##### Authentication & Authorization
 
