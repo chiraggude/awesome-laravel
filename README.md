@@ -4,6 +4,7 @@
 
 Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for Laravel development workflow orchestration, automated code review, and multi-agent task coordination. MIT licensed.
 ## Table of Contents
 
 - [Essentials](#essentials)
