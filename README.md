@@ -58,6 +58,8 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel Decomposer](https://github.com/lubusIN/laravel-decomposer) - List all installed packages, their dependencies, app & server details
 * [LaRecipe](https://github.com/saleem-hadad/larecipe) - Write gorgeous documentations for your products using Markdown inside your Laravel app.
 * [Prequel](https://github.com/Protoqol/Prequel/) - A clear and concise database management GUI tweaked for Laravel.
+* [Laravel Atlas](https://github.com/fr3on/laravel-atlas) - Browsable, searchable map of your entire Laravel app — routes, jobs, events, commands, and schedules in one place.
+* [Laravel Drift](https://github.com/fr3on/laravel-drift) - Pre-deploy environment validation and config drift detection for Laravel applications.
 
 ##### Testing & Debugging
 
@@ -70,6 +72,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [LogViewer](https://github.com/ARCANEDEV/LogViewer) - Provides a log viewer
 * [LERN](https://github.com/tylercd100/lern#lern-laravel-exception-recorder-and-notifier) - Record exceptions into a database and will send you a notification
 * [Mail Preview](https://github.com/themsaid/laravel-mail-preview) - Preview sent mail in a web browser or mail client
+* [Laravel Inbox](https://github.com/fr3on/laravel-inbox) - Local notification intercept dashboard — catch and preview notifications across all channels without sending them.
 * [Laravel Tracy](https://github.com/recca0120/laravel-tracy) - A Laravel Package to integrate Nette Tracy Debugger
 * [Laravel Terminal](https://github.com/recca0120/laravel-terminal) - run artisan in a web browser
 * [Laravel API Tester](https://github.com/asvae/laravel-api-tester) - Postman-like tool with Laravel routes
@@ -184,6 +187,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel Doctrine](https://github.com/laravel-doctrine/orm) - Doctrine 2 ORM implementation
 * [Laravel MongoDB](https://github.com/jenssegers/laravel-mongodb) - Eloquent model and query builder with support for MongoDB
 * [Migrations Generator](https://github.com/Xethron/migrations-generator) - Generate migrations from an existing database
+* [Laravel Forecast](https://github.com/fr3on/laravel-forecast) - Preview pending migration impact — row counts, lock estimates, and risk ratings — before running migrate.
 * [Sofa/Eloquence](https://github.com/jarektkaczyk/eloquence) - Extensions for the Eloquent ORM
 * [Tenanti](https://github.com/orchestral/tenanti) - Multi-tenant database schema manager
 * [Laravel Repository](https://github.com/andersao/l5-repository) - Repositories to abstract the database layer
@@ -231,6 +235,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Rememberable](https://github.com/dwightwatson/rememberable) - Query caching for Eloquent
 * [Widgetize](https://github.com/imanghafoori1/laravel-widgetize) - Page Partial caching
 * [Laravel Responsecache](https://github.com/spatie/laravel-responsecache) - Speed up app by caching the entire response
+* [Laravel Sage](https://github.com/fr3on/laravel-sage) - Drop-in semantic cache for the Laravel AI SDK — serve cached LLM responses for meaning-similar prompts using vector embeddings.
 
 ##### Monitoring
 
