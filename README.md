@@ -544,6 +544,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel Schema Designer](http://laravelsd.com/) - Create, export and share database schemas
 * [StyleCI](https://styleci.io) - PHP Coding Style Service
 
+- [Gitstar](https://dev.gitstar.ai?utm_medium=github_readme&utm_source=awesome_list&utm_campaign=chiraggude_awesome-laravel) - Follow developers on GitHub and get a feed of what they star and build.
 ## Miscellaneous
 
 * [CodeCanyon](https://codecanyon.net/tags/laravel?term=laravel) - Paid scripts and plugins
