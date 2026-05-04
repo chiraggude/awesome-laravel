@@ -83,6 +83,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Entrust](https://github.com/Zizaco/entrust) - Role-based Permissions
 * [JWT Auth](https://github.com/tymondesigns/jwt-auth) - JSON Web Token authentication for APIs
 * [Laravel Permission](https://github.com/spatie/laravel-permission) - Associate users with roles and permissions
+* [Laravel Permissions Redis](https://github.com/scabarcas17/laravel-permissions-redis) - Redis-backed roles and permissions package with O(1) `SISMEMBER` lookups, surgical cache invalidation, Octane and multi-tenancy support, and a Spatie-compatible API.
 * [Defender](https://github.com/artesaos/defender) - Roles & Permissions
 * [OAuth2 Server Laravel](https://github.com/lucadegasperi/oauth2-server-laravel) - OAuth 2.0 authorization server and resource server
 * [Socialite](https://github.com/laravel/socialite) - OAuth authentication with Facebook, Google, Twitter etc.
