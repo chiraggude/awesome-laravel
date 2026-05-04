@@ -282,6 +282,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [AWS Elastic Beanstalk](https://aws.amazon.com/elasticbeanstalk/) ([Tutorial](http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/php-laravel-tutorial.html))
 * [Cloudways](https://www.cloudways.com/en/laravel-hosting.php)
 * [Ploi](https://ploi.io/)
+* [Ploi Cloud](https://ploi.cloud) ([Documentation](https://ploi.cloud/documentation))
 * [CodePier](https://codepier.io?ref=awesome-laravel)
 * [RunCloud](https://runcloud.io/)
 
@@ -290,6 +291,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Deployer](https://deployer.org/) - A deployment tool with support for Laravel out of the box
 * [Envoyer](https://envoyer.io/) - Zero down-time Deployer for PHP & Laravel projects
 * [Rocketeer](https://github.com/rocketeers/rocketeer) - Task runner and deployment package
+* [Ploi Cloud](https://ploi.cloud) - Push to deploy Laravel apps to European cloud hosting. Octane on FrankenPHP, Horizon queues, managed databases, and native MCP support for deploys from Claude Code, Cursor, Windsurf, or ChatGPT.
 
 ## Code Snippets
 
