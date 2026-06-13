@@ -468,6 +468,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [PJ Blog](https://github.com/jcc/blog/)
 * [Laralum](https://github.com/Laralum/Laralum)
 * [Twill](https://github.com/area17/twill)
+* [UnfoldCMS](https://unfoldcms.com/) - Self-hosted CMS with an admin built entirely on shadcn/ui (Laravel 12 + React 19), themeable frontend, REST API, and a one-time license
 
 ## Podcasts
 
