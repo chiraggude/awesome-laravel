@@ -468,6 +468,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [PJ Blog](https://github.com/jcc/blog/)
 * [Laralum](https://github.com/Laralum/Laralum)
 * [Twill](https://github.com/area17/twill)
+* [UnfoldCMS](https://unfoldcms.com/) - Self-hosted CMS built on Laravel 12 with REST API (42 endpoints), HMAC webhooks, and headless support for Next.js, Astro, SvelteKit, and Nuxt
 
 ## Podcasts
 
