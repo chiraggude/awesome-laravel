@@ -129,6 +129,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Purifier](https://github.com/mewebstudio/purifier) - HTML filter
 * [Revisionable](https://github.com/VentureCraft/revisionable) - Create a revision history for Eloquent models
 * [SEOTools](https://github.com/artesaos/seotools) - Helpers for some common SEO techniques
+* [FilaRank](https://filarank.com) - SEO toolkit for Filament admin panels with live analysis, readability checks, and head tag rendering
 * [Page Cache](https://github.com/JosephSilber/page-cache) - Caches responses as static files on disk for lightning fast page loads
 * [Laravel Setting](https://github.com/anlutro/laravel-settings) - Persistent configuration settings that are stored in JSON files
 * [Friendship](https://github.com/hootlex/laravel-friendships) - Friendship management system
