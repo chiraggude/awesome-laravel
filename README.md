@@ -58,6 +58,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel Decomposer](https://github.com/lubusIN/laravel-decomposer) - List all installed packages, their dependencies, app & server details
 * [LaRecipe](https://github.com/saleem-hadad/larecipe) - Write gorgeous documentations for your products using Markdown inside your Laravel app.
 * [Prequel](https://github.com/Protoqol/Prequel/) - A clear and concise database management GUI tweaked for Laravel.
+* [Loupe for Laravel](https://github.com/loupekit/laravel) - Embeddable visual feedback: users pin comments to any element in your live app, you triage on a built-in Kanban dashboard, and Claude Code fixes them over MCP. Comments live in your own database, gated per user.
 
 ##### Testing & Debugging
 
