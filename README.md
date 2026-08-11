@@ -549,6 +549,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [CodeCanyon](https://codecanyon.net/tags/laravel?term=laravel) - Paid scripts and plugins
 * [Laravel Collections](https://laravelcollections.com) - Every Laravel Developers Goto Resource Site
 * [LaravelLinks](https://telegram.me/laravellinks) - A Telegram Channel dedicated to sharing great Laravel Resources
+* [ycon.cc](https://ycon.cc) - Search 300,000+ Iconify icons and copy ready-to-use code for React, Vue, Symfony, Next.js, Astro, Svelte, Angular, Laravel and more.
 
 ## Contributing
 
