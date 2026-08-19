@@ -261,6 +261,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel Pusher](https://github.com/vinkla/laravel-pusher) - Pusher API bridge
 
 ## Development Setup
+* [Govard](https://github.com/ddtcorex/govard) - Go-based local development orchestrator with Laravel auto-configuration, Xdebug integration, and Docker orchestration.
 
 * [Homestead](https://laravel.com/docs/master/homestead) - Official Vagrant box for Laravel
 * [Valet](https://laravel.com/docs/master/valet) - Development environment for Mac users
