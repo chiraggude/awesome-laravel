@@ -171,6 +171,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel Blade Javascript](https://github.com/spatie/laravel-blade-javascript) - A Blade directive to export variables to JavaScript
 * [Ziggy](https://github.com/tightenco/ziggy) - Use your Laravel named routes in JavaScript
 * [LiveWire](https://github.com/livewire/livewire) - A magical front-end framework for Laravel
+* [Slate](https://github.com/electrikhq/slate) - A shadcn-inspired Blade UI kit for Laravel with Tailwind CSS v4, dark mode, and Livewire-ready forms
 
 ##### Databases, ORMs, Migrations & Seeding
 
