@@ -147,6 +147,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel Nova](https://nova.laravel.com/) - Nova is a beautifully designed administration panel for Laravel
 * [Laravel Love](https://github.com/cybercog/laravel-love) - It lets people express how they feel about the content. React on Eloquent models with Likes or Dislikes.
 * [stancl/tenancy](https://github.com/stancl/tenancy) - Automatic tenancy for your Laravel app. No code changes needed.
+* [Volet](https://github.com/mydnic/volet) - Extensible customer feedback widget for Laravel, with a plugin system for adding features like feature boards or custom forms.
 
 ##### Media & Document Management
 
