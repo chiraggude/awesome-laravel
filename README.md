@@ -409,6 +409,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 ## Starter Projects
 
 * [Spark](https://spark.laravel.com/)
+* [Electrik](https://github.com/electrikhq/electrik) - Composer-package Laravel SaaS kit with auth, teams, Stripe billing, Livewire, and Slate UI
 * [LaraAdmin](https://github.com/dwijitsolutions/laraadmin)
 * [Grafite Builder](https://github.com/GrafiteInc/Builder)
 * [Laravel Boilerplate](https://github.com/rappasoft/laravel-5-boilerplate)
