@@ -47,6 +47,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 ##### Developer Tools
 
+* [DevOpsForge](https://devops-config-generator.vercel.app/laravel-docker-compose.html) - Free client-side Docker Compose, MySQL, and Caddy auto-SSL generator for Laravel.
 * [Scaffold Interface](https://github.com/amranidev/scaffold-interface) - A Smart CRUD Generator For Laravel
 * [IDE Helper](https://github.com/barryvdh/laravel-ide-helper) - Generates a helper file for IDE auto-completion
 * [Laravel 5 Extended Generators](https://github.com/laracasts/Laravel-5-Generators-Extended) - Extends built-in file generators
