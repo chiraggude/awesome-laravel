@@ -253,6 +253,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 ##### Third-party Service Integration
 
+* [Connect Media for Laravel](https://github.com/connectmedia-ke/connectmedia-laravel) - Send SMS and SMS notifications to Kenyan (Safaricom, Airtel, Telkom) and international numbers
 * [Laravel Analytics](https://github.com/spatie/laravel-analytics) - Retrieve pageviews and other data from Google Analytics
 * [Laravel DigitalOcean](https://github.com/GrahamCampbell/Laravel-DigitalOcean) - DigitalOceanV2 bridge
 * [Laravel GitHub](https://github.com/GrahamCampbell/Laravel-GitHub) - PHP GitHub API bridge
