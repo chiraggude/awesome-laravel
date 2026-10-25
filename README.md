@@ -219,6 +219,10 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Mix](https://github.com/JeffreyWay/laravel-mix) - Fluent API for defining basic webpack build steps
 * [Envoy](https://github.com/laravel/envoy) - SSH Task Runner
 
+##### Queues
+
+* [Rabbit RS](https://github.com/Goopil/php-rabbit-rs) - Laravel queue driver backed by a native Rust RabbitMQ runtime with at-least-once delivery
+
 ##### Payments
 
 * [Cashier](https://github.com/laravel/cashier) - Subscription billing with Stripe
