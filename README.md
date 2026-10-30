@@ -446,6 +446,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Vuedo](https://github.com/Vuedo/vuedo) - Vuedo is blog platform, built with Laravel and Vue.js
 * [Screeenly](https://github.com/stefanzweifel/screeenly) - Create website screenshots through an API
 * [Voten](https://github.com/voten-co/voten) - A real-time social bookmarking for the 21st century
+* [Relaticle](https://github.com/relaticle/relaticle) - Open-source CRM with a built-in MCP server for Claude, ChatGPT and other agents
 * [Monica](https://github.com/monicahq/monica) - Personal relationship management system
 * [Snipe-IT](https://github.com/snipe/snipe-it) - IT asset/license management system
 * [Akaunting](https://github.com/akaunting/akaunting) - Accounting software for small businesses and freelancers
