@@ -222,6 +222,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 ##### Payments
 
 * [Cashier](https://github.com/laravel/cashier) - Subscription billing with Stripe
+* [Invoicycle](https://invoicycle.com/) - Free online recurring billing, automated invoice generation, and client payment portal
 * [Omnipay for Laravel](https://github.com/ignited/laravel-omnipay) - Integrate the [Omnipay](https://github.com/thephpleague/omnipay) PHP library
 
 ##### Optimization
