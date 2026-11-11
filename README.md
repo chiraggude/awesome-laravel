@@ -272,6 +272,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Devilbox](https://github.com/cytopia/devilbox) - A dockerized and general-purpose LAMP/MEAN stack for every PHP version
 * [Vessel](https://vessel.shippingdocker.com) - Simple Docker development environments for Laravel
 * [Lando](https://docs.lando.dev/config/laravel.html) - A local development environment tool built on Docker
+* [DevCatz](https://github.com/catzoidhub/DevCatz) - Free, open-source local development environment for macOS, Windows and Linux: runs a Laravel app from its folder on https://*.localhost
 
 ## Application Hosting
 
