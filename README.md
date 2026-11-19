@@ -542,6 +542,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 * [Laravel Shift](https://laravelshift.com/) - Automated upgrade tool for Laravel projects
 * [Laravel Schema Designer](http://laravelsd.com/) - Create, export and share database schemas
+* [Mockatoo](https://mockatoo.globalunderdog.com) - Hosted mock OAuth provider for testing Socialite sign-in with Google, GitHub and six other providers, no provider apps needed
 * [StyleCI](https://styleci.io) - PHP Coding Style Service
 
 ## Miscellaneous
