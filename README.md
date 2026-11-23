@@ -272,6 +272,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Devilbox](https://github.com/cytopia/devilbox) - A dockerized and general-purpose LAMP/MEAN stack for every PHP version
 * [Vessel](https://vessel.shippingdocker.com) - Simple Docker development environments for Laravel
 * [Lando](https://docs.lando.dev/config/laravel.html) - A local development environment tool built on Docker
+* [Stratos](https://stratosapp.dev) - Native Swift macOS local development stack for Laravel & PHP 8.1–8.5 with wildcard .test HTTPS, Git worktree branch subdomains, Visual Tinker, ER diagrams, and Local AI MCP server
 
 ## Application Hosting
 
